@@ -46,7 +46,7 @@ abilities:
     cost: moderate mana cost.
     use_case: amplify healing during heavy damage phases.
   - name: Guardian Light
-    type: defensive cooldown
+    type: defensive
     cast_time: instant
     effect:
       - redirects 50% of damage taken by an ally to the healer for 5 seconds.
