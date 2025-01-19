@@ -49,16 +49,12 @@ motivations_and_fears:
     - Fear of losing people
     - Worry about letting down dependents
 
-combat_style_and_class:
-  class: Dawnbringer
-  abilities:
-    - Radiant Mend
-    - Luminous Renewal
-    - Guardian Light
-  combat_style: >
-    Deadly serious, focused on keeping the party alive. Values communication and takes charge in crises but can be overly cautious.
-
-social_and_interpersonal_dynamics:
+combat:
+  psychology:
+    typical_mental_state: Deadly serious, focused on keeping the party alive
+    group_dynamics: Values communication and takes charge in crises
+    weakness: Overly cautious
+interpersonal_characteristics:
   friendships:
     general: Warm but introverted, maintaining pleasant acquaintances
     childhood_friend: Grown distant due to responsibilities
@@ -86,8 +82,7 @@ strengths_and_weaknesses:
 key_emotional_beats:
   fear_of_attachment: >
     Initially tries to keep a professional relationship with Raven, afraid of attachment. Over time, grows closer and embraces connection.
-  growth_arc: >
-    Motivated by desire for a partner and family, pushes past fear and embraces challenges, balancing caution with boldness.
+growth_arc: "Motivated by desire for a partner and family, pushes past fear and embraces challenges, balancing caution with boldness."
 
 worldview:
   philosophy: >
