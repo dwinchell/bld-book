@@ -1,10 +1,6 @@
 act-1:
   title: "Setup"
   chapters:
-
-act-1:
-  title: "Setup"
-  chapters:
     - chapter: 1
       title: "Introduction to Raven"
       perspective: "Raven"
@@ -198,8 +194,9 @@ act-1:
 act-2:
   title: "Conflict and Growth"
   chapters:
+    - TBD
 
 act-3:
   title: "Resolution and Partnership"
   chapters:
-
+    - TBD
