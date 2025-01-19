@@ -1,0 +1,104 @@
+metadata:
+  type: book-outline
+  title: "Bound in Light and Darkness"
+
+acts:
+  - act: 1
+    title: "Setup"
+    purpose: >
+      Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
+      Establish the stakes for the dungeon dives and the emotional tension between Raven and Luke.
+    chapters:
+      - chapter: "Introduction to Raven"
+        file: "introduction-to-raven.yaml"
+        purpose: >
+          Raven struggles with soloing limits and her family’s expectations, leading to her decision to post a classified ad for a healer.
+        key-emotional-beats:
+          - "Frustration transitions into resolve as she takes steps to overcome her limitations."
+      - chapter: "The Healer’s Call"
+        file: "the-healers-call.yaml"
+        purpose: >
+          Introduce Luke’s cautious nature and motivations as he decides to partner with Raven.
+        key-emotional-beats:
+          - "Reluctance gives way to cautious curiosity about Raven and her bold style."
+      - chapter: "First Dive, First Impressions"
+        file: "first-dive-first-impressions.yaml"
+        purpose: >
+          Raven and Luke’s first dungeon dive showcases their contrasting styles and the challenges of working together.
+        key-emotional-beats:
+          - "Initial skepticism begins to give way to tentative trust as they start to understand each other."
+      - chapter: "Trust in Shadows"
+        file: "trust-in-shadows.yaml"
+        purpose: >
+          A mid-level ambush forces Raven and Luke to rely on each other, planting the seeds of trust and respect.
+        key-emotional-beats:
+          - "The beginnings of mutual admiration through teamwork."
+          - "Raven realizes that her independence doesn’t have to come at the cost of partnership."
+      - chapter: "Through the Veil"
+        file: "through-the-veil.yaml"
+        purpose: >
+          Raven and Luke navigate a puzzle room that requires their contrasting strengths, highlighting their potential as a team.
+        key-emotional-beats:
+          - "Frustration transforms into grudging admiration as they successfully solve the puzzle together."
+      - chapter: "The First Victory"
+        file: "the-first-victory.yaml"
+        purpose: >
+          Raven and Luke face their first boss together, cementing their camaraderie through a shared sense of accomplishment.
+        key-emotional-beats:
+          - "The first signs of mutual enjoyment in working together and a shared sense of accomplishment."
+          - "Raven’s subtle invitation hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
+      - chapter: "The Invitation"
+        file: "the-invitation.yaml"
+        purpose: >
+          Raven and Luke share a drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
+        key-emotional-beats:
+          - "The growing chemistry between Raven and Luke is palpable, though both hold back their vulnerabilities."
+
+  - act: 2
+    title: "Conflict and Growth"
+    purpose: >
+      Develop Raven and Luke’s partnership as they face external challenges and internal conflicts, leading to mutual growth.
+      Highlight their evolving dynamic as trust deepens and tension arises from their contrasting personalities and pasts.
+    chapters:
+      - chapter: "A Dangerous Dive"
+        file: "a-dangerous-dive.yaml"
+        purpose: >
+          Raven and Luke’s partnership is tested in a high-stakes dungeon scenario, forcing them to rely on each other.
+        key-emotional-beats:
+          - "Tension rises as their contrasting approaches create conflict under pressure."
+          - "A near-death experience forces Raven and Luke to open up to each other."
+      - chapter: "Setbacks and Growth"
+        file: "setbacks-and-growth.yaml"
+        purpose: >
+          Personal setbacks highlight their flaws, pushing them to confront their fears and grow as individuals and partners.
+        key-emotional-beats:
+          - "Raven’s independence hinders teamwork, creating friction."
+          - "Luke’s fear of loss causes hesitation, putting them at risk."
+      - chapter: "Deepening Bonds"
+        file: "deepening-bonds.yaml"
+        purpose: >
+          Bonding moments deepen their connection, building trust and romantic tension.
+        key-emotional-beats:
+          - "Raven begins to see Luke’s caution as a strength."
+          - "Luke admires Raven’s boldness, recognizing how it inspires him to take calculated risks."
+
+  - act: 3
+    title: "Resolution"
+    purpose: >
+      Resolve Raven and Luke’s conflicts, showing how their partnership allows them to overcome challenges and grow as individuals.
+      Conclude with a climactic dungeon dive that solidifies their bond and establishes their future as partners.
+    chapters:
+      - chapter: "The Final Dive"
+        file: "the-final-dive.yaml"
+        purpose: >
+          A climactic dungeon dive tests their teamwork, trust, and emotional growth.
+        key-emotional-beats:
+          - "Luke risks everything to save Raven, overcoming his fear of loss."
+          - "Raven embraces vulnerability, realizing the strength in relying on others."
+      - chapter: "Victory and Partnership"
+        file: "victory-and-partnership.yaml"
+        purpose: >
+          Raven and Luke emerge victorious, solidifying their bond and establishing a shared vision for their future.
+        key-emotional-beats:
+          - "A shared victory cements their trust and romantic connection."
+          - "Both find meaning in their partnership, embracing growth and mutual support."

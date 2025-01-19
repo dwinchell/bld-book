@@ -1,0 +1,66 @@
+metadata:
+  type: chapter-outline
+  title: "Introduction to Raven"
+  file: "introduction-to-raven.yaml"
+
+overview:
+  purpose: >
+    Raven struggles with soloing limits and her family’s expectations, leading to her decision to post a classified ad for a healer.
+  key-emotional-beats:
+    - "Frustration transitions into resolve as she takes steps to overcome her limitations."
+  pacing:
+    min-words: 3000
+    max-words: 3500
+  transition-notes: >
+    The chapter ends with Raven posting the classified ad, leading into Luke’s decision to respond in Chapter 2.
+
+scenes:
+  - scene-1:
+      purpose: "Show Raven’s frustration with solo diving and introduce her personality and motivations."
+      events:
+        - "Raven flips through dungeon notifications, reflecting on her recent failures and inability to solo efficiently."
+        - "She inspects her gear, feeling a mix of restlessness and determination."
+        - "Raven reflects on her parents’ gift, the raven necklace, as a symbol of courage and freedom."
+      pacing:
+        min-words: 800
+        max-words: 1000
+      sensory-details:
+        - "Dim lighting filters through heavy curtains, casting shadows on her industrial decor."
+        - "The faint hum of notifications punctuates the otherwise quiet room."
+        - "The cool weight of her raven necklace grounds her as she flips through her gear."
+      transition-notes: "Raven’s growing irritation transitions into her mom’s interruption about the charity gala."
+      ending-style: "Emotional reflection—Raven’s growing irritation and determination to move forward."
+
+  - scene-2:
+      purpose: "Introduce Raven’s family expectations through her mom’s reminder about the charity gala."
+      events:
+        - "Raven’s mom knocks on her door, interrupting her thoughts about diving."
+        - "Her mom reminds her about the upcoming gala and emphasizes its importance for their family’s image."
+        - "Raven reacts with visible frustration but reluctantly agrees to attend while internally resisting the obligation."
+      pacing:
+        min-words: 900
+        max-words: 1100
+      sensory-details:
+        - "The sound of a soft knock and her mother’s calm, firm tone."
+        - "Raven’s sharp sigh and impatient tapping of her fingers on her desk."
+        - "The glow of notifications reflecting on her face as she listens with growing frustration."
+      transition-notes: >
+        Raven’s reluctant agreement sets up her resolve to find a healer as an escape from family pressures.
+      ending-style: "Frustration—Raven’s simmering resentment as she contemplates an escape from the expectations placed on her."
+
+  - scene-3:
+      purpose: "Introduce Raven’s classified ad and her anticipation of finding a healer."
+      events:
+        - "A system chime breaks Raven’s thoughts, prompting her to check her notifications."
+        - "She reviews Luke Calloway’s profile and accepts him as her healer."
+        - "Raven gears up for the dive, performing her grounding ritual with her necklace."
+      pacing:
+        min-words: 700
+        max-words: 900
+      sensory-details:
+        - "The crisp chime of the System notification breaks the silence."
+        - "Raven’s eyes scan the glowing interface, her brow furrowing in concentration."
+        - "The soft rustle of her gear and the cool shimmer of her cloth armor as she prepares for the dive."
+      transition-notes: >
+        Raven’s acceptance of Luke sets the stage for their first meeting in the next chapter.
+      ending-style: "Anticipation—Raven’s determination to overcome her soloing wall grows as she prepares to meet her new healer."
