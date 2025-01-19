@@ -72,6 +72,49 @@ narrative-guide:
         A cautious, pragmatic healer diving to support his family, burdened by fear of loss and attachment.
         His arc centers on embracing risk and finding balance between responsibility and personal happiness.
 
+  subplots:
+    - title: "Raven's Family Expectations"
+      description: >
+        Raven’s parents, who believe in "noblesse oblige," want her to do something significant with her life.
+        They encourage her to form a guild or start a dungeon-related business to channel her passion for diving into societal contribution.
+      relevance:
+        - "Highlights Raven’s internal conflict between personal freedom and family expectations."
+        - "Explores themes of trust, vulnerability, and growth through contrasting perspectives."
+      key-moments:
+        - "Raven reluctantly agrees to attend the charity gala her family is hosting."
+        - "Luke helps Raven navigate the event, offering insights that make her rethink her relationship with her parents."
+        - "Raven confronts her parents during a family dinner, expressing her frustration with their expectations."
+        - "Raven later considers her parents’ perspective and finds a way to merge her individuality with meaningful contributions."
+
+    - title: "Luke’s Fear of Attachment"
+      description: >
+        Luke struggles with a deep fear of loss, stemming from his parents’ death and his sense of responsibility for his sister.
+        His reluctance to form close bonds is challenged as he partners with Raven.
+      relevance:
+        - "Develops Luke’s character arc, moving from guarded to open and willing to trust."
+        - "Explores themes of interdependence and growth through partnership."
+      key-moments:
+        - "Luke hesitates to take on Raven’s ad but agrees out of necessity."
+        - "Their growing bond is tested during a near-death encounter in the dungeon."
+        - "Luke reflects on how Raven’s courage inspires him to confront his fears."
+        - "Luke finally lets go of his reluctance, embracing his role as her partner both in and out of the dungeon."
+
+    - title: "The Charity Gala"
+      description: >
+        The gala is a critical setting where Raven’s family pressures, societal expectations, and her partnership with Luke intersect.
+        It provides a stage for character growth and deepening bonds between the protagonists.
+      relevance:
+        - "Serves as a turning point for Raven and Luke’s relationship."
+        - "Highlights Raven’s discomfort with societal norms and her family’s world."
+        - "Showcases Luke’s ability to ground and support Raven in high-pressure situations."
+      key-moments:
+        - "Raven debates skipping the event but ultimately decides to attend with Luke’s encouragement."
+        - "At the gala, Luke impresses Raven’s parents with his grounded nature, creating subtle tension and admiration."
+        - "Raven’s impulsive behavior at the event sparks a confrontation with her parents."
+        - "Luke mediates, helping Raven and her parents find common ground while strengthening his bond with Raven."
+
+
+
   character-arcs:
     Raven:
       initial-state:
