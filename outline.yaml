@@ -8,7 +8,7 @@ act-1:
     - chapter: 1
       title: "Introduction to Raven"
       perspective: "Raven"
-      characters: [Raven, Mom, Luke]
+      characters: [Raven, Mom]
       events:
         - description: >
             Raven is in her gothic, fabulously decorated bedroom, restless and flipping through dungeon notifications
@@ -22,15 +22,23 @@ act-1:
             Raven’s raven necklace, a gift from her parents, is introduced. It symbolizes freedom, flight, and courage,
             and is a grounding ritual for her dives.
         - description: >
-            Raven’s mom knocks on her door to remind her about a family dinner she promised to attend but plans to skip.
-            The dialogue shows her parents' supportive nature and Raven’s rebellious streak.
-          emotional_beat: "Tension between family expectations and Raven’s obsession with diving."
+            Raven’s mom knocks on her door to remind her about the upcoming **charity gala** in a few days,
+            emphasizing its importance for the family’s image and her need to attend.
+          sensory_details: >
+            The sound of a soft knock, her mother’s calm but firm tone, and Raven’s begrudging response.
+          emotional_beat: >
+            Frustration at being dragged into a formal event that feels disconnected from her passions.
         - description: >
-            Raven reflects on how her family doesn’t understand her obsession but continues to support her financially for now.
+            Her mom briefly explains that the gala supports families affected by dungeon casualties, framing it as an important
+            occasion for both social networking and charitable contribution.
+          emotional_beat: >
+            Raven’s frustration grows as she feels the pressure to attend, despite having no interest in the event itself.
         - description: >
-            Raven recalls her expulsion from the academy, showing both defiance and a hint of regret. She considers how her
-            former friends no longer dive seriously, leaving her isolated in her passion.
-          emotional_beat: "Conflict between her rebellious nature and feelings of isolation."
+            Her mom insists that Raven’s presence will be a show of family solidarity and a way to maintain their status in the community.
+        - description: >
+            Raven, internally resistant, reluctantly agrees to attend the gala, though she plans to find a way to escape the formalities.
+          emotional_beat: >
+            A sense of reluctant obligation, with a simmering frustration at the idea of her time being monopolized by this event.
         - description: >
             A system chime breaks Raven’s thoughts, prompting her to open her notifications.
         - description: >
@@ -106,45 +114,92 @@ act-1:
             Raven’s excitement contrasts with Luke’s careful preparation as they step into the dungeon together.
           emotional_beat: >
             Luke’s focused determination and readiness to adapt as the dungeon’s system notification rings out.
+    - chapter: 3
+      title: "First Dive, First Impressions"
+      perspective: "Raven"
+      characters: [Raven, Luke]
+      events:
+        - description: >
+            The Shadow Warrens dungeon is introduced with its eerie and unpredictable layout.
+        - description: >
+            Raven takes the lead with her bold style, trying to assess Luke’s capability as they move through initial challenges.
+        - description: >
+            Luke steps in during a spike damage event, demonstrating his cautious and calculated healing style.
+        - description: >
+            Tension arises as Raven's instinctive and aggressive tactics clash with Luke's deliberation.
+          emotional_beat: "Mutual skepticism but growing curiosity about each other’s approach."
+          sensory_details: >
+            Flickering shadows, the metallic tang of the air, and the rhythmic sound of their footsteps.
+    - chapter: 4
+      title: "Trust in Shadows"
+      perspective: "Luke"
+      characters: [Luke, Raven]
+      events:
+        - description: >
+            A mid-level ambush challenges their teamwork; Luke's protective magic saves Raven from an unexpected attack.
+        - description: >
+            Raven reluctantly acknowledges Luke’s value as a partner while trying to maintain her independence.
+        - description: >
+            Luke reflects on his role as the party’s grounding presence and how Raven’s unpredictability pushes him to think on his feet.
+          emotional_beat: "Initial seeds of trust and respect begin to form between them."
+          sensory_details: >
+            The rush of adrenaline, glowing spells illuminating the darkness, and Raven’s quiet, sharp exhalation of relief.
+    - chapter: 5
+      title: "Through the Veil"
+      perspective: "Raven"
+      characters: [Raven, Luke]
+      events:
+        - description: >
+            They navigate a puzzle room that requires precision and timing. Raven’s agility and Luke’s strategic thinking complement each other.
+        - description: >
+            A brief argument highlights their clashing worldviews: Raven’s thrill-seeking versus Luke’s methodical caution.
+          emotional_beat: >
+            Frustration transforms into grudging admiration as they successfully solve the puzzle together.
+          sensory_details: >
+            The creak of mechanisms, faint whispers in the air, and the dim glow of runes activating.
+    - chapter: 6
+      title: "The First Victory"
+      perspective: "Luke"
+      characters: [Luke, Raven]
+      events:
+        - description: >
+            They face the first boss, a shadow beast with ambush mechanics.
+        - description: >
+            Luke’s resourcefulness in healing and shielding balances Raven’s daring, leading to a hard-fought victory.
+        - description: >
+            Post-fight, Raven jokes about her “solo win” while Luke responds with dry humor, cementing their growing camaraderie.
+          emotional_beat: >
+            The first signs of mutual enjoyment in working together and a shared sense of accomplishment.
+          sensory_details: >
+            The roar of the beast, the crash of spells, and the satisfying silence after victory.
+        - description: >
+            As they exit the dungeon, Raven casually suggests grabbing a celebratory drink, flashing a wry smile that leaves Luke momentarily unsure of how to respond.
+          emotional_beat: >
+            A subtle shift in their dynamic as Raven’s invitation hints at deeper interest, leaving readers wondering how Luke will react.
+          sensory_details: >
+            The crisp night air, the faint glow of streetlights, and Raven’s shadowy silhouette standing confidently at the entrance.
+
+    - chapter: 7
+      title: "The Invitation"
+      perspective: "Luke"
+      characters: [Luke, Raven]
+      events:
+        - description: >
+            Luke hesitates but agrees to join Raven for a drink, torn between staying professional and indulging in a rare moment of relaxation.
+        - description: >
+            At a nearby pub, Raven’s bold personality shines as she teases Luke, who slowly starts to open up.
+        - description: >
+            Their conversation shifts between playful banter and meaningful glimpses into their pasts, deepening their bond.
+          emotional_beat: >
+            The growing chemistry between Raven and Luke is palpable, but both still hold back their vulnerabilities.
+          sensory_details: >
+            The warm hum of the pub, clinking glasses, and the flickering glow of candlelight creating an intimate atmosphere.
 
 act-2:
   title: "Conflict and Growth"
   chapters:
-    - chapter: 5
-      title: "The First Encounter"
-      events:
-        - "Raven’s impulsive nature clashes with Luke’s cautious approach during their first major combat."
-        - "A minor mistake by Raven nearly leads to disaster, but Luke’s quick thinking saves them."
-        - "They begin to recognize each other’s strengths but remain at odds over their differing strategies."
-    - chapter: 6
-      title: "A Close Call"
-      events:
-        - "Raven faces a near-death experience during a high-stakes fight."
-        - "Luke’s fear of losing her resurfaces, making him question whether he can continue diving with her."
-        - "Raven confronts him with her philosophy: 'There’s no point in living like you’re already dead.'"
-    - chapter: 7
-      title: "Trust in Battle"
-      events:
-        - "Raven and Luke start adapting to each other’s combat styles, learning to anticipate each other’s moves."
-        - "They work together to defeat a tough boss, showcasing their evolving teamwork and mutual respect."
 
 act-3:
   title: "Resolution and Partnership"
   chapters:
-    - chapter: 8
-      title: "Luke’s Sacrifice"
-      events:
-        - "Luke makes a split-second decision to save Raven at great personal risk, cementing their trust in each other."
-        - "Raven recognizes the depth of Luke’s dedication, and their bond deepens further."
-    - chapter: 9
-      title: "Unstoppable Together"
-      events:
-        - "Their teamwork becomes seamless as they tackle increasingly difficult dungeon content."
-        - "Raven reflects on the meaning of living life to the fullest and realizes it includes sharing epic moments with someone she trusts."
-        - "Luke learns to embrace calculated risks and sees diving as more than a necessity, but as a shared purpose."
-    - chapter: 10
-      title: "A New Beginning"
-      events:
-        - "Raven and Luke reach a major milestone in their diving careers, symbolizing their growth as individuals and as a team."
-        - "The story ends with them planning their next dive together, ready to face whatever challenges come their way."
 
