@@ -53,6 +53,65 @@ act-1:
             the misunderstanding. Their exchange establishes their contrasting styles and sets up their dynamic.
           emotional_beat: "Introduction of contrasting personalities and a subtle challenge between them."
 
+    - chapter: 2
+      title: "The Healer’s Call"
+      perspective: "Luke"
+      characters: [Luke, Raven]
+      events:
+        - description: >
+            Luke wakes up in his modest apartment, beginning his pre-dive routine with stretches to loosen his muscles and clear his mind.
+            His practical, no-frills lifestyle is evident in the simple, tidy surroundings.
+          sensory_details: >
+            The rhythmic creak of wooden floorboards, the sight of a scuffed but sturdy table, and the quiet stillness of the apartment.
+          emotional_beat: >
+            A mix of calm methodical preparation and underlying worry about his responsibilities.
+        - description: >
+            Luke notices his guitar resting in the corner, a reminder of moments of peace he hasn’t had time for lately.
+          emotional_beat: >
+            Quiet longing for personal fulfillment amidst his constant focus on survival.
+        - description: >
+            Luke reviews his income and expenses in a notebook, calculating how many more dives are needed to meet his family’s needs.
+          emotional_beat: >
+            Pride in providing for his family, balanced with pressure and fear of letting them down.
+        - description: >
+            Luke reflects on his family—his thriving younger sister Anna and his aging but sharp grandparents—feeling pride but also the weight of their dependence on him.
+        - description: >
+            The familiar system chime interrupts his thoughts, alerting him to a match for his classified ad.
+        - description: >
+            Luke reviews Raven Blackwood’s ad for a healer and her profile, noting her impressive stats and achievements but raising concerns about her status as a solo diver.
+          emotional_beat: >
+            Hesitation about accepting the job due to potential recklessness, countered by intrigue and a need for work.
+        - description: >
+            At the staging area, Luke arrives early as usual, observing the mix of adventurers preparing for their dives.
+          sensory_details: >
+            The clinking of gear, quiet strategizing, and a bustling atmosphere of anticipation.
+        - description: >
+            Luke notices Raven, her all-black attire and gothy aesthetic making her stand out. He observes her confident posture and restless energy.
+          emotional_beat: >
+            Curiosity mixed with suspicion about her solo approach and determination.
+        - description: >
+            Raven approaches Luke and casually asks if he’s waiting for a healer, leading to a brief but telling exchange that highlights their contrasting personalities.
+          emotional_beat: >
+            Amusement and curiosity from Luke as he observes Raven’s fiery demeanor and her resistance to being wrong.
+        - description: >
+            Their initial conversation reveals Raven’s bold, adaptable approach and Luke’s preference for caution and strategy, setting up tension in their dynamic.
+          emotional_beat: >
+            Frustration from Luke at Raven’s casual attitude, but he resolves to adapt and watch her closely.
+
+    - chapter: 3
+      title: "Into the Shadows"
+      perspective: "Luke"
+      characters: [Luke, Raven]
+      events:
+        - description: >
+            At the dungeon entrance, Luke double-checks his gear and takes a moment to center himself, his healer instincts on high alert.
+          sensory_details: >
+            The chill of the dungeon air, the oppressive atmosphere, and the weight of the task ahead.
+        - description: >
+            Luke and Raven step into the Shadowed Warrens together, the system announcing the dungeon’s difficulty and threat level.
+          emotional_beat: >
+            Luke’s mix of focused determination and unease, balanced by his curiosity about Raven’s confidence.
+
 act-2:
   title: "Conflict and Growth"
   chapters:
