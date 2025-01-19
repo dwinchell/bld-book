@@ -1,18 +1,21 @@
 type: story-description
 name: story-description
-metadata:
-  protagonist_style: Dual Protagonists
-  protagonists:
-    - Luke
-    - Raven
-  themes:
-    - Romance
-    - Love in Conflict
-    - Trust and Vulnerability
-  general_plan:
-    - Luke and Raven will fall in love.
-    - They will help each other grow. Raven will learn to trust others more by relying on them, being willing to be vulnerable with them, and allowing them to protect her. Luke will learn to accept that those he loves are vulnerable. He will learn to trust others by accepting that they do not always need his protection and nurturing, and to allow them to protect and nurture him too.
-  
+
+protagonist_style: Dual Protagonists
+protagonists:
+  - Luke
+  - Raven
+
+themes:
+  - Trust and vulnerability in relationships.
+  - Growth through contrasting perspectives.
+  - The pursuit of meaning and self-discovery.
+
+goals:
+  - Establish a strong romantic and emotional connection between Raven and Luke.
+  - Show their personal growth arcs (Raven learns to trust and rely on others; Luke learns to take calculated risks and embrace vulnerability).
+  - Tie their growth into their progression as dungeon divers.
+
 backstory-events:
   - title: "System Integration Event"
     year: 2000
@@ -29,28 +32,6 @@ backstory-events:
       Raven grows up in a wealthy, supportive family but often rebels against their healthy boundaries.
       She’s expelled from a prestigious diving academy for repeatedly breaking rules in her thrill-seeking pursuit.
       Recently, she hits a wall in solo diving, struggling with group-level content and realizing she needs a healer.
-
-story-outline-events:
-    - title: "Raven Places a Classified Ad"
-      year: 2025
-      details: >
-        Raven uses the System’s matchmaking service to post an ad seeking a healer.
-        She offers a generous amount of credits, knowing her reputation as a reckless solo diver may deter some healers.
-    - title: "Luke Accepts the Ad"
-      details: >
-        Luke reviews the ad, noticing Raven’s strong solo achievements and risky tendencies.
-        He hesitates briefly but ultimately accepts, intrigued by the challenge and needing the income.
-    - title: "The Staging Area Encounter"
-      details: >
-        Both Raven and Luke arrive separately at a common staging area for divers.
-        They wait without recognizing each other, assuming their healer or tank hasn’t arrived yet.
-        As the area clears, Raven casually asks Luke, “Are you waiting for a healer too?”
-        Realizing the misunderstanding, they introduce themselves, setting the stage for their partnership.
-    - title: "Preparation and First Dive"
-      details: >
-        They agree to tackle The Shadowed Warrens, a moderately difficult dungeon.
-        Raven’s excitement contrasts with Luke’s cautious approach, creating subtle tension.
-        The chapter ends with the system notification: “Entering The Shadowed Warrens. Difficulty: Moderate. Threat Level: Unknown.”
 
 planned-story-beats:
     - title: "A Close Call for Raven"
