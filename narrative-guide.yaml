@@ -1,0 +1,78 @@
+type: narrative-guide
+name: bld
+title: "Bound in Light and Darkness"
+short-title: "BLD"
+narrative-guide:
+  themes:
+    - "Trust and vulnerability in relationships."
+    - "The pursuit of meaning and self-discovery."
+    - "Balancing independence and interdependence."
+    - "Growth through contrasting perspectives."
+  goals:
+    narrative-goals:
+      - "Showcase a compelling romance that develops through teamwork and shared challenges."
+      - "Explore themes of personal growth and mutual support in high-stakes scenarios."
+      - "Balance emotional intimacy with the action and tension of dungeon dives."
+    structural-goals:
+      - "Maintain clear pacing and escalation of stakes across the narrative."
+      - "Ensure that each major event contributes to character growth or theme development."
+    chapter-goals:
+      - "Each chapter should move both the plot and the relationship forward."
+      - "Reflect the overarching themes in the events and character decisions."
+  narrative-structure:
+    type: "Three-Act Structure"
+    acts:
+      - name: "Act 1: Setup"
+        purpose: >
+          Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
+        key-events:
+          - Raven and Luke meet through the System's matchmaking service.
+          - Their contrasting personalities and styles create tension and friction.
+          - Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth.
+      - name: "Act 2: Conflict and Growth"
+        purpose: >
+          Develop their partnership as they face external challenges and internal conflicts, leading to mutual growth.
+        key-events:
+          - A dangerous dungeon dive forces them to rely on each other.
+          - Personal setbacks highlight their flaws: Raven’s independence hinders teamwork, and Luke’s fear of loss creates hesitation.
+          - Bonding moments deepen their connection, building trust and romantic tension.
+      - name: "Act 3: Resolution"
+        purpose: >
+          Resolve their conflicts, showing how their partnership allows them to overcome challenges and grow as individuals.
+        key-events:
+          - A climactic dungeon dive tests their teamwork and trust.
+          - Luke risks everything to save Raven, overcoming his fear of loss.
+          - Raven embraces vulnerability, realizing the strength in relying on others.
+          - They emerge victorious, solidifying their bond and future as partners.
+
+  character-arcs:
+    Raven:
+      initial-state:
+        - "Thrill-seeking, rebellious, and fiercely independent."
+        - "Views reliance on others as weakness."
+      growth:
+        - "Learns to trust and rely on Luke without losing her individuality."
+        - "Finds deeper meaning in shared victories and connections."
+      resolution:
+        - "Embraces partnership, realizing that true strength includes vulnerability."
+    Luke:
+      initial-state:
+        - "Cautious, pragmatic, and burdened by fear of loss."
+        - "Keeps relationships at arm’s length to avoid attachment."
+      growth:
+        - "Learns to take calculated risks and trust in others’ resilience."
+        - "Finds balance between responsibility and personal happiness."
+      resolution:
+        - "Overcomes fear of loss, committing fully to Raven and their shared goals."
+
+  key-emotional-beats:
+    - "Raven reflects on her fear of mediocrity and her longing for meaning."
+    - "Luke struggles with the pressure of supporting his family and his fear of attachment."
+    - "A near-death experience forces Raven and Luke to open up to each other."
+    - "A shared victory cements their trust and romantic connection."
+
+  decision-guidance:
+    - "Ensure each chapter advances both the relationship and the plot."
+    - "Every major action or decision should reflect the characters’ growth arcs or thematic elements."
+    - "Use external conflicts (e.g., dungeon dives) to mirror and amplify internal conflicts."
+

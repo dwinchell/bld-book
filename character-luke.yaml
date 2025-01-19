@@ -1,10 +1,8 @@
-
 type: character
 name: Luke Calloway
 class: Dawnbringer
 nationality: American
-description: >
-  Here’s a comprehensive description of **Luke Calloway**:
+
 at-start-of-story:
   level: 20
   age: 26

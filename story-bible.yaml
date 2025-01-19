@@ -1,0 +1,75 @@
+title: "Bound in Light and Darkness"
+short-title: "BLD"
+story-bible:
+  worldbuilding:
+    system:
+      description: >
+        A mysterious artifact granting humans access to dungeons, adventuring classes, and rewards. 
+        It integrates seamlessly with daily life but has enigmatic rules.
+      key-features:
+        - "Technology such as guns and computers do not function inside dungeons."
+        - "System notifications guide matchmaking, achievements, and dungeon mechanics."
+        - "Credits earned in dungeons can be converted into Earth currency or goods."
+      origins: >
+        The System appeared suddenly in 2000, reshaping society and creating opportunities for adventurers (or divers).
+    dungeons:
+      description: >
+        Dangerous, ever-changing environments filled with traps, monsters, and treasures.
+      key-details:
+        - "High mortality rate (80% of divers die in their first 5 years)."
+        - "Permadeath—dying in the dungeon is permanent."
+        - "Content difficulty scales with level and teamwork is essential for advanced levels."
+        - "Rewards include credits, gear, and experience for leveling up."
+    society:
+      economic-impact: >
+        Dungeon diving has become a lucrative career for thrill-seekers and those in financial need.
+      cultural-impact: >
+        The System and dungeons have reshaped society, creating a divide between divers and civilians.
+      social-attitudes:
+        - "Divers are admired for their bravery but often seen as reckless or desperate."
+        - "The System has become a normalized part of life, with terminals in most major cities."
+
+  characters:
+    - name: "Raven Blackwood"
+      class: "Night Dancer"
+      summary: >
+        A rebellious, thrill-seeking diver from a wealthy family. She struggles with trust and seeks meaning in her dives.
+      details-file: "character-raven.yaml"
+    - name: "Luke Calloway"
+      class: "Dawnbringer"
+      summary: >
+        A cautious healer diving to support his family. His nurturing nature hides a fear of loss and attachment.
+      details-file: "character-luke.yaml"
+
+  mechanics:
+    classes:
+      - name: "Night Dancer"
+        summary: >
+          An agile, shadow-infused tank who generates Flow through precision and deliberate actions.
+        details-file: "class-nightdancer.yaml"
+      - name: "Dawnbringer"
+        summary: >
+          A light-based healer specializing in high-output, reactive healing and protective magic.
+        details-file: "class-dawnbringer.yaml"
+
+  key-dungeons:
+    - name: "The Shadowed Warrens"
+      difficulty: "Moderate"
+      description: >
+        A labyrinthine dungeon with unpredictable layouts, ambushes, and shadow-infused monsters.
+      threats:
+        - "Traps requiring precision and timing."
+        - "Ambushes from shadow beasts."
+      rewards:
+        - "Shadow-touched gear and medium-tier credits."
+
+  story-elements:
+    emotional-beats:
+      - "Raven reflects on her fear of mediocrity and desire for meaning."
+      - "Luke grapples with the pressure of responsibility and his fear of attachment."
+    recurring-motifs:
+      - "Light and darkness as symbols of their contrasting personalities and mutual growth."
+      - "Necklaces as symbols of grounding and personal meaning."
+    tone:
+      - "Dynamic mix of tension, introspection, and emotional intimacy."
+
