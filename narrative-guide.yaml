@@ -109,42 +109,40 @@ narrative-dynamics:
       description: >
         Raven’s parents, who believe in "noblesse oblige," want her to do something significant with her life.
         They encourage her to form a guild or start a dungeon-related business to channel her passion for diving into societal contribution.
-      relevance:
-        - "Highlights Raven’s internal conflict between personal freedom and family expectations."
-        - "Explores themes of trust, vulnerability, and growth through contrasting perspectives."
-      key-moments:
-        - "Raven reluctantly agrees to attend the charity gala her family is hosting."
-        - "Luke helps Raven navigate the event, offering insights that make her rethink her relationship with her parents."
-        - "Raven confronts her parents during a family dinner, expressing her frustration with their expectations."
-        - "Raven later considers her parents’ perspective and finds a way to merge her individuality with meaningful contributions."
+      drafting-objectives:
+        - "Show Raven’s tension with her parents through dialogue, actions, and their expectations for her future."
+        - "Use family pressures as a recurring source of conflict that impacts Raven’s personal decisions and relationship with Luke."
+        - "Illustrate Raven’s growth as she begins to reconcile her individuality with her family’s values."
+      progression:
+        act-1:
+          - "Introduce the family dynamic and their expectations for Raven."
+          - "Raven’s mom reminds her about the upcoming charity gala, framing it as an important family obligation."
+        act-2:
+          - "Raven reluctantly invites Luke to attend the gala with her, setting up the stage for the event."
+          - "Set piece: At the gala, tensions between Raven and her parents come to a head, with Luke helping her navigate the situation."
+        act-3:
+          - "Raven reflects on the gala and begins to understand how her parents’ ideals align with her own goals."
+          - "She reconciles with her parents, finding a way to merge her individuality with their values."
 
     - title: "Luke’s Fear of Attachment"
       description: >
         Luke struggles with a deep fear of loss, stemming from his parents’ death and his sense of responsibility for his sister.
         His reluctance to form close bonds is challenged as he partners with Raven.
-      relevance:
-        - "Develops Luke’s character arc, moving from guarded to open and willing to trust."
-        - "Explores themes of interdependence and growth through partnership."
-      key-moments:
-        - "Luke hesitates to take on Raven’s ad but agrees out of necessity."
-        - "Their growing bond is tested during a near-death encounter in the dungeon."
-        - "Luke reflects on how Raven’s courage inspires him to confront his fears."
-        - "Luke finally lets go of his reluctance, embracing his role as her partner both in and out of the dungeon."
+      drafting-objectives:
+        - "Show Luke’s fear of attachment through his cautious decisions and emotional distance."
+        - "Use Raven’s boldness and trust-building moments to challenge Luke’s emotional walls."
+        - "Illustrate Luke’s growth as he embraces vulnerability and learns to trust Raven as a partner."
+      progression:
+        act-1:
+          - "Introduce Luke’s fear of attachment through his cautious approach to diving and guarded interactions with Raven."
+          - "Establish the emotional burden of his responsibility for his sister as a key motivator for his reluctance to trust others."
+        act-2:
+          - "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
+          - "Raven’s willingness to trust Luke challenges him to reciprocate and open up emotionally."
+        act-3:
+          - "Luke faces a climactic moment where he must risk everything to save Raven, symbolizing his emotional breakthrough."
+          - "He fully embraces the partnership, recognizing the strength in interdependence and trust."
 
-    - title: "The Charity Gala"
-      description: >
-        The gala is a critical setting where Raven’s family pressures, societal expectations, and her partnership with Luke intersect.
-        It provides a stage for character growth and deepening bonds between the protagonists.
-      relevance:
-        - "Serves as a turning point for Raven and Luke’s relationship."
-        - "Highlights Raven’s discomfort with societal norms and her family’s world."
-        - "Showcases Luke’s ability to ground and support Raven in high-pressure situations."
-      key-moments:
-        - "Raven debates skipping the event but ultimately decides to attend with Luke’s encouragement."
-        - "At the gala, Luke impresses Raven’s parents with his grounded nature, creating subtle tension and admiration."
-        - "Raven’s impulsive behavior at the event sparks a confrontation with her parents."
-        - "Luke mediates, helping Raven and her parents find common ground while strengthening his bond with Raven."
-  
   protagonists:
     approach: "Dual-Protagonist"
     list:
