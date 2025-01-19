@@ -1,0 +1,88 @@
+type: class
+name: Night Dancer
+
+theme: >
+  An agile, shadow-infused tank who combines graceful movement and deliberate defense to dominate the battlefield.
+  The Night Dancer thrives on precision, using her unique ability to intentionally block or grab attacks, generating power through her resource, Flow, to unleash devastating and sustaining abilities.
+
+resource:
+  name: flow
+  description: >
+    Generated through skillful actions like dodging, blocking, or counterattacking.
+    It is spent to fuel powerful abilities and must be carefully managed.
+
+abilities:
+
+  - name: Eclipse Flurry
+    type: offensive
+    cast_time: instant
+    effect:
+      - releases a rapid series of shadow-infused strikes on all enemies in melee range.
+    cost: flow cost scales with the number of enemies hit.
+    use_case: burst damage and threat generation in AoE scenarios.
+
+ - name: Nightfall Veil
+    type: offensive
+    cast_time: instant
+    effect:
+      - reduces enemy accuracy and movement speed in a radius for 8 seconds.
+    cost: flow
+    use_case: mitigating incoming damage and controlling the battlefield.
+
+  - name: Aegis
+    type: defensive
+    cast_time: instant
+    effect:
+      - temporarily boosts her Block stat significantly for 10 seconds.
+      - generates bonus Flow for each blocked attack during its duration.
+    cost: none
+    use_case: absorbing unavoidable damage or handling bursts.
+
+  - name: Umbra Lash
+    type: heal
+    cast_time: instant
+    effect:
+      - a melee attack that applies a lifedrain DoT to the target.
+    cost: flow
+    use_case: provides sustain while dealing consistent damage.
+  - name: Phantom Chains
+    type: mobility
+    cast_time: instant
+    effect:
+      - pulls a single target to her, interrupting their action and generating Flow.
+    cost: none
+    use_case: disrupting dangerous enemies or forcing them to engage her.
+
+  - name: Shadow Step
+    type: mobility
+    cast_time: instant
+    effect:
+      - performs a quick dash, avoiding all damage and repositioning behind an enemy.
+    cost: flow
+    use_case: escaping dangerous attacks or repositioning to maintain control.
+ 
+  - name: Dark Dance
+    type: passive
+    cast_time: passive
+    effect:
+      - each successful dodge generates Flow.
+    cost: none
+    use_case: rewards mastery of evasion techniques.
+
+  - name: Dark Devotion
+    type: passive
+    cast_time: passive
+    effect:
+      - intentionally blocking an attack generates Flow.
+      - flow amount scales with the severity of the attack blocked.
+    cost: none
+    use_case: allows deliberate, strategic acceptance of damage to fuel abilities.
+
+balance:
+  strengths:
+    - high mobility and control, excelling in fights that reward precision.
+    - synergizes with healers who can mitigate her weaknesses, like spike damage and CC.
+  weaknesses:
+    - vulnerable to burst damage or crowd control, which disrupts Flow generation.
+    - requires a high degree of timing and decision-making to reach full potential.
+
