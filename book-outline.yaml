@@ -15,18 +15,33 @@ acts:
           Raven struggles with soloing limits and her family’s expectations, leading to her decision to post a classified ad for a healer.
         key-emotional-beats:
           - "Frustration transitions into resolve as she takes steps to overcome her limitations."
+        tone:
+          - "Introspective and reflective, focusing on Raven’s internal frustrations."
+        pacing:
+          min-words: 3000
+          max-words: 3500
       - chapter: "The Healer’s Call"
         file: "the-healers-call.yaml"
         purpose: >
           Introduce Luke’s cautious nature and motivations as he decides to partner with Raven.
         key-emotional-beats:
           - "Reluctance gives way to cautious curiosity about Raven and her bold style."
+        tone:
+          - "Measured and cautious, reflecting Luke’s calculated approach to new partnerships."
+        pacing:
+          min-words: 2800
+          max-words: 3300
       - chapter: "First Dive, First Impressions"
         file: "first-dive-first-impressions.yaml"
         purpose: >
           Raven and Luke’s first dungeon dive showcases their contrasting styles and the challenges of working together.
         key-emotional-beats:
           - "Initial skepticism begins to give way to tentative trust as they start to understand each other."
+        tone:
+          - "Tense and action-driven, with moments of mutual recognition."
+        pacing:
+          min-words: 3200
+          max-words: 3700
       - chapter: "Trust in Shadows"
         file: "trust-in-shadows.yaml"
         purpose: >
@@ -34,12 +49,22 @@ acts:
         key-emotional-beats:
           - "The beginnings of mutual admiration through teamwork."
           - "Raven realizes that her independence doesn’t have to come at the cost of partnership."
+        tone:
+          - "Suspenseful and emotionally charged, emphasizing teamwork under pressure."
+        pacing:
+          min-words: 3400
+          max-words: 4000
       - chapter: "Through the Veil"
         file: "through-the-veil.yaml"
         purpose: >
           Raven and Luke navigate a puzzle room that requires their contrasting strengths, highlighting their potential as a team.
         key-emotional-beats:
           - "Frustration transforms into grudging admiration as they successfully solve the puzzle together."
+        tone:
+          - "Cerebral and tense, with a focus on problem-solving dynamics."
+        pacing:
+          min-words: 3000
+          max-words: 3500
       - chapter: "The First Victory"
         file: "the-first-victory.yaml"
         purpose: >
@@ -47,12 +72,22 @@ acts:
         key-emotional-beats:
           - "The first signs of mutual enjoyment in working together and a shared sense of accomplishment."
           - "Raven’s subtle invitation hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
+        tone:
+          - "Triumphant and lighthearted, contrasting the tension of the fight."
+        pacing:
+          min-words: 3500
+          max-words: 4000
       - chapter: "The Invitation"
         file: "the-invitation.yaml"
         purpose: >
           Raven and Luke share a drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
         key-emotional-beats:
           - "The growing chemistry between Raven and Luke is palpable, though both hold back their vulnerabilities."
+        tone:
+          - "Intimate and warm, with playful undertones."
+        pacing:
+          min-words: 3000
+          max-words: 3500
 
   - act: 2
     title: "Conflict and Growth"
@@ -67,6 +102,11 @@ acts:
         key-emotional-beats:
           - "Tension rises as their contrasting approaches create conflict under pressure."
           - "A near-death experience forces Raven and Luke to open up to each other."
+        tone:
+          - "High-stakes and adrenaline-fueled, with emotional undertones."
+        pacing:
+          min-words: 3500
+          max-words: 4000
       - chapter: "Setbacks and Growth"
         file: "setbacks-and-growth.yaml"
         purpose: >
@@ -74,6 +114,11 @@ acts:
         key-emotional-beats:
           - "Raven’s independence hinders teamwork, creating friction."
           - "Luke’s fear of loss causes hesitation, putting them at risk."
+        tone:
+          - "Introspective and emotionally raw, focusing on internal struggles."
+        pacing:
+          min-words: 3200
+          max-words: 3700
       - chapter: "Deepening Bonds"
         file: "deepening-bonds.yaml"
         purpose: >
@@ -81,6 +126,11 @@ acts:
         key-emotional-beats:
           - "Raven begins to see Luke’s caution as a strength."
           - "Luke admires Raven’s boldness, recognizing how it inspires him to take calculated risks."
+        tone:
+          - "Tender and reflective, with moments of lightheartedness."
+        pacing:
+          min-words: 3000
+          max-words: 3500
 
   - act: 3
     title: "Resolution"
@@ -95,6 +145,11 @@ acts:
         key-emotional-beats:
           - "Luke risks everything to save Raven, overcoming his fear of loss."
           - "Raven embraces vulnerability, realizing the strength in relying on others."
+        tone:
+          - "Intense and cathartic, building to an emotionally satisfying resolution."
+        pacing:
+          min-words: 4000
+          max-words: 4500
       - chapter: "Victory and Partnership"
         file: "victory-and-partnership.yaml"
         purpose: >
@@ -102,3 +157,8 @@ acts:
         key-emotional-beats:
           - "A shared victory cements their trust and romantic connection."
           - "Both find meaning in their partnership, embracing growth and mutual support."
+        tone:
+          - "Hopeful and uplifting, with a sense of closure."
+        pacing:
+          min-words: 3000
+          max-words: 3500
