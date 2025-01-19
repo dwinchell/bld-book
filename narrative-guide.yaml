@@ -64,6 +64,13 @@ narrative-structure:
       - "To deepen emotional engagement by immersing the reader in the thoughts and feelings of each character."
       - "To highlight contrasting worldviews and how they complement each other over the course of the story."
 
+  scene-construction:
+    tips:
+      - "Every scene should have a clear goal, conflict, and resolution (or lead to unresolved tension)."
+      - "Balance introspection with action to maintain narrative momentum."
+      - "Use setting and sensory details to reinforce emotional beats (e.g., the tense atmosphere of a dungeon reflecting internal struggles)."
+      - "Ensure character actions reflect their growth arcs and thematic elements."
+
   acts:
     - name: "Act 1: Setup"
       purpose: >
@@ -122,7 +129,7 @@ narrative-dynamics:
           - "Set piece: At the gala, tensions between Raven and her parents come to a head, with Luke helping her navigate the situation."
         act-3:
           - "Raven reflects on the gala and begins to understand how her parents’ ideals align with her own goals."
-          - "She reconciles with her parents, finding a way to merge her individuality with their values."
+          - "She reconciles with her parents, finding a way to merge her individuality with their values, such as committing to a unique dungeon-related initiative."
 
     - title: "Luke’s Fear of Attachment"
       description: >
@@ -140,8 +147,9 @@ narrative-dynamics:
           - "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
           - "Raven’s willingness to trust Luke challenges him to reciprocate and open up emotionally."
         act-3:
-          - "Luke faces a climactic moment where he must risk everything to save Raven, symbolizing his emotional breakthrough."
-          - "He fully embraces the partnership, recognizing the strength in interdependence and trust."
+            - "Luke faces a climactic challenge where he must risk himself for Raven, symbolizing his emotional growth."
+            - "He overcomes his fear of loss, fully trusting in their partnership and embracing vulnerability."
+            - "Luke reflects on how his relationship with Raven has transformed his outlook, finding balance between his responsibilities and his personal happiness."
 
   protagonists:
     approach: "Dual-Protagonist"
