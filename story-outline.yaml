@@ -1,0 +1,69 @@
+act-1:
+  title: "Setup"
+  chapters:
+    - chapter: 1
+      title: "Introduction to Raven"
+      events:
+        - "Raven reflects on her recent struggles diving and her need for a healer."
+        - "Raven places an ad for a healer in the System's matchmaking service, offering generous credits."
+        - "Raven interacts briefly with her family, showcasing her relationship with her supportive but boundary-setting parents."
+    - chapter: 2
+      title: "Luke’s Perspective"
+      events:
+        - "Luke reviews Raven’s ad and hesitates due to her reputation but ultimately accepts."
+        - "Luke prepares for the dive, stretching to calm himself and reflecting on his responsibilities."
+        - "Luke reflects on his family life and the pressure to support them, highlighting his motivations."
+    - chapter: 3
+      title: "The Staging Area"
+      events:
+        - "Raven and Luke arrive separately at the staging area, waiting without recognizing each other."
+        - "As the crowd clears, Raven asks Luke, 'Are you waiting for a healer too?' leading to their realization."
+        - "The two briefly discuss their plans and strategies, showing their initial dynamic."
+    - chapter: 4
+      title: "Into the Dungeon"
+      events:
+        - "Raven and Luke enter The Shadowed Warrens, described with foreboding details and atmospheric tension."
+        - "The system notification announces: 'Entering The Shadowed Warrens. Difficulty: Moderate. Threat Level: Unknown.'"
+        - "The chapter ends with both characters mentally preparing for what lies ahead."
+
+act-2:
+  title: "Conflict and Growth"
+  chapters:
+    - chapter: 5
+      title: "The First Encounter"
+      events:
+        - "Raven’s impulsive nature clashes with Luke’s cautious approach during their first major combat."
+        - "A minor mistake by Raven nearly leads to disaster, but Luke’s quick thinking saves them."
+        - "They begin to recognize each other’s strengths but remain at odds over their differing strategies."
+    - chapter: 6
+      title: "A Close Call"
+      events:
+        - "Raven faces a near-death experience during a high-stakes fight."
+        - "Luke’s fear of losing her resurfaces, making him question whether he can continue diving with her."
+        - "Raven confronts him with her philosophy: 'There’s no point in living like you’re already dead.'"
+    - chapter: 7
+      title: "Trust in Battle"
+      events:
+        - "Raven and Luke start adapting to each other’s combat styles, learning to anticipate each other’s moves."
+        - "They work together to defeat a tough boss, showcasing their evolving teamwork and mutual respect."
+
+act-3:
+  title: "Resolution and Partnership"
+  chapters:
+    - chapter: 8
+      title: "Luke’s Sacrifice"
+      events:
+        - "Luke makes a split-second decision to save Raven at great personal risk, cementing their trust in each other."
+        - "Raven recognizes the depth of Luke’s dedication, and their bond deepens further."
+    - chapter: 9
+      title: "Unstoppable Together"
+      events:
+        - "Their teamwork becomes seamless as they tackle increasingly difficult dungeon content."
+        - "Raven reflects on the meaning of living life to the fullest and realizes it includes sharing epic moments with someone she trusts."
+        - "Luke learns to embrace calculated risks and sees diving as more than a necessity, but as a shared purpose."
+    - chapter: 10
+      title: "A New Beginning"
+      events:
+        - "Raven and Luke reach a major milestone in their diving careers, symbolizing their growth as individuals and as a team."
+        - "The story ends with them planning their next dive together, ready to face whatever challenges come their way."
+
