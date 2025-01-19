@@ -3,6 +3,7 @@ type: character
 name: Luke Calloway
 age: 26
 class: Dawnbringer
+nationality: American
 description: >
   Here’s a comprehensive description of **Luke Calloway**:
 
@@ -31,7 +32,11 @@ personality:
     - Stretches often to calm himself
     - Strikes bold poses unintentionally
     - Creative sense of humor
-
+  values:
+    - Care
+    - Relationships
+    - Family
+    - Sister
 background:
   family_life:
     parents: Deceased

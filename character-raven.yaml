@@ -2,6 +2,7 @@ type: character
 name: "Raven Blackwood"
 age: 21
 class: "Night Dancer"
+nationality: "American"
 physical_description:
   appearance:
     height: "5 feet, 7 inches"
