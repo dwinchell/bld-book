@@ -34,6 +34,7 @@ story-foundation:
       - "Raven and Luke initially clash due to their opposing approaches to diving: her recklessness vs. his caution."
     external:
       - "The dungeon forces them to confront life-threatening challenges that require teamwork and trust."
+        reference: "See 'Dungeons: Mechanics and Mortality Rate' in Story Bible."
 
 decision-guidance:
   - "Ensure each chapter advances both the relationship and the plot."
@@ -76,21 +77,25 @@ narrative-structure:
       purpose: >
         Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
       key-events:
-        - Raven and Luke meet through the System's matchmaking service.
-        - Their contrasting personalities and styles create tension and friction.
-        - Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth.
+        - "Raven and Luke meet through the System's matchmaking service."
+          reference: "See 'System: Matchmaking and Terminals' in Story Bible."
+        - "Their contrasting personalities and styles create tension and friction."
+          reference: "See 'Classes: Night Dancer and Dawnbringer' in Story Bible."
+        - "Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth."
       key-emotional-beats:
         - "Raven reflects on her fear of mediocrity and her longing for meaning."
         - "Luke struggles with the pressure of supporting his family and his fear of attachment."
         - "A near-death experience forces Raven and Luke to open up to each other."
         - "A shared victory cements their trust and romantic connection."
+
     - name: "Act 2: Conflict and Growth"
       purpose: >
         Develop their partnership as they face external challenges and internal conflicts, leading to mutual growth.
       key-events:
-        - A dangerous dungeon dive forces them to rely on each other.
+        - "A dangerous dungeon dive forces them to rely on each other."
+          reference: "See 'Dungeons: The Shadowed Warrens' in Story Bible for mechanics and threats."
         - "Personal setbacks highlight their flaws: Raven’s independence hinders teamwork, and Luke’s fear of loss creates hesitation."
-        - Bonding moments deepen their connection, building trust and romantic tension.
+        - "Bonding moments deepen their connection, building trust and romantic tension."
       key-emotional-beats:
         - "A near-death experience forces Raven and Luke to open up to each other."
 
@@ -98,10 +103,11 @@ narrative-structure:
       purpose: >
         Resolve their conflicts, showing how their partnership allows them to overcome challenges and grow as individuals.
       key-events:
-        - A climactic dungeon dive tests their teamwork and trust.
-        - Luke risks everything to save Raven, overcoming his fear of loss.
-        - Raven embraces vulnerability, realizing the strength in relying on others.
-        - They emerge victorious, solidifying their bond and future as partners.
+        - "A climactic dungeon dive tests their teamwork and trust."
+          reference: "See 'Dungeons: Mechanics and Mortality Rate' in Story Bible."
+        - "Luke risks everything to save Raven, overcoming his fear of loss."
+        - "Raven embraces vulnerability, realizing the strength in relying on others."
+        - "They emerge victorious, solidifying their bond and future as partners."
       key-emotional-beats:
         - "A shared victory cements their trust and romantic connection."
 
@@ -123,7 +129,9 @@ narrative-dynamics:
       progression:
         act-1:
           - "Introduce the family dynamic and their expectations for Raven."
+            reference: "See 'Society: Noblesse Oblige' in Story Bible for details on societal expectations."
           - "Raven’s mom reminds her about the upcoming charity gala, framing it as an important family obligation."
+            reference: "See 'Society: Diver Class Divide' in Story Bible for relevant societal pressure."
         act-2:
           - "Raven reluctantly invites Luke to attend the gala with her, setting up the stage for the event."
           - "Set piece: At the gala, tensions between Raven and her parents come to a head, with Luke helping her navigate the situation."
@@ -142,6 +150,7 @@ narrative-dynamics:
       progression:
         act-1:
           - "Introduce Luke’s fear of attachment through his cautious approach to diving and guarded interactions with Raven."
+            reference: "See 'Timeline: 2011' in Story Bible for Luke’s family loss and its impact on his character."
           - "Establish the emotional burden of his responsibility for his sister as a key motivator for his reluctance to trust others."
         act-2:
           - "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
@@ -174,6 +183,7 @@ narrative-dynamics:
         character-arc:
           initial-state:
             - "Cautious, pragmatic, and burdened by fear of loss."
+              reference: "See 'Timeline: 2011' in Story Bible for Luke’s family loss."
             - "Keeps relationships at arm’s length to avoid attachment."
           growth:
             - "Learns to take calculated risks and trust in others’ resilience."
