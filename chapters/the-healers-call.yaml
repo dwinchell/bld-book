@@ -1,0 +1,76 @@
+metadata:
+  type: chapter-outline
+  title: "The Healer’s Call"
+  file: "the-healers-call.yaml"
+
+overview:
+  purpose: >
+    Introduce Luke’s cautious nature and motivations, leading to his decision to partner with Raven.
+  key-emotional-beats:
+    - "Reluctance gives way to cautious curiosity about Raven and her bold style."
+    - "Luke begins to mentally prepare for the challenges of working with a new and dynamic partner."
+  tone:
+    - "Measured and cautious, reflecting Luke’s methodical nature and growing curiosity."
+  pacing:
+    min-words: 2800
+    max-words: 3300
+  transition-notes: >
+    The chapter ends with Luke deciding to partner with Raven, setting the stage for their first dungeon dive in Chapter 3.
+
+scenes:
+  - scene-1:
+      purpose: "Introduce Luke’s methodical approach to life and his personal responsibilities."
+      events:
+        - "Luke wakes up in his modest apartment, beginning his pre-dive routine with stretches to loosen his muscles and clear his mind."
+        - "He notices his guitar resting in the corner, a reminder of moments of peace he hasn’t had time for lately."
+        - "Luke reviews his income and expenses in a notebook, calculating how many more dives are needed to meet his family’s needs."
+        - "The familiar system chime interrupts his thoughts, alerting him to a match for his classified ad."
+      pacing:
+        min-words: 900
+        max-words: 1100
+      sensory-details:
+        - "The rhythmic creak of wooden floorboards, the sight of a scuffed but sturdy table, and the quiet stillness of the apartment."
+        - "The faint scratch of pen on paper as Luke tallies expenses."
+        - "The soft chime of the system notification breaking the silence."
+      transition-notes: >
+        The chime draws Luke’s attention to Raven’s ad, shifting the scene to his evaluation of her profile.
+      ending-style: >
+        The scene ends with a clear transition as Luke shifts from his personal worries to evaluating the classified ad.
+
+  - scene-2:
+      purpose: "Introduce Raven’s classified ad and Luke’s analysis of her as a potential partner."
+      events:
+        - "Luke reviews Raven Blackwood’s ad for a healer and her profile, noting her impressive stats and achievements but raising concerns about her status as a solo diver."
+        - "He hesitates, worried about her bold and potentially reckless tendencies."
+        - "Despite his concerns, he accepts the job, intrigued by her potential and motivated by the need for work."
+      pacing:
+        min-words: 800
+        max-words: 1000
+      sensory-details:
+        - "The glow of the system terminal reflects on Luke’s glasses as he scans her profile."
+        - "The faint tap of his fingers against the desk as he deliberates."
+        - "The system buzz confirming his acceptance vibrates faintly in the quiet room."
+      transition-notes: >
+        Luke’s decision to accept Raven’s ad leads into his preparation for their first meeting.
+      ending-style: >
+        The scene ends on a note of decision and quiet anticipation as Luke accepts Raven’s ad despite his reservations.
+
+  - scene-3:
+      purpose: "Show Luke preparing for and arriving at the staging area, setting the stage for his first interaction with Raven."
+      events:
+        - "Luke double-checks his gear, carefully inspecting his tools and supplies."
+        - "At the staging area, Luke arrives early, observing the bustling energy of divers and taking note of Raven’s striking appearance."
+        - "Luke observes Raven’s confident posture and subtle tension, deducing that she’s experienced but frustrated by a lack of progress."
+        - "Raven approaches Luke and casually asks if he’s waiting for a healer, leading to a brief but telling exchange that highlights their contrasting personalities."
+        - "After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style."
+      pacing:
+        min-words: 1100
+        max-words: 1300
+      sensory-details:
+        - "The clinking of gear, quiet strategizing, and a bustling atmosphere of anticipation."
+        - "The chill in the air as Luke waits, surrounded by the faint hum of conversation."
+        - "The striking contrast between Raven’s confident stance and Luke’s calm, deliberate demeanor."
+      transition-notes: >
+        Their exchange leads into the preparation for their first dungeon dive together in Chapter 3.
+      ending-style: >
+        The scene ends with Luke reflecting on their first interaction, setting a tone of cautious determination as he prepares to meet Raven’s dynamic energy in the dungeon.
