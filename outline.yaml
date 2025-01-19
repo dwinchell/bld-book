@@ -1,35 +1,57 @@
 act-1:
   title: "Setup"
   chapters:
+
     - chapter: 1
-      title: "Into the Shadows"
+      title: "Introduction to Raven"
+      perspective: "Raven"
+      characters: [Raven, Mom, Luke]
       events:
-        - "Raven Blackwood is introduced in her gothic-themed bedroom. Industrial music plays in the background, and dungeon notifications glow faintly in the darkened room, emphasizing her restless mood and obsession with diving."
-        - "Raven reflects on her frustrations with solo diving, unable to break past a wall. She acknowledges that she needs help, even if it means changing her approach."
-        - "Raven's raven necklace, a gift from her parents, becomes a focal point of her thoughts. It symbolizes freedom, courage, and her connection to diving."
-        - "Raven’s mother interrupts her thoughts, reminding her about dinner plans. A tense exchange highlights the divide between Raven’s passion for diving and her family’s expectations."
-        - "A glance at her academy handbook stirs anger and regret over her expulsion. She reflects on her former friends and their diverging paths, feeling isolated in her thrill-seeking philosophy."
-        - "A system notification alerts Raven to a classified ad response. Luke Calloway, a reliable healer, accepts her request. She reviews his profile and decides he’s a safe and consistent choice, accepting with a slight challenge to him."
-        - "Raven begins her pre-dive ritual, inspecting her gear and ensuring everything is in peak condition. She reflects on her necklace as a grounding symbol and reviews her route through the Shadowed Warrens."
-        - "Raven transitions to the common staging area, observing the bustling energy of divers preparing for their runs. She scans the crowd, mentally readying herself for the challenge ahead."
-    - chapter: 2
-      title: "Luke’s Perspective"
-      events:
-        - "Luke reviews Raven’s ad and hesitates due to her reputation but ultimately accepts."
-        - "Luke prepares for the dive, stretching to calm himself and reflecting on his responsibilities."
-        - "Luke reflects on his family life and the pressure to support them, highlighting his motivations."
-    - chapter: 3
-      title: "The Staging Area"
-      events:
-        - "Raven and Luke arrive separately at the staging area, waiting without recognizing each other."
-        - "As the crowd clears, Raven asks Luke, 'Are you waiting for a healer too?' leading to their realization."
-        - "The two briefly discuss their plans and strategies, showing their initial dynamic."
-    - chapter: 4
-      title: "Into the Dungeon"
-      events:
-        - "Raven and Luke enter The Shadowed Warrens, described with foreboding details and atmospheric tension."
-        - "The system notification announces: 'Entering The Shadowed Warrens. Difficulty: Moderate. Threat Level: Unknown.'"
-        - "The chapter ends with both characters mentally preparing for what lies ahead."
+        - description: >
+            Raven is in her gothic, fabulously decorated bedroom, restless and flipping through dungeon notifications
+            or idly inspecting her gear. Industrial music hums faintly in the background.
+          sensory_details: "Dim lighting, heavy curtains, faint scent of incense, ghostly glow of notifications."
+          emotional_beat: "Frustration and eagerness to dive again."
+        - description: >
+            Raven’s love for diving is evident, along with her thrill-seeking nature and sharp wit, as she reflects
+            on her inability to push past a soloing wall.
+        - description: >
+            Raven’s raven necklace, a gift from her parents, is introduced. It symbolizes freedom, flight, and courage,
+            and is a grounding ritual for her dives.
+        - description: >
+            Raven’s mom knocks on her door to remind her about a family dinner she promised to attend but plans to skip.
+            The dialogue shows her parents' supportive nature and Raven’s rebellious streak.
+          emotional_beat: "Tension between family expectations and Raven’s obsession with diving."
+        - description: >
+            Raven reflects on how her family doesn’t understand her obsession but continues to support her financially for now.
+        - description: >
+            Raven recalls her expulsion from the academy, showing both defiance and a hint of regret. She considers how her
+            former friends no longer dive seriously, leaving her isolated in her passion.
+          emotional_beat: "Conflict between her rebellious nature and feelings of isolation."
+        - description: >
+            A system chime breaks Raven’s thoughts, prompting her to open her notifications.
+        - description: >
+            Her classified ad for a healer is answered by Luke Calloway, described as a level-headed, experienced healer
+            known for reliable support. She reviews his stats and past runs and accepts immediately.
+          emotional_beat: "Excitement and relief at finding someone reliable."
+        - description: >
+            Raven gears up for the dive, checking her equipment, activating Aegis, and glancing at her raven necklace as part
+            of her grounding ritual. Her cloth armor is lightweight, shadowy, and reinforced for agility and flexibility.
+          sensory_details: "The soft rustle of fabric, the cool weight of the necklace, the faint shimmer of her cloth armor."
+        - description: >
+            She reviews her planned route through the Shadowed Warrens, trusting her instincts to adapt as needed.
+          emotional_beat: "Anticipation and resolve to push past her limits."
+        - description: >
+            Raven arrives at the common staging area, observing the bustling energy of divers preparing for their runs.
+          sensory_details: "The clinking of metal, hushed conversations, and an air of determination."
+        - description: >
+            Raven spots a tall man in chainmail, brawny and exuding calm confidence. She assumes he’s a stereotypical tank
+            and dismisses him as not her healer.
+          emotional_beat: "Curiosity and initial skepticism about her new partner."
+        - description: >
+            Raven approaches the man and asks if he’s waiting for a healer. He introduces himself as Luke Calloway, revealing
+            the misunderstanding. Their exchange establishes their contrasting styles and sets up their dynamic.
+          emotional_beat: "Introduction of contrasting personalities and a subtle challenge between them."
 
 act-2:
   title: "Conflict and Growth"
