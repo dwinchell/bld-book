@@ -58,16 +58,29 @@ story-bible:
         - "Credits can be redeemed at terminals or exchanged for Earth currency."
         - "Dungeons adapt to group size and level, scaling difficulty dynamically."
 
-    society:
-      setting: >
-        The world is similar to 2020s Earth, with an alternate history diverging in 2000 due to the System's appearance.
-      adventurers:
-        - "Thrill-seekers who dive for the excitement and challenge."
-        - "Financially driven divers who see it as a path to wealth or survival."
-      economy:
-        - "Credits function as a secondary currency, often more valuable than local currencies."
-        - "Currency exchangers allow divers to convert credits into USD or other Earth currencies."
-        - "The lucrative nature of diving has led to a cultural divide between divers and non-divers."
+society:
+  setting: >
+    The world is similar to 2020s Earth, with an alternate history diverging in 2000 due to the System's appearance.
+
+  adventurers:
+    - "Thrill-seekers who dive for the excitement and challenge."
+    - "Financially driven divers who see it as a path to wealth or survival."
+    - "Elite divers or guild leaders who aim to elevate their societal status through fame and achievements."
+
+  economy:
+    - "Credits function as a secondary currency, often more valuable than local currencies."
+    - "Currency exchangers allow divers to convert credits into USD or other Earth currencies."
+    - "The lucrative nature of diving has led to a cultural divide between divers and non-divers."
+    - "Wealthy families and high-status individuals often see diving as an opportunity to reinforce societal ideals, using their resources to fund or influence elite guilds."
+
+  societal-values:
+    nobility-and-duty:
+      description: >
+        The concept of 'noblesse oblige'—the belief that privilege comes with the responsibility to contribute to society—is prevalent
+        among affluent families like the Blackwoods. They view diving as a way to combine prestige with meaningful impact.
+      impact-on-raven:
+        - "Raven’s parents believe she should channel her diving skills into creating a guild or business that benefits society."
+        - "This expectation fuels tension between Raven’s independent, thrill-seeking nature and her family’s values of responsibility and legacy."
 
   characters:
     - name: "Raven Blackwood"
