@@ -2,6 +2,9 @@ act-1:
   title: "Setup"
   chapters:
 
+act-1:
+  title: "Setup"
+  chapters:
     - chapter: 1
       title: "Introduction to Raven"
       perspective: "Raven"
@@ -39,7 +42,7 @@ act-1:
             of her grounding ritual. Her cloth armor is lightweight, shadowy, and reinforced for agility and flexibility.
           sensory_details: "The soft rustle of fabric, the cool weight of the necklace, the faint shimmer of her cloth armor."
         - description: >
-            She reviews her planned route through the Shadowed Warrens, trusting her instincts to adapt as needed.
+            She reviews her planned route through the Shadow Warrens, trusting her instincts to adapt as needed.
           emotional_beat: "Anticipation and resolve to push past her limits."
         - description: >
             Raven arrives at the common staging area, observing the bustling energy of divers preparing for their runs.
@@ -74,43 +77,35 @@ act-1:
           emotional_beat: >
             Pride in providing for his family, balanced with pressure and fear of letting them down.
         - description: >
-            Luke reflects on his family—his thriving younger sister Anna and his aging but sharp grandparents—feeling pride but also the weight of their dependence on him.
-        - description: >
             The familiar system chime interrupts his thoughts, alerting him to a match for his classified ad.
         - description: >
             Luke reviews Raven Blackwood’s ad for a healer and her profile, noting her impressive stats and achievements but raising concerns about her status as a solo diver.
           emotional_beat: >
             Hesitation about accepting the job due to potential recklessness, countered by intrigue and a need for work.
         - description: >
-            At the staging area, Luke arrives early as usual, observing the mix of adventurers preparing for their dives.
+            At the staging area, Luke arrives early, observing the bustling energy of divers and taking note of Raven’s striking appearance.
           sensory_details: >
             The clinking of gear, quiet strategizing, and a bustling atmosphere of anticipation.
         - description: >
-            Luke notices Raven, her all-black attire and gothy aesthetic making her stand out. He observes her confident posture and restless energy.
+            Luke observes Raven’s confident posture and subtle tension, deducing that she’s experienced but frustrated by a lack of progress.
           emotional_beat: >
-            Curiosity mixed with suspicion about her solo approach and determination.
+            Curiosity about Raven’s fiery personality and skepticism about her solo-diver tendencies.
         - description: >
             Raven approaches Luke and casually asks if he’s waiting for a healer, leading to a brief but telling exchange that highlights their contrasting personalities.
           emotional_beat: >
             Amusement and curiosity from Luke as he observes Raven’s fiery demeanor and her resistance to being wrong.
         - description: >
-            Their initial conversation reveals Raven’s bold, adaptable approach and Luke’s preference for caution and strategy, setting up tension in their dynamic.
+            After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style.
           emotional_beat: >
-            Frustration from Luke at Raven’s casual attitude, but he resolves to adapt and watch her closely.
-
-    - chapter: 3
-      title: "Into the Shadows"
-      perspective: "Luke"
-      characters: [Luke, Raven]
-      events:
+            Luke’s mix of cautious observation and quiet determination to meet her energy.
         - description: >
-            At the dungeon entrance, Luke double-checks his gear and takes a moment to center himself, his healer instincts on high alert.
+            At the dungeon entrance, Luke double-checks his gear and centers himself as the oppressive atmosphere of the Shadow Warrens looms.
           sensory_details: >
-            The chill of the dungeon air, the oppressive atmosphere, and the weight of the task ahead.
+            The chill in the air, the eerie silence, and the weight of the task ahead.
         - description: >
-            Luke and Raven step into the Shadowed Warrens together, the system announcing the dungeon’s difficulty and threat level.
+            Raven’s excitement contrasts with Luke’s careful preparation as they step into the dungeon together.
           emotional_beat: >
-            Luke’s mix of focused determination and unease, balanced by his curiosity about Raven’s confidence.
+            Luke’s focused determination and readiness to adapt as the dungeon’s system notification rings out.
 
 act-2:
   title: "Conflict and Growth"
