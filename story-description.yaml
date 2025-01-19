@@ -1,0 +1,70 @@
+type: story-description
+name: story-description
+metadata:
+  protagonist_style: Dual Protagonists
+  protagonists:
+    - Luke
+    - Raven
+  themes:
+    - Romance
+    - Love in Conflict
+    - Trust and Vulnerability
+  general_plan:
+    - Luke and Raven will fall in love.
+    - They will help each other grow. Raven will learn to trust others more by relying on them, being willing to be vulnerable with them, and allowing them to protect her. Luke will learn to accept that those he loves are vulnerable. He will learn to trust others by accepting that they do not always need his protection and nurturing, and to allow them to protect and nurture him too.
+  
+backstory-events:
+  - title: "System Integration Event"
+    year: 2000
+    details: >
+      System terminals mysteriously appear, granting humans access to the System and the Dungeon.
+      This event reshapes society, introducing the concept of dungeon diving.
+  - title: "Luke Calloway’s Background"
+    details: >
+      At 18, Luke begins diving to provide for his younger sister and grandparents after the death of his parents.
+      He becomes a self-taught healer, building a reputation as a reliable, conservative support for newbie divers.
+      By level 20, Luke decides not to progress further, sticking to safe, low-level content to minimize risks and support his family consistently.
+  - title: "Raven Blackwood’s Background"
+    details: >
+      Raven grows up in a wealthy, supportive family but often rebels against their healthy boundaries.
+      She’s expelled from a prestigious diving academy for repeatedly breaking rules in her thrill-seeking pursuit.
+      Recently, she hits a wall in solo diving, struggling with group-level content and realizing she needs a healer.
+
+story-outline-events:
+    - title: "Raven Places a Classified Ad"
+      year: 2025
+      details: >
+        Raven uses the System’s matchmaking service to post an ad seeking a healer.
+        She offers a generous amount of credits, knowing her reputation as a reckless solo diver may deter some healers.
+    - title: "Luke Accepts the Ad"
+      details: >
+        Luke reviews the ad, noticing Raven’s strong solo achievements and risky tendencies.
+        He hesitates briefly but ultimately accepts, intrigued by the challenge and needing the income.
+    - title: "The Staging Area Encounter"
+      details: >
+        Both Raven and Luke arrive separately at a common staging area for divers.
+        They wait without recognizing each other, assuming their healer or tank hasn’t arrived yet.
+        As the area clears, Raven casually asks Luke, “Are you waiting for a healer too?”
+        Realizing the misunderstanding, they introduce themselves, setting the stage for their partnership.
+    - title: "Preparation and First Dive"
+      details: >
+        They agree to tackle The Shadowed Warrens, a moderately difficult dungeon.
+        Raven’s excitement contrasts with Luke’s cautious approach, creating subtle tension.
+        The chapter ends with the system notification: “Entering The Shadowed Warrens. Difficulty: Moderate. Threat Level: Unknown.”
+
+planned-story-beats:
+    - title: "A Close Call for Raven"
+      details: >
+        Raven nearly dies during a dangerous encounter. Luke’s fear of loss resurfaces, making him question whether he can continue diving.
+        Raven challenges him with her philosophy: “There’s no point in living like you’re already dead.”
+    - title: "Luke’s Sacrifice"
+      details: >
+        Luke makes a split-second decision to save Raven at great personal risk, demonstrating his growing trust and reliance on her.
+    - title: "Teamwork Breakthrough"
+      details: >
+        As their dynamic evolves, Raven and Luke adapt to each other’s styles, learning to work in harmony and becoming an unstoppable duo.
+    - title: "Personal Growth Moments"
+      details:
+        - Raven begins to reflect on what living life to the fullest truly means, realizing it’s not just about solo achievements but shared experiences.
+        - Luke begins to take calculated risks, driven by his growing attachment to Raven and a desire to explore what diving could mean beyond necessity.
+

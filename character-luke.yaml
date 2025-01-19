@@ -1,11 +1,13 @@
 
 type: character
 name: Luke Calloway
-age: 26
 class: Dawnbringer
 nationality: American
 description: >
   Here’s a comprehensive description of **Luke Calloway**:
+at-start-of-story:
+  level: 20
+  age: 26
 
 physical_description:
   appearance:
@@ -65,6 +67,7 @@ interpersonal_characteristics:
     childhood_friend: Grown distant due to responsibilities
     with_raven_blackwood: >
       Initially cautious, grows to admire Raven’s courage. Reflective nature helps Raven explore motivations while her boldness challenges him.
+  initial-flaws: Overheals because he is afraid of losing party memebers. Rooted in the trauma of losing his parents.
 
 interests_and_hobbies:
   music:
