@@ -2,6 +2,31 @@ title: "Bound in Light and Darkness"
 short-title: "BLD"
 story-bible:
   worldbuilding:
+
+    timeline:
+    - year: 1999
+      event: >
+        Luke Calloway is born to a modest, hardworking family in a small American town. His early years are shaped by a stable but humble upbringing.
+    - year: 2003
+      event: >
+        Raven Blackwood is born into a wealthy family in the suburbs. Her parents encourage her creativity and independence, though their boundaries often clash with her rebellious nature.
+    - year: 2000
+      event: >
+        The System integration event occurs. Mysterious terminals appear overnight across the globe, granting humanity
+        access to the System and the Dungeon. This marks the beginning of a new era in human history.
+    - year: 2011
+      event: >
+        Luke’s parents tragically die in a car accident, leaving him and his younger sister, Anna, in the care of their grandparents.
+        This event instills in Luke a strong sense of responsibility and fear of loss.
+    - year: 2018
+      event: >
+        Raven Blackwood is expelled from a prestigious diving academy after repeatedly breaking rules to pursue unauthorized solo dives.
+        This marks a turning point in her life, reinforcing her rebellious streak but also isolating her from her former friends.
+    - year: 2025
+      event: >
+        The story begins. Raven Blackwood, a rebellious solo diver, hires Luke Calloway, a cautious healer, through the System’s
+        matchmaking service. This marks the start of their partnership as they tackle intermediate-level dungeon content together.
+
     system:
       description: >
         The System is a mysterious video-game-like construct that integrates with human society and grants access 

@@ -6,33 +6,6 @@ protagonists:
   - Luke
   - Raven
 
-themes:
-  - Trust and vulnerability in relationships.
-  - Growth through contrasting perspectives.
-  - The pursuit of meaning and self-discovery.
-
-goals:
-  - Establish a strong romantic and emotional connection between Raven and Luke.
-  - Show their personal growth arcs (Raven learns to trust and rely on others; Luke learns to take calculated risks and embrace vulnerability).
-  - Tie their growth into their progression as dungeon divers.
-
-backstory-events:
-  - title: "System Integration Event"
-    year: 2000
-    details: >
-      System terminals mysteriously appear, granting humans access to the System and the Dungeon.
-      This event reshapes society, introducing the concept of dungeon diving.
-  - title: "Luke Calloway’s Background"
-    details: >
-      At 18, Luke begins diving to provide for his younger sister and grandparents after the death of his parents.
-      He becomes a self-taught healer, building a reputation as a reliable, conservative support for newbie divers.
-      By level 20, Luke decides not to progress further, sticking to safe, low-level content to minimize risks and support his family consistently.
-  - title: "Raven Blackwood’s Background"
-    details: >
-      Raven grows up in a wealthy, supportive family but often rebels against their healthy boundaries.
-      She’s expelled from a prestigious diving academy for repeatedly breaking rules in her thrill-seeking pursuit.
-      Recently, she hits a wall in solo diving, struggling with group-level content and realizing she needs a healer.
-
 planned-story-beats:
     - title: "A Close Call for Raven"
       details: >
