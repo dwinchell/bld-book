@@ -2,11 +2,16 @@ act-1:
   title: "Setup"
   chapters:
     - chapter: 1
-      title: "Introduction to Raven"
+      title: "Into the Shadows"
       events:
-        - "Raven reflects on her recent struggles diving and her need for a healer."
-        - "Raven places an ad for a healer in the System's matchmaking service, offering generous credits."
-        - "Raven interacts briefly with her family, showcasing her relationship with her supportive but boundary-setting parents."
+        - "Raven Blackwood is introduced in her gothic-themed bedroom. Industrial music plays in the background, and dungeon notifications glow faintly in the darkened room, emphasizing her restless mood and obsession with diving."
+        - "Raven reflects on her frustrations with solo diving, unable to break past a wall. She acknowledges that she needs help, even if it means changing her approach."
+        - "Raven's raven necklace, a gift from her parents, becomes a focal point of her thoughts. It symbolizes freedom, courage, and her connection to diving."
+        - "Raven’s mother interrupts her thoughts, reminding her about dinner plans. A tense exchange highlights the divide between Raven’s passion for diving and her family’s expectations."
+        - "A glance at her academy handbook stirs anger and regret over her expulsion. She reflects on her former friends and their diverging paths, feeling isolated in her thrill-seeking philosophy."
+        - "A system notification alerts Raven to a classified ad response. Luke Calloway, a reliable healer, accepts her request. She reviews his profile and decides he’s a safe and consistent choice, accepting with a slight challenge to him."
+        - "Raven begins her pre-dive ritual, inspecting her gear and ensuring everything is in peak condition. She reflects on her necklace as a grounding symbol and reviews her route through the Shadowed Warrens."
+        - "Raven transitions to the common staging area, observing the bustling energy of divers preparing for their runs. She scans the crowd, mentally readying herself for the challenge ahead."
     - chapter: 2
       title: "Luke’s Perspective"
       events:
