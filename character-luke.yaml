@@ -1,0 +1,94 @@
+
+type: character
+name: Luke Calloway
+age: 26
+class: Dawnbringer
+description: >
+  Here’s a comprehensive description of **Luke Calloway**:
+
+physical_description:
+  appearance:
+    height: "6 feet, 2 inches"
+    build: Brawny, muscular
+    hair: Short, neatly kept blonde hair
+    eyes: Warm blue or gray, showing calm focus and quiet determination
+  style:
+    dungeon_gear: >
+      Stereotypical paladin gear including chain mail, shoulder guards, and a healer’s staff
+    casual_wear: >
+      Practical American casual wear such as jeans, flannel shirts, and sturdy boots
+
+personality:
+  core_traits:
+    - Deliberative
+    - Cautious
+    - Pragmatic
+    - Nurturing
+    - Empathetic
+    - Grounding presence
+  quirks:
+    - Sweats when nervous
+    - Stretches often to calm himself
+    - Strikes bold poses unintentionally
+    - Creative sense of humor
+
+background:
+  family_life:
+    parents: Deceased
+    sister: Younger, doted on by Luke
+    grandparents: Distant relationship with expectations for care
+  early_life:
+    training: Self-taught healer through experience
+    motivation: Diving to provide for family, prioritizing safety and stability
+
+motivations_and_fears:
+  motivations:
+    - Support his family financially
+    - Desire for stability and a family of his own
+  fears:
+    - Fear of losing people
+    - Worry about letting down dependents
+
+combat_style_and_class:
+  class: Dawnbringer
+  abilities:
+    - Radiant Mend
+    - Luminous Renewal
+    - Guardian Light
+  combat_style: >
+    Deadly serious, focused on keeping the party alive. Values communication and takes charge in crises but can be overly cautious.
+
+social_and_interpersonal_dynamics:
+  friendships:
+    general: Warm but introverted, maintaining pleasant acquaintances
+    childhood_friend: Grown distant due to responsibilities
+    with_raven_blackwood: >
+      Initially cautious, grows to admire Raven’s courage. Reflective nature helps Raven explore motivations while her boldness challenges him.
+
+interests_and_hobbies:
+  music:
+    instrument: Guitar
+    significance: Emotional outlet and bonding opportunity with Raven
+  practical_skills:
+    fixing_things: Enjoys repairs and resource organization
+    diving_preparation: Efficient and meticulous
+
+strengths_and_weaknesses:
+  strengths:
+    - Reliable and calm under pressure
+    - Philosophical thinker
+    - Natural nurturer
+  weaknesses:
+    - Inefficient mana usage due to fear of losing someone
+    - Hesitant to take risks, hindering progression
+    - Neglects own needs for family and party
+
+key_emotional_beats:
+  fear_of_attachment: >
+    Initially tries to keep a professional relationship with Raven, afraid of attachment. Over time, grows closer and embraces connection.
+  growth_arc: >
+    Motivated by desire for a partner and family, pushes past fear and embraces challenges, balancing caution with boldness.
+
+worldview:
+  philosophy: >
+    Reflective and philosophical, often contemplating risk, purpose, and relationships. Insights help Raven confront her own motivations.

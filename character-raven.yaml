@@ -1,0 +1,101 @@
+type: character
+name: "Raven Blackwood"
+age: 21
+class: "Night Dancer"
+physical_description:
+  appearance:
+    height: "5 feet, 7 inches"
+    build: "Lithe and agile, reflecting her grace and dexterity."
+    hair: "Raven-black, often cascading down her back."
+    complexion: "Pale, contrasting with her dark attire for a bold, striking look."
+  style:
+    clothing: "All black, embracing a gothic aesthetic with intricate designs, leather accents, and subtle silver details."
+    dungeon_gear: "Functional but stylish, with flowing cloth armor and shadowy, magical visuals."
+    accessories:
+      necklace:
+        description: "A raven in flight, crafted from onyx and silver."
+        significance: "A cherished gift from her parents, symbolizing the freedom and exhilaration she feels in the dungeon."
+personality:
+  core_traits:
+    - "Driven"
+    - "Daring"
+    - "Rebellious"
+    - "Impetuous"
+    - "Passionate"
+    - "Assertive"
+    - "Individualistic"
+    - "Idealistic"
+  quirks:
+    - "Hums absentmindedly when content."
+    - "Dances slightly when celebrating or goofing around."
+    - "Good-naturedly sarcastic but abrasive when in a bad mood."
+    - "Sharp, dark sense of humor; bores easily."
+background:
+  family_life:
+    upbringing: "From a wealthy family, with parents who set healthy boundaries despite her rebellious tendencies."
+    relationship_with_parents: "Values their unconditional support and sees them as a model of secure relationships."
+  academy_expulsion:
+    reason: "Expelled from a prestigious dungeon diving academy for repeatedly breaking rules to satisfy her thrill-seeking urges."
+    regret: "Defends her actions but feels some regret about the lost opportunity and its impact on her family."
+motivations_and_fears:
+  motivations:
+    - "Dives for the thrill and freedom, embracing a 'live life to the fullest' philosophy."
+    - "Wants to achieve something significant but struggles to define what it looks like."
+    - "Recognizes that fame or high levels might not satisfy her deeper need for meaning."
+  fears:
+    - "Fear of missing out (FOMO), worrying she’ll look back on her life and see nothing of value."
+    - "Fear of mediocrity and stagnation, driving her to push boundaries, sometimes recklessly."
+combat:
+  class: "Night Dancer"
+  abilities:
+    - name: "Aegis"
+      type: "Defensive Cooldown"
+      description: "A magical shield that activates at the point of impact, mitigating damage."
+    - name: "Dark Devotion"
+      type: "Passive"
+      description: "Generates Flow when intentionally blocking or grabbing attacks."
+    - name: "Phantom Chains"
+      type: "Utility"
+      description: "Allows repositioning by pulling herself into a shadow."
+  style:
+    flow_state: "Feels calm or euphoric, with intuitive mastery over movements and decisions."
+    combat_description: "Reactive and dynamic, resembling a dancer weaving through attacks and countering with precision."
+    vulnerabilities: 
+      - "Struggles with disruptions to rhythm, such as crowd control or spike damage."
+social_and_interpersonal_dynamics:
+  friendships:
+    standards: "Sets a high bar for friendships, avoiding mean, shallow, or stupid people."
+    relationships:
+      - "Old friends were accomplices in mischief but didn’t share her passion for diving, straining those connections."
+    personality_conflicts: "Quick-tempered and slow to forgive, with an acid tongue when provoked."
+  relationship_with_luke:
+    initial_impression: "Finds him overly cautious and grounded, contrasting with her bold nature."
+    evolution: 
+      - "Luke's philosophical outlook helps her reflect on deeper motivations."
+      - "Her thrill-seeking challenges him to take risks."
+interests_and_hobbies:
+  diving:
+    loves: "Dungeon notifications and achievements, celebrating her successes after a dive."
+    perspective: "Sees dives as self-expression, enjoying the freedom and exhilaration of danger."
+  hobbies:
+    - "Enjoys ice cream as a guilty pleasure."
+    - "Passionate about interior decorating, creating a fabulously gothy bedroom."
+    - "Listens to industrial music to get hyped for dives."
+strengths_and_weaknesses:
+  strengths:
+    - "Virtuoso combatant with unparalleled intuition in high-pressure situations."
+    - "Fearless and determined, adapting creatively to challenges."
+    - "Charismatic and inspiring, even unintentionally."
+  weaknesses:
+    - "Reckless and risk-seeking, often pushing herself into danger."
+    - "Struggles to define goals and find deeper meaning in pursuits."
+    - "Vulnerable to disruptions in combat flow, like crowd control or high spike damage."
+emotional_beats:
+  near_death_experience:
+    scenario: "Soloed the Abyssal Lurker, a mid-level group boss with a Fear Aura, shadow clones, and devastating spike attack."
+    strategy: 
+      - "Exploited class mechanics by tanking clones with Aegis to generate massive Flow."
+      - "Used Phantom Chains to avoid lethal attacks and reposition for counters."
+    result: "Barely survived but emerged victorious, illustrating her reckless brilliance."
+  growth_arc:
+    realization: "Learns that living life to the fullest isn’t about solo glory but sharing epic moments with someone she trusts, like Luke."
