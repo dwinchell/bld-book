@@ -69,7 +69,7 @@ acts:
         purpose: >
           Establish Raven and Luke’s dynamic by highlighting their contrasting personalities, diving styles, and the tension between them.
           Begin the first part of an arc toward effective teamwork.
-        perspective: "Luke"
+        perspective: "Raven"
         relationship-arc:
           start: >
             Raven and Luke’s first meeting reveals immediate tension due to their clashing personalities and styles.
@@ -90,7 +90,7 @@ acts:
         file: "trust-in-shadows.yaml"
         purpose: >
           The challenges of the dungeon force Raven and Luke to rely on each other, planting the seeds of trust and respect.
-        perspective: "Alternating"
+        perspective: "Luke"
         relationship-arc:
           start: >
             Despite their earlier friction, Raven and Luke begin to trust each other as they navigate the dungeon’s dangers.
@@ -110,6 +110,7 @@ acts:
         file: "the-first-victory.yaml"
         purpose: >
           Raven and Luke face their first boss together, cementing their camaraderie through a shared sense of accomplishment.
+        perspective: "Raven"
         relationship-arc:
           start: >
             Raven and Luke’s improved teamwork carries them into the boss fight, where their synergy is tested.
@@ -129,6 +130,7 @@ acts:
         file: "the-invitation.yaml"
         purpose: >
           Raven and Luke share a drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
+        perspective: "Luke"
         relationship-arc:
           start: >
             Raven and Luke’s camaraderie carries over from the dungeon, creating an opportunity for deeper emotional connection.
