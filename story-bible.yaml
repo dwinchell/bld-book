@@ -147,14 +147,64 @@ mechanics:
 
 key-dungeons:
   - name: "The Shadow Warrens"
-    difficulty: "Moderate"
+    level: 18
     description: >
-      A labyrinthine dungeon with unpredictable layouts, ambushes, and shadow-infused monsters.
+      A labyrinthine dungeon designed for intermediate-level divers, with shadow-infused monsters and traps that test precision, timing, and teamwork. The deep shadows and unpredictable ambushes create a tense, high-stakes environment.
     threats:
-      - "Traps requiring precision and timing."
-      - "Ambushes from shadow beasts."
+      - "Traps requiring careful observation and precision to avoid or disable."
+      - "Ambushes from Shadow Predators and Phantom Stalkers, which strike from hidden corners or phase through walls to disorient and overwhelm divers."
     rewards:
-      - "Shadow-touched gear and medium-tier credits."
+      - "Shadow-touched gear, offering enhancements to stealth and agility."
+      - "Medium-tier credits that support intermediate-level gear upgrades and supplies."
+    monster-types:
+      - name: "Shadow Predator"
+        description: >
+          Agile and predatory, these creatures thrive in the dungeon’s dim corridors. They attack from the shadows with precision and vanish just as quickly, forcing divers to stay alert and react swiftly.
+      - name: "Abyssal Warden"
+        description: >
+          Large, heavily armored monsters that guard key passages or treasure rooms. Their attacks are slow but devastating, and they emit a low hum that disorients divers, making them vulnerable to ambushes.
+      - name: "Phantom Stalker"
+        description: >
+          These spectral entities phase in and out of existence, making them difficult to track or hit. They often work in pairs, using coordinated strikes to overwhelm even the most experienced divers.
+    traps:
+      - name: "Shadow Snare"
+        description: >
+          Nearly invisible strands of shadow magic stretch across narrow corridors. When triggered, they coil around the diver, immobilizing them and draining stamina or mana over time.
+        narrative-role: >
+          Builds tension by forcing the party to slow down and carefully observe their surroundings, increasing resource expenditure and creating a sense of vulnerability.
+        counter: >
+          Spotting the faint glimmer of shadow energy in the light of a torch or spell. Using ranged attacks or abilities to sever the snare from a safe distance.
+      - name: "Abyssal Pit"
+        description: >
+          Concealed by illusions, these pits appear as solid ground until a diver steps onto them. Falling into one leads to physical damage, disorientation, or a temporary debuff like blindness or slowed movement.
+        narrative-role: >
+          Punishes reckless exploration by emphasizing the labyrinthine and deceptive nature of the dungeon, adding environmental hazards to navigation.
+        counter: >
+          Careful observation of the floor’s texture or using abilities to temporarily illuminate hidden dangers.
+    other-challenges:
+      - name: "Crumbling Bridge"
+        description: >
+          A long, unstable bridge suspended over a shadowy abyss. As divers cross, sections of the bridge collapse unpredictably. In the final stretch, the entire structure begins to crumble, forcing everyone to sprint to safety.
+        narrative-role: >
+          Highlights Raven’s boldness, adaptability, and precision as she leads the way across the collapsing bridge. Her ability to react under pressure and guide the team builds Luke’s trust in her capabilities and sets the tone for their dynamic as a team.
+        counter: >
+          Careful observation of the bridge’s weak points, quick decision-making, and precise movement. In the final stretch, agility and trust between team members are critical as the bridge collapses.
+    final-boss:
+      name: "Shadow Sovereign"
+      description: >
+        A towering figure cloaked in swirling shadows, the Shadow Sovereign manipulates the dungeon’s environment to shroud itself and its attacks. Its presence radiates an oppressive aura, forcing divers to stay vigilant and adapt quickly.
+      abilities:
+        - name: "Shadow Burst"
+          description: >
+            Unleashes waves of shadow energy that disorient and damage divers in a wide area.
+        - name: "Summon Minions"
+          description: >
+            Calls forth Shadow Predators or Phantom Stalkers to swarm the party during critical moments.
+        - name: "Phase Step"
+          description: >
+            Teleports unpredictably, attacking from different angles and keeping divers off-balance.
+      narrative-role: >
+        The Shadow Sovereign is the dungeon’s ultimate challenge, a manifestation of its core power created to guard its treasures and punish trespassers.
   - name: "The Radiant Spire"
     difficulty: "Challenging"
     description: >
