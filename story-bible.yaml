@@ -39,7 +39,7 @@ story-bible:
         and the permanent, customizable System interface available exclusively to divers.
       interface:
         non-divers: >
-          Non-divers access the System via touch screens on Terminals located in public and private spaces.
+          Non-divers access the System via touch screens on Terminals located in public spaces.
         divers: >
           Upon registering as a diver, individuals gain persistent access to the System interface, which functions 
           like an augmented reality display without requiring a headset. Divers can interact with the interface using 
@@ -50,12 +50,8 @@ story-bible:
         customization: >
           The default System theme is minimalistic, featuring text and boxes similar to Terminal menus. Divers can 
           customize the interface to suit their preferences, including colors, layouts, and interaction methods.
-        projection: >
-          Divers can project their interface onto surfaces or into the air, allowing for greater flexibility and convenience. 
-          For example, Raven often projects screens onto her desk, using it like a touch screen for managing dungeon reports.
       key-features:
-        - "Technology such as computers and guns does not function inside the dungeon."
-        - "Credits earned in dungeons can be redeemed for Earth goods, dungeon gear, or converted to local currency."
+        - "Credits earned in dungeons can be redeemed at terminals for Earth goods, dungeon gear, or converted to local currency."
       societal-impact:
         - "The System has created a new class of adventurers, divers, who either seek thrills or dive out of financial necessity."
         - "Diving has reshaped the global economy, introducing credits as a valuable currency."
@@ -70,6 +66,7 @@ story-bible:
       - "Death is permanent in the dungeon; there are no second chances."
       - "Higher-level dungeons offer better rewards but require greater skill and teamwork."
       - "Content is rated by level, with higher levels requiring divers to strengthen and specialize their builds."
+      - "Technology such as computers and guns does not function inside the dungeon."
     mechanics:
       - "Completing dungeon content grants rewards like credits, gear, and experience."
       - "Credits can be redeemed at terminals or exchanged for Earth currency."
