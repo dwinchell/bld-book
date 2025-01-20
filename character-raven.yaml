@@ -21,17 +21,22 @@ personality:
   core_traits:
     - "Driven"
     - "Daring"
-    - "Rebellious"
-    - "Impetuous"
-    - "Passionate"
-    - "Assertive"
-    - "Individualistic"
-    - "Idealistic"
+    - "Pragmatic (beneath her rebellious surface)"
+    - "Independent but open to calculated partnerships"
+    - "Ambitious"
+  values:
+    - "Resilience and adaptability"
+    - "Growth through experience and challenge"
+    - "Genuine connections, though slow to trust"
+  maturity-focus:
+    - "Though bold and rebellious, Raven is deeply reflective about her goals, carefully balancing her pursuit of freedom with long-term ambitions."
+    - "She recognizes the importance of a strong support system and is willing to take measured risks to find the right partner, professionally and personally."
   quirks:
     - "Hums absentmindedly when content."
-    - "Dances slightly when celebrating or goofing around."
+    - "Dances slightly when celebrating or being playful."
     - "Good-naturedly sarcastic but abrasive when in a bad mood."
-    - "Sharp, dark sense of humor; bores easily."
+    - "Sharp, dark sense of humor"
+    - "bores easily"
 background:
   family_life:
     upbringing: >
@@ -44,11 +49,12 @@ background:
 motivations_and_fears:
   motivations:
     - "Dives for the thrill and freedom, embracing a 'live life to the fullest' philosophy."
-    - "Wants to achieve something significant but struggles to define what it looks like."
-    - "Recognizes that fame or high levels might not satisfy her deeper need for meaning."
+    - "Wants to achieve something significant with her skills and contribute meaningfully to the diving community."
+    - "Focused on career growth, seeing diving not just as a personal passion but as a stepping stone to building a legacy of her own."
+    - "Seeks a partnership that enhances her abilities and aligns with her goals, valuing capability and reliability over superficial traits."
   fears:
-    - "Fear of missing out (FOMO), worrying she’ll look back on her life and see nothing of value."
-    - "Fear of mediocrity and stagnation, driving her to push boundaries, sometimes recklessly."
+    - "Fear of stagnation, driving her to continuously push her limits."
+    - "Apprehensive about vulnerability, fearing it might undermine her independence if not managed carefully."
 combat:
   style: "Reactive and dynamic"
   movement: "dance-like. graceful and powerful. steps carefully. uses martial arts techniques. weaves through attacks and counters with precision."
