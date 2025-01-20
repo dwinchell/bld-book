@@ -61,6 +61,7 @@ scenes:
   purpose: "Introduce Raven’s classified ad and her anticipation of finding a healer."
   events:
     - "A system chime breaks Raven’s thoughts, prompting her to check her notifications."
+    - "Raven reluctantly acknowledges that solo diving is no longer sustainable, deciding that duoing with a healer is the smallest concession she can make."
     - "She reviews Luke Calloway’s profile and accepts him as her healer."
     - "Raven gears up for the dive, performing her grounding ritual with her necklace."
   sensory-details:
