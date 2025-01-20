@@ -6,10 +6,21 @@ metadata:
 
 story-foundation:
   themes:
-    - "Trust and vulnerability in relationships."
-    - "The pursuit of meaning and self-discovery."
-    - "Balancing independence and interdependence."
-    - "Growth through contrasting perspectives."
+    list-of-themes:
+      - "Trust and vulnerability in relationships."
+      - "The pursuit of meaning and self-discovery."
+      - "Balancing independence and interdependence."
+      - "Growth through contrasting perspectives."
+    recurring-motifs:
+      - description: >
+          Light and darkness symbolize Raven and Luke's contrasting personalities, classes, and mutual growth.
+          The motif evolves alongside their relationship, starting as a point of tension (recklessness vs. caution)
+          and becoming a representation of their synergy and trust.
+      usage:
+        - "Raven’s Night Dancer class thrives in shadows, reflecting her desire for independence and avoidance of vulnerability."
+        - "Luke’s Dawnbringer class embodies his cautious, protective nature, symbolized by healing light."
+        - "As they grow closer, moments of literal light and shadow in dungeons mirror their developing partnership."
+
   goals:
     narrative-goals:
       - "Showcase a compelling romance that develops through teamwork and shared challenges."

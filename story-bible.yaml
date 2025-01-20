@@ -113,17 +113,27 @@ society:
 
   mechanics:
     classes:
-      - name: "Night Dancer"
-        summary: >
-          An agile, shadow-infused tank who generates Flow through precision and deliberate actions.
-        details-file: "classes/night_dancer.yaml"
-      - name: "Dawnbringer"
-        summary: >
-          A light-based healer specializing in high-output, reactive healing and protective magic.
-        details-file: "classes/dawnbringer.yaml"
+      list:
+        - name: "Night Dancer"
+          summary: >
+            An agile, shadow-infused tank who generates Flow through precision and deliberate actions.
+          details-file: "classes/night_dancer.yaml"
+        - name: "Dawnbringer"
+          summary: >
+            A light-based healer specializing in high-output, reactive healing and protective magic.
+          details-file: "classes/dawnbringer.yaml"
+      recurring-motifs:
+        - name: "Light and Darkness"
+            symbolism: >
+              This motif symbolizes the inherent duality between Raven and Luke. It is reinforced through their classes:
+              Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
+              The motif is central to the aesthetic and emotional tone of their dungeon dives.
+            visual-details:
+              - "Dungeon environments frequently juxtapose areas of intense light and shadow, creating symbolic backdrops for their partnership."
+              - "Gear and abilities reflect the motif, with Raven’s dark armor and shadow-infused abilities contrasting Luke’s paladin gear and radiant light magic."
 
   key-dungeons:
-    - name: "The Shadowed Warrens"
+    - name: "The Shadow Warrens"
       difficulty: "Moderate"
       description: >
         A labyrinthine dungeon with unpredictable layouts, ambushes, and shadow-infused monsters.
@@ -134,11 +144,5 @@ society:
         - "Shadow-touched gear and medium-tier credits."
 
   story-elements:
-    emotional-beats:
-      - "Raven reflects on her fear of mediocrity and desire for meaning."
-      - "Luke grapples with the pressure of responsibility and his fear of attachment."
     recurring-motifs:
-      - "Light and darkness as symbols of their contrasting personalities and mutual growth."
-      - "Necklaces as symbols of grounding and personal meaning."
-    tone:
-      - "Dynamic mix of tension, introspection, and emotional intimacy."
+      - "Light and darkness as symbols of Raven and Luke's contrasting personalities, classes, and mutual growth."
