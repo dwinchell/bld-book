@@ -11,6 +11,7 @@ acts:
     key-emotional-beats:
       - "Raven struggles with feeling trapped in her parents’ house, despite the freedom her room’s design represents."
     chapters:
+
       - chapter: "Shadows and Frustrations"
         file: "chapter-shadows-and-frustrations.yaml"
         purpose: >
@@ -18,44 +19,59 @@ acts:
         perspective: "Raven"
         key-emotional-beats:
           - "Frustration transitions into resolve as she takes steps to overcome her limitations."
+          - "Raven’s gothic room symbolizes her independence and clashes with family expectations."
         tone:
           - "Introspective and reflective, focusing on Raven’s internal frustrations."
         pacing:
           min-words: 1800
           max-words: 2500
+        connection-to-next-chapter: >
+          Raven’s classified ad leads directly to Luke’s consideration of it in the next chapter.
+
       - chapter: "The Healer’s Call"
         file: "chapter-the-healers-call.yaml"
-        perspective: "Luke"        
         purpose: >
-          Introduce Luke’s cautious nature and motivations as he decides to partner with Raven.
+          Introduce Luke’s cautious nature and motivations, culminating in his decision to partner with Raven.
+        perspective: "Luke"
         key-emotional-beats:
           - "Reluctance gives way to cautious curiosity about Raven and her bold style."
+          - "Luke begins to mentally prepare for the challenges of working with a new and dynamic partner."
         tone:
           - "Measured and cautious, reflecting Luke’s calculated approach to new partnerships."
         pacing:
-          min-words: 2800
-          max-words: 3300
+          min-words: 1500
+          max-words: 2500
+        connection-to-next-chapter: >
+          Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
+
       - chapter: "First Impressions"
         file: "chapter-first-impressions.yaml"
-        perspective: "Raven"
         purpose: >
-          The first part of Raven and Luke’s first dungeon dive showcases their contrasting styles and the challenges of working together.
+          Establish Raven and Luke’s dynamic by highlighting their contrasting personalities, diving styles, and the tension between them.
+          Begin the first part of an arc toward effective teamwork.
+        perspective: "Luke"
         key-emotional-beats:
-          - "Initial skepticism begins to give way to tentative trust as they start to understand each other."
+          - "Raven’s confidence and boldness clash with Luke’s caution and deliberation, creating initial friction."
+          - "Hints of mutual respect and compatibility emerge despite their differences."
+          - "Early dungeon interactions highlight their strengths and weaknesses, escalating the stakes."
         tone:
-          - "Tense and action-driven, with moments of mutual recognition."
+          - "Tense and observational, transitioning into cautious cooperation."
+        connection-to-next-chapter: >
+          A dangerous situation in the dungeon forces them to rely on each other, leading into Chapter 4, where trust begins to form.
+
       - chapter: "Trust in Shadows"
         file: "trust-in-shadows.yaml"
         purpose: >
           The challenges of the dungeon force Raven and Luke to rely on each other, planting the seeds of trust and respect.
+        perspective: "Alternating"
         key-emotional-beats:
           - "The beginnings of mutual admiration through teamwork."
           - "Raven realizes that her independence doesn’t have to come at the cost of partnership."
         tone:
           - "Suspenseful and emotionally charged, emphasizing teamwork under pressure."
-        pacing:
-          min-words: 3400
-          max-words: 4000
+        connection-to-next-chapter: >
+          Their shared success in the dungeon dive sets the stage for a celebratory and triumphant tone in the next chapter.
+
       - chapter: "The First Victory"
         file: "the-first-victory.yaml"
         purpose: >
