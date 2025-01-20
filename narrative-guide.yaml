@@ -224,15 +224,22 @@ narrative-dynamics:
           resolution:
             - "Overcomes fear of loss, committing fully to Raven and their shared goals."
 
-  relationship-arcs:
-    - characters: [Luke, Raven]
-      internal:
-        - "Luke’s fear of attachment hinders his ability to open up to Raven."
-        - "Raven struggles with her fear of reliance and trust."
-      interpersonal:
-        - "Their contrasting diving styles (Luke’s caution vs. Raven’s recklessness) create friction."
-        - "Everyday interactions reveal their growing comfort and trust, such as moments of casual banter or shared vulnerability."
-        - "Over time, shared challenges foster trust, mutual admiration, and romantic tension."
-      external:
-        - "The dungeon’s life-threatening challenges force them to work together."
-        - "External events, like the charity gala, create moments of personal and relational growth."
+relationship-arcs:
+  - characters: [Luke, Raven]
+    stages:
+      start: >
+        Strangers with clashing personalities and fears, struggling to find common ground in their approaches to diving.
+      middle: >
+        Tentative trust forms as shared experiences reveal their strengths and vulnerabilities, deepening their connection.
+      end: >
+        Lovers whose emotional bond underpins their seamless teamwork, symbolizing their growth as individuals and as partners.
+    internal:
+      - "Luke’s fear of attachment hinders his ability to open up to Raven."
+      - "Raven struggles with her fear of reliance and trust."
+    interpersonal:
+      - "Their contrasting diving styles (Luke’s caution vs. Raven’s recklessness) create friction, forcing each to confront their internal fears: Luke’s fear of losing others and Raven’s fear of dependence."
+      - "Everyday interactions reveal their growing comfort and trust, such as moments of casual banter or shared vulnerability."
+      - "Over time, shared challenges foster trust, mutual admiration, and romantic tension."
+    external:
+      - "The dungeon’s life-threatening challenges force them to work together."
+      - "External events, like the charity gala, create moments of personal and relational growth."
