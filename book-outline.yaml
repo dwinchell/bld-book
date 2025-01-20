@@ -104,28 +104,30 @@ acts:
         tone:
           - "Suspenseful and emotionally charged, emphasizing teamwork under pressure."
         connection-to-next-chapter: >
-          TBD
+          Their shared success in navigating the dungeon’s challenges leads directly into their boss encounter in the next chapter.
 
       - chapter: "The First Boss"
         file: "the-first-boss.yaml"
         purpose: >
-          Raven and Luke face their first boss together, cementing their camaraderie through a shared sense of accomplishment.
+          Raven and Luke face their first boss together, testing their teamwork under high stakes. 
+          Their victory cements their camaraderie and marks a turning point in their partnership.
         perspective: "Raven"
         relationship-arc:
           start: >
-            Raven and Luke’s improved teamwork carries them into the boss fight, where their synergy is tested.
+            Raven and Luke’s improved teamwork carries them into the boss fight, where their synergy is tested under pressure.
           progression: >
-            Through their collaboration and growing trust, they successfully defeat the boss, solidifying their partnership.
+            Through moments of tension, crisis, and trust, they begin to act in true synergy, showcasing their complementary strengths.
           end: >
-            Their shared victory fosters camaraderie and pride, marking a turning point in their functional teamwork.
+            Their victory solidifies their partnership and fosters a sense of pride and camaraderie, setting the stage for emotional connection in the next chapter.
         key-emotional-beats:
-          - "The first signs of mutual enjoyment in working together and a shared sense of accomplishment."
-          - "Raven’s subtle invitation hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
+          - "Initial tension as their contrasting styles create missteps and near-failures."
+          - "A moment of crisis forces them to trust each other fully, leading to a breakthrough in their teamwork."
+          - "The shared thrill of victory marks a turning point, with Raven feeling pride in their partnership and Luke appreciating her boldness."
+          - "Raven’s subtle invitation for a celebratory drink hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
         tone:
-          - "TBD"
-        pacing:
-          min-words: 3500
-          max-words: 4000
+          - "Tense and suspenseful during the fight, transitioning to triumphant in the resolution."
+        connection-to-next-chapter: >
+          Their shared sense of accomplishment transitions naturally into a celebratory drink in the next chapter, where camaraderie deepens.
 
       - chapter: "A Drink"
         file: "the-invitation.yaml"
