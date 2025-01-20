@@ -8,6 +8,16 @@ acts:
     purpose: >
       Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
       Establish the stakes for the dungeon dives and the emotional tension between Raven and Luke.
+    relationship-arc:
+      start: >
+        Raven and Luke begin as strangers with clashing personalities and contrasting diving styles.
+      progression: >
+        The act focuses on their initial tension and misunderstandings, with moments of cautious curiosity and surface-level admiration. 
+        By the end of the act, they establish functional teamwork and a baseline level of mutual respect, setting up deeper trust and emotional growth in Act 2.
+      key-beats:
+        - "Luke accepts Raven’s classified ad, intrigued despite his cautious nature."
+        - "Their initial meeting highlights their contrasting personalities and diving styles, creating tension."
+        - "A shared victory over their first dungeon boss sparks the beginnings of camaraderie and tentative trust."
     key-emotional-beats:
       - "Raven struggles with feeling trapped in her parents’ house, despite the freedom her room’s design represents."
     chapters:
@@ -16,6 +26,11 @@ acts:
         file: "chapter-shadows-and-frustrations.yaml"
         purpose: >
           Raven struggles with soloing limits and her family’s expectations, leading to her decision to post a classified ad for a healer.
+        relationship-arc:
+          start: >
+            Raven’s independence and frustration with her limits lead her to reluctantly consider working with someone else.
+          progression: >
+            The act of placing the classified ad is a small but significant step toward acknowledging her vulnerability.
         perspective: "Raven"
         key-emotional-beats:
           - "Frustration transitions into resolve as she takes steps to overcome her limitations."
@@ -33,6 +48,11 @@ acts:
         purpose: >
           Introduce Luke’s cautious nature and motivations, culminating in his decision to partner with Raven.
         perspective: "Luke"
+        relationship-arc:
+          start: >
+            Luke’s sense of responsibility and fear of attachment make him reluctant to form new partnerships.
+          progression: >
+            Despite his initial hesitations, Luke accepts Raven’s classified ad, intrigued by her bold style and driven by financial need and curiosity.
         key-emotional-beats:
           - "Reluctance gives way to cautious curiosity about Raven and her bold style."
           - "Luke begins to mentally prepare for the challenges of working with a new and dynamic partner."
@@ -50,6 +70,13 @@ acts:
           Establish Raven and Luke’s dynamic by highlighting their contrasting personalities, diving styles, and the tension between them.
           Begin the first part of an arc toward effective teamwork.
         perspective: "Luke"
+        relationship-arc:
+          start: >
+            Raven and Luke’s first meeting reveals immediate tension due to their clashing personalities and styles.
+          progression: >
+            As they face early dungeon challenges, their friction escalates, but a moment of crisis forces them to adapt to each other’s strengths.
+          end: >
+            By the end of the chapter, they achieve a baseline level of functional teamwork, with hints of respect beginning to form.
         key-emotional-beats:
           - "Raven’s confidence and boldness clash with Luke’s caution and deliberation, creating initial friction."
           - "Hints of mutual respect and compatibility emerge despite their differences."
@@ -64,6 +91,13 @@ acts:
         purpose: >
           The challenges of the dungeon force Raven and Luke to rely on each other, planting the seeds of trust and respect.
         perspective: "Alternating"
+        relationship-arc:
+          start: >
+            Despite their earlier friction, Raven and Luke begin to trust each other as they navigate the dungeon’s dangers.
+          progression: >
+            Their teamwork improves as they recognize how their contrasting styles can complement each other under pressure.
+          end: >
+            By the end of the chapter, trust and respect are beginning to replace initial tension, paving the way for synergy.
         key-emotional-beats:
           - "The beginnings of mutual admiration through teamwork."
           - "Raven realizes that her independence doesn’t have to come at the cost of partnership."
@@ -76,6 +110,13 @@ acts:
         file: "the-first-victory.yaml"
         purpose: >
           Raven and Luke face their first boss together, cementing their camaraderie through a shared sense of accomplishment.
+        relationship-arc:
+          start: >
+            Raven and Luke’s improved teamwork carries them into the boss fight, where their synergy is tested.
+          progression: >
+            Through their collaboration and growing trust, they successfully defeat the boss, solidifying their partnership.
+          end: >
+            Their shared victory fosters camaraderie and pride, marking a turning point in their functional teamwork.
         key-emotional-beats:
           - "The first signs of mutual enjoyment in working together and a shared sense of accomplishment."
           - "Raven’s subtle invitation hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
@@ -88,6 +129,13 @@ acts:
         file: "the-invitation.yaml"
         purpose: >
           Raven and Luke share a drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
+        relationship-arc:
+          start: >
+            Raven and Luke’s camaraderie carries over from the dungeon, creating an opportunity for deeper emotional connection.
+          progression: >
+            Their playful banter gives way to tentative vulnerability, revealing glimpses of trust and admiration.
+          end: >
+            By the end of the chapter, their emotional connection has strengthened, setting the stage for more intimate growth in Act 2.
         key-emotional-beats:
           - "The growing chemistry between Raven and Luke is palpable, though both hold back their vulnerabilities."
         tone:
@@ -101,6 +149,16 @@ acts:
     purpose: >
       Develop Raven and Luke’s partnership as they face external challenges and internal conflicts, leading to mutual growth.
       Highlight their evolving dynamic as trust deepens and tension arises from their contrasting personalities and pasts.
+    relationship-arc:
+      start: >
+        Having established tentative trust in Act 1, Raven and Luke’s partnership is tested as they face greater challenges.
+      progression: >
+        Act 2 focuses on building emotional closeness and stronger teamwork, with setbacks caused by their internal fears and clashing approaches. 
+        Moments of vulnerability and shared danger deepen their bond.
+      key-beats:
+        - "A high-stakes dungeon dive forces them to rely on each other, solidifying trust."
+        - "Personal conflicts arise, such as Raven’s impulsiveness hindering teamwork and Luke’s over-caution creating hesitation."
+        - "Intimate bonding moments outside of dives reveal vulnerabilities and build romantic tension."
     chapters:
       - chapter: "A Dangerous Dive"
         file: "a-dangerous-dive.yaml"
@@ -144,6 +202,17 @@ acts:
     purpose: >
       Resolve Raven and Luke’s conflicts, showing how their partnership allows them to overcome challenges and grow as individuals.
       Conclude with a climactic dungeon dive that solidifies their bond and establishes their future as partners.
+    relationship-arc:
+      start: >
+        By the start of Act 3, Raven and Luke have built a strong emotional and professional connection.
+      progression: >
+        Act 3 focuses on resolving their remaining fears and conflicts, culminating in full emotional vulnerability and seamless teamwork.
+      end: >
+        Their love and partnership are solidified as they achieve victory together, symbolizing their growth as individuals and as a team.
+      key-beats:
+        - "Raven and Luke fully trust each other, embracing vulnerability in both life and combat."
+        - "A climactic challenge forces them to synchronize their strengths, blending light and shadow into a powerful metaphor for their relationship."
+        - "Their shared victory cements their partnership, both romantically and professionally."    
     chapters:
       - chapter: "The Final Dive"
         file: "the-final-dive.yaml"
