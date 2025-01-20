@@ -8,6 +8,8 @@ acts:
     purpose: >
       Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
       Establish the stakes for the dungeon dives and the emotional tension between Raven and Luke.
+    key-emotional-beats:
+      - "Raven struggles with feeling trapped in her parents’ house, despite the freedom her room’s design represents."
     chapters:
       - chapter: "Introduction to Raven"
         file: "introduction-to-raven.yaml"
