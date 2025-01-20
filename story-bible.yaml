@@ -29,14 +29,31 @@ story-bible:
 
     system:
       description: >
-        The System is a mysterious video-game-like construct that integrates with human society and grants access 
-        to dungeons, adventuring classes, and rewards. It reshaped the world after appearing in 2000.
+        The System is a mysterious construct with a user interface reminiscent of video-game menus and heads-up displays.
+        It integrates with human society and grants access to dungeons, adventuring classes, and rewards.
       origins: >
         The System integration event occurred in 2000 when terminals mysteriously appeared overnight across the globe.
         No one knows the origins of the System, but its presence has become normalized in society.
+        registration: >
+        Any human aged 18 or older can register as a diver by visiting a Terminal. Registration grants them access to dungeons 
+        and the permanent, customizable System interface available exclusively to divers.
+      interface:
+        non-divers: >
+          Non-divers access the System via touch screens on Terminals located in public and private spaces.
+        divers: >
+          Upon registering as a diver, individuals gain persistent access to the System interface, which functions 
+          like an augmented reality display without requiring a headset. Divers can interact with the interface using 
+          thought or a chosen method, such as hand gestures.
+        hud: >
+          Divers start with a heads-up display (HUD) that shows basic status information, including health, cooldowns, 
+          and monster names once visual contact is established. Abilities can expand HUD functionality.
+        customization: >
+          The default System theme is minimalistic, featuring text and boxes similar to Terminal menus. Divers can 
+          customize the interface to suit their preferences, including colors, layouts, and interaction methods.
+        projection: >
+          Divers can project their interface onto surfaces or into the air, allowing for greater flexibility and convenience. 
+          For example, Raven often projects screens onto her desk, using it like a touch screen for managing dungeon reports.
       key-features:
-        - "Terminals resemble kiosks with screens and vending-machine-style openings."
-        - "Terminals are located in convenient locations within population centers."
         - "Technology such as computers and guns does not function inside the dungeon."
         - "Credits earned in dungeons can be redeemed for Earth goods, dungeon gear, or converted to local currency."
       societal-impact:
@@ -44,19 +61,19 @@ story-bible:
         - "Diving has reshaped the global economy, introducing credits as a valuable currency."
         - "Divers are both admired for their bravery and seen as reckless or desperate."
 
-    dungeons:
-      description: >
-        Dungeons are mysterious, dangerous places associated with the System and accessed through portals on Earth.
-        They contain traps, monsters, and treasures, constantly reshaping their layouts and threats.
-      key-details:
-        - "Mortality rate: 80% of divers die within the first five years of diving."
-        - "Death is permanent in the dungeon; there are no second chances."
-        - "Higher-level dungeons offer better rewards but require greater skill and teamwork."
-        - "Content is rated by level, with higher levels requiring divers to strengthen and specialize their builds."
-      mechanics:
-        - "Completing dungeon content grants rewards like credits, gear, and experience."
-        - "Credits can be redeemed at terminals or exchanged for Earth currency."
-        - "Dungeons adapt to group size and level, scaling difficulty dynamically."
+  dungeons:
+    description: >
+      Dungeons are mysterious, dangerous places associated with the System and accessed through portals on Earth.
+      They contain traps, monsters, and treasures, constantly reshaping their layouts and threats.
+    key-details:
+      - "Mortality rate: 80% of divers die within the first five years of diving."
+      - "Death is permanent in the dungeon; there are no second chances."
+      - "Higher-level dungeons offer better rewards but require greater skill and teamwork."
+      - "Content is rated by level, with higher levels requiring divers to strengthen and specialize their builds."
+    mechanics:
+      - "Completing dungeon content grants rewards like credits, gear, and experience."
+      - "Credits can be redeemed at terminals or exchanged for Earth currency."
+      - "Dungeons adapt to group size and level, scaling difficulty dynamically."
 
 society:
   setting: >
