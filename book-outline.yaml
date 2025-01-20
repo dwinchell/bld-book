@@ -24,8 +24,11 @@ acts:
 
       - chapter: "Shadows and Frustrations"
         file: "chapter-shadows-and-frustrations.yaml"
-        purpose: >
-          Raven struggles with soloing limits and her family’s expectations, leading to her decision to post a classified ad for a healer.
+        plot-summary: >
+          Raven struggles with her frustrations as a solo diver, reflecting on her recent failures and the expectations placed on her by her family. 
+          She reluctantly places a classified ad for a healer, seeking a partner to overcome her limits.
+        narrative-purpose: >
+          This chapter introduces Raven’s internal struggles and sets up her decision to post the classified ad, marking her first step toward acknowledging the need for partnership.
         relationship-arc:
           start: >
             Raven’s independence and frustration with her limits lead her to reluctantly consider working with someone else.
@@ -45,8 +48,11 @@ acts:
 
       - chapter: "The Healer’s Call"
         file: "chapter-the-healers-call.yaml"
-        purpose: >
-          Introduce Luke’s cautious nature and motivations, culminating in his decision to partner with Raven.
+        plot-summary: >
+          Luke wakes up to a System notification about Raven’s classified ad. 
+          He deliberates over accepting the job, reflecting on his cautious nature and financial needs, before ultimately deciding to partner with her.
+        narrative-purpose: >
+          This chapter introduces Luke’s cautious, pragmatic personality and motivations, establishing his initial reluctance to form new bonds and setting up his first meeting with Raven.
         perspective: "Luke"
         relationship-arc:
           start: >
@@ -66,9 +72,12 @@ acts:
 
       - chapter: "First Impressions"
         file: "chapter-first-impressions.yaml"
-        purpose: >
-          Establish Raven and Luke’s dynamic by highlighting their contrasting personalities, diving styles, and the tension between them.
-          Begin the first part of an arc toward effective teamwork.
+        plot-summary: >
+          Raven and Luke meet for the first time at the dungeon staging area. 
+          Their initial interactions are tense due to their contrasting personalities, but they agree to proceed into the dungeon together. 
+          Early challenges highlight their differences and lead to a moment of crisis where they begin to adapt to each other’s strengths.
+        narrative-purpose: >
+          This chapter establishes Raven and Luke’s dynamic and sets the stage for their teamwork arc by introducing tension, friction, and the first steps toward functional collaboration.
         perspective: "Raven"
         relationship-arc:
           start: >
@@ -88,8 +97,11 @@ acts:
 
       - chapter: "Trust in Shadows"
         file: "trust-in-shadows.yaml"
-        purpose: >
-          The challenges of the dungeon force Raven and Luke to rely on each other, planting the seeds of trust and respect.
+        plot-summary: >
+          Inside the dungeon, Raven and Luke face increasingly difficult challenges that force them to rely on each other. 
+          They begin to recognize how their contrasting styles complement each other, leading to improved teamwork and mutual respect.
+        narrative-purpose: >
+          This chapter plants the seeds of trust between Raven and Luke, advancing their teamwork arc and showing how shared challenges bring them closer as partners.
         perspective: "Luke"
         relationship-arc:
           start: >
@@ -108,9 +120,12 @@ acts:
 
       - chapter: "The First Boss"
         file: "the-first-boss.yaml"
-        purpose: >
-          Raven and Luke face their first boss together, testing their teamwork under high stakes. 
-          Their victory cements their camaraderie and marks a turning point in their partnership.
+        plot-summary: >
+          Raven and Luke enter the boss room and face their first major challenge together. 
+          Their initial attempts to coordinate falter, but a moment of crisis forces them to trust each other. 
+          They combine their unique strengths to defeat the boss and claim their reward.
+        narrative-purpose: >
+          This chapter tests Raven and Luke’s teamwork under pressure, showcasing their growth as partners and setting up the trust and camaraderie that will deepen in subsequent chapters.
         perspective: "Raven"
         relationship-arc:
           start: >
@@ -131,9 +146,11 @@ acts:
 
       - chapter: "A Drink"
         file: "the-invitation.yaml"
-        purpose: >
-          Raven and Luke share a celebratory drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
-        perspective: "Luke"
+        plot-summary: >
+          Raven and Luke share a celebratory drink after their dungeon success. 
+          Playful banter gives way to moments of vulnerability as they bond over their pasts, deepening their relationship.
+        narrative-purpose: >
+          This chapter provides emotional relief after the tension of the boss fight, deepening Raven and Luke’s connection and setting the stage for their emotional growth in Act 2.        perspective: "Luke"
         relationship-arc:
           start: >
             Raven and Luke’s camaraderie carries over from the dungeon, creating an opportunity for deeper emotional connection.
