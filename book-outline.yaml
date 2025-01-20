@@ -96,7 +96,7 @@ acts:
           A dangerous situation in the dungeon forces them to rely on each other, leading into the next chapter, where trust begins to form.
 
       - chapter: "Trust in Shadows"
-        file: "trust-in-shadows.yaml"
+        file: "chapter-trust-in-shadows.yaml"
         plot-summary: >
           Inside the dungeon, Raven and Luke face increasingly difficult challenges that force them to rely on each other. 
           They begin to recognize how their contrasting styles complement each other, leading to improved teamwork and mutual respect.
@@ -119,7 +119,7 @@ acts:
           Their shared success in navigating the dungeon’s challenges leads directly into their boss encounter in the next chapter.
 
       - chapter: "The First Boss"
-        file: "the-first-boss.yaml"
+        file: "chapter-the-first-boss.yaml"
         plot-summary: >
           Raven and Luke enter the boss room and face their first major challenge together. 
           Their initial attempts to coordinate falter, but a moment of crisis forces them to trust each other. 
@@ -145,7 +145,7 @@ acts:
           Their shared sense of accomplishment transitions naturally into a celebratory drink in the next chapter, where camaraderie deepens.
 
       - chapter: "A Drink"
-        file: "the-invitation.yaml"
+        file: "chapter-a-drink.yaml"
         plot-summary: >
           Raven and Luke share a celebratory drink after their dungeon success. 
           Playful banter gives way to moments of vulnerability as they bond over their pasts, deepening their relationship.
