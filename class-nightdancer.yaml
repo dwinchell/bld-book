@@ -5,6 +5,9 @@ theme: >
   An agile, shadow-infused tank who combines graceful movement and deliberate defense to dominate the battlefield.
   The Night Dancer thrives on precision, using her unique ability to intentionally block or grab attacks, generating power through her resource, Flow, to unleash devastating and sustaining abilities.
 
+recurring-motif-integration:
+  - "abilities produce shadows, shadowy aparitions, dark auras or darken the setting, symbolizing adaptability, mystery and independence"
+
 resource:
   name: flow
   description: >
@@ -23,11 +26,14 @@ abilities:
 
  - name: Nightfall Veil
     type: offensive
+    cooldown: 1 hour
     cast_time: instant
     effect:
       - reduces enemy accuracy and movement speed in a radius for 8 seconds.
     cost: flow
-    use_case: mitigating incoming damage and controlling the battlefield.
+    use_case: an "ultimate" ability, for mitigating incoming damage and controlling the battlefield.
+    recurring-motif-integration:
+      - "envelops the area in shadows, enhancing agility and making the Night Dancer harder to target, symbolizing independence and control."
 
   - name: Aegis
     type: defensive

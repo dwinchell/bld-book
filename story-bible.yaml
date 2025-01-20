@@ -99,6 +99,10 @@ society:
         - "Raven’s parents believe she should channel her diving skills into creating a guild or business that benefits society."
         - "This expectation fuels tension between Raven’s independent, thrill-seeking nature and her family’s values of responsibility and legacy."
 
+  cultural-symbolism:
+    - "Light is often associated with healing, safety, and unity in adventurer culture, while shadows symbolize adaptability, mystery, and independence."
+    - "The dichotomy of light and shadow is seen in popular media and guild banners, reinforcing its resonance among divers."
+
 characters:
   - name: "Raven Blackwood"
     class: "Night Dancer"

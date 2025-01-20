@@ -4,6 +4,9 @@ name: Dawnbringer
 theme: >
   A paladin-style healer harnessing light for powerful, reactive heals and protective magic.
 
+recurring-motif-integration:
+  - "abilities radiate visible light, brighten the setting, or produce light auras, symbolizing healing, safety, and unity"
+
 resource:
   name: mana
   description: Used to fuel abilities with strategic trade-offs between efficiency and power.
