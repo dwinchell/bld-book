@@ -41,8 +41,8 @@ acts:
         tone:
           - "Introspective and reflective, focusing on Raven’s internal frustrations."
         pacing:
-          min-words: 1800
-          max-words: 2500
+          min-words: 1500
+          max-words: 2000
         connection-to-next-chapter: >
           Raven’s classified ad leads directly to Luke’s consideration of it in the next chapter.
 

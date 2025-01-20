@@ -27,8 +27,8 @@ tone:
   - "Introspective and reflective, focusing on Raven’s internal frustrations."
 
 pacing:
-  min-words: 1800
-  max-words: 2500
+  min-words: 1500
+  max-words: 2000
 
 scenes:
   - title: "Frustration in Shadows"
@@ -43,8 +43,8 @@ scenes:
       - "Shadows from faux candles in wrought iron fixtures ripple across the room’s gothic decor: deep plum walls, heavy velvet curtains, and antique furniture accented with silver and onyx."
       - "The cool weight of her raven necklace grounds her as she flips through her gear, its sharp edges pressing into her palm as if urging her to move forward."
     pacing:
-      min-words: 900
-      max-words: 1100
+      min-words: 600
+      max-words: 800
     transition-notes: >
       Raven’s growing irritation transitions into her mom’s interruption about the charity gala.
     ending-style: >
@@ -62,8 +62,8 @@ scenes:
       - "Raven’s sharp sigh and impatient tapping of her fingers on her desk."
       - "The glow of notifications reflecting on her face as she listens with growing frustration."
     pacing:
-      min-words: 1000
-      max-words: 1200
+      min-words: 400
+      max-words: 600
     transition-notes: >
       Raven’s reluctant agreement sets up her resolve to find a healer as an escape from family pressures.
     ending-style: >
@@ -82,8 +82,8 @@ scenes:
       - "Raven’s eyes scan the glowing interface, her brow furrowing in concentration."
       - "The soft rustle of her gear and the cool shimmer of her cloth armor as she prepares for the dive."
     pacing:
-      min-words: 900
-      max-words: 1100
+      min-words: 500
+      max-words: 600
     transition-notes: >
       Raven’s classified ad sets the stage for Luke’s decision to respond in the next chapter.
     ending-style: >
