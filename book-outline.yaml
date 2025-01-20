@@ -20,8 +20,8 @@ acts:
         tone:
           - "Introspective and reflective, focusing on Raven’s internal frustrations."
         pacing:
-          min-words: 3000
-          max-words: 3500
+          min-words: 1800
+          max-words: 2500
       - chapter: "The Healer’s Call"
         file: "the-healers-call.yaml"
         purpose: >
