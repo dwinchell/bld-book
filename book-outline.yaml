@@ -84,7 +84,7 @@ acts:
         tone:
           - "Tense and observational, transitioning into cautious cooperation."
         connection-to-next-chapter: >
-          A dangerous situation in the dungeon forces them to rely on each other, leading into Chapter 4, where trust begins to form.
+          A dangerous situation in the dungeon forces them to rely on each other, leading into the next chapter, where trust begins to form.
 
       - chapter: "Trust in Shadows"
         file: "trust-in-shadows.yaml"
@@ -104,10 +104,10 @@ acts:
         tone:
           - "Suspenseful and emotionally charged, emphasizing teamwork under pressure."
         connection-to-next-chapter: >
-          Their shared success in the dungeon dive sets the stage for a celebratory and triumphant tone in the next chapter.
+          TBD
 
-      - chapter: "The First Victory"
-        file: "the-first-victory.yaml"
+      - chapter: "The First Boss"
+        file: "the-first-boss.yaml"
         purpose: >
           Raven and Luke face their first boss together, cementing their camaraderie through a shared sense of accomplishment.
         perspective: "Raven"
@@ -122,14 +122,15 @@ acts:
           - "The first signs of mutual enjoyment in working together and a shared sense of accomplishment."
           - "Raven’s subtle invitation hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
         tone:
-          - "Triumphant and lighthearted, contrasting the tension of the fight."
+          - "TBD"
         pacing:
           min-words: 3500
           max-words: 4000
-      - chapter: "The Invitation"
+
+      - chapter: "A Drink"
         file: "the-invitation.yaml"
         purpose: >
-          Raven and Luke share a drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
+          Raven and Luke share a celebratory drink, bonding over playful banter and glimpses into their pasts, deepening their relationship.
         perspective: "Luke"
         relationship-arc:
           start: >
