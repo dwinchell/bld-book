@@ -124,14 +124,19 @@ society:
           details-file: "classes/dawnbringer.yaml"
       recurring-motifs:
         - name: "Light and Darkness"
-            symbolism: >
-              This motif symbolizes the inherent duality between Raven and Luke. It is reinforced through their classes:
-              Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
-              The motif is central to the aesthetic and emotional tone of their dungeon dives.
-            visual-details:
-              - "Dungeon environments frequently juxtapose areas of intense light and shadow, creating symbolic backdrops for their partnership."
-              - "Gear and abilities reflect the motif, with Raven’s dark armor and shadow-infused abilities contrasting Luke’s paladin gear and radiant light magic."
-
+          symbolism: >
+            This motif symbolizes the inherent duality between Raven and Luke. It is reinforced through their classes:
+            Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
+            The motif is central to the aesthetic and emotional tone of their dungeon dives.
+            Reference: See "Recurring Motifs" under Themes, Narrative Guide.
+          progression: >
+            Early dungeon dives highlight their clashing styles: Raven’s shadows obscure Luke’s light, and his protective 
+            tendencies limit her bold maneuvers. Over time, they learn to complement each other, with light and shadow working 
+            together seamlessly. In the final dungeon, synchronized light and shadow abilities visually symbolize their mutual trust.
+          visual-details:
+            - "Dungeon environments frequently juxtapose areas of intense light and shadow, creating symbolic backdrops for their partnership."
+            - "Gear and abilities reflect the motif, with Raven’s dark armor and shadow-infused abilities contrasting Luke’s paladin gear and radiant light magic."
+  
   key-dungeons:
     - name: "The Shadow Warrens"
       difficulty: "Moderate"
@@ -146,3 +151,4 @@ society:
   story-elements:
     recurring-motifs:
       - "Light and darkness as symbols of Raven and Luke's contrasting personalities, classes, and mutual growth."
+        reference: See "Recurring Motifs" in Themes, Narrative Guide.
