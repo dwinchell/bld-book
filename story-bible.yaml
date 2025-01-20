@@ -100,8 +100,11 @@ society:
         - "This expectation fuels tension between Raven’s independent, thrill-seeking nature and her family’s values of responsibility and legacy."
 
   cultural-symbolism:
-    - "Light is often associated with healing, safety, and unity in adventurer culture, while shadows symbolize adaptability, mystery, and independence."
-    - "The dichotomy of light and shadow is seen in popular media and guild banners, reinforcing its resonance among divers."
+    light-and-darkness:
+      - "Light is often associated with healing, safety, and unity in adventurer culture, while shadows symbolize adaptability, mystery, and independence."
+      - "The dichotomy of light and shadow is seen in popular media and guild banners, reinforcing its resonance among divers."
+      - "Guild banners and names often draw from light and shadow imagery, reflecting their values or strategy."
+      - "Diver initiation ceremonies sometimes feature symbolic tests in light or shadow environments, emphasizing adaptability or resilience."
 
 characters:
   - name: "Raven Blackwood"
@@ -163,3 +166,22 @@ story-elements:
     recurring-motifs:
       - "Light and darkness as symbols of Raven and Luke's contrasting personalities, classes, and mutual growth."
         reference: See "Recurring Motifs" in Themes, Narrative Guide.
+
+glossary:
+  light-and-darkness:
+    description: >
+      A recurring motif symbolizing the duality and harmony between Raven and Luke, tied to their abilities, personalities, and class mechanics.
+    references:
+      - "Classes: Night Dancer and Dawnbringer"
+      - "Key Dungeons: Shadow Warrens and Radiant Spire"
+      - "Cultural Symbolism in Society"
+  flow:
+    description: >
+      The primary resource used by Night Dancers, generated through precision actions like dodging or blocking.
+    references:
+      - "Classes: Night Dancer"
+  mana:
+    description: >
+      The primary resource used by Dawnbringers to fuel light-based healing abilities.
+    references:
+      - "Classes: Dawnbringer"
