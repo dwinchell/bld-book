@@ -33,7 +33,7 @@ abilities:
     cost: flow
     use_case: an "ultimate" ability, for mitigating incoming damage and controlling the battlefield.
     recurring-motif-integration:
-      - "envelops the area in shadows, enhancing agility and making the Night Dancer harder to target, symbolizing independence and control."
+      - "Nightfall Veil envelops the battlefield in shadows, symbolizing Raven’s isolation at the story’s start. Over time, her use of this ability transforms to signify protective teamwork."
 
   - name: Aegis
     type: defensive

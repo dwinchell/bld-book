@@ -151,6 +151,13 @@ key-dungeons:
       - "Ambushes from shadow beasts."
     rewards:
       - "Shadow-touched gear and medium-tier credits."
+  - name: "The Radiant Spire"
+    difficulty: "Challenging"
+    description: >
+      A dungeon that alternates between blinding light and oppressive darkness, forcing divers to adapt their strategies.
+    recurring-motif-usage:
+      - "Raven and Luke must time their abilities to the environment’s shifting light and shadow."
+      - "The final boss fight involves synchronizing light-based healing with shadow-based attacks, visually symbolizing their partnership."
 
 story-elements:
     recurring-motifs:
