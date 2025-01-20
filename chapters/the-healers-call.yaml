@@ -11,15 +11,15 @@ overview:
     - "Luke begins to mentally prepare for the challenges of working with a new and dynamic partner."
   tone:
     - "Measured and cautious, reflecting Luke’s methodical nature and growing curiosity."
-  pacing:
-    min-words: 2800
-    max-words: 3300
   transition-notes: >
     The chapter ends with Luke deciding to partner with Raven, setting the stage for their first dungeon dive in Chapter 3.
 
 scenes:
   - title: "The Healer’s Morning"
     purpose: "Introduce Luke’s methodical approach to life and his personal responsibilities."
+    pacing:
+      min-words: 900
+      max-words: 1100
     events:
       - "Luke wakes up and begins his pre-dive routine with stretches to loosen his muscles and clear his mind."
       - "He notices his guitar resting in the corner, a reminder of the moments of peace he hasn’t had time for lately."
@@ -37,6 +37,9 @@ scenes:
 
   - title: "The Healer’s Decision"
     purpose: "Introduce Raven’s classified ad and Luke’s analysis of her as a potential partner."
+    pacing:
+      min-words: 800
+      max-words: 1000
     events:
       - "Luke opens the classified ad and reviews Raven’s profile, noting her impressive stats and achievements."
       - "He hesitates, reflecting on his cautious nature and the risks of working with a bold solo diver."
@@ -52,22 +55,22 @@ scenes:
     ending-style: >
       Luke reflects on his decision, anticipation and uncertainty mingling as he prepares to meet Raven.
 
-  - scene-3:
-      purpose: "Show Luke preparing for and arriving at the staging area, setting the stage for his first interaction with Raven."
-      events:
-        - "Luke double-checks his gear, carefully inspecting his tools and supplies."
-        - "At the staging area, Luke arrives early, observing the bustling energy of divers and taking note of Raven’s striking appearance."
-        - "Luke observes Raven’s confident posture and subtle tension, deducing that she’s experienced but frustrated by a lack of progress."
-        - "Raven approaches Luke and casually asks if he’s waiting for a healer, leading to a brief but telling exchange that highlights their contrasting personalities."
-        - "After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style."
-      pacing:
-        min-words: 1100
-        max-words: 1300
-      sensory-details:
-        - "The clinking of gear, quiet strategizing, and a bustling atmosphere of anticipation."
-        - "The chill in the air as Luke waits, surrounded by the faint hum of conversation."
-        - "The striking contrast between Raven’s confident stance and Luke’s calm, deliberate demeanor."
-      transition-notes: >
-        Their exchange leads into the preparation for their first dungeon dive together in Chapter 3.
-      ending-style: >
-        The scene ends with Luke reflecting on their first interaction, setting a tone of cautious determination as he prepares to meet Raven’s dynamic energy in the dungeon.
+  - title: "The First Meeting"
+    purpose: "Show Luke preparing for and arriving at the staging area, setting the stage for his first interaction with Raven."
+    events:
+      - "Luke double-checks his gear, carefully inspecting his tools and supplies with methodical precision."
+      - "At the staging area, Luke arrives early, observing the bustling energy of divers and taking note of Raven’s striking appearance."
+      - "Luke notices the contrast between Raven’s confident posture and the subtle tension in her movements, deducing that she’s experienced but frustrated by a lack of progress."
+      - "Raven approaches Luke and casually asks if he’s waiting for a healer, leading to a brief but telling exchange that highlights their contrasting personalities."
+      - "After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style."
+    sensory-details:
+      - "The clinking of gear and quiet strategizing fill the air, creating a bustling atmosphere of anticipation."
+      - "The chill in the air brushes against Luke’s skin as he waits, surrounded by the faint hum of conversation."
+      - "The striking contrast between Raven’s confident stance and Luke’s calm, deliberate demeanor highlights their differences."
+    pacing:
+      min-words: 1100
+      max-words: 1300
+    transition-notes: >
+      Their exchange leads into the preparation for their first dungeon dive together in Chapter 3.
+    ending-style: >
+      The scene ends with Luke reflecting on their first interaction, setting a tone of cautious determination as he prepares to meet Raven’s dynamic energy in the dungeon.
