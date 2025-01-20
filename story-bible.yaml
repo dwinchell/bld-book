@@ -107,14 +107,32 @@ society:
 characters:
   - name: "Raven Blackwood"
     class: "Night Dancer"
-    summary: >
+    role: "Protagonist"
+    one-line-summary: >
       A rebellious, thrill-seeking diver from a wealthy family. She struggles with trust and seeks meaning in her dives.
-    details-file: "characters/raven_blackwood.yaml"
+    details-file: "character-raven.yaml"
   - name: "Luke Calloway"
+    role: "Protagonist"
     class: "Dawnbringer"
-    summary: >
+    one-line-summary: >
       A cautious healer diving to support his family. His nurturing nature hides a fear of loss and attachment.
-    details-file: "/mnt/data/character-luke.yaml"
+    details-file: "character-luke.yaml"
+  - name: "Elaine Blackwood"
+    role: "Secondary Character"
+    summary: >
+      A poised and pragmatic philanthropist who strives to guide her daughter toward building a meaningful legacy while respecting her independence.
+    narrative-purpose: >
+      Elaine serves as a grounding influence and ideological counterpoint to Raven, highlighting themes of tradition versus independence and encouraging Raven to balance personal ambition with broader contributions to society. Her dynamic with Raven adds depth to the protagonist's emotional and growth arcs, showing how family relationships shape personal decisions.
+    details-file: "character-elaine.yaml"
+  - name: "Grant Blackwood"
+    role: "Secondary Character"
+    one-line-summary: >
+      A charismatic and strategic leader, Grant Blackwood is the CEO of Blackwood Industries, navigating the complexities of the dungeon economy while balancing family and legacy.
+    narrative-purpose: >
+      Grant provides a broader perspective on the dungeon economy and its societal implications, serving as a foil to Raven’s individualism. 
+      His guidance and charisma emphasize the importance of balancing ambition with ethics, offering Raven a model of success that values both innovation and relationships. 
+      His relationship with Elaine and Raven highlights themes of legacy, trust, and intergenerational support.
+    details-file: "character-grant.yaml"
 
 mechanics:
   classes:

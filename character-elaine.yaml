@@ -1,0 +1,67 @@
+type: character
+name: "Elaine Blackwood"
+age: 55
+role: "Raven's Mother"
+job: "Director of the Blackwood Charitable Foundation"
+
+physical_description:
+  appearance:
+    height: "5 feet, 8 inches"
+    build: "Elegant and slim"
+    hair: "Silvery blonde, usually styled in an immaculate chignon"
+    eyes: "Gray with a sharp, observant quality"
+    complexion: "Fair and polished, reflecting her high-status lifestyle"
+  style:
+    clothing: "Muted pastels and sophisticated, tailored outfits that project refinement"
+
+personality:
+  core_traits:
+    - "Composed"
+    - "Practical"
+    - "Supportive but firm"
+    - "Diplomatic"
+    - "Thoughtful but occasionally overbearing"
+  values:
+    - "Legacy and responsibility"
+    - "Personal growth through meaningful contribution"
+    - "Family unity"
+  emotional_complexity:
+    - "Struggles to balance encouragement and control, often second-guessing herself to avoid pushing Raven away"
+    - "Believes in Raven’s potential but worries about her tendency to reject guidance"
+
+relationships:
+  with_raven:
+    dynamic: >
+      Loves Raven deeply but struggles to reconcile her daughter's rebellious independence with her belief in societal responsibility. 
+      Encourages Raven to think beyond personal success and contribute meaningfully, blending tension with mutual respect.
+  with_grant_blackwood:
+    dynamic: >
+      A model partnership rooted in mutual respect and shared values. While Elaine often takes the lead in conversations 
+      with Raven about her future, she and Grant present a united front as parents.
+
+job_details:
+  title: "Director of the Blackwood Charitable Foundation"
+  organization_focus: >
+    Oversees strategic philanthropy aimed at societal improvement, including community development and education initiatives for divers.
+  approach: >
+    Leads the Foundation with a results-driven mindset, balancing compassion with strategic goals, reflecting her belief in "noblesse oblige."
+
+motivations_and_fears:
+  motivations:
+    - "To guide Raven toward building a meaningful legacy and achieving lasting recognition"
+    - "To uphold the Blackwood family’s reputation for contributing positively to society"
+  fears:
+    - "That Raven’s independence will lead her to reject opportunities for growth or legacy-building"
+    - "That her own advice may push Raven away, straining their relationship"
+
+key_moments:
+  encouragement: >
+    Frequently offers thoughtful advice, highlighting her desire for Raven to succeed on her own terms while maintaining family values.
+  conflict: >
+    Occasionally oversteps, causing tension that underscores the differing priorities between her and Raven.
+  resolution: >
+    Consistently circles back to understanding, using moments of conflict to reinforce her belief in Raven’s potential.
+
+narrative_role: >
+  Provides emotional and ideological contrast to Raven, representing a voice of tradition and long-term planning against Raven’s thrill-seeking 
+  and independence. Her guidance serves as a backdrop for Raven’s growth, ensuring her pursuit of freedom aligns with meaningful contribution.
