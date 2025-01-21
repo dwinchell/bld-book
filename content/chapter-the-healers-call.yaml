@@ -38,6 +38,10 @@ scenes:
       - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
       - "The faint glow of the System interface, an otherworldly yet normalized presence in his life."
+    key-emotional-beats:
+      - "Luke feels the weight of his financial responsibilities, emphasizing his sense of duty and need for stability."
+      - "A moment of nostalgia arises as Luke notices his guitar, reflecting his longing for balance between work and fulfillment."
+      - "The System notification introduces a mix of apprehension and curiosity, disrupting Luke's controlled routine and setting up his emotional conflict."
     transition-notes: >
       The chime transitions into the next scene where Luke reviews Raven’s ad and makes his decision.
     ending-style: >
@@ -64,6 +68,11 @@ scenes:
       - "The buzz of the System confirmation vibrating faintly in the quiet room."
       - "The distant memory of his guitar’s strings, tied to moments of solace and purpose."
       - "The clean, clinical language of Raven’s classified ad, contrasting with the sense of boldness it conveys."
+    key-emotional-beats:
+      - "Luke’s reluctance surfaces as he grapples with the risks of working with someone as bold and dynamic as Raven."
+      - "The sight of the guitar stirs a sense of yearning for balance, subtly influencing his decision."
+      - "Curiosity begins to outweigh caution as Luke imagines the challenges and potential growth from partnering with Raven."
+      - "Luke’s decision to accept the classified ad reflects a mix of practicality, intrigue, and a hesitant step out of his comfort zone."
     transition-notes: >
       Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
     ending-style: >
