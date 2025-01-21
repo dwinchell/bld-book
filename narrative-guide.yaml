@@ -151,28 +151,37 @@ scene-construction:
 
 narrative-dynamics:
   subplots:
-    - title: "Raven's Family Expectations"
+    - name: "Raven's Family Expectations"
       description: >
-        Raven’s parents, who believe in "noblesse oblige," want her to do something significant with her life.
-        They encourage her to form a guild or start a dungeon-related business to channel her passion for diving into societal contribution.
-      drafting-objectives:
-        - "Show Raven’s tension with her parents through dialogue, actions, and their expectations for her future."
-        - "Use family pressures as a recurring source of conflict that impacts Raven’s personal decisions and relationship with Luke."
-        - "Illustrate Raven’s growth as she begins to reconcile her individuality with her family’s values."
+        Raven’s parents, Elaine and Grant Blackwood, represent a source of both support and tension in her life. 
+        Their belief in "noblesse oblige" drives their expectation that Raven will use her talents to build a legacy that contributes meaningfully to society.
+        This subplot explores the balance between their encouragement and the pressure Raven feels to align with their vision.
+      narrative-purpose: >
+        The subplot highlights the contrast between Raven’s pursuit of independence and her family’s values of legacy and societal contribution.
+        It deepens Raven’s character arc by forcing her to reconcile her desire for freedom with her parents’ ideals, shaping her growth and decisions.
+      key-elements:
+        - "Elaine’s guidance often pushes Raven to think long-term and consider collaboration, even when it clashes with her rebellious instincts."
+        - "Grant’s practical advice reflects his belief in ambition tempered by strategy, offering Raven a different perspective on success."
+        - "Family gatherings, like the annual gala, create moments of tension and reflection, challenging Raven’s views on responsibility."
       progression:
         act-1:
-          - "Introduce the family dynamic and their expectations for Raven."
-            reference: "See 'Society: Noblesse Oblige' in Story Bible for details on societal expectations."
-          - "Raven’s mom reminds her about the upcoming charity gala, framing it as an important family obligation."
-            reference: "See 'Society: Diver Class Divide' in Story Bible for relevant societal pressure."
+          - "Introduce Elaine and Grant Blackwood as supportive yet assertive figures in Raven’s life."
+          - "Elaine reminds Raven about the importance of societal contribution, setting the tone for their dynamic."
+          - "Raven reflects on the conflict between their expectations and her personal goals after placing the classified ad."
         act-2:
-          - "Raven reluctantly invites Luke to attend the gala with her, setting up the stage for the event."
-          - "Set piece: At the gala, tensions between Raven and her parents come to a head, with Luke helping her navigate the situation."
+          - "The family’s annual charity gala becomes a key setting where Raven feels the weight of their expectations."
+          - "Grant advises Raven to balance her ambitions with strategic partnerships, subtly referencing her classified ad."
+          - "Raven begins to see glimpses of alignment between her parents’ ideals and her own goals but remains resistant to fully embracing their vision."
         act-3:
-          - "Raven reflects on the gala and begins to understand how her parents’ ideals align with her own goals."
-          - "She reconciles with her parents, finding a way to merge her individuality with their values, such as committing to a unique dungeon-related initiative."
+          - "A major success in Raven’s diving career allows her to approach her parents with renewed confidence and autonomy."
+          - "Raven reconciles with her family, finding a way to honor their values without compromising her independence."
+          - "Elaine and Grant express pride in Raven’s growth, marking a turning point in their relationship."
+      themes:
+        - "Balancing independence and interdependence"
+        - "The tension between legacy and personal freedom"
+        - "Intergenerational relationships and understanding"
 
-    - title: "Luke’s Fear of Attachment"
+    - name: "Luke’s Fear of Attachment"
       description: >
         Luke struggles with a deep fear of loss, stemming from his parents’ death and his sense of responsibility for his sister.
         His reluctance to form close bonds is challenged as he partners with Raven.
