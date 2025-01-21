@@ -28,60 +28,61 @@ overview:
 scenes:
   - title: "The Healer’s Morning"
     plot-summary: >
-      Luke starts his day with a methodical routine, reflecting his disciplined and grounded personality. 
-      His financial responsibilities weigh heavily on him, setting up his motivations for diving. The System’s classified notification interrupts his routine, creating a pivotal moment.
+      Luke begins his day with a disciplined routine, reflecting on his financial responsibilities and the balance he seeks in life. 
+      The System notification disrupts his controlled rhythm, introducing Raven’s classified ad and leaving him cautiously intrigued about the possibility of a partnership.
+    events:
+      - "Luke begins his morning stretches, grounding himself in his disciplined routine."
+      - "He notices his guitar, stirring memories of peace and balance, contrasting with his current burdens."
+      - "He updates his financial ledger, reflecting on the weight of his responsibilities and the tight resources he manages."
+      - "The System notification draws his attention, disrupting his routine and hinting at a new opportunity."
+      - "Luke moves to his desk, prepared to give the classified ad serious consideration."
+    key-emotional-beats:
+      - "Luke feels the weight of his financial burdens, emphasizing his sense of duty and need for stability."
+      - "The sight of the guitar stirs nostalgia, reflecting his longing for balance between work and fulfillment."
+      - "The System notification introduces a mix of apprehension and curiosity, disrupting his controlled mindset and setting up emotional tension for the next scene."
     narrative-purpose: >
       Introduce Luke’s cautious personality and his sense of responsibility, laying the groundwork for his decision to partner with Raven.
     pacing:
       target-words: 900
-    events:
-      - "Luke wakes up and begins his pre-dive routine with stretches to loosen his muscles and clear his mind."
-      - "He notices his guitar resting in the corner, a reminder of the moments of peace he hasn’t had time for lately."
-      - "He reviews his income and expenses in a notebook, reflecting on his financial responsibilities."
-      - "The familiar System chime interrupts his thoughts, signaling a classified match."
     sensory-details:
       - "The faint scratch of pen on paper as he updates his expenses."
       - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
       - "The faint glow of the System interface, an otherworldly yet normalized presence in his life."
-    key-emotional-beats:
-      - "Luke feels the weight of his financial responsibilities, emphasizing his sense of duty and need for stability."
-      - "A moment of nostalgia arises as Luke notices his guitar, reflecting his longing for balance between work and fulfillment."
-      - "The System notification introduces a mix of apprehension and curiosity, disrupting Luke's controlled routine and setting up his emotional conflict."
     transition-notes: >
-      The classified ad lingers in Luke’s thoughts as he finishes his routine, pulling him toward a decision he’s not ready to make. 
-      The weight of curiosity and responsibility leads him to his desk, where he prepares to analyze Raven’s profile.
+      The classified ad lingers in Luke’s thoughts as he finishes his routine, pulling him toward a decision he isn’t ready to make. 
+      His movement to the desk signals his readiness to engage with the ad, creating a sense of anticipation for his deliberation in the next scene.
     ending-style: >
       Conclude with a reflective tone that emphasizes Luke’s cautious yet intrigued mindset. Use the lingering glow of the System interface and subtle environmental cues (e.g., shadows, quiet room) to mirror his internal conflict. The scene should leave the reader with a sense of anticipation for the decisions ahead.
 
 
   - title: "The Healer’s Decision"
     plot-summary: >
-      Luke reviews Raven’s classified ad and wrestles with the risks and benefits of partnering with someone so bold. 
-      His cautious nature and past experiences hold him back, but curiosity and financial necessity ultimately drive him to accept the partnership.
+      Luke analyzes Raven’s classified ad, grappling with the risks and benefits of partnering with someone so bold. 
+      His internal conflict crescendos as memories of loss clash with a growing curiosity and need for stability. 
+      Ultimately, Luke decides to accept the ad, stepping into an uncertain but intriguing future.
+    events:
+      - "Luke settles at his desk, the classified ad filling the glowing interface."
+      - "He scans Raven’s profile, focusing on her impressive stats and success as a solo diver."
+      - "He reflects on past losses and his reluctance to form new bonds."
+      - "The sight of his guitar reminds him of the balance he craves between responsibility and fulfillment."
+      - "He imagines the challenges and growth he might experience with Raven, curiosity beginning to outweigh caution."
+      - "Luke presses the confirmation button, the buzz of the System resonating with his mixed anticipation and uncertainty."
+    key-emotional-beats:
+      - "Luke’s reluctance surfaces, tied to his cautious personality and past losses."
+      - "The sight of the guitar stirs a yearning for balance and fulfillment."
+      - "Curiosity about Raven begins to challenge his hesitation, sparking a cautious hope for growth."
+      - "Luke’s final decision reflects a mix of practicality, intrigue, and a tentative step toward trust."
     narrative-purpose: >
       Highlight Luke’s internal conflict and motivations, showing his cautious decision-making process and his growing curiosity about Raven’s boldness.
     pacing:
       target-words: 800
-    events:
-      - "Luke opens the System notification and reviews the details of Raven’s classified ad."
-      - "He notices her impressive stats, solo dive successes, and bold style, which intrigue him but also raise concerns about risk."
-      - "Luke reflects on his cautious nature and his past experiences with loss, which make him reluctant to form new bonds."
-      - "He weighs the risks of working with someone as daring as Raven against the practical benefits of the partnership."
-      - "The sight of his guitar serves as a subtle reminder of the balance he seeks between responsibility and moments of fulfillment."
-      - "Luke considers how Raven’s boldness might challenge his cautious approach, pushing him to step out of his comfort zone."
-      - "Despite his reservations, Luke decides to accept the classified ad, motivated by curiosity and financial necessity."
     sensory-details:
       - "The glow of the System terminal reflecting on Luke’s glasses."
       - "The buzz of the System confirmation vibrating faintly in the quiet room."
       - "The distant memory of his guitar’s strings, tied to moments of solace and purpose."
       - "The clean, clinical language of Raven’s classified ad, contrasting with the sense of boldness it conveys."
-    key-emotional-beats:
-      - "Luke’s reluctance surfaces as he grapples with the risks of working with someone as bold and dynamic as Raven."
-      - "The sight of the guitar stirs a sense of yearning for balance, subtly influencing his decision."
-      - "Curiosity begins to outweigh caution as Luke imagines the challenges and potential growth from partnering with Raven."
-      - "Luke’s decision to accept the classified ad reflects a mix of practicality, intrigue, and a hesitant step out of his comfort zone."
     transition-notes: >
-      Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
+      Luke’s acceptance of the ad ends the chapter with a mix of resolve and uncertainty, setting the stage for his first meeting with Raven in the next chapter.
     ending-style: >
       Luke reflects on his decision, anticipation and uncertainty mingling as he prepares to meet Raven.
