@@ -5,16 +5,21 @@ metadata:
 
 overview:
   perspective: Luke
-  plot-summary: >
-    Luke wakes up to a System notification about Raven’s classified ad. 
-    He deliberates over accepting the job, reflecting on his cautious nature and financial needs, before ultimately deciding to partner with her.
   narrative-purpose: >
     Introduce Luke’s cautious, pragmatic personality and motivations, establishing his initial reluctance to form new bonds and setting up his first meeting with Raven.
-
-  key-emotional-beats:
-    - "Reluctance gives way to cautious curiosity about Raven and her bold style."
-    - "Luke begins to mentally prepare for the challenges of working with a new and dynamic partner."
-    - "Luke reflects on how Raven’s boldness might push him outside his comfort zone, highlighting his reservations about trust and vulnerability."
+  plot-summary: >
+    Luke begins analyzing Raven’s classified ad, his cautious nature immediately highlighting the risks of partnering with someone so bold. 
+    He wrestles with his reluctance to form new bonds, his memories of past loss amplifying his hesitation. However, curiosity about Raven’s audacious style 
+    and a pragmatic need to stabilize his finances begin to shift his perspective. The sight of his guitar reminds him of the balance he seeks in his life—responsibility 
+    tempered by fulfillment. Ultimately, Luke decides to accept the partnership, though with lingering uncertainty about stepping out of his comfort zone.
+  events:
+    - "Luke settles at his desk and opens the classified ad, Raven’s name standing out boldly against the interface."
+    - "He scans her profile, noting her impressive stats and successes in solo diving."
+    - "Luke reflects on the risks of working with a solo diver, his mind returning to past failures and losses."
+    - "He considers his cautious nature and the challenges of adapting to someone as dynamic as Raven."
+    - "The sight of his guitar pulls him into a moment of reflection about the balance he seeks between responsibility and fulfillment."
+    - "Curiosity begins to outweigh hesitation as Luke imagines the challenges and growth he might experience with Raven."
+    - "After a final pause, Luke decides to accept the classified ad, taking a hesitant but deliberate step toward partnership."
   tone:
     - "Measured and cautious, reflecting Luke’s methodical nature and growing curiosity."
   transition-notes: >
@@ -44,9 +49,11 @@ scenes:
       - "A moment of nostalgia arises as Luke notices his guitar, reflecting his longing for balance between work and fulfillment."
       - "The System notification introduces a mix of apprehension and curiosity, disrupting Luke's controlled routine and setting up his emotional conflict."
     transition-notes: >
-      The chime transitions into the next scene where Luke reviews Raven’s ad and makes his decision.
+      The classified ad lingers in Luke’s thoughts as he finishes his routine, pulling him toward a decision he’s not ready to make. 
+      The weight of curiosity and responsibility leads him to his desk, where he prepares to analyze Raven’s profile.
     ending-style: >
-      Luke looks toward the glowing System terminal, anticipation building for the match.
+      Conclude with a reflective tone that emphasizes Luke’s cautious yet intrigued mindset. Use the lingering glow of the System interface and subtle environmental cues (e.g., shadows, quiet room) to mirror his internal conflict. The scene should leave the reader with a sense of anticipation for the decisions ahead.
+
 
   - title: "The Healer’s Decision"
     plot-summary: >
