@@ -1,0 +1,53 @@
+metadata:
+  type: chapter-outline
+  title: "First Impressions"
+  file: "chapter-first-impressions.yaml"
+
+plot-summary: >
+  Raven and Luke meet for the first time at the dungeon staging area. Their initial interactions are tense due to their contrasting personalities, but they agree to proceed into the dungeon together. Early challenges highlight their differences and lead to a moment of crisis where they begin to adapt to each other’s strengths.
+
+narrative-purpose: >
+  This chapter establishes Raven and Luke’s dynamic and sets the stage for their teamwork arc by introducing tension, friction, and the first steps toward functional collaboration.
+
+relationship-arc:
+  start: >
+    Raven and Luke’s first meeting reveals immediate tension due to their clashing personalities and styles.
+  progression: >
+    As they face early dungeon challenges, their friction escalates, but a moment of crisis forces them to adapt to each other’s strengths.
+  end: >
+    By the end of the chapter, they achieve a baseline level of functional teamwork, with hints of respect beginning to form.
+
+perspective: "Raven"
+
+key-emotional-beats:
+  - "Raven’s confidence and boldness clash with Luke’s caution and deliberation, creating initial friction."
+  - "Hints of mutual respect and compatibility emerge despite their differences."
+  - "Early dungeon interactions highlight their strengths and weaknesses, escalating the stakes."
+
+tone:
+  - "Tense and observational, transitioning into cautious cooperation."
+
+pacing:
+  min-words: 2200
+  max-words: 2800
+
+scenes:
+  - title: "The First Meeting"
+    purpose: "Show Luke preparing for and arriving at the staging area, setting the stage for his first interaction with Raven."
+    events:
+      - "Luke double-checks his gear, carefully inspecting his tools and supplies with methodical precision."
+      - "At the staging area, Luke arrives early, observing the bustling energy of divers and taking note of Raven’s striking appearance."
+      - "Luke notices the contrast between Raven’s confident posture and the subtle tension in her movements, deducing that she’s experienced but frustrated by a lack of progress."
+      - "Raven approaches Luke and casually asks if he’s her healer, leading to a brief but telling exchange that highlights their contrasting personalities."
+      - "After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style."
+    sensory-details:
+      - "The clinking of gear and quiet strategizing fill the air, creating a bustling atmosphere of anticipation."
+      - "The chill in the air brushes against Luke’s skin as he waits, surrounded by the faint hum of conversation."
+      - "The striking contrast between Raven’s confident stance and Luke’s calm, deliberate demeanor highlights their differences."
+    pacing:
+      min-words: 1100
+      max-words: 1300
+    transition-notes: >
+      Their exchange leads into the preparation for their first dungeon dive together in the next scene.
+    ending-style: >
+      The scene ends with Luke reflecting on their first interaction, setting a tone of cautious determination as he prepares to meet Raven’s dynamic energy in the dungeon.
