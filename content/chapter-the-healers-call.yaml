@@ -4,11 +4,21 @@ metadata:
   file: "chapter-the-healers-call.yaml"
 
 overview:
+  perspective: Luke
+  
   plot-summary: >
     Luke wakes up to a System notification about Raven’s classified ad. 
     He deliberates over accepting the job, reflecting on his cautious nature and financial needs, before ultimately deciding to partner with her.
   narrative-purpose: >
     Introduce Luke’s cautious, pragmatic personality and motivations, establishing his initial reluctance to form new bonds and setting up his first meeting with Raven.
+  
+  relationship-arc:
+    start: >
+      Luke’s sense of responsibility and fear of attachment make him reluctant to form new partnerships.
+    progression: >
+      Despite his initial hesitations, Luke accepts Raven’s classified ad, intrigued by her bold style and driven by financial need and curiosity.
+    end: >
+      Luke takes the first step toward trust and partnership by agreeing to work with Raven, setting the stage for their dynamic to develop further.
 
   key-emotional-beats:
     - "Reluctance gives way to cautious curiosity about Raven and her bold style."
@@ -42,6 +52,13 @@ scenes:
       - "Luke feels the weight of his financial responsibilities, emphasizing his sense of duty and need for stability."
       - "A moment of nostalgia arises as Luke notices his guitar, reflecting his longing for balance between work and fulfillment."
       - "The System notification introduces a mix of apprehension and curiosity, disrupting Luke's controlled routine and setting up his emotional conflict."
+    relationship-arc:
+      start: >
+        Luke’s reluctance to trust others and his sense of responsibility dominate his thoughts, keeping him focused on self-reliance.
+      progression: >
+        The System notification disrupts his routine, introducing the possibility of partnership, though he remains cautious.
+      end: >
+        Luke begins considering the idea of working with someone else, a small but significant step toward opening up.
     transition-notes: >
       The chime transitions into the next scene where Luke reviews Raven’s ad and makes his decision.
     ending-style: >
@@ -73,7 +90,15 @@ scenes:
       - "The sight of the guitar stirs a sense of yearning for balance, subtly influencing his decision."
       - "Curiosity begins to outweigh caution as Luke imagines the challenges and potential growth from partnering with Raven."
       - "Luke’s decision to accept the classified ad reflects a mix of practicality, intrigue, and a hesitant step out of his comfort zone."
+    relationship-arc:
+      start: >
+        Luke’s initial hesitation about forming a partnership reflects his guarded nature and fear of attachment.
+      progression: >
+        Curiosity about Raven’s boldness begins to challenge his reluctance, while practical needs push him closer to acceptance.
+      end: >
+        By accepting the classified ad, Luke takes a tentative step toward trust and collaboration, setting the stage for their relationship.
     transition-notes: >
       Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
     ending-style: >
       Luke reflects on his decision, anticipation and uncertainty mingling as he prepares to meet Raven.
+    
