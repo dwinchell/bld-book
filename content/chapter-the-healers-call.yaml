@@ -35,7 +35,6 @@ scenes:
       - "He notices his guitar, stirring memories of peace and balance, contrasting with his current burdens."
       - "He updates his financial ledger, reflecting on the weight of his responsibilities and the tight resources he manages."
       - "The System notification draws his attention, disrupting his routine and hinting at a new opportunity."
-      - "Luke moves to his desk, prepared to give the classified ad serious consideration."
     key-emotional-beats:
       - "Luke feels the weight of his financial burdens, emphasizing his sense of duty and need for stability."
       - "The sight of the guitar stirs nostalgia, reflecting his longing for balance between work and fulfillment."
@@ -48,14 +47,10 @@ scenes:
       - "The faint scratch of pen on paper as he updates his expenses."
       - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
-      - "The faint glow of the System interface, an otherworldly yet normalized presence in his life."
     ending:
       transition-notes: >
-        Luke finishes his morning routine and moves to his desk, signaling his readiness to engage with the classified ad. 
+        Luke finishes his morning routine and opens his System interface, signaling his readiness to engage with the notification. 
         The scene closes with a sense of quiet anticipation for the decisions ahead.
-      ending-style: >
-        Conclude with Luke moving deliberately to his desk, the faint glow of the System interface in the background. 
-        The scene should leave the reader with a subtle sense of intrigue, setting up his reflection in the next scene.
 
   - title: "The Healer’s Decision"
     plot-summary: >
