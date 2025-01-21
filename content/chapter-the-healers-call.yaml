@@ -43,18 +43,19 @@ scenes:
     narrative-purpose: >
       Introduce Luke’s cautious personality and his sense of responsibility, laying the groundwork for his decision to partner with Raven.
     pacing:
-      target-words: 900
+      previous-draft-words: 600
     sensory-details:
       - "The faint scratch of pen on paper as he updates his expenses."
       - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
       - "The faint glow of the System interface, an otherworldly yet normalized presence in his life."
-    transition-notes: >
-      The classified ad lingers in Luke’s thoughts as he finishes his routine, pulling him toward a decision he isn’t ready to make. 
-      His movement to the desk signals his readiness to engage with the ad, creating a sense of anticipation for his deliberation in the next scene.
-    ending-style: >
-      Conclude with a reflective tone that emphasizes Luke’s cautious yet intrigued mindset. Use the lingering glow of the System interface and subtle environmental cues (e.g., shadows, quiet room) to mirror his internal conflict. The scene should leave the reader with a sense of anticipation for the decisions ahead.
-
+    ending:
+      transition-notes: >
+        Luke finishes his morning routine and moves to his desk, signaling his readiness to engage with the classified ad. 
+        The scene closes with a sense of quiet anticipation for the decisions ahead.
+      ending-style: >
+        Conclude with Luke moving deliberately to his desk, the faint glow of the System interface in the background. 
+        The scene should leave the reader with a subtle sense of intrigue, setting up his reflection in the next scene.
 
   - title: "The Healer’s Decision"
     plot-summary: >
@@ -76,13 +77,15 @@ scenes:
     narrative-purpose: >
       Highlight Luke’s internal conflict and motivations, showing his cautious decision-making process and his growing curiosity about Raven’s boldness.
     pacing:
-      target-words: 800
     sensory-details:
       - "The glow of the System terminal reflecting on Luke’s glasses."
       - "The buzz of the System confirmation vibrating faintly in the quiet room."
       - "The distant memory of his guitar’s strings, tied to moments of solace and purpose."
       - "The clean, clinical language of Raven’s classified ad, contrasting with the sense of boldness it conveys."
-    transition-notes: >
-      Luke’s acceptance of the ad ends the chapter with a mix of resolve and uncertainty, setting the stage for his first meeting with Raven in the next chapter.
-    ending-style: >
-      Luke reflects on his decision, anticipation and uncertainty mingling as he prepares to meet Raven.
+    requirements:
+      use-this-text-for-the-ad: "*Seeking an experienced healer for intermediate dungeon dives. Reliability required. Compensation negotiable.*"
+    ending:
+      transition-notes: >
+        Luke’s acceptance of the ad ends the chapter with a mix of resolve and uncertainty, setting the stage for his first meeting with Raven in the next chapter.
+      ending-style: >
+        Luke reflects on his decision, anticipation and uncertainty mingling as he prepares to meet Raven.

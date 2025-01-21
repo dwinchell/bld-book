@@ -1,6 +1,8 @@
 metadata:
   type: book-outline
-  title: "Bound in Light and Darkness"
+
+title: "Bound in Light and Darkness"
+short-title: "BLD"
 
 acts:
   - act: 1
