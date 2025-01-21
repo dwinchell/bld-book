@@ -17,7 +17,11 @@ overview:
 
 scenes:
   - title: "The Healer’s Morning"
-    purpose: "Introduce Luke’s methodical approach to life and his personal responsibilities."
+    plot-summary: >
+      Luke starts his day with a methodical routine, reflecting his disciplined and grounded personality. 
+      His financial responsibilities weigh heavily on him, setting up his motivations for diving. The System’s classified notification interrupts his routine, creating a pivotal moment.
+    narrative-purpose: >
+      Introduce Luke’s cautious personality and his sense of responsibility, laying the groundwork for his decision to partner with Raven.
     pacing:
       target-words: 900
     events:
@@ -36,20 +40,26 @@ scenes:
       Luke looks toward the glowing System terminal, anticipation building for the match.
 
   - title: "The Healer’s Decision"
-    purpose: "Introduce Raven’s classified ad and Luke’s analysis of her as a potential partner."
+    plot-summary: >
+      Luke reviews Raven’s classified ad and wrestles with the risks and benefits of partnering with someone so bold. 
+      His cautious nature and past experiences hold him back, but curiosity and financial necessity ultimately drive him to accept the partnership.
+    narrative-purpose: >
+      Highlight Luke’s internal conflict and motivations, showing his cautious decision-making process and his growing curiosity about Raven’s boldness.
     pacing:
       target-words: 800
     events:
-      - "Luke opens the classified ad and reviews Raven’s profile, noting her impressive stats and achievements."
-      - "He hesitates, reflecting on his cautious nature and the risks of working with a bold solo diver."
-      - "The sight of his guitar reminds him of the balance he seeks between responsibility and moments of peace, subtly influencing his decision."
-      - "Luke considers how Raven’s boldness might challenge his cautious approach, reflecting on how it could push him outside his comfort zone in both diving and trust."
-      - "Despite his concerns, he decides to accept the job, motivated by curiosity and financial needs."
+      - "Luke opens the System notification and reviews the details of Raven’s classified ad."
+      - "He notices her impressive stats, solo dive successes, and bold style, which intrigue him but also raise concerns about risk."
+      - "Luke reflects on his cautious nature and his past experiences with loss, which make him reluctant to form new bonds."
+      - "He weighs the risks of working with someone as daring as Raven against the practical benefits of the partnership."
+      - "The sight of his guitar serves as a subtle reminder of the balance he seeks between responsibility and moments of fulfillment."
+      - "Luke considers how Raven’s boldness might challenge his cautious approach, pushing him to step out of his comfort zone."
+      - "Despite his reservations, Luke decides to accept the classified ad, motivated by curiosity and financial necessity."
     sensory-details:
       - "The glow of the System terminal reflecting on Luke’s glasses."
-      - "The soft tap of his fingers against the desk as he deliberates."
       - "The buzz of the System confirmation vibrating faintly in the quiet room."
       - "The distant memory of his guitar’s strings, tied to moments of solace and purpose."
+      - "The clean, clinical language of Raven’s classified ad, contrasting with the sense of boldness it conveys."
     transition-notes: >
       Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
     ending-style: >
