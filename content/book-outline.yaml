@@ -41,8 +41,7 @@ acts:
         tone:
           - "Introspective and reflective, focusing on Raven’s internal frustrations."
         pacing:
-          min-words: 1500
-          max-words: 2000
+          target-words: 1800
         connection-to-next-chapter: >
           Raven’s classified ad leads directly to Luke’s consideration of it in the next chapter.
 
@@ -65,8 +64,7 @@ acts:
         tone:
           - "Measured and cautious, reflecting Luke’s calculated approach to new partnerships."
         pacing:
-          min-words: 1500
-          max-words: 2000
+          target-words: 1700
         connection-to-next-chapter: >
           Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
 
@@ -93,8 +91,7 @@ acts:
         tone:
           - "Tense and observational, transitioning into cautious cooperation."
         pacing:
-          min-words: 2200
-          max-words: 2800
+          target-words: 2500
         connection-to-next-chapter: >
           A dangerous situation in the dungeon forces them to rely on each other, leading into the next chapter, where trust begins to form.
 
@@ -119,8 +116,7 @@ acts:
         tone:
           - "Suspenseful and emotionally charged, emphasizing teamwork under pressure."
         pacing:
-          min-words: 2500
-          max-words: 3000
+          target-words: 2800
         connection-to-next-chapter: >
           Their shared success in navigating the dungeon’s challenges leads directly into their boss encounter in the next chapter.
 
@@ -149,8 +145,7 @@ acts:
         tone:
           - "Tense and suspenseful during the fight, transitioning to triumphant in the resolution."
         pacing:
-          min-words: 3200
-          max-words: 3700
+          target-words: 3500
         connection-to-next-chapter: >
           Their shared sense of accomplishment transitions naturally into a celebratory drink in the next chapter, where camaraderie deepens.
 
@@ -173,8 +168,7 @@ acts:
         tone:
           - "Intimate and warm, with playful undertones."
         pacing:
-          min-words: 2500
-          max-words: 3000
+          target-words: 2700
 
   - act: 2
     title: "Conflict and Growth"
