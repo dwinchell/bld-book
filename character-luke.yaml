@@ -103,3 +103,20 @@ recurring-motif:
     abilities-connection:
       - "Beacon of Hope creates an aura of healing light, symbolizing his desire to protect and unify."
       - "Guardian Light redirects damage to himself, reinforcing the motif of sacrificial protection."
+
+relationship_with_raven:
+  help_with_her_growth:
+    dynamic:
+      start: >
+        Luke’s cautious, interdependence-minded approach contrasts with Raven’s fiercely independent, risk-taking nature.
+        Initially, they clash over their different perspectives on trust and teamwork.
+      evolution: >
+        Over time, Luke’s life experience and grounding presence challenge Raven’s assumptions about independence. 
+        Through their partnership, she begins to see the value in collaboration and planning for the future.
+      resolution: >
+        By the end of the story, Luke’s influence helps Raven balance her drive for individuality with the ability to trust and rely on others.
+        Together, they form a partnership that blends boldness and stability, strength and vulnerability.
+    key-contributions:
+      - "Luke’s life experience with his sister gives him unique insight into the value of interdependence."
+      - "His ability to remain calm and deliberate in crises models a kind of strength that Raven admires and eventually adopts."
+      - "Through his openness about his past struggles, Luke encourages Raven to confront and embrace her own vulnerabilities."
