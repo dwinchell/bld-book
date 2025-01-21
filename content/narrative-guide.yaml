@@ -1,8 +1,10 @@
 metadata:
   type: narrative-guide
-  name: bld
+  
+basic-information:
   title: "Bound in Light and Darkness"
   short-title: "BLD"
+  point-of-view: Third Person Limited
 
 story-foundation:
   themes:
