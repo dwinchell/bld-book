@@ -19,8 +19,7 @@ scenes:
   - title: "The Healer’s Morning"
     purpose: "Introduce Luke’s methodical approach to life and his personal responsibilities."
     pacing:
-      min-words: 900
-      max-words: 1100
+      target-words: 900
     events:
       - "Luke wakes up and begins his pre-dive routine with stretches to loosen his muscles and clear his mind."
       - "He notices his guitar resting in the corner, a reminder of the moments of peace he hasn’t had time for lately."
@@ -39,8 +38,7 @@ scenes:
   - title: "The Healer’s Decision"
     purpose: "Introduce Raven’s classified ad and Luke’s analysis of her as a potential partner."
     pacing:
-      min-words: 800
-      max-words: 1000
+      target-words: 800
     events:
       - "Luke opens the classified ad and reviews Raven’s profile, noting her impressive stats and achievements."
       - "He hesitates, reflecting on his cautious nature and the risks of working with a bold solo diver."
