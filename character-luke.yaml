@@ -104,6 +104,9 @@ recurring-motif:
       - "Beacon of Hope creates an aura of healing light, symbolizing his desire to protect and unify."
       - "Guardian Light redirects damage to himself, reinforcing the motif of sacrificial protection."
 
+mottos:
+- "We are stronger together"
+
 relationship_with_raven:
   help_with_her_growth:
     dynamic:
