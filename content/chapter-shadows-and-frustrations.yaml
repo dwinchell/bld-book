@@ -19,9 +19,9 @@ relationship-arc:
 perspective: "Raven"
 
 key-emotional-beats:
-  - "Frustration transitions into resolve as she takes steps to overcome her limitations."
   - "Raven’s gothic room symbolizes her independence and clashes with family expectations."
   - "Placing the classified ad becomes an act of vulnerability, marking a turning point for her."
+  - "Frustration transitions into resolve as she takes steps to overcome her limitations."
 
 tone:
   - "Introspective and reflective, focusing on Raven’s internal frustrations."
@@ -31,47 +31,58 @@ scenes:
     purpose: >
       Show Raven’s frustration with solo diving and introduce her personality and motivations.
     events:
-      - "Raven flips through dungeon notifications, reflecting on her recent failures and inability to solo efficiently."
-      - "She inspects her gear, feeling a mix of restlessness and determination."
+      - "Raven flips through dungeon notifications, reflecting on her recent failed dungeon runs. She had been very successful as a solo diver, which is uncommon. Now at level 17 she had hit a wall."
+      - "She inspects one of her daggers, feeling a mix of restlessness and determination."
       - "Raven reflects on her parents’ gift, the raven necklace, as a symbol of courage and freedom."
+      - "Once she starts thinking of her parents, Raven reflects determinedly that she is so focused on diving that she hasn't even moved out of her parents' house at age 21. She could afford it, but they have the space and diving is more important than distractions. Besides, her parents house is near to the local dungeon portal."
     sensory-details:
-      - "The gritty drone of Raven's favored industrial music plays in the background, blending with the faint hum of System notifications."
-      - "Shadows from faux candles in wrought iron fixtures ripple across the room’s gothic decor: deep plum walls, heavy velvet curtains, and antique furniture accented with silver and onyx."
-      - "The cool weight of her raven necklace grounds her as she flips through her gear, its sharp edges pressing into her palm as if urging her to move forward."
-    transition-notes: >
-      Raven’s growing irritation transitions into her mom’s interruption about the charity gala.
-    ending-style: >
-      Emotional reflection—Raven’s growing irritation and determination to move forward.
+      - "The gritty drone of Raven's favored industrial music plays in the background"
+      - "The cool weight of her raven necklace, which she is wearing, grounds her as she fiddles with it"
+    drafting-instructions:
+      - "Only mention Raven's necklace once during this scene."
+      - "Only mention the industrial music or anything about it one time during this scene"
+      - "The sound of a soft knock and her door"
+      - "Only she can see the HUD and it doesn't illuminate anything"
+    scene-ending:
+      ending-style: >
+        Emotional reflection
+      ending-tone: Irritation at her thoughts being interrupted
 
   - title: "A Mother's Expectations"
+    transition-from-last-scene:
+      notes: "The knock was by her mother"
     purpose: >
       Introduce Raven’s family expectations through her mom’s reminder about the charity gala.
     events:
-      - "Raven’s mom knocks on her door, interrupting her thoughts about diving."
+      - "Raven unsuccessfully tries to suppress irritation as she invites her mother in."
       - "Her mom reminds her about the upcoming gala and emphasizes its importance for their family’s image."
       - "Raven reacts with visible frustration but reluctantly agrees to attend while internally resisting the obligation."
     sensory-details:
-      - "The sound of a soft knock and her mother’s calm, firm tone."
-      - "Raven’s sharp sigh and impatient tapping of her fingers on her desk."
-      - "The glow of notifications reflecting on her face as she listens with growing frustration."
-    transition-notes: >
-      Raven’s reluctant agreement sets up her resolve to find a healer as an escape from family pressures.
-    ending-style: >
-      Frustration—Raven’s simmering resentment as she contemplates an escape from the expectations placed on her.
+      - "Her mother's calm, firm tone"
+    scene-ending:
+      transition-notes: >
+        Raven’s reluctant agreement sets up her resolve to find a solution to her recent diving difficulties.
+      ending-tone: >
+        Frustration—Raven is frustrated with both her recent inability to meet her own expectations related to diving, and her parents expectations which she has internalized.
+    instructions:
+      - "Do not mention the necklace in this scene"
+      - "Do not mention the music in this scene"
 
   - title: "A New Healer"
     purpose: >
       Introduce Raven’s classified ad and her anticipation of finding a healer.
     events:
-      - "A system chime breaks Raven’s thoughts, prompting her to check her notifications."
-      - "Raven reluctantly acknowledges that solo diving is no longer sustainable, deciding that duoing with a healer is the smallest concession she can make."
+      - "Raven settles back into her thoughts after her mother leaves"
+      - "She begins to strategize, attempting to broaden her thinking"
+      - "Raven reluctantly concludes that solo diving is no longer sustainable
+      - "She deciding that duoing with a healer would be optimal given her class and style."
       - "She reviews potential candidates and finalizes her ad, hesitating briefly before posting it."
       - "As the System confirms her post, Raven feels a mix of apprehension and resolve."
-    sensory-details:
-      - "The crisp chime of the System notification breaks the silence."
-      - "Raven’s eyes scan the glowing interface, her brow furrowing in concentration."
-      - "The soft rustle of her gear and the cool shimmer of her cloth armor as she prepares for the dive."
-    transition-notes: >
-      Raven’s classified ad sets the stage for Luke’s decision to respond in the next chapter.
-    ending-style: >
-      Anticipation—Raven’s determination to overcome her soloing wall grows as she prepares to meet her new healer.
+    instructions:
+      - "Mention the necklace once. She touches it as a source of support as posts the ad"
+    scene-ending:
+        ending-style: Emotional Release
+        summary: Raven takes solace in her music as the scene ends
+        transition-notes: >
+          Raven’s classified ad sets the stage for Luke’s decision to respond in the next chapter.
+        tone: Self-soothing amid apprehension and resolve
