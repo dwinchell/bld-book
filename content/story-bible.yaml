@@ -175,6 +175,127 @@ mechanics:
         visual-details:
           - "Dungeon environments frequently juxtapose areas of intense light and shadow, creating symbolic backdrops for their partnership."
           - "Gear and abilities reflect the motif, with Raven’s dark armor and shadow-infused abilities contrasting Luke’s paladin gear and radiant light magic."
+  injuries_and_healing:
+    description: >
+      Injuries and healing in *Bound in Light and Darkness* are represented
+      through a combination of immersive prose and redacted tags that convey
+      severity and location. This system ensures clear stakes and emotional weight
+      without relying on explicit descriptions of physical harm.
+
+    injury_categories:
+      - name: Minor
+        color: Yellow
+        description: >
+          Small impacts with limited effects. Typically results in slight stamina drain
+          or minor inconvenience in combat.
+
+      - name: Moderate
+        color: Red
+        description: >
+          Noticeable injuries that affect combat capabilities, such as reduced movement
+          speed or accuracy. Requires healing to restore optimal performance.
+
+      - name: Major
+        color: Dark Red
+        description: >
+          Significant injuries with serious consequences. Impairs critical functions like
+          mobility or the ability to use certain skills. Prioritized for immediate healing.
+
+      - name: Critical
+        color: Black
+        description: >
+          Life-threatening or incapacitating damage. Requires urgent intervention to avoid
+          catastrophic outcomes.
+
+    injury_representation:
+      - perspective: "Character Perspective"
+        method: >
+          In prose, injuries are described through emotional and sensory reactions, with graphic details replaced by tags. 
+          Tags are embedded naturally within sentences to enhance immersion and narrative flow.
+        example: |
+          The predator’s claws grazed her side, sharp pain blossoming instantly as her HUD flickered: [Injury: Moderate, Torso]. Each step pulled at the wound, her movements losing some of their usual grace.
+
+      - perspective: "HUD-Based Ragdoll Interface"
+        method: >
+          Injuries are visually represented on Luke's HUD as a color-coded ragdoll figure.
+          Areas of the body are shaded based on severity: Yellow (Minor), Red (Moderate),
+          Dark Red (Major), Black (Critical). This system provides clarity during combat.
+        example: |
+          The ragdoll figure on Luke’s HUD flickered, Raven’s leg glowing red. His jaw tightened as he adjusted his stance. She wouldn’t last long at this pace.
+
+      - perspective: "HUD Notifications"
+        method: >
+          Critical injuries and status effects trigger text-based alerts on Luke’s HUD, providing immediate, actionable information.
+        example: |
+          Luke’s HUD flashed: **Raven: Major Injury (Torso). Movement impaired.**
+
+    healing_mechanics:
+      methods:
+        - name: "Burst Healing"
+          description: >
+            Quickly restores health to a specific area, reducing injury severity immediately.
+            Tags are used to indicate the resolution of injuries and are embedded naturally in prose to maintain narrative flow.
+          example: |
+            Luke’s light enveloped her, steadying her steps as the warmth spread through her. [Healing: Moderate, Torso].
+
+        - name: "Sustained Healing"
+          description: >
+            Gradual recovery over time, addressing cumulative fatigue and lingering effects.
+            Often used between combat sequences or during lulls.
+          example: |
+            With a steady pulse of light, Luke’s aura mended the faint shadows on her HUD, her stamina slowly climbing back to full.
+
+        - name: "Preventive Healing"
+          description: >
+            Shields and buffs that mitigate incoming damage, reducing the likelihood of injuries.
+            Represents Luke’s proactive, protective instincts.
+          example: |
+            The shimmering barrier absorbed the brunt of the predator’s strike, leaving Raven unscathed.
+
+    narrative_integration:
+      - emphasis_on_emotion: >
+          Injuries and healing are framed through the emotional and relational lens of the characters.
+          Luke’s nurturing role and Raven’s trust arc are reinforced in how injuries are handled and described.
+      - example: |
+          The red glow on the ragdoll’s torso drew Luke’s focus like a beacon. His hands moved instinctively, light pouring out to close the wound. “You can’t keep taking hits like that,” he muttered. Raven gave him a brief nod, her usual defiance softened by the pain she wouldn’t voice.
+
+    status_effects:
+      description: >
+        Status effects represent temporary conditions that impair or enhance characters
+        during combat or exploration. These effects add strategic depth to encounters
+        and may require specific actions to resolve. The following examples are not exhaustive:
+
+      examples:
+        - name: Poisoned
+          effect: >
+            Gradual health degradation over time. The HUD shows a green aura on the affected area.
+          resolution: >
+            Requires antidote, specific healing ability, or time for natural recovery outside combat.
+
+        - name: Burned
+          effect: >
+            Reduces stamina regeneration and causes periodic bursts of damage. HUD shows affected areas glowing orange.
+          resolution: >
+            Healing ability with fire-resistance properties, or water-based environmental interaction.
+
+        - name: Frozen
+          effect: >
+            Slows movement speed and reduces Flow generation. HUD shows icy blue over affected limbs.
+          resolution: >
+            Heat-based abilities or external fire sources.
+
+        - name: Shadow Corruption
+          effect: >
+            Drains health and amplifies incoming damage while reducing vision. HUD displays black veins spreading from the affected area.
+          resolution: >
+            Specific light-based healing abilities or resting in a safe zone.
+
+        - name: Exhaustion
+          effect: >
+            Limits stamina and ability recharge rates, increasing vulnerability. No visible HUD marker; represented through character behavior.
+          resolution: >
+            Rest, food, or energy-restoring items.
+
 
 key-dungeons:
   - name: "The Shadow Warrens"
