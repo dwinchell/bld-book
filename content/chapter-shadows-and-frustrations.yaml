@@ -31,18 +31,19 @@ scenes:
     purpose: >
       Show Raven’s frustration with solo diving and introduce her personality and motivations.
     events:
-      - "Raven flips through dungeon notifications, reflecting on her recent failed dungeon runs. She had been very successful as a solo diver, which is uncommon. Now at level 17 she had hit a wall."
+      - description: "Raven flips through a list of available dungeons, reflecting on her recent failed dungeon runs. She had been very successful as a solo diver, which is uncommon. Now at level 17 she had hit a wall."
+        instructions: "Show Raven doing this in a way that introduces the reader to the idea of a HUD"
       - "She inspects one of her daggers, feeling a mix of restlessness and determination."
-      - "Raven reflects on her parents’ gift, the raven necklace, as a symbol of courage and freedom."
-      - "Once she starts thinking of her parents, Raven reflects determinedly that she is so focused on diving that she hasn't even moved out of her parents' house at age 21. She could afford it, but they have the space and diving is more important than distractions. Besides, her parents house is near to the local dungeon portal."
+      - description: "Raven reflects determinedly that she is so focused on diving that she hasn't even moved out of her parents' house at age 21. She could afford it with the credits she earned from dungeon runs."
+        instructions: "Have her glance up briefly at her dimly lit room with its gothic decor. Keep the description of it brief"
+      - "Raven reflects that her parents mansion is near to the local dungeon portal and credits are better spent on gear. She had bought her two daggers for 3,000 credits, enough to cover a month's rent for a city studio apartment."
     sensory-details:
       - "The gritty drone of Raven's favored industrial music plays in the background"
-      - "The cool weight of her raven necklace, which she is wearing, grounds her as she fiddles with it"
-    drafting-instructions:
-      - "Only mention Raven's necklace once during this scene."
-      - "Only mention the industrial music or anything about it one time during this scene"
       - "The sound of a soft knock and her door"
-      - "Only she can see the HUD and it doesn't illuminate anything"
+    drafting-instructions:
+      - "Only mention the industrial music or anything about it one time during this scene"
+      - "Elain doesn't speak until the next scene"
+      - "Do not have Raven refer to her mother by name in her own thoughts."
     scene-ending:
       ending-style: >
         Emotional reflection
@@ -50,12 +51,13 @@ scenes:
 
   - title: "A Mother's Expectations"
     transition-from-last-scene:
-      notes: "The knock was by her mother"
+      notes: "The source of the knock that happened in the previous scene is revealed to be her mother"
     purpose: >
       Introduce Raven’s family expectations through her mom’s reminder about the charity gala.
     events:
       - "Raven unsuccessfully tries to suppress irritation as she invites her mother in."
-      - "Her mom reminds her about the upcoming gala and emphasizes its importance for their family’s image."
+      - description: "Her mom reminds her about the upcoming gala and emphasizes its importance for their family’s image. She mentions that is for a good cause - the families of fallen divers."
+        drafting-instructions: "Have Raven detect a mostly-hidden hint of worry in her mom's mention of fallen divers, and remember the high mortality rates for new divers. 80% of new divers die in their first 5 years of diving."
       - "Raven reacts with visible frustration but reluctantly agrees to attend while internally resisting the obligation."
     sensory-details:
       - "Her mother's calm, firm tone"
@@ -67,19 +69,25 @@ scenes:
     instructions:
       - "Do not mention the necklace in this scene"
       - "Do not mention the music in this scene"
+      - "Introduce Elain's name while describing her from the 3rd person"
 
   - title: "A New Healer"
     purpose: >
       Introduce Raven’s classified ad and her anticipation of finding a healer.
     events:
       - "Raven settles back into her thoughts after her mother leaves"
+      - "Raven reflects on her parents’ gift, the raven necklace, as a symbol of courage and freedom."
       - "She begins to strategize, attempting to broaden her thinking"
-      - "Raven reluctantly concludes that solo diving is no longer sustainable
-      - "She deciding that duoing with a healer would be optimal given her class and style."
-      - "She reviews potential candidates and finalizes her ad, hesitating briefly before posting it."
+      - "Raven reluctantly concludes that solo diving is no longer sustainable"
+      - description: "She deciding that duoing with a healer would be optimal given her class and style."
+        drafting-instructions: "Include a brief description of her class here"
+      - description: "She drafts a classified ad, hesitating briefly before posting it."
+        instructions: "Mention while drafting this event that the System will handle sharing the ad with local divers who are open to a new duo partner"
       - "As the System confirms her post, Raven feels a mix of apprehension and resolve."
     instructions:
       - "Mention the necklace once. She touches it as a source of support as posts the ad"
+    scensory-details:
+      - "The cool weight of her raven necklace, which she is wearing, grounds her as she fiddles with it"
     scene-ending:
         ending-style: Emotional Release
         summary: Raven takes solace in her music as the scene ends
