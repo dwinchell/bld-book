@@ -143,6 +143,7 @@ scene-construction:
       - "Match the ending technique to the scene’s tone, pacing, and purpose in the chapter."
       - "Avoid relying too heavily on any single technique (e.g., symbolic actions) to ensure variety and freshness."
       - "Endings should leave readers eager to continue, whether through curiosity, tension, or emotional engagement."
+      - "Reference: scene-endings in drafting-guidance.yaml"
     examples:
       transitions:
         - "After a tense argument, a lingering feeling of frustration propels the protagonist into the next decision."
