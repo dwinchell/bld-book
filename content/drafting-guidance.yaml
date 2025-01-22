@@ -1,0 +1,104 @@
+metadata:
+  type: drafting-guidance
+
+use-of-sensory-details:
+  focus-on: "Relevant, character-driven details that advance the tone or emotional impact."
+  avoid: "Overly elaborate or unnecessary sensory descriptions."
+  narrative-purpose:
+    focus: >
+      Prioritize clarity and momentum in the narrative. Use sensory details sparingly to enhance, not overwhelm, the reader's immersion.
+pacing-guidance:
+  for-slow-scenes: "Focus on atmosphere and reflection."
+  for-fast-scenes: "Prioritize action and emotion over detailed description."
+
+scene-endings:
+  what-to-avoid-in-the-last-sentence:
+    - "No 'just maybe' or 'it was the start of something.' Keep the ending subtle."
+    - "Avoid any sentence starting with 'For the first time' or 'But maybe.'"
+  ending-styles:
+    drafting-guidance: Choose varying syles of scene endings as appropriate, including the ones on this list. Don't treat the list as exhaustive. Don't reuse the same ones too often.
+    ending-style-list:
+      - name: "Action-Based Reflection"
+        description: >
+          Conclude the scene with a small, concrete action that mirrors the character's emotional state or transition. 
+          The focus is on a deliberate physical movement or gesture that symbolizes inner change.
+        example: >
+          Luke let out a slow breath as he removed his battered armor, each unclasp feeling like 
+          a gentle release of the tension he'd carried since morning.
+
+      - name: "Emotional Introspection"
+        description: >
+          Close with the character's internal monologue or thought process, highlighting how 
+          the scene’s events have shifted their mindset or feelings.
+        example: >
+          Raven stared at the dark corridor ahead, her heart pounding a little slower now, 
+          realizing that she wasn't entirely certain she wanted to do this alone.
+
+      - name: "Foreshadowing"
+        description: >
+          End by hinting at future challenges or developments. The scene may mention an 
+          ominous detail or unresolved question to create anticipation.
+        example: >
+          As Luke picked up the strange medallion, he couldn’t shake the uneasy certainty 
+          that this was just the beginning of something bigger.
+
+      - name: "Symbolic Callback"
+        description: >
+          Wrap up by referencing a recurring symbol or motif, tying the scene’s outcome 
+          to a broader theme in the story.
+        example: >
+          The flickering shadows around Raven’s feet seemed to dance with her heartbeat, 
+          reminding her that darkness could protect as well as grant independence.
+
+      - name: "Dialogue Tag"
+        description: >
+          Conclude on a key line of dialogue, leaving the audience with a strong statement 
+          or question from a character, encapsulating the tension or resolution.
+        example: >
+          "Raven smirked, leaning casually against the dungeon wall. \"So, Mr. Dawnbringer, do you always play it this safe, or is today special?\""
+
+      - name: "Setting Resonance"
+        description: >
+          Use the environment or setting to mirror the emotional tone. The final lines describe 
+          the surroundings changing (or staying the same) to reflect the character’s internal state.
+        example: >
+          Thunder rumbled overhead, but the distant storm 
+          felt less like a threat and more like a promise of renewal.
+
+      - name: "Shift in Perspective"
+        description: >
+          Briefly shift the focus to another character’s internal thoughts or the larger world 
+          to highlight how the scene’s events look from a different angle or context.
+        example: >
+          In the adjacent alley, a lone figure watched them depart, wondering if their fragile alliance 
+          would survive what lay ahead.
+
+      - name: "Cliffhanger"
+        description: >
+          End at the peak of tension, cutting off right before a significant discovery or conflict, 
+          compelling the reader to move forward.
+        example: >
+          Raven reached for the door, unaware that behind it, something stirred—something far more dangerous 
+          than any dungeon spawn she had faced before.
+
+      - name: "Emotional Release"
+        description: >
+          Provide a cathartic moment of relief or resolution, letting the character briefly feel safe 
+          or content before new challenges arise.
+        example: >
+          Luke sank onto the battered sofa, a shaky laugh escaping his lips—he was alive, 
+          they were both alive, and for a second, that was enough.
+
+      - name: "One-Line Echo"
+        description: >
+          End with a short, impactful sentence that echoes a previous line or theme, giving a sharp sense 
+          of finality or resonance.
+        example: >
+          This time, she wouldn’t run; this time, she would face the darkness head-on.
+
+      - name: "Humor Break"
+        instructions: "Use humor breaks only when tonally appropriate to the scene"
+        description: >
+          End with a lighthearted or unexpected moment that provides comic relief or breaks the tension, adding a sense of levity.
+        example: >
+          As the silence stretched, Raven sighed and muttered, "Next time, I'm bringing snacks. This whole 'starving adventurer' thing isn't for me."
