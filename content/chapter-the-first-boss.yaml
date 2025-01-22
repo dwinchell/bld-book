@@ -1,0 +1,86 @@
+chapter-outline:
+  chapter: "The First Boss"
+  file: "chapter-the-first-boss.yaml"
+  plot-summary: >
+    Raven and Luke enter the boss room and face their first major challenge together.
+    Their initial attempts to coordinate falter, but a moment of crisis forces them to trust each other.
+    They combine their unique strengths to defeat the boss and claim their reward.
+    Raven invites Luke out for a celebratory drink and he accepts.
+
+  narrative-purpose: >
+    This chapter tests Raven and Luke’s teamwork under pressure, showcasing their growth as partners and setting up the trust and camaraderie that will deepen in subsequent chapters.
+
+  perspective: "Raven"
+
+  relationship-arc:
+    start: >
+      Raven and Luke’s improved teamwork carries them into the boss fight, where their synergy is tested under pressure.
+    progression: >
+      Through moments of tension, crisis, and trust, they begin to act in true synergy, showcasing their complementary strengths.
+    end: >
+      Their victory solidifies their partnership and fosters a sense of pride and camaraderie, setting the stage for emotional connection in the next chapter.
+
+  key-emotional-beats:
+    - "Initial tension as their contrasting styles create missteps and near-failures."
+    - "A moment of crisis forces them to trust each other fully, leading to a breakthrough in their teamwork."
+    - "The shared thrill of victory marks a turning point, with Raven feeling pride in their partnership and Luke appreciating her boldness."
+    - "Raven’s subtle invitation for a celebratory drink hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
+
+  tone:
+    - "Tense and suspenseful during the fight, transitioning to triumphant in the resolution."
+
+  pacing:
+    target-words: 3500
+
+  connection-to-next-chapter: >
+    Their shared sense of accomplishment transitions naturally into a celebratory drink in the next chapter, where camaraderie deepens.
+
+  scenes:
+    - scene: "Entering the Boss Room"
+      summary: >
+        Raven and Luke step into the vast, shadowy chamber where the boss awaits. The oppressive atmosphere and the shifting light and shadows set the stage for the fight.
+      narrative-purpose: >
+        Build tension and anticipation while emphasizing the stark contrast between Raven’s boldness and Luke’s cautious preparation.
+      key-moments:
+        - "Raven boldly advances, taunting Luke for overthinking."
+        - "Luke scans the environment, noticing key hazards and advantages."
+        - "The boss emerges, towering and menacing, enveloped in swirling shadows."
+
+    - scene: "The First Clash"
+      summary: >
+        Raven engages the boss aggressively while Luke provides support, but their lack of coordination results in several close calls.
+      narrative-purpose: >
+        Highlight their initial missteps and create tension as they struggle to sync their styles under pressure.
+      key-moments:
+        - "Raven’s overconfidence leaves her exposed: [Injury: Moderate, Leg]."
+        - "Luke’s protective instincts kick in as he casts a shield: [Healing: Moderate, Leg]."
+        - "The boss strikes with a sweeping attack, forcing them to retreat temporarily."
+
+    - scene: "Crisis and Breakthrough"
+      summary: >
+        A near-fatal blow to Raven forces her to rely on Luke’s healing and defensive abilities. In this moment of trust, they find their rhythm and begin to fight as a team.
+      narrative-purpose: >
+        Show the turning point in their partnership as they overcome their differences and synchronize their efforts.
+      key-moments:
+        - "The boss targets Raven with a devastating attack: [Injury: Major, Torso]."
+        - "Luke uses a burst heal under pressure: [Healing: Major, Torso]."
+        - "Raven coordinates with Luke, using his shield as cover to land a decisive blow."
+
+    - scene: "The Victory"
+      summary: >
+        Working together seamlessly, they bring down the boss in a thrilling finale. The shared sense of triumph cements their partnership.
+      narrative-purpose: >
+        Conclude the fight with a high point, reinforcing the emotional stakes and trust built during the battle.
+      key-moments:
+        - "Luke uses his ultimate ability to protect Raven during the final attack."
+        - "Raven delivers the killing blow, shadow and light working in harmony."
+        - "The boss collapses, leaving behind valuable loot and a glowing sense of accomplishment."
+
+    - scene: "The Invitation"
+      summary: >
+        As they leave the dungeon, Raven invites Luke for a celebratory drink, marking a shift in their relationship dynamics.
+      narrative-purpose: >
+        Add a personal and relational beat to transition from the action-heavy sequence to a moment of camaraderie and potential romance.
+      key-moments:
+        - "Raven playfully teases Luke about his seriousness during the fight."
+        - "Luke hesitates but agrees, showing a willingness to open up."
