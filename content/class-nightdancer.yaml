@@ -2,17 +2,28 @@ type: class
 name: Night Dancer
 
 theme: >
-  An agile, shadow-infused tank who combines graceful movement and deliberate defense to dominate the battlefield.
-  The Night Dancer thrives on precision, using her unique ability to intentionally block or grab attacks, generating power through her resource, Flow, to unleash devastating and sustaining abilities.
+  An agile, shadow-infused fighter who combines graceful movement and deliberate defense to dominate the battlefield.
+  The Night Dancer thrives on precision, using their unique ability to intentionally block or grab attacks, generating power through her resource, Flow, to unleash devastating and sustaining abilities.
+  While technically a tank class due to its ability to control the attention of foes and survive in close quarters, its survivability depends largely on precise evasions and careful resource management.
+  Its signature cloth armor and lack of a physical shield allows little room for error.
 
 recurring-motif-integration:
   - "abilities produce shadows, shadowy aparitions, dark auras or darken the setting, symbolizing adaptability, mystery and independence"
 
-resource:
-  name: flow
-  description: >
-    Generated through skillful actions like dodging, blocking, or counterattacking.
-    It is spent to fuel powerful abilities and must be carefully managed.
+resources:
+  flow:
+    description: >
+      The primary resource used by Night Dancers, generated through precise,
+      skillful actions like dodging, blocking, or timed counters. Flow fuels
+      the class’s more powerful abilities, rewarding agile, deliberate play.
+    sensory_details:
+      description: >
+        Harnessing Flow imparts a cool, tingling surge throughout the Night Dancer’s body,
+        heightening reflexes and awareness. This sensation resonates with the energy
+        described in abilities like Dark Dance, creating a seamless blend of physical
+        agility and shadow-infused power.
+    references:
+      - "Abilities: Dark Dance, Aegis"
 
 abilities:
 
@@ -67,24 +78,26 @@ abilities:
     cost: flow
     use_case: escaping dangerous attacks or repositioning to maintain control.
  
-  - name: Dark Dance
-    type: passive
-    cast_time: passive
-    effect:
-      - each successful dodge generates Flow.
-    cost: none
-    use_case: rewards mastery of evasion techniques.
+- name: "Dark Dance"
+  type: "passive"
+  cast_time: "passive"
+  effect:
+    - "Each successful dodge generates a small amount of Flow."
+    - "intentionally blocking an attack generates a larger amount of Flow, proportionate to the severity of the attack. Night Dancer will still take damage if the attack is severe enough."
+  cost: "none"
+  in_world_purpose: "Generate flow. Makes Night Dancer power scale with abilty to strategically and effectively execute defensive maneuvers. Balances the class by forcing decisions about whether to take damage from blocking or dodge for less reward."
+  narrative_purpose:
+    - "Showcase Raven's virtuoso adaptation, mastery of tactics, and precision"
+    - "Incent and reward Raven's risk taking nature"
+  sensory_details:
+    description: >
+      Activating Dark Dance floods the Night Dancer with a cool rush of Flow,
+      a tingling sensation that surges through their muscles and heightens
+      reflexes, making every dodge feel instinctive and electrifying.
+  notes:
+    - "Dark Dance can be toggled on or off, allowing the Night Dancer to choose when to generate Flow."
 
-  - name: Dark Devotion
-    type: passive
-    cast_time: passive
-    effect:
-      - intentionally blocking an attack generates Flow.
-      - flow amount scales with the severity of the attack blocked.
-    cost: none
-    use_case: allows deliberate, strategic acceptance of damage to fuel abilities.
-
-balance:
+balance-considerations:
   strengths:
     - high mobility and control, excelling in fights that reward precision.
     - synergizes with healers who can mitigate her weaknesses, like spike damage and CC.
