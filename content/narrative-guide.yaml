@@ -88,8 +88,8 @@ narrative-structure:
       purpose: >
         Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
       key-events:
-        - "Raven and Luke meet through the System's matchmaking service."
-          reference: "See 'System: Matchmaking and Terminals' in Story Bible."
+        - "Raven and Luke meet through a System classified ad."
+          reference: "See 'System: classified-ads' in the Story Bible."
         - "Their contrasting personalities and styles create tension and friction."
           reference: "See 'Classes: Night Dancer and Dawnbringer' in Story Bible."
         - "Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth."
