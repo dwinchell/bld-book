@@ -18,8 +18,6 @@ relationship-arc:
   end: >
     By the end of the chapter, they achieve a baseline level of functional teamwork, with hints of respect beginning to form.
 
-perspective: "Raven"
-
 key-emotional-beats:
   - "Raven’s confidence and boldness clash with Luke’s caution and deliberation, creating initial friction."
   - "Hints of mutual respect and compatibility emerge despite their differences."
@@ -27,10 +25,6 @@ key-emotional-beats:
 
 tone:
   - "Tense and observational, transitioning into cautious cooperation."
-
-pacing:
-  min-words: 2200
-  max-words: 2800
 
 scenes:
   - title: "The First Meeting"
@@ -43,11 +37,8 @@ scenes:
       - "After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style."
     sensory-details:
       - "The clinking of gear and quiet strategizing fill the air, creating a bustling atmosphere of anticipation."
-      - "The chill in the air brushes against Luke’s skin as he waits, surrounded by the faint hum of conversation."
       - "The striking contrast between Raven’s confident stance and Luke’s calm, deliberate demeanor highlights their differences."
-    pacing:
-      min-words: 1100
-      max-words: 1300
+
     transition-notes: >
       Their exchange leads into the preparation for their first dungeon dive together in the next scene.
     ending-style: >
