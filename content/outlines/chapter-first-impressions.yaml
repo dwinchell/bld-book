@@ -31,6 +31,8 @@ scenes:
       Raven and Luke’s contrasting personalities are introduced as they meet for the first time and agree to proceed into the dungeon.
     narrative-purpose: >
       Establish their clashing dynamics and set the stage for early tension and friction.
+    scene-hook: >
+      Luke observes the bustling energy of the staging area, his methodical nature contrasting with the chaotic environment around him.
     events:
       - "Luke arrives early at the staging area, methodically double-checking his gear and scanning the bustling environment."
       - "He notices Raven’s striking appearance and confident stance, juxtaposed with subtle signs of frustration."
@@ -51,6 +53,8 @@ scenes:
       Raven and Luke take their first steps into the dungeon, and their clashing styles immediately lead to tension and missteps.
     narrative-purpose: >
       Highlight the early friction in their partnership and set up a growing need for coordination under pressure.
+    scene-hook: >
+      They approach the foreboding dungeon entrance, its dark, shifting shadows creating a sense of tension and anticipation.
     events:
       - "The dungeon entrance is dark and foreboding, with flickering light from the System’s interface casting eerie shadows."
       - "Raven takes the lead, charging ahead and taunting the enemies with bold moves."
@@ -71,6 +75,8 @@ scenes:
       A critical moment forces Raven and Luke to adjust their approaches, planting the seeds of teamwork.
     narrative-purpose: >
       Show the turning point where they begin to recognize and adapt to each other’s strengths under pressure.
+    scene-hook: >
+      The sudden roar of a mini-boss disrupts their tense silence, forcing them into immediate action.
     events:
       - "They encounter a mini-boss that requires coordination to defeat."
       - "Raven ignores Luke’s warning about an AoE attack, resulting in significant damage."
