@@ -26,8 +26,8 @@ story-foundation:
         - "As they grow closer, moments of literal light and shadow in dungeons mirror their developing partnership."
         - "Progression: Early tension in their clashing styles is symbolized by discordant light and shadow in their dives.
           By the climax, light and shadow work together in harmony, visually reinforcing their bond."
-  key-elements:
-    - "Raven’s room in her parents’ house serves as a physical representation of her internal conflict—her independence clashes with the familial expectations she lives under."
+    key-elements:
+      - "Raven’s room in her parents’ house serves as a physical representation of her internal conflict—her independence clashes with the familial expectations she lives under."
 
   goals:
     narrative-goals:
@@ -40,10 +40,10 @@ story-foundation:
     chapter-goals:
       - "Each chapter should move both the plot and the relationship forward."
       - "Reflect the overarching themes in the events and character decisions."
-  key-elements:
-    - "The relationship arc is mirrored by their growing teamwork and synergy in the dungeon."
-    - "Dungeon challenges reflect internal struggles, forcing the protagonists to confront vulnerabilities and fears."
-    - "The resolution of their relationship and their triumph in the dungeon are intertwined, symbolizing mutual growth and trust."
+    multi-faceted-relationship-arc:
+      - "The relationship arc is mirrored in all of their: 1) emotinoal connection 2) growing trust 3) teamwork and synergy in the dungeon."
+      - "Dungeon challenges reflect internal struggles, forcing the protagonists to confront vulnerabilities and fears."
+      - "The resolution of their relationship and their triumph in the dungeon are intertwined, symbolizing mutual growth and trust."
 
   conflicts:
     internal:
@@ -52,7 +52,7 @@ story-foundation:
     interpersonal:
       - "Raven and Luke initially clash due to their opposing approaches to diving: her recklessness vs. his caution."
     external:
-      - "The dungeon forces them to confront life-threatening challenges that require teamwork and trust."
+      - description: "The dungeon forces them to confront life-threatening challenges that require teamwork and trust."
         reference: "See 'Dungeons: Mechanics and Mortality Rate' in Story Bible."
 
 decision-guidance:
@@ -89,11 +89,16 @@ narrative-structure:
       purpose: >
         Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
       key-events:
-        - "Raven and Luke meet through a System classified ad."
-          reference: "See 'System: classified-ads' in the Story Bible."
-        - "Their contrasting personalities and styles create tension and friction."
-          reference: "See 'Classes: Night Dancer and Dawnbringer' in Story Bible."
-        - "Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth."
+        - description: "Raven and Luke meet through a System classified ad."
+          references:
+            - "system.yaml_mechanics_'classified-ads'"
+        - description: "Their contrasting personalities and combat styles create tension and friction."
+          references:
+            - "character-sheets.yaml_class_'Night Dancer'"
+            - "character-sheets.yaml_class_'Dawnbringer'"
+        - description: "Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth."
+          references:
+            - "combat-dynamics.yaml_conflict_'recklessness-vs-caution'"
       key-emotional-beats:
         - "Raven reflects on her fear of mediocrity and her longing for meaning."
         - "Luke struggles with the pressure of supporting his family and his fear of attachment."
@@ -104,10 +109,10 @@ narrative-structure:
       purpose: >
         Develop their partnership as they face external challenges and internal conflicts, leading to mutual growth.
       key-events:
-        - "A dangerous dungeon dive forces them to rely on each other."
-          reference: "See 'Dungeons: The Shadowed Warrens' in Story Bible for mechanics and threats."
-        - "Personal setbacks highlight their flaws: Raven’s independence hinders teamwork, and Luke’s fear of loss creates hesitation."
-        - "Bonding moments deepen their connection, building trust and romantic tension."
+        - description: "A dangerous dungeon dive forces them to rely on each other."
+          reference: "dungeons.yaml_dungeon_'The Shadowed Warrens'"
+        - description: "Personal setbacks highlight their flaws: Raven’s independence hinders teamwork, and Luke’s fear of loss creates hesitation."
+        - description: "Bonding moments deepen their connection, building trust and romantic tension."
       key-emotional-beats:
         - "A near-death experience forces Raven and Luke to open up to each other."
 
@@ -115,11 +120,11 @@ narrative-structure:
       purpose: >
         Resolve their conflicts, showing how their partnership allows them to overcome challenges and grow as individuals.
       key-events:
-        - "A climactic dungeon dive tests their teamwork and trust."
-          reference: "See 'Dungeons: Mechanics and Mortality Rate' in Story Bible."
-        - "Luke risks everything to save Raven, overcoming his fear of loss."
-        - "Raven embraces vulnerability, realizing the strength in relying on others."
-        - "They emerge victorious, solidifying their bond and future as partners."
+        - description: "A climactic dungeon dive tests their teamwork and trust."
+          reference: "dungeons.yaml_mechanics_'Mortality Rate'"
+        - description: "Luke risks everything to save Raven, overcoming his fear of loss."
+        - description: "Raven embraces vulnerability, realizing the strength in relying on others."
+        - description: "They emerge victorious, solidifying their bond and future as partners."
       key-emotional-beats:
         - "A shared victory cements their trust and romantic connection."
 
@@ -195,16 +200,16 @@ narrative-dynamics:
         - "Illustrate Luke’s growth as he embraces vulnerability and learns to trust Raven as a partner."
       progression:
         act-1:
-          - "Introduce Luke’s fear of attachment through his cautious approach to diving and guarded interactions with Raven."
-            reference: "See 'Timeline: 2011' in Story Bible for Luke’s family loss and its impact on his character."
-          - "Establish the emotional burden of his responsibility for his sister as a key motivator for his reluctance to trust others."
+          - description: "Introduce Luke’s fear of attachment through his cautious approach to diving and guarded interactions with Raven."
+            reference: "timeline.yaml_event_'2011'"
+          - description: "Establish the emotional burden of his responsibility for his sister as a key motivator for his reluctance to trust others."
         act-2:
-          - "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
-          - "Raven’s willingness to trust Luke challenges him to reciprocate and open up emotionally."
+          - description: "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
+          - description: "Raven’s willingness to trust Luke challenges him to reciprocate and open up emotionally."
         act-3:
-            - "Luke faces a climactic challenge where he must risk himself for Raven, symbolizing his emotional growth."
-            - "He overcomes his fear of loss, fully trusting in their partnership and embracing vulnerability."
-            - "Luke reflects on how his relationship with Raven has transformed his outlook, finding balance between his responsibilities and his personal happiness."
+          - description: "Luke faces a climactic challenge where he must risk himself for Raven, symbolizing his emotional growth."
+          - description: "He overcomes his fear of loss, fully trusting in their partnership and embracing vulnerability."
+          - description: "Luke reflects on how his relationship with Raven has transformed his outlook, finding balance between his responsibilities and his personal happiness."
 
   protagonists:
     approach: "Dual-Protagonist"
@@ -228,9 +233,9 @@ narrative-dynamics:
           His arc centers on embracing risk and finding balance between responsibility and personal happiness.
         character-arc:
           initial-state:
-            - "Cautious, pragmatic, and burdened by fear of loss."
-              reference: "See 'Timeline: 2011' in Story Bible for Luke’s family loss."
-            - "Keeps relationships at arm’s length to avoid attachment."
+            - trait: "Cautious, pragmatic, and burdened by fear of loss."
+              reference: "timeline.yaml_event_'2011'"
+            - trait: "Keeps relationships at arm’s length to avoid attachment."
           growth:
             - "Learns to take calculated risks and trust in others’ resilience."
             - "Finds balance between responsibility and personal happiness."
