@@ -1,6 +1,6 @@
-metadata:
-  type: narrative-guide
-  
+file: narrative-guide.yaml
+description: "A comprehensive guide for the narrative structure, character arcs, themes, and stylistic choices for Bound in Light and Darkness."
+
 basic-information:
   title: "Bound in Light and Darkness"
   short-title: "BLD"
@@ -13,8 +13,9 @@ story-foundation:
       - "The pursuit of meaning and self-discovery."
       - "Balancing independence and interdependence."
       - "Growth through contrasting perspectives."
-    recurring-motifs:
-      - description: >
+  recurring-motifs:
+    light-and-darkness:
+      description: >
           Light and darkness symbolize Raven and Luke's contrasting personalities, classes, and mutual growth.
           The motif evolves alongside their relationship, starting as a point of tension (recklessness vs. caution)
           and becoming a representation of their synergy and trust.
@@ -25,8 +26,8 @@ story-foundation:
         - "As they grow closer, moments of literal light and shadow in dungeons mirror their developing partnership."
         - "Progression: Early tension in their clashing styles is symbolized by discordant light and shadow in their dives.
           By the climax, light and shadow work together in harmony, visually reinforcing their bond."
-    key-elements:
-      - "Raven’s room in her parents’ house serves as a physical representation of her internal conflict—her independence clashes with the familial expectations she lives under."
+  key-elements:
+    - "Raven’s room in her parents’ house serves as a physical representation of her internal conflict—her independence clashes with the familial expectations she lives under."
 
   goals:
     narrative-goals:
