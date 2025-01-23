@@ -116,95 +116,139 @@ team:
       - "His deliberate planning mirrors his growth, balancing forethought with decisive action."
 
 
-    raven:
-      role: "Disruptor and tank by aggression"
-      style: "Dynamic, mobile, and precision-based, thriving on disruption and threat generation."
-      mechanics:
-        - "Generates Flow through blocks, dodges, and counters, using it to fuel high-impact abilities."
-        - "Peels for Luke by disrupting enemies and forcing them to focus on her."
-      tanking-philosophy:
-        - "Tanks not by absorbing damage but by skillfully mitigating it through precision and movement."
-        - "Uses threat-through-damage and psychological manipulation to control enemies."
-      abilities:
-        offense:
-          - name: "Eclipse Flurry"
-            effect: "A multi-target melee attack that builds Flow and generates significant threat."
-            utility: "Slows enemies hit, preventing them from chasing Luke."
-          - name: "Phantom Chains"
-            effect: "Pulls a single target into melee range, interrupting their action and generating Flow."
-          - name: "Shadow Ambush"
-            effect: "Emerging from stealth disorients nearby enemies, forcing them to target Raven or lose momentum."
-        defense:
-          - name: "Aegis"
-            effect: "Boosts her block stat for 10 seconds, generating bonus Flow for each blocked attack."
-          - name: "Nightfall Veil"
-            effect: "Obscures Raven and Luke from ranged attackers, forcing enemies into melee range."
-        mobility:
-          - name: "Shadow Step"
-            effect: "Quick dash that avoids all damage and repositions behind an enemy."
-          ravens-taunting-abilities:
-        taunting:
-          - name: Shadow's Grasp
-            type: aoe_taunt
-            cooldown: "8 hours"
-            description: >
-              Raven engulfs the battlefield in swirling shadows, disorienting her enemies and making herself appear as the only clear target. Lesser enemies are fully drawn to her, while smarter or stronger-willed foes may resist or break free after a short time.
-            mechanics:
-              effect:
-                - "Forces all enemies within a small radius to target Raven for up to 5 seconds."
-                - "High-intelligence or high-willpower enemies may break free after 1–2 seconds."
-              resource_generation:
-                description: >
-                  Raven gains bonus Flow for each enemy that attacks her during the effect, encouraging her to maintain aggressive positioning.
-              synergy:
-                - "Combines well with Eclipse Flurry to maximize damage output while holding aggro."
-                - "Provides crowd control, buying time for Luke to establish barriers or heal."
-            visuals:
-              - "The battlefield is cloaked in a dark haze, with Raven standing out as a stark, shadowy figure."
-              - "Weaker enemies appear confused and frantic, focusing entirely on Raven."
-            limitations:
-              - "Less effective against intelligent or highly resistant enemies."
-              - "Duration may be reduced if Raven doesn’t maintain pressure."
-          - name: Dancer's Challenge
-              type: single_target_taunt
-              cooldown: "8 hours"
-              description: >
-                Raven issues a bold challenge to a single enemy, daring them to focus entirely on her. This ability plays on the target’s pride, anger, or frustration, forcing their attention onto her if they fail to resist her provocation.
-              mechanics:
-                effect:
-                  - "Forces a single intelligent or emotionally-driven enemy to target Raven for 6 seconds."
-                  - "If the target resists (based on their intelligence or emotional state), they suffer a minor debuff (e.g., reduced accuracy or focus) for 3 seconds."
-                  - "Raven deals bonus damage to the taunted target during the effect."
-                resource_generation:
-                  description: >
-                    Generates Flow when the target attacks Raven, rewarding her for precision-based tanking.
-                synergy:
-                  - "Works well to isolate a powerful enemy, giving Luke space to heal or set up tactical plays."
-                  - "Can be chained with Phantom Chains to maintain control over the target’s positioning."
-              visuals:
-                - "Raven steps forward with a bold, confident stance, her shadowy aura flaring like a predator ready to strike."
-                - "The target’s focus visibly shifts to her, their aggression or frustration overcoming their rationality."
-              limitations:
-                - "Only works on intelligent or emotionally-driven enemies."
-                - "Enemies with no emotions (e.g., automata, certain undead) are immune."
-              narrative_usage:
-                - "Highlights Raven’s charisma and boldness in combat."
-                - "Creates high-risk, high-reward moments that align with her daring personality."
-      narrative-role:
-        - "Raven’s aggressive, high-damage style forces enemies to focus on her, allowing Luke to execute his deliberate plans."
-        - "Her risk-taking challenges Luke’s cautious nature, creating a dynamic tension that evolves into synergy."
-        - "Her cloth armor emphasizes her reliance on precision and boldness rather than traditional durability."
-    synergy:
-      dynamic:
-        - "Luke provides zones and barriers that stabilize the battlefield, giving Raven space to disrupt and control threats."
-        - "Raven’s aggressive tanking style creates openings for Luke’s positional abilities to shine."
-      complementary-abilities:
-        - "Beacon of Judgement amplifies Raven’s damage output, rewarding her aggression."
-        - "Sanctified Ground encourages Raven to fight within Luke’s safe zones, creating synergy between mobility and stability."
-        - "Nightfall Veil protects Luke from ranged attacks, letting him focus on setup and support."
-      narrative:
-        - "Luke’s careful plans are pushed to their limits by Raven’s unpredictability, forcing him to adapt and trust her instincts."
-        - "Raven learns to appreciate Luke’s deliberate, grounding presence, finding balance in their contrasting approaches."
+  raven:
+    role: "Disruptor and tank by aggression"
+    style: "Dynamic, mobile, and precision-based, thriving on disruption and threat generation."
+    mechanics:
+      - "Generates Flow through blocks, dodges, and counters, using it to fuel high-impact abilities."
+      - "Peels for Luke by disrupting enemies and forcing them to focus on her."
+    tanking-philosophy:
+      - "Tanks not by absorbing damage but by skillfully mitigating it through precision and movement."
+      - "Uses threat-through-damage and psychological manipulation to control enemies."
+    resource:
+      - flow:
+          description: "Generated by precise defensive actions like blocks, dodges, and counters."
+          usage: "Used to power Raven's high-impact abilities, rewarding risk and precision."
+
+    abilities:
+      offense:
+        - name: "Eclipse Flurry"
+          effect: "A multi-target melee attack that builds Flow and generates significant threat."
+          utility: "Slows enemies hit, preventing them from chasing Luke."
+          cooldown: "10 seconds"
+          resource_cost:
+            flow: "Medium"
+          resource_generation:
+            flow: "Medium"
+
+        - name: "Phantom Chains"
+          effect: "Pulls a single target into melee range, interrupting their action and generating Flow."
+          cooldown: "12 seconds"
+          resource_cost:
+            flow: "Low"
+          resource_generation:
+            flow: "Medium"
+
+        - name: "Shadow Ambush"
+          effect: "Emerging from stealth disorients nearby enemies, forcing them to target Raven or lose momentum."
+          cooldown: "15 seconds"
+          resource_cost:
+            flow: "High"
+          resource_generation:
+            flow: "None"
+
+      defense:
+        - name: "Aegis"
+          effect: "Boosts her block stat for 10 seconds, generating bonus Flow for each blocked attack."
+          cooldown: "25 seconds"
+          resource_cost:
+            flow: "Low"
+          resource_generation:
+            flow: "High"
+
+        - name: "Nightfall Veil"
+          effect: "Obscures Raven and Luke from ranged attackers, forcing enemies into melee range."
+          cooldown: "20 seconds"
+          resource_cost:
+            flow: "Medium"
+          resource_generation:
+            flow: "None"
+
+      mobility:
+        - name: "Shadow Step"
+          effect: "Quick dash that avoids all damage and repositions behind an enemy."
+          cooldown: "8 seconds"
+          resource_cost:
+            flow: "Low"
+          resource_generation:
+            flow: "None"
+
+      taunting:
+        - name: "Shadow's Grasp"
+          type: "AoE Taunt"
+          cooldown: "8 hours"
+          description: >
+            Raven engulfs the battlefield in swirling shadows, disorienting her enemies and making herself appear as the only clear target.
+            Lesser enemies are fully drawn to her, while smarter or stronger-willed foes may resist or break free after a short time.
+          mechanics:
+            effect:
+              - "Forces all enemies within a small radius to target Raven for up to 5 seconds."
+              - "High-intelligence or high-willpower enemies may break free after 1–2 seconds."
+            resource_generation:
+              flow: "Medium"
+            synergy:
+              - "Combines well with Eclipse Flurry to maximize damage output while holding aggro."
+              - "Provides crowd control, buying time for Luke to establish barriers or heal."
+          visuals:
+            - "The battlefield is cloaked in a dark haze, with Raven standing out as a stark, shadowy figure."
+            - "Weaker enemies appear confused and frantic, focusing entirely on Raven."
+          limitations:
+            - "Less effective against intelligent or highly resistant enemies."
+            - "Duration may be reduced if Raven doesn’t maintain pressure."
+
+        - name: "Dancer's Challenge"
+          type: "Single-Target Taunt"
+          cooldown: "8 hours"
+          description: >
+            Raven issues a bold challenge to a single enemy, daring them to focus entirely on her. This ability plays on the target’s pride,
+            anger, or frustration, forcing their attention onto her if they fail to resist her provocation.
+          mechanics:
+            effect:
+              - "Forces a single intelligent or emotionally-driven enemy to target Raven for 6 seconds."
+              - "If the target resists (based on their intelligence or emotional state), they suffer a minor debuff (e.g., reduced accuracy or focus) for 3 seconds."
+              - "Raven deals bonus damage to the taunted target during the effect."
+            resource_generation:
+              flow: "Medium"
+            synergy:
+              - "Works well to isolate a powerful enemy, giving Luke space to heal or set up tactical plays."
+              - "Can be chained with Phantom Chains to maintain control over the target’s positioning."
+          visuals:
+            - "Raven steps forward with a bold, confident stance, her shadowy aura flaring like a predator ready to strike."
+            - "The target’s focus visibly shifts to her, their aggression or frustration overcoming their rationality."
+          limitations:
+            - "Only works on intelligent or emotionally-driven enemies."
+            - "Enemies with no emotions (e.g., automata, certain undead) are immune."
+          narrative_usage:
+            - "Highlights Raven’s charisma and boldness in combat."
+            - "Creates high-risk, high-reward moments that align with her daring personality."
+
+    narrative-role:
+      - "Raven’s aggressive, high-damage style forces enemies to focus on her, allowing Luke to execute his deliberate plans."
+      - "Her risk-taking challenges Luke’s cautious nature, creating a dynamic tension that evolves into synergy."
+      - "Her cloth armor emphasizes her reliance on precision and boldness rather than traditional durability."
+
+  synergy:
+    dynamic:
+      - "Luke provides zones and barriers that stabilize the battlefield, giving Raven space to disrupt and control threats."
+      - "Raven’s aggressive tanking style creates openings for Luke’s positional abilities to shine."
+    complementary-abilities:
+      - "Beacon of Judgement amplifies Raven’s damage output, rewarding her aggression."
+      - "Sanctified Ground encourages Raven to fight within Luke’s safe zones, creating synergy between mobility and stability."
+      - "Nightfall Veil protects Luke from ranged attacks, letting him focus on setup and support."
+    narrative:
+      - "Luke’s careful plans are pushed to their limits by Raven’s unpredictability, forcing him to adapt and trust her instincts."
+      - "Raven learns to appreciate Luke’s deliberate, grounding presence, finding balance in their contrasting approaches."
+
 
 
 combat_mechanics:
