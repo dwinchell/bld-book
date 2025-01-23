@@ -260,3 +260,72 @@ relationship-arcs:
         Raven sarcastically calls Luke "Sunshine" early on, poking fun at his overly cautious and steady demeanor. 
         Over time, the nickname evolves into a genuine term of endearment, reflecting their growing bond and Raven's shifting perception of Luke. 
         The nickname serves as a symbol of their relationship progression, from initial friction to deep trust and affection.
+
+workflow-conventions:
+  cross-referencing:
+    purpose: >
+      Provide clear and consistent standards for referencing content across YAML files. 
+      These standards ensure clarity and ease of use in all workflows, including outline generation, drafting, YAML validation, 
+      and general LLM responses. The conventions are designed to maintain modularity, support enriched storytelling, 
+      and ensure data integrity across files.
+    applies-to:
+      - "Outline generation"
+      - "Drafting responses"
+      - "YAML validation"
+      - "General context expansion in LLM responses"
+    syntax:
+      reference: "<file_name>_<context_type>_<content_identifier>"
+      description: >
+        The syntax for cross-referencing includes three parts:
+        - `<file_name>`: The YAML file where the referenced content is defined (e.g., `abilities.yaml`).
+        - `<context_type>`: The type of content being referenced (e.g., `character`, `dungeon`, `theme`).
+        - `<content_identifier>`: The exact name of the referenced content, enclosed in double quotes. This must match the source file exactly.
+    examples:
+      - type: "Ability Reference"
+        example: "reference: abilities.yaml_character_'Beacon of Judgement'"
+      - type: "Dungeon Reference"
+        example: "reference: dungeons.yaml_dungeon_'Shadow Warrens'"
+      - type: "Theme Reference"
+        example: "reference: themes.yaml_theme_'Light and Darkness'"
+    guidelines:
+      - "Use exact names for `<content_identifier>`, ensuring they match the source file exactly, including capitalization and spacing."
+      - "Avoid special characters (e.g., `/`, `#`, `*`) in names that may cause parsing issues."
+      - "Include `<file_name>` and `<context_type>` to minimize ambiguity and simplify parsing."
+      - "Update references whenever content identifiers or file names are renamed to prevent errors."
+    llm-usage:
+      parsing-instructions:
+        - "Locate `reference` fields in YAML files."
+        - "Extract `<file_name>`, `<context_type>`, and `<content_identifier>` from the reference string."
+      resolving-references:
+        - "Open the specified `<file_name>`."
+        - "Search for entries matching `<context_type>` and `<content_identifier>`."
+        - "Retrieve the referenced content for use in the current context."
+      validation:
+        - "Ensure the `content_identifier` exists in the specified `<file_name>`."
+        - "Check for typos, case mismatches, or missing files during parsing."
+      enrichment:
+        - "Use referenced content to enhance responses with relevant details (e.g., ability descriptions, dungeon mechanics)."
+        - "Avoid duplicating the reference string in responses unless explicitly instructed."
+      error-handling:
+        - "Notify the user if a reference cannot be resolved, providing suggestions for corrections."
+        - example-error-response: >
+            "The reference abilities.yaml_character_'Radiant Strike' could not be found. Please ensure it exists and is correctly named."
+    narrative-integration:
+      description: >
+        The conventions ensure referenced content is integrated seamlessly into YAML workflows, narrative elements, and validation processes, 
+        allowing for enriched storytelling, modular file management, and consistent responses.
+      usage:
+        - "Include ability references in key event descriptions to ensure the narrative incorporates character mechanics naturally."
+        - "Use dungeon references in chapter outlines to maintain continuity with the story's setting."
+      example-behavior:
+        input: |
+          abilities:
+            radiant-strike:
+              reference: abilities.yaml_character_"Radiant Strike"
+        llm-response: >
+          Parse the reference and retrieve:
+          - `file_name`: `abilities.yaml`
+          - `context_type`: `character`
+          - `content_identifier`: `Radiant Strike`
+          Resolve and use the corresponding entry:
+          - "Radiant Strike is an offensive ability that deals light damage and generates a Light Charge. It reflects Luke’s methodical combat style."
