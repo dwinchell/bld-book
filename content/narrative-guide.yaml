@@ -145,18 +145,7 @@ scene-construction:
       - "Maintain emotional or thematic continuity between scenes using shared motifs, lingering stakes, or callbacks."
       - "Use transitions to carry forward momentum, ensuring each scene builds on the last."
     scene-endings:
-      - "Close scenes with a variety of techniques, such as raising a question, foreshadowing, emotional reflection, or symbolic actions."
-      - "Match the ending technique to the scene’s tone, pacing, and purpose in the chapter."
-      - "Avoid relying too heavily on any single technique (e.g., symbolic actions) to ensure variety and freshness."
-      - "Endings should leave readers eager to continue, whether through curiosity, tension, or emotional engagement."
       - "Reference: scene-endings in drafting-guidance.yaml"
-    examples:
-      transitions:
-        - "After a tense argument, a lingering feeling of frustration propels the protagonist into the next decision."
-        - "An unanswered question in one scene (e.g., 'Where is the healer?') transitions into the next, where that question is resolved."
-      endings:
-        - "Instead of a clichéd 'little did they know,' use: 'She tightened her grip on the dagger, her confidence unwavering—at least for now.'"
-        - "Close with a small, symbolic action that reflects the character’s internal state, such as shutting a door to signal determination."
 
 narrative-dynamics:
   subplots:

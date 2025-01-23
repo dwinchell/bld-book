@@ -1,45 +1,92 @@
 metadata:
   type: chapter-outline
+  title: "First Impressions"
   file: "chapter-first-impressions.yaml"
-
-title: "First Impressions"
 
 plot-summary: >
   Raven and Luke meet for the first time at the dungeon staging area. Their initial interactions are tense due to their contrasting personalities, but they agree to proceed into the dungeon together. Early challenges highlight their differences and lead to a moment of crisis where they begin to adapt to each other’s strengths.
 
 narrative-purpose: >
-  This chapter establishes Raven and Luke’s dynamic and sets the stage for their teamwork arc by introducing tension, friction, and the first steps toward functional collaboration.
+  This chapter establishes Raven and Luke’s dynamic, setting the stage for their teamwork arc by introducing tension, friction, and the first steps toward functional collaboration.
 
 relationship-arc:
   start: >
-    Raven and Luke’s first meeting reveals immediate tension due to their clashing personalities and styles.
+    Immediate tension arises due to their clashing personalities and styles.
   progression: >
-    As they face early dungeon challenges, their friction escalates, but a moment of crisis forces them to adapt to each other’s strengths.
+    Early dungeon challenges escalate the friction, but a critical moment forces them to adapt to each other.
   end: >
-    By the end of the chapter, they achieve a baseline level of functional teamwork, with hints of respect beginning to form.
+    By the end of the chapter, they achieve a baseline level of functional teamwork, with hints of mutual respect beginning to form.
 
 key-emotional-beats:
   - "Raven’s confidence and boldness clash with Luke’s caution and deliberation, creating initial friction."
-  - "Hints of mutual respect and compatibility emerge despite their differences."
-  - "Early dungeon interactions highlight their strengths and weaknesses, escalating the stakes."
+  - "Hints of mutual respect and compatibility emerge as they observe each other’s skills."
+  - "Early dungeon interactions highlight their strengths and weaknesses, escalating stakes and emotional tension."
 
 tone:
   - "Tense and observational, transitioning into cautious cooperation."
 
 scenes:
   - title: "The First Meeting"
-    purpose: "Show Luke preparing for and arriving at the staging area, setting the stage for his first interaction with Raven."
+    plot-summary: >
+      Raven and Luke’s contrasting personalities are introduced as they meet for the first time and agree to proceed into the dungeon.
+    narrative-purpose: >
+      Establish their clashing dynamics and set the stage for early tension and friction.
     events:
-      - "Luke double-checks his gear, carefully inspecting his tools and supplies with methodical precision."
-      - "At the staging area, Luke arrives early, observing the bustling energy of divers and taking note of Raven’s striking appearance."
-      - "Luke notices the contrast between Raven’s confident posture and the subtle tension in her movements, deducing that she’s experienced but frustrated by a lack of progress."
-      - "Raven approaches Luke and casually asks if he’s her healer, leading to a brief but telling exchange that highlights their contrasting personalities."
-      - "After their exchange, Luke reflects on Raven’s bold, adaptable approach and resolves to adapt his cautious strategy to her dynamic style."
+      - "Luke arrives early at the staging area, methodically double-checking his gear and scanning the bustling environment."
+      - "He notices Raven’s striking appearance and confident stance, juxtaposed with subtle signs of frustration."
+      - "Raven approaches Luke with a casual, slightly cocky remark, initiating their first exchange."
+      - "Their dialogue highlights their differences: Raven is bold and informal, while Luke is reserved and methodical."
+      - "Luke reflects on Raven’s energy, resolving to adapt his strategy to her dynamic style."
     sensory-details:
-      - "The clinking of gear and quiet strategizing fill the air, creating a bustling atmosphere of anticipation."
-      - "The striking contrast between Raven’s confident stance and Luke’s calm, deliberate demeanor highlights their differences."
+      - "The clinking of metal as divers prepare their gear."
+      - "The hum of the System interface as Luke reviews the dungeon’s details."
+      - "Raven’s shadow falling across Luke as she steps into his space, her voice casual but commanding."
+    ending:
+      ending-style: drafting-guidance.yaml_ending-styles_"Dynamic Transition"
+      transition: >
+        Their mutual decision to enter the dungeon flows naturally into the next scene as they step into the dark corridor, marking the shift from setup to action.
 
-    transition-notes: >
-      Their exchange leads into the preparation for their first dungeon dive together in the next scene.
-    ending-style: >
-      The scene ends with Luke reflecting on their first interaction, setting a tone of cautious determination as he prepares to meet Raven’s dynamic energy in the dungeon.
+  - title: "Entering the Dungeon"
+    plot-summary: >
+      Raven and Luke take their first steps into the dungeon, and their clashing styles immediately lead to tension and missteps.
+    narrative-purpose: >
+      Highlight the early friction in their partnership and set up a growing need for coordination under pressure.
+    events:
+      - "The dungeon entrance is dark and foreboding, with flickering light from the System’s interface casting eerie shadows."
+      - "Raven takes the lead, charging ahead and taunting the enemies with bold moves."
+      - "Luke cautiously follows, scanning the area for traps and positioning himself strategically for healing."
+      - "Their lack of coordination leads to a near-miss, forcing Luke to expend more mana than planned."
+      - "A brief exchange of blame ensues, with Luke criticizing Raven’s recklessness and Raven countering that he overthinks."
+    sensory-details:
+      - "The sound of Raven’s boots echoing in the narrow corridors."
+      - "The metallic tang of blood as their first enemies fall."
+      - "The warm glow of Luke’s healing light, contrasting with the dark, shadowy environment."
+    ending:
+      ending-style: drafting-guidance.yaml_ending-styles_"Escalating Tension"
+      transition: >
+        The unresolved tension between Raven and Luke carries into the next scene, as a new challenge appears deeper within the dungeon.
+
+  - title: "Adapting to Each Other"
+    plot-summary: >
+      A critical moment forces Raven and Luke to adjust their approaches, planting the seeds of teamwork.
+    narrative-purpose: >
+      Show the turning point where they begin to recognize and adapt to each other’s strengths under pressure.
+    events:
+      - "They encounter a mini-boss that requires coordination to defeat."
+      - "Raven ignores Luke’s warning about an AoE attack, resulting in significant damage."
+      - "Realizing her mistake, Raven begrudgingly follows Luke’s instructions for positioning."
+      - "Using Luke’s barriers as cover, Raven lands a decisive strike on the mini-boss."
+      - "The fight concludes with a sense of mutual respect, though neither openly acknowledges it."
+    sensory-details:
+      - "The rumble of the mini-boss’s charge shaking the ground beneath their feet."
+      - "The sharp crackle of Luke’s barrier activating just in time to shield Raven."
+      - "The satisfying thud of the mini-boss collapsing, its body dissipating into System particles."
+    ending:
+      ending-style: drafting-guidance.yaml_ending-styles_"Resolving Action"
+      transition: >
+        The growing sense of mutual respect provides a natural bridge into their preparation for the next challenge, with hints of improved teamwork on the horizon.
+
+drafting-goals:
+  - "Emphasize the light-shadow motif during dungeon scenes to reinforce their contrasting styles and eventual synergy."
+  - "Maintain sharp, revealing dialogue that showcases Raven’s wit and Luke’s pragmatism."
+  - "Foreshadow their potential as a team by highlighting small moments where their styles inadvertently benefit each other."
