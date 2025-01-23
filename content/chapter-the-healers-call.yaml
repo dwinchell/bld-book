@@ -75,9 +75,8 @@ scenes:
     sensory-details:
       - "The buzz of the System confirmation vibrating faintly in the quiet room."
       - "The distant memory of his guitar’s strings, tied to moments of solace and purpose."
-      - "The clean, clinical language of Raven’s classified ad, contrasting with the sense of boldness it conveys."
     requirements:
-      use-this-text-for-the-ad: "*Seeking an experienced healer for intermediate dungeon dives. Reliability required. Compensation negotiable.*"
+      use-this-text-for-the-ad: "*Seeking experienced healer for intermediate dungeon dives. Duo partnership. Consistent runs, fair loot split. Must be reliable.*"
     ending:
       transition-notes: >
         Luke’s acceptance of the ad ends the chapter with a mix of resolve and uncertainty, setting the stage for his first meeting with Raven in the next chapter.

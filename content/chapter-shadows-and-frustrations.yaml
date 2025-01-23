@@ -88,6 +88,8 @@ scenes:
       - "Mention the necklace once. She touches it as a source of support as posts the ad"
     scensory-details:
       - "The cool weight of her raven necklace, which she is wearing, grounds her as she fiddles with it"
+    requirements:
+      use-this-text-for-the-ad: "*Seeking experienced healer for intermediate dungeon dives. Duo partnership. Consistent runs, fair loot split. Must be reliable.*"
     scene-ending:
         ending-style: Emotional Release
         summary: Raven takes solace in her music as the scene ends
