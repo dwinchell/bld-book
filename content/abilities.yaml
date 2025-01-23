@@ -1,3 +1,6 @@
+file: abilities.yaml
+purpose: "Centralized repository for defining all character abilities, including their mechanics, types, and narrative integration, to ensure consistency and accessibility across the project."
+
 abilities:
   luke:
     radiant-strike:
