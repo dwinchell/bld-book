@@ -144,6 +144,56 @@ team:
     tanking-philosophy:
       - "Tanks not by absorbing damage but by skillfully mitigating it through precision and movement."
       - "Uses threat-through-damage and psychological manipulation to control enemies."
+
+    class-overview:
+      name: "Night Dancer"
+      description: >
+        An agile, shadow-infused fighter who thrives on precision and grace, using deliberate defense
+        and dynamic mobility to dominate the battlefield. The Night Dancer excels at disruption,
+        threat generation, and precise resource management. While classified as a tank,
+        her survival depends on skillfully mitigating damage through dodges, blocks, and counters,
+        rather than absorbing hits directly.
+      theme: >
+        The Night Dancer’s abilities manifest as shadows, auras, and apparitions that darken the
+        battlefield, symbolizing her independence, adaptability, and internal struggle. As she grows
+        alongside her allies, these shadows come to represent teamwork and trust.
+      resources:
+        - flow:
+            description: >
+              The Night Dancer’s primary resource, generated through defensive mastery
+              (dodging, blocking, and counters). Flow fuels powerful abilities that emphasize
+              precision, mobility, and disruption.
+            sensory_details: >
+              Flow feels like a cool, tingling surge coursing through the Night Dancer’s body,
+              heightening reflexes and awareness. It provides a seamless connection between her physical
+              agility and shadow-infused power.
+      mechanics:
+        - "High mobility and precision-based play reward skillful execution of dodges and blocks."
+        - "Generates Flow through defensive actions, encouraging a risk-reward playstyle."
+        - "Balances vulnerability with powerful threat generation and crowd control."
+      narrative-role:
+        - "Represents Raven’s thrill-seeking nature and her struggle to trust others, as her shadows initially obscure Luke’s light."
+        - "Highlights Raven’s mastery of tactics and her virtuoso-like combat style, emphasizing her daring and precision."
+        - "As the story progresses, her shadow abilities symbolize her growing partnership with Luke, blending light and darkness into harmony."
+      recurring-motifs:
+        - light-and-darkness:
+            symbolism: >
+              The Night Dancer’s shadow-infused abilities symbolize her independence, adaptability,
+              and mystery. Her connection to darkness reflects both her thrill-seeking nature and her
+              difficulty in relying on others. As her relationship with Luke develops, her abilities
+              evolve to blend seamlessly with his light, symbolizing their synergy.
+            abilities-connection:
+              - "Nightfall Veil: Represents her control over the battlefield and her gradual willingness to protect others."
+              - "Eclipse Flurry: Demonstrates her adaptability and mastery amidst the chaos of combat."
+              - "Aegis of Darkness: Her precision-based approach to defense highlights her resourceful and calculated style."
+      balance-considerations:
+        strengths:
+          - High mobility and control, excelling in encounters that reward precision.
+          - Strong synergy with healers who mitigate her vulnerability to burst damage and crowd control.
+        weaknesses:
+          - Vulnerable to spike damage or prolonged crowd control, which disrupts Flow generation.
+          - Requires high skill and decision-making to maximize potential, creating a steep learning curve.
+
     resource:
       - flow:
           description: >
