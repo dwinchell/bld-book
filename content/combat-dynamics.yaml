@@ -1,7 +1,4 @@
-metadata:
-  type: combat-dynamics
-  file: combat-dynamics.yaml
-  references: abilities.yaml
+file: combat-dynamics.yaml
 
 luke:
   description: "Details about the combat roles, styles, and narrative contributions of Luke."

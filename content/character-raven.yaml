@@ -1,4 +1,5 @@
-type: character
+file: character-luke.yaml
+
 name: "Raven Blackwood"
 age: 21
 nationality: "American"
