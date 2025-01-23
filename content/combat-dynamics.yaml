@@ -75,127 +75,16 @@ luke:
         usage: "Used to power high-impact moves and amplify team coordination."
 
   abilities:
-      - name: "Radiant Strike"
-        effect: "A slow, deliberate melee attack that deals light damage and generates a Light Charge."
-        utility: "Marks enemies to increase vulnerability to healing-based debuffs."
-        cast_time: "1 second"
-        cooldown: "6 seconds"
-        resource_cost:
-          mana: "low"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Generates 1 Light Charge when it hits an enemy."
-
-      - name: "Blazing Circle"
-        effect: "Creates a zone of light that damages enemies and slightly heals allies within."
-        duration: "10 seconds"
-        cast_time: "1.5 seconds"
-        cooldown: "15 seconds"
-        resource_cost:
-          mana: "medium"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Generates 1 Light Charge if at least two allies or enemies are affected for the full duration."
-        clears_status_effects: Frozen
-
-      - name: "Beacon of Judgement"
-        effect: "Ranged attack that consumes a Light Charge to deal high damage and increase incoming damage from Raven’s attacks."
-        cast_time: "1.5 seconds"
-        cooldown: "20 seconds"
-        resource_cost:
-          mana: "medium"
-          light_charges: 1
-        resource_generation:
-          light_charges: "Generates 1 Light Charge on a critical hit."
-
-    healing:
-      - name: "Guiding Radiance"
-        effect: "Places a HoT on an ally, enhanced if they are in Luke’s Blazing Circle."
-        duration: "8 seconds"
-        cast_time: "1 second"
-        cooldown: "10 seconds"
-        resource_cost:
-          mana: "low"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Generates 1 Light Charge if the healing effect lasts its full duration."
-        clears_status_effects: Poisoned, Burning
-
-      - name: "Luminous Bond"
-        effect: "Redirects a percentage of Raven’s incoming damage to Luke for 6 seconds, amplifying heals applied to him."
-        cast_time: "1.5 seconds"
-        cooldown: "30 seconds"
-        resource_cost:
-          mana: "medium"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Does not generate Light Charges."
-        clears_status_effects: Shadow Corruption
-
-      - name: "Sanctuary of Light"
-        ultimate: true
-        effect: "Creates a large healing aura that regenerates stamina/mana/Flow and reduces incoming damage."
-        duration: "15 seconds"
-        cast_time: "3 seconds"
-        cooldown: "5 minutes"
-        resource_cost:
-          mana: "high"
-          light_charges: 2
-        resource_generation:
-          light_charges: "Does not generate Light Charges."
-        clears_status_effects: Poisoned, Shadow Corruption, Exhaustion
-
-      - name: "Brilliant Mend"
-        effect: "Instantly restores a large amount of health to a single ally, stabilizing critical injuries and preventing incapacitation."
-        cast_time: "1.5 seconds"
-        cooldown: "30 seconds"
-        resource_cost:
-          mana: "High"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Does not generate Light Charges."
-        narrative-role:
-          - "Used in moments of crisis, reflecting Luke’s ability to remain calm and decisive under pressure."
-          - "Emphasizes his nurturing and protective nature by ensuring allies can recover from life-threatening damage."
-        clears_status_effects: Poisoned, Shadow Corruption
-
-    utility:
-      - name: "Radiant Wall"
-        effect: "Blocks projectiles and slows melee attackers who pass through it."
-        duration: "8 seconds"
-        cast_time: "2 seconds"
-        cooldown: "20 seconds"
-        resource_cost:
-          mana: "medium"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Does not generate Light Charges."
-        clears_status_effects: Burning
-
-      - name: "Aegis of Light"
-        effect: "Shields an ally, absorbing damage. If the shield breaks, it emits a healing burst."
-        cast_time: "1 second"
-        synergy-effect: >
-          When paired with Raven’s Aegis of Darkness, it creates Harmonized Aegis, reducing incoming damage and healing allies.
-        cooldown: "25 seconds"
-        resource_cost:
-          mana: "medium"
-        resource_generation:
-          light_charges: "None"
-        narrative-role:
-          - "Reinforces Luke’s protective and nurturing role."
-          - "Highlights his synergy with Raven’s precision-based tanking."
-
-      - name: "Blinding Nova"
-        effect: "Briefly disorients enemies and reduces their accuracy."
-        duration: "3 seconds"
-        cast_time: "1.5 seconds"
-        cooldown: "40 seconds"
-        resource_cost:
-          mana: "high"
-          light_charges: 0
-        resource_generation:
-          light_charges: "Does not generate Light Charges."
+    - reference: abilities.yaml_character_"Radiant Strike"
+    - reference: abilities.yaml_character_"Blazing Circle"
+    - reference: abilities.yaml_character_"Beacon of Judgement"
+    - reference: abilities.yaml_character_"Guiding Radiance"
+    - reference: abilities.yaml_character_"Luminous Bond"
+    - reference: abilities.yaml_character_"Sanctuary of Light"
+    - reference: abilities.yaml_character_"Brilliant Mend"
+    - reference: abilities.yaml_character_"Radiant Wall"
+    - reference: abilities.yaml_character_"Aegis of Light"
+    - reference: abilities.yaml_character_"Blinding Nova"
 
   narrative-role:
     - "Luke grows from overly cautious to trusting Raven’s boldness, learning to set up plays that amplify her strengths."
@@ -270,116 +159,16 @@ raven:
           - Counterattacks: "Medium"
         usage: "Used to power Raven's high-impact abilities, rewarding risk and precision."
 
+ 
   abilities:
-    offense:
-      - name: "Eclipse Flurry"
-        effect: "A multi-target melee attack that builds Flow and generates significant threat."
-        utility: "Slows enemies hit, preventing them from chasing Luke."
-        cooldown: "10 seconds"
-        resource_cost:
-          flow: "Medium"
-        resource_generation:
-          flow: "Medium"
-
-      - name: "Phantom Chains"
-        effect: "Pulls a single target into melee range, interrupting their action and generating Flow."
-        cooldown: "12 seconds"
-        resource_cost:
-          flow: "Low"
-        resource_generation:
-          flow: "Medium"
-        clears_status_effects: Frozen (immobilization effects)
-
-      - name: "Shadow Ambush"
-        effect: "Emerging from stealth disorients nearby enemies, forcing them to target Raven or lose momentum."
-        cooldown: "15 seconds"
-        resource_cost:
-          flow: "High"
-        resource_generation:
-          flow: "None"
-
-    defense:
-      - name: "Aegis of Darkness"
-        effect: "Boosts Raven’s block stat and generates Flow with each blocked attack."
-        synergy-effect: >
-          Combines with Aegis of Light to create Harmonized Aegis, enhancing team-wide defenses and healing."
-        cooldown: "25 seconds"
-        resource_cost:
-          flow: "low"
-        resource_generation:
-          flow: "High"
-        narrative-role:
-          - "Rewards Raven’s skillful defense and ability to mitigate damage proactively."
-          - "Emphasizes her ability to blend disruption with team-based utility."
-      - name: "Nightfall Veil"
-        effect: "Obscures Raven and Luke from ranged attackers, forcing enemies into melee range."
-        cast_time: "1 second"
-        cooldown: "20 seconds"
-        resource_cost:
-          flow: "Medium"
-        resource_generation:
-          flow: "None"
-        clears_status_effects: Frozen (ranged attacks/environmental hazards)
-
-    mobility:
-      - name: "Shadow Step"
-        effect: "Quick dash that avoids all damage and repositions behind an enemy."
-        cooldown: "8 seconds"
-        resource_cost:
-          flow: "Low"
-        resource_generation:
-          flow: "None"
-        clears_status_effects: Frozen, Burning
-
-    taunting:
-      - name: "Shadow's Grasp"
-        type: "AoE Taunt"
-        cooldown: "8 hours"
-        description: >
-          Raven engulfs the battlefield in swirling shadows, disorienting her enemies and making herself appear as the only clear target.
-          Lesser enemies are fully drawn to her, while smarter or stronger-willed foes may resist or break free after a short time.
-        mechanics:
-          effect:
-            - "Forces all enemies within a small radius to target Raven for up to 5 seconds."
-            - "High-intelligence or high-willpower enemies may break free after 1–2 seconds."
-          resource_generation:
-            flow: "Medium"
-          synergy:
-            - "Combines well with Eclipse Flurry to maximize damage output while holding aggro."
-            - "Provides crowd control, buying time for Luke to establish barriers or heal."
-        visuals:
-          - "The battlefield is cloaked in a dark haze, with Raven standing out as a stark, shadowy figure."
-          - "Weaker enemies appear confused and frantic, focusing entirely on Raven."
-        limitations:
-          - "Less effective against intelligent or highly resistant enemies."
-          - "Duration may be reduced if Raven doesn’t maintain pressure."
-
-      - name: "Dancer's Challenge"
-        type: "Single-Target Taunt"
-        cooldown: "8 hours"
-        description: >
-          Raven issues a bold challenge to a single enemy, daring them to focus entirely on her. This ability plays on the target’s pride,
-          anger, or frustration, forcing their attention onto her if they fail to resist her provocation.
-        mechanics:
-          effect:
-            - "Forces a single intelligent or emotionally-driven enemy to target Raven for 6 seconds."
-            - "If the target resists (based on their intelligence or emotional state), they suffer a minor debuff (e.g., reduced accuracy or focus) for 3 seconds."
-            - "Raven deals bonus damage to the taunted target during the effect."
-          resource_generation:
-            flow: "Medium"
-          synergy:
-            - "Works well to isolate a powerful enemy, giving Luke space to heal or set up tactical plays."
-            - "Can be chained with Phantom Chains to maintain control over the target’s positioning."
-        visuals:
-          - "Raven steps forward with a bold, confident stance, her shadowy aura flaring like a predator ready to strike."
-          - "The target’s focus visibly shifts to her, their aggression or frustration overcoming their rationality."
-        limitations:
-          - "Only works on intelligent or emotionally-driven enemies."
-          - "Enemies with no emotions (e.g., automata, certain undead) are immune."
-        narrative_usage:
-          - "Highlights Raven’s charisma and boldness in combat."
-          - "Creates high-risk, high-reward moments that align with her daring personality."
-
+    - reference: abilities.yaml_character_"Eclipse Flurry"
+    - reference: abilities.yaml_character_"Phantom Chains"
+    - reference: abilities.yaml_character_"Shadow Ambush"
+    - reference: abilities.yaml_character_"Aegis of Darkness"
+    - reference: abilities.yaml_character_"Nightfall Veil"
+    - reference: abilities.yaml_character_"Shadow Step"
+    - reference: abilities.yaml_character_"Shadow's Grasp"
+    - reference: abilities.yaml_character_"Dancer's Challenge"
   narrative-role:
     - "Raven’s aggressive, high-damage style forces enemies to focus on her, allowing Luke to execute his deliberate plans."
     - "Her risk-taking challenges Luke’s cautious nature, creating a dynamic tension that evolves into synergy."
@@ -409,36 +198,9 @@ synergy:
         - "Synergy abilities are triggered when two specific abilities from Luke and Raven are used together, or their effects overlap."
         - "Each synergy ability provides unique, powerful effects that cannot be achieved by either character alone."
         - "Narratively, synergy abilities symbolize their deepening connection, blending light and shadow into a harmonious whole."
-    abilities:
-      - name: "Harmonized Aegis"
-        trigger: >
-          Activated when both Aegis of Light and Aegis of Darkness are applied to Raven or Luke simultaneously.
-        effect:
-          - "Creates a glowing aura around the protected ally, reducing all incoming damage by an additional 10%."
-          - "Each blocked attack by Raven restores a small amount of health to her or nearby allies."
-          - "Luke’s shield-breaking burst heals for an additional 50%."
-        duration: "Lasts as long as both abilities overlap."
-        narrative-role:
-          - "Symbolizes Luke and Raven’s growing trust and synergy as a team, visually and mechanically reinforcing their complementary roles."
-          - "Provides a satisfying payoff for players/readers who recognize and capitalize on their teamwork."
-        visuals:
-          - "A glowing, intertwined aura of light and shadow surrounds the ally, rippling outward with each block or shield interaction."
-          - "The light pulses warmly when healing occurs, while shadowy tendrils lash out at nearby enemies, showcasing their partnership."
-        clears_status_effects: Shadow Corruption, Frozen
-      - name: "Eclipse Beacon"
-        trigger: >
-          Activated when Raven’s Eclipse Flurry strikes enemies marked by Luke’s Beacon of Judgement.
-        effect:
-          - "Applies a stacking vulnerability debuff to all affected enemies, increasing the damage they take from all sources for 8 seconds."
-          - "Generates bonus Flow for Raven and a Light Charge for Luke for each enemy hit."
-        duration: "8 seconds."
-        narrative-role:
-          - "Showcases their offensive synergy by combining Raven’s aggression with Luke’s tactical precision."
-          - "Emphasizes their ability to turn chaotic battles into opportunities for overwhelming advantage."
-        visuals:
-          - "The marked enemies radiate a pulsing aura of light and shadow, growing brighter with each stack."
-          - "Raven’s strikes create arcs of shadow energy that explode into radiant bursts as they hit marked enemies."
-        clears_status_effects: Burning
+    synergy-abilities:
+      - reference: abilities.yaml_synergy_"Harmonized Aegis"
+      - reference: abilities.yaml_synergy_"Eclipse Beacon"
   narrative:
     - "Luke’s careful plans are pushed to their limits by Raven’s unpredictability, forcing him to adapt and trust her instincts."
     - "Raven learns to appreciate Luke’s deliberate, grounding presence, finding balance in their contrasting approaches."
