@@ -16,8 +16,8 @@ physical_description:
       that prioritizes freedom of movement while maintaining her bold, gothic flair. 
       Her daggers, sleek and razor-sharp, are engraved with glowing runes that pulse 
       faintly when she channels her shadow magic, reflecting her precision and mastery 
-      in combat. The understated design of her gear allows the runes on her weapons 
-      to take center stage, enhancing the sense of mystery and control she embodies.
+      in combat. Key abilities like ["abilities.yaml_character_Eclipse Flurry"] and 
+      ["abilities.yaml_character_Phantom Chains"] highlight this mastery.
     outside_dungeon: >
       Dark, gothic-inspired clothing with intricate designs and elegant simplicity. 
       She favors fitted, flowing pieces in deep black tones, accented with silver 
@@ -46,12 +46,21 @@ conversational-style:
     - "Allow occasional moments of vulnerability or warmth to surface, revealing the care beneath her confident facade."
 
 personality:
-core_traits: ["Driven", "Daring", "Pragmatic (beneath her rebellious surface)", "Independent but open to calculated partnerships", "Ambitious"]
-values: ["Resilience and adaptability", "Growth through experience and challenge", "Genuine connections, though slow to trust"]
-maturity_focus:
-  - "Though bold and rebellious, Raven is deeply reflective about her goals, carefully balancing her pursuit of freedom with long-term ambitions."
-  - "She recognizes the importance of a strong support system and is willing to take measured risks to find the right partner, professionally and personally."
-quirks: ["Hums absentmindedly when content.", "Dances slightly when celebrating or being playful.", "Good-naturedly sarcastic but abrasive when in a bad mood.", "Sharp, dark sense of humor", "Bores easily"]
+  core_traits: ["Driven", "Daring", "Pragmatic (beneath her rebellious surface)", "Independent but open to calculated partnerships", "Ambitious", "Virtuoso", "Brilliant", "Adaptable", "In the moment"]
+  values: ["Resilience and adaptability", "Growth through experience and challenge", "Genuine connections, though slow to trust", "Making a societal contribution"]
+  maturity_focus:
+    - "Though bold and rebellious, Raven is deeply reflective about her goals, carefully balancing her pursuit of freedom with long-term ambitions."
+    - "She recognizes the importance of a strong support system and is willing to take measured risks to find the right partner, professionally and personally."
+    - "She has mostly internalized her parents value of making a societal contribution, and expects herself to live up to. She still rejects or feels pressure and stress from some of their guidance and advice sometimes. She still clashes with her parents sometimes over their expections. She asserts her own independence but also cares to some extent about making them proud in her own way. Ultimately she loves and appreciates her parents despite there being some friction."
+  quirks: ["Hums absentmindedly when content.", "Dances slightly when celebrating or being playful.", "Good-naturedly sarcastic but abrasive when in a bad mood.", "Sharp, dark sense of humor", "Bores easily"]
+  mottos:
+  - "Live life to the fullest"
+  - "There's no use living like you're already dead"
+  interests:
+    diving: ["Loves dungeon notifications and achievements, celebrating her successes after a dive.", "Sees dives as self-expression, enjoying the freedom and exhilaration of danger."]
+    hobbies: ["Enjoys ice cream as a guilty pleasure.", "Passionate about interior decorating, creating a fabulously gothy bedroom.", "Listens to industrial music to get hyped for dives."]
+
+growth_arc: "Learns that living life to the fullest isn’t about solo glory but sharing epic moments with someone she trusts, like Luke."
 
 background:
   family_life:
@@ -59,9 +68,14 @@ background:
       Raised in a wealthy family, Raven lives in her childhood home with her parents. Despite her rebellious nature,
       she has a room styled entirely to her gothic preferences, reflecting her individuality and independence.
     relationship_with_parents: "Values their unconditional support and sees them as a model of secure relationships."
-  academy_expulsion:
-    reason: "Expelled from a prestigious dungeon diving academy for repeatedly breaking rules to satisfy her thrill-seeking urges."
-    regret: "Defends her actions but feels some regret about the lost opportunity and its impact on her family."
+  emotional_beats:
+    near_death_experience:
+      scenario: "Soloed the Abyssal Lurker, a mid-level group boss with a Fear Aura, shadow clones, and devastating spike attack."
+      strategy:
+        - "Exploited class mechanics by tanking clones with Aegis to generate massive Flow."
+        - "Used Phantom Chains to avoid lethal attacks and reposition for counters."
+      result: "Barely survived but emerged victorious, illustrating her reckless brilliance."
+
 motivations_and_fears:
   motivations:
     - "Dives for the thrill and freedom, embracing a 'live life to the fullest' philosophy."
@@ -71,8 +85,7 @@ motivations_and_fears:
   fears:
     - "Fear of stagnation, driving her to continuously push her limits."
     - "Apprehensive about vulnerability, fearing it might undermine her independence if not managed carefully."
-class-overview:
-  summary: >
+
 class-overview:
   summary: >
     As a Night Dancer, Raven’s abilities emphasize agility, precision, and battlefield disruption. 
@@ -88,6 +101,7 @@ class-overview:
     creating dynamic moments that reinforce her growth and partnership with Luke.
   reference: >
     For a detailed breakdown of Raven’s abilities, resource mechanics, and synergy effects, refer to the combat-dynamics file.
+
 combat:
   style: "Reactive and dynamic"
   movement: "dance-like. graceful and powerful. steps carefully. uses martial arts techniques. weaves through attacks and counters with precision."
@@ -95,67 +109,38 @@ combat:
     typical_mental_state: "In a flow state. Feels calm or euphoric, with intuitive mastery over movements and decisions."
     vulnerabilities: 
       - "Struggles with disruptions to rhythm, such as crowd control or spike damage."
-  visuals:
-    - "powerful blows"
-    - "graceful steps"
-    - "quick movements"
-    - "dark looking energies"
-    - "flow manifests as a flowing shadowy aura"
+  visuals: ["powerful blows", "graceful steps", "quick movements", "dark looking energies", "flow manifests as a flowing shadowy aura"]
+
 interpersonal_characteristics:
   friendships:
     standards: "Sets a high bar for friendships, avoiding mean, shallow, or stupid people."
     relationships:
       - "Old friends were accomplices in mischief but didn’t share her passion for diving, straining those connections."
     personality_conflicts: "Quick-tempered and slow to forgive, with an acid tongue when provoked."
-interests:
-  diving:
-    - "Loves dungeon notifications and achievements, celebrating her successes after a dive."
-    - "Sees dives as self-expression, enjoying the freedom and exhilaration of danger."
-  hobbies:
-    - "Enjoys ice cream as a guilty pleasure."
-    - "Passionate about interior decorating, creating a fabulously gothy bedroom."
-    - "Listens to industrial music to get hyped for dives."
-strengths_and_weaknesses:
-  strengths:
-    - "Virtuoso combatant with unparalleled intuition in high-pressure situations."
-    - "Fearless and determined, adapting creatively to challenges."
-    - "Charismatic and inspiring, even unintentionally."
-  weaknesses:
-    - "Reckless and risk-seeking, often pushing herself into danger."
-    - "Struggles to define goals and find deeper meaning in pursuits."
-    - "Vulnerable to disruptions in combat flow, like crowd control or high spike damage."
-emotional_beats:
-  near_death_experience:
-    scenario: "Soloed the Abyssal Lurker, a mid-level group boss with a Fear Aura, shadow clones, and devastating spike attack."
-    strategy: 
-      - "Exploited class mechanics by tanking clones with Aegis to generate massive Flow."
-      - "Used Phantom Chains to avoid lethal attacks and reposition for counters."
-    result: "Barely survived but emerged victorious, illustrating her reckless brilliance."
-growth_arc: "Learns that living life to the fullest isn’t about solo glory but sharing epic moments with someone she trusts, like Luke."
 
-mottos:
-- "Live life to the fullest"
-- "There's no use living like you're already dead"
+strengths_and_weaknesses:
+  strengths: ["Virtuoso combatant with unparalleled intuition in high-pressure situations.", "Fearless and determined, adapting creatively to challenges.", "Charismatic and inspiring, even unintentionally."]
+  weaknesses: ["Reckless and risk-seeking, often pushing herself into danger.", "Struggles to define goals and find deeper meaning in pursuits.", "Vulnerable to disruptions in combat flow, like crowd control or high spike damage."]
 
 relationship_with_luke:
   help_with_his_growth:
     dynamic:
       start: >
-        Raven’s bold, risk-taking nature often clashes with Luke’s cautious, measured approach. She sees his deliberation 
-        as overly rigid and frustrating, while he views her independence as reckless. Initially, she resists his attempts to 
+        Raven’s bold, risk-taking nature often clashes with Luke’s cautious, measured approach. She sees his deliberation
+        as overly rigid and frustrating, while he views her independence as reckless. Initially, she resists his attempts to
         impose structure on their teamwork, preferring to act on instinct rather than collaborate closely.
       evolution: >
-        Over time, Raven begins to appreciate Luke’s strategic mindset and his ability to create stability in the chaos of battle. 
-        Their combat synergy develops as she learns to trust his tactical decisions, such as relying on his zones and barriers 
-        to create openings for her aggressive playstyle. Outside the dungeon, their dynamic softens as Luke’s calm, nurturing 
-        personality provides a counterbalance to Raven’s intensity. Through quiet moments of reflection, playful banter, 
-        and shared struggles, Raven discovers the value of having someone she can truly rely on. She encourages Luke to take 
-        more risks and embrace the thrill of the moment, pushing him to step outside his comfort zone, while he helps her 
+        Over time, Raven begins to appreciate Luke’s strategic mindset and his ability to create stability in the chaos of battle.
+        Their combat synergy develops as she learns to trust his tactical decisions, such as relying on his zones and barriers
+        to create openings for her aggressive playstyle. Outside the dungeon, their dynamic softens as Luke’s calm, nurturing
+        personality provides a counterbalance to Raven’s intensity. Through quiet moments of reflection, playful banter,
+        and shared struggles, Raven discovers the value of having someone she can truly rely on. She encourages Luke to take
+        more risks and embrace the thrill of the moment, pushing him to step outside his comfort zone, while he helps her
         understand the strength found in planning and interdependence.
       resolution: >
-        By the end of the story, Raven and Luke’s relationship embodies a harmony of opposites. Raven’s boldness inspires Luke 
-        to take initiative and trust his instincts, while Luke’s grounded presence helps Raven temper her recklessness and see 
-        the value of collaboration. Their mutual growth results in a partnership that thrives on trust, respect, and an intimate 
+        By the end of the story, Raven and Luke’s relationship embodies a harmony of opposites. Raven’s boldness inspires Luke
+        to take initiative and trust his instincts, while Luke’s grounded presence helps Raven temper her recklessness and see
+        the value of collaboration. Their mutual growth results in a partnership that thrives on trust, respect, and an intimate
         understanding of each other’s strengths, both in combat and in life.
     key-contributions:
       - "Raven’s fearless and decisive nature inspires Luke to embrace risk and break away from his overly cautious tendencies."
