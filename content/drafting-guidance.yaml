@@ -1,5 +1,6 @@
 metadata:
   type: drafting-guidance
+  file: drafting-guidance.yaml
 
 use-of-sensory-details:
   focus-on: "Relevant, character-driven details that advance the tone or emotional impact."
@@ -102,3 +103,38 @@ scene-endings:
           End with a lighthearted or unexpected moment that provides comic relief or breaks the tension, adding a sense of levity.
         example: >
           As the silence stretched, Raven sighed and muttered, "Next time, I'm bringing snacks. This whole 'starving adventurer' thing isn't for me."
+
+ability-names:
+  description: >
+    Abilities are referenced naturally within the narrative, blending seamlessly into the prose 
+    to maintain immersion while still clearly identifying their usage. The approach ensures that 
+    abilities feel like an organic part of the characters' actions rather than game-like mechanics 
+    detached from the story.
+  guidelines:
+    - "Reference abilities as nouns or integral parts of the sentence, avoiding standalone phrases."
+    - "Use descriptive language to hint at the ability's visual or thematic effects, reinforcing its purpose without relying solely on the name."
+    - "Do not announce abilities explicitly or use dialogue to call them out unless it serves a specific narrative purpose."
+    - "In combat sequences, weave abilities into character actions to maintain flow and avoid breaking immersion."
+  examples:
+    integrated:
+      - example: >
+          Raven’s swift Shadow Step carried her behind the golem, her daggers flashing in the dim light.
+        explanation: >
+          The ability name, 'Shadow Step,' is integrated as part of the sentence, describing the action naturally.
+      - example: >
+          Luke grounded his staff, the steady pulse of Sanctuary of Light spreading across the chamber.
+        explanation: >
+          The ability name, 'Sanctuary of Light,' is embedded within the description, creating a seamless transition between name and effect.
+    not-recommended:
+      - example: >
+          Raven activated Shadow Step. “You can’t hit me that easily,” she said.
+        explanation: >
+          Avoid explicitly naming abilities in a mechanical or game-like way unless the narrative benefits from it.
+      - example: >
+          Luke cast Sanctuary of Light to heal Raven.
+        explanation: >
+          Avoid overly direct or simplistic phrasing that separates the ability from the story's narrative tone.
+  narrative-purpose:
+    - "Maintain immersive storytelling while clearly signaling ability usage to the reader."
+    - "Reinforce the connection between abilities and the characters’ personalities or combat styles."
+    - "Emphasize the thematic integration of abilities, such as light and shadow for Luke and Raven."
