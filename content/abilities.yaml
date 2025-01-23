@@ -1,0 +1,171 @@
+abilities:
+  luke:
+    radiant-strike:
+      type: "offense"
+      description: "A slow, deliberate melee attack that deals light damage and generates a Light Charge."
+      cooldown: "None"
+      resource-cost: "Low mana"
+      resource-generation: "1 Light Charge on hit"
+      narrative-use: "Reflects Luke’s tactical and methodical nature, balancing offense and resource-building in combat."
+
+    blazing-circle:
+      type: "offense, heal"
+      description: "Creates a zone of light that damages enemies and slightly heals allies within."
+      duration: "10 seconds"
+      cooldown: "15 seconds"
+      resource-cost: "Medium mana"
+      resource-generation: "1 Light Charge if two or more allies/enemies are affected for the full duration"
+      clears-status-effects: ["Frozen"]
+      narrative-use: "Highlights Luke’s role in area control and support, emphasizing his deliberate, stabilizing presence."
+
+    beacon-of-judgement:
+      type: "offense, synergy"
+      description: "Ranged attack that consumes a Light Charge to deal high damage and increase incoming damage from Raven’s attacks."
+      cooldown: "20 seconds"
+      resource-cost: "Medium mana, 1 Light Charge"
+      resource-generation: "None"
+      narrative-use: "Demonstrates Luke and Raven’s synergy, amplifying her aggression through precise support."
+
+    guiding-radiance:
+      type: "heal"
+      description: "Places a HoT (heal-over-time) on an ally, enhanced if they are within Blazing Circle."
+      duration: "8 seconds"
+      cooldown: "10 seconds"
+      resource-cost: "Low mana"
+      resource-generation: "None"
+      clears-status-effects: ["Poisoned", "Burning"]
+      narrative-use: "Showcases Luke’s nurturing nature and strategic layering of healing abilities."
+
+    luminous-bond:
+      type: "defense, synergy"
+      description: "Redirects a percentage of Raven’s incoming damage to Luke for 6 seconds, amplifying heals applied to him."
+      duration: "6 seconds"
+      cooldown: "30 seconds"
+      resource-cost: "Medium mana"
+      resource-generation: "None"
+      clears-status-effects: ["Shadow Corruption"]
+      narrative-use: "Highlights Luke’s protective instincts and willingness to sacrifice for his team."
+
+    sanctuary-of-light:
+      type: "heal, ultimate"
+      description: "Ultimate ability. Creates a large healing aura that regenerates stamina/mana/Flow and reduces incoming damage."
+      duration: "15 seconds"
+      cooldown: "5 minutes"
+      resource-cost: "High mana, 2 Light Charges"
+      resource-generation: "None"
+      clears-status-effects: ["Poisoned", "Shadow Corruption", "Exhaustion"]
+      narrative-use: "Represents Luke’s ultimate role as a healer and protector, stabilizing chaotic encounters."
+
+    radiant-wall:
+      type: "defense"
+      description: "Blocks projectiles and slows melee attackers who pass through it."
+      duration: "8 seconds"
+      cooldown: "20 seconds"
+      resource-cost: "Medium mana"
+      resource-generation: "None"
+      narrative-use: "Symbolizes Luke’s proactive planning and defensive capabilities in protecting the team."
+
+    aegis-of-light:
+      type: "defense"
+      description: "Shields an ally, absorbing damage. If the shield breaks, it emits a healing burst."
+      cooldown: "25 seconds"
+      resource-cost: "Medium mana"
+      resource-generation: "None"
+      synergy-effect: "Combines with Raven’s Aegis of Darkness to create Harmonized Aegis, enhancing team-wide defenses and healing."
+      narrative-use: "Reinforces Luke’s protective and nurturing role while highlighting his synergy with Raven."
+
+    blinding-nova:
+      type: "offense, disruption"
+      description: "Briefly disorients enemies and reduces their accuracy."
+      duration: "3 seconds"
+      cooldown: "40 seconds"
+      resource-cost: "High mana"
+      resource-generation: "None"
+      narrative-use: "Highlights Luke’s ability to control chaotic situations and protect his allies."
+
+    brilliant-mend:
+      type: "heal"
+      description: "Instantly restores a large amount of health to a single ally, stabilizing critical injuries and preventing incapacitation."
+      cooldown: "30 seconds"
+      resource-cost: "High mana"
+      resource-generation: "None"
+      clears-status-effects: ["Poisoned", "Shadow Corruption"]
+      narrative-use: "Reflects Luke’s calm and decisive approach to critical moments, emphasizing his nurturing instincts."
+
+  raven:
+    eclipse-flurry:
+      type: "offense, threat"
+      description: "A multi-target melee attack that builds Flow and generates significant threat."
+      cooldown: "10 seconds"
+      resource-cost: "Medium Flow"
+      resource-generation: "Moderate Flow per hit"
+      narrative-use: "Highlights Raven’s aggressive, high-risk combat style, emphasizing her ability to control the battlefield."
+
+    phantom-chains:
+      type: "offense, mobility"
+      description: "Pulls a single target into melee range, interrupting their action and generating Flow."
+      cooldown: "12 seconds"
+      resource-cost: "Low Flow"
+      resource-generation: "Moderate Flow"
+      clears-status-effects: ["Frozen"]
+      narrative-use: "Demonstrates Raven’s ability to manipulate the battlefield."
+
+    shadow-ambush:
+      type: "offense, disruption"
+      description: "Emerging from stealth disorients nearby enemies, forcing them to target Raven or lose momentum."
+      cooldown: "15 seconds"
+      resource-cost: "High Flow"
+      resource-generation: "None"
+      narrative-use: "Highlights Raven’s precision and ability to force enemy behavior, creating openings for the team."
+
+    aegis-of-darkness:
+      type: "defense"
+      description: "Boosts Raven’s block stat and generates Flow with each blocked attack."
+      cooldown: "25 seconds"
+      resource-cost: "Low Flow"
+      resource-generation: "High Flow on block"
+      synergy-effect: "Combines with Luke’s Aegis of Light to create Harmonized Aegis, enhancing team-wide defenses and healing."
+      narrative-use: "Reflects Raven’s resourceful and calculated approach to defense, symbolizing her adaptability."
+
+    shadow-step:
+      type: "mobility"
+      description: "Quick dash that avoids all damage and repositions behind an enemy."
+      cooldown: "8 seconds"
+      resource-cost: "Low Flow"
+      resource-generation: "None"
+      clears-status-effects: ["Frozen", "Burning"]
+      narrative-use: "Showcases Raven’s agility and reactive playstyle, highlighting her ability to adapt to chaotic combat."
+
+    shadow’s-grasp:
+      type: "threat, disruption"
+      description: "AoE taunt that forces nearby enemies to focus on Raven, disorienting weaker targets."
+      cooldown: "8 hours"
+      resource-cost: "None"
+      resource-generation: "Medium Flow"
+      narrative-use: "Demonstrates Raven’s daring and ability to command attention, creating opportunities for Luke’s setups."
+
+    dancer’s-challenge:
+      type: "threat, disruption"
+      description: "Single-target taunt that forces one enemy to focus on Raven, applying a minor debuff if resisted."
+      cooldown: "8 hours"
+      resource-cost: "None"
+      resource-generation: "Medium Flow"
+      narrative-use: "Reflects Raven’s charisma and boldness, isolating key threats for better control in combat."
+
+    nightfall-veil:
+      type: "defense, disruption"
+      description: "Obscures Raven and Luke from ranged attackers, forcing enemies into melee range."
+      duration: "10 seconds"
+      cooldown: "20 seconds"
+      resource-cost: "Medium Flow"
+      resource-generation: "None"
+      clears-status-effects: ["Frozen"]
+      narrative-use: "Emphasizes Raven’s ability to control the battlefield and protect her allies."
+
+    shadow-reaper:
+      type: "offense, ultimate"
+      description: "Unleashes a powerful, wide-area attack, dealing massive shadow damage to all enemies in range."
+      cooldown: "5 minutes"
+      resource-cost: "High Flow"
+      resource-generation: "None"
+      narrative-use: "Represents Raven’s mastery of shadows and her ability to turn the tide in critical moments."
