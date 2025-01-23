@@ -24,6 +24,17 @@ physical_description:
       to take center stage, enhancing the sense of mystery and control she embodies.
     outside_dungeon: Practical American casual wear such as jeans, flannel shirts, and sturdy boots.
 
+dungeon-style:
+  approach: >
+    Luke relies on teamwork and careful planning to ensure survival and success in dungeon dives. His abilities are designed to support and stabilize his allies, making him an invaluable member of any party. He avoids solo diving entirely, as his strengths lie in group dynamics and strategic collaboration.
+  philosophy: >
+    Luke believes that diving alone is reckless and short-sighted, as dungeons require a balance of skills and perspectives to overcome their challenges. His aversion to solo dives stems from both his cautious nature and his trauma from witnessing the dangers of isolation in his early diving career.
+  notable-preference: >
+    Luke tends to seek out compatible teammates who value coordination and shared responsibility, reflecting his belief that success in diving comes from mutual trust and support.
+  avoidance-of-solo-diving:
+    narrative-role: >
+      Luke’s avoidance of solo diving reinforces his core traits of caution and nurturing, serving as a narrative counterpoint to Raven’s initial independence and risk-taking. Their partnership challenges both characters to find balance between interdependence and individuality.
+
 conversational-style:
   description: >
     Luke’s tone is calm, measured, and pragmatic, reflecting his grounded and empathetic nature. 
@@ -52,14 +63,24 @@ background:
   early_life:
     training: Self-taught healer through experience
     motivation: Diving to provide for family, prioritizing safety and stability
+  diving-history:
+    starting-point: >
+      Luke began diving to support his family financially after the death of his parents. Early on, he recognized the importance of strong team dynamics and made it a rule never to dive alone.
+    philosophy-development: >
+      A near-death experience in a poorly coordinated group reinforced his commitment to teamwork and strategic preparation. This experience also deepened his cautious nature and shaped his insistence on forming reliable partnerships.
+    current-approach: >
+      Luke carefully evaluates potential teammates to ensure they share his values of preparation and trust. His partnership with Raven represents his willingness to step slightly out of his comfort zone while maintaining his core principles of teamwork.
 
 motivations_and_fears:
   motivations:
-    - Support his family financially
-    - Desire for stability and a family of his own
+    - "To ensure the safety and well-being of his team."
+    - "To provide financial stability for his younger sister and himself."
+    - "To create meaningful connections through shared challenges."
+    - "To care for and stay connected with his sister."
   fears:
-    - Fear of losing people
-    - Worry about letting down dependents
+    - "Fear of losing teammates or loved ones in a dive."
+    - "Fear of making impulsive decisions that lead to failure or harm."
+    - "Aversion to solo diving due to its inherent risks and isolation."
 
 combat:
   psychology:

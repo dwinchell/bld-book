@@ -31,6 +31,19 @@ physical_description:
           A cherished gift from her parents, symbolizing the freedom and exhilaration 
           she feels in the dungeon.
 
+dungeon-style:
+  approach: >
+    Raven embraces a high-risk, high-reward style, relying on her agility and instincts to tank effectively despite her cloth armor. She thrives in chaotic, fast-paced combat where she can control the battlefield and dictate the flow of battle.
+  philosophy: >
+    Raven sees herself as a lone wolf who prefers to rely on her own skills rather than depend on others. This approach stems from her belief that independence is the key to freedom and strength.
+  notable-preference:
+    description: While Raven prefers solo diving, her frustration at her limits leads her to seek a partner. She values teammates who can keep up with her speed and adapt to her unpredictable combat style.
+    narrative-role:
+      thematic-purpose: >
+        Raven’s independence and impulsiveness serve as a foil to Luke’s cautious, team-oriented nature. Her journey explores the tension between self-reliance and interdependence, as her partnership with Luke challenges her to embrace vulnerability and trust.
+      symbolic-representation: >
+        Raven represents the power of individuality and self-discovery, embodying the beauty of chaos and the strength that comes from adaptability. Her arc explores how these traits evolve as she learns to trust others without sacrificing her identity.
+
 conversational-style:
   description: >
     Raven’s tone is sharp and subtly confident, with wit that’s precise and often laced with dry humor or irony. 
@@ -60,6 +73,13 @@ personality:
   interests:
     diving: ["Loves dungeon notifications and achievements, celebrating her successes after a dive.", "Sees dives as self-expression, enjoying the freedom and exhilaration of danger."]
     hobbies: ["Enjoys ice cream as a guilty pleasure.", "Passionate about interior decorating, creating a fabulously gothy bedroom.", "Listens to industrial music to get hyped for dives."]
+  diving-history:
+    starting-point: >
+      Raven began diving as a way to escape the constraints of her privileged upbringing. She found freedom and purpose in the chaos of the dungeons, mastering her unique tanking style through trial and error.
+    philosophy-development: >
+      Years of solo diving instilled in Raven a sense of self-reliance, but also frustration at the plateau she’s reached. Her inability to progress further on her own forces her to reconsider her aversion to teamwork.
+    current-approach: >
+      Raven reluctantly places a classified ad for a healer, marking her first step toward acknowledging the potential value of partnership. Her journey with Luke challenges her to balance her independence with the trust required to grow.
 
 growth_arc: "Learns that living life to the fullest isn’t about solo glory but sharing epic moments with someone she trusts, like Luke."
 
@@ -77,15 +97,16 @@ background:
         - "Used Phantom Chains to avoid lethal attacks and reposition for counters."
       result: "Barely survived but emerged victorious, illustrating her reckless brilliance."
 
-motivations_and_fears:
+motivations-and-fears:
   motivations:
-    - "Dives for the thrill and freedom, embracing a 'live life to the fullest' philosophy."
-    - "Wants to achieve something significant with her skills and contribute meaningfully to the diving community."
-    - "Focused on career growth, seeing diving not just as a personal passion but as a stepping stone to building a legacy of her own."
-    - "Seeks a partnership that enhances her abilities and aligns with her goals, valuing capability and reliability over superficial traits."
+    - "To prove her strength and independence."
+    - "To break free from her parents' expectations and legacy. She embraces their value of contributing to society, but rejects their focus on family apperances and legacy. She begrudgingly acknowledges the importance of networking but struggles with the related emotions vis a vis her independent mindset."
+    - "To push her limits and grow as a diver."
   fears:
+    - "Fear of losing her sense of identity in a partnership."
+    - "Fear of vulnerability and reliance on others."
+    - "Aversion to feeling trapped by societal or familial obligations."
     - "Fear of stagnation, driving her to continuously push her limits."
-    - "Apprehensive about vulnerability, fearing it might undermine her independence if not managed carefully."
 
 class-overview:
   summary: >
