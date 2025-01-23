@@ -59,7 +59,7 @@ story-bible:
         - "Body language may give away the fact that they are focusing on their HUD"
         - "The HUD does not illuminate anything"
         - "People can share information from their HUD to someone else's"
-        - "The default System theme is minimalistic, featuring simple menus with text and boxes.
+        - "The default System theme is minimalistic, featuring simple menus with text and boxes."
         - "People can customize the interface to suit their preferences, including colors, layouts, and interaction methods."
       societal-impact:
         - "Diving has reshaped the global economy, introducing credits as a valuable currency."
@@ -299,8 +299,8 @@ key-dungeons:
 
 story-elements:
     recurring-motifs:
-      - "Light and darkness as symbols of Raven and Luke's contrasting personalities, classes, and mutual growth."
-        reference: See "Recurring Motifs" in Themes, Narrative Guide.
+      - description: "Light and darkness as symbols of Raven and Luke's contrasting personalities, classes, and mutual growth."
+        reference: "narrative-guide.yaml_theme_'Recurring Motifs'"
 
 glossary:
   light-and-darkness:
