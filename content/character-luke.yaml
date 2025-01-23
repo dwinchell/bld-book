@@ -20,8 +20,7 @@ physical_description:
       faintly when she channels her shadow magic, reflecting her precision and mastery 
       in combat. The understated design of her gear allows the runes on her weapons 
       to take center stage, enhancing the sense of mystery and control she embodies.
-    outside_dungeon: >
-      Practical American casual wear such as jeans, flannel shirts, and sturdy boots.
+    outside_dungeon: Practical American casual wear such as jeans, flannel shirts, and sturdy boots.
 
 conversational-style:
   description: >
@@ -39,23 +38,10 @@ conversational-style:
     - "In tense moments, let his words reflect his focus on clarity and problem-solving, maintaining his measured tone."
 
 personality:
-  core_traits:
-    - Deliberative
-    - Cautious
-    - Pragmatic
-    - Nurturing
-    - Empathetic
-    - Grounding presence
-  quirks:
-    - Sweats when nervous
-    - Stretches often to calm himself
-    - Strikes bold poses unintentionally
-    - Creative sense of humor
-  values:
-    - Care
-    - Relationships
-    - Family
-    - Sister
+  core_traits: ["Deliberative", "Cautious", "Pragmatic", "Nurturing", "Empathetic", "Grounding presence"]
+  quirks: ["Sweats when nervous", "Stretches often to calm himself", "Strikes bold poses unintentionally", "Creative sense of humor"]
+  values: ["Care", "Relationships", "Family", "Sister"]
+
 background:
   family_life:
     parents: Deceased

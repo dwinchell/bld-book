@@ -46,25 +46,13 @@ conversational-style:
     - "Allow occasional moments of vulnerability or warmth to surface, revealing the care beneath her confident facade."
 
 personality:
-  core_traits:
-    - "Driven"
-    - "Daring"
-    - "Pragmatic (beneath her rebellious surface)"
-    - "Independent but open to calculated partnerships"
-    - "Ambitious"
-  values:
-    - "Resilience and adaptability"
-    - "Growth through experience and challenge"
-    - "Genuine connections, though slow to trust"
-  maturity-focus:
-    - "Though bold and rebellious, Raven is deeply reflective about her goals, carefully balancing her pursuit of freedom with long-term ambitions."
-    - "She recognizes the importance of a strong support system and is willing to take measured risks to find the right partner, professionally and personally."
-  quirks:
-    - "Hums absentmindedly when content."
-    - "Dances slightly when celebrating or being playful."
-    - "Good-naturedly sarcastic but abrasive when in a bad mood."
-    - "Sharp, dark sense of humor"
-    - "bores easily"
+core_traits: ["Driven", "Daring", "Pragmatic (beneath her rebellious surface)", "Independent but open to calculated partnerships", "Ambitious"]
+values: ["Resilience and adaptability", "Growth through experience and challenge", "Genuine connections, though slow to trust"]
+maturity_focus:
+  - "Though bold and rebellious, Raven is deeply reflective about her goals, carefully balancing her pursuit of freedom with long-term ambitions."
+  - "She recognizes the importance of a strong support system and is willing to take measured risks to find the right partner, professionally and personally."
+quirks: ["Hums absentmindedly when content.", "Dances slightly when celebrating or being playful.", "Good-naturedly sarcastic but abrasive when in a bad mood.", "Sharp, dark sense of humor", "Bores easily"]
+
 background:
   family_life:
     upbringing: >
@@ -85,10 +73,14 @@ motivations_and_fears:
     - "Apprehensive about vulnerability, fearing it might undermine her independence if not managed carefully."
 class-overview:
   summary: >
+class-overview:
+  summary: >
     As a Night Dancer, Raven’s abilities emphasize agility, precision, and battlefield disruption. 
-    Her class revolves around generating Flow through skillful dodges, blocks, and counters, which she uses to fuel 
-    high-impact offensive and defensive moves. Her reliance on precision over durability makes her a high-risk, high-reward tank, 
-    thriving on bold maneuvers and adaptability.
+    Key mechanics include Flow generation through ["abilities.yaml_character_Skillful Dodge", 
+    "abilities.yaml_character_Blocked Counter"], used to fuel high-impact moves like 
+    ["abilities.yaml_character_Eclipse Flurry", "abilities.yaml_character_Phantom Chains"]. 
+    Her reliance on precision over durability makes her a high-risk, high-reward tank, thriving on bold maneuvers and adaptability.
+
   narrative-purpose: >
     The Night Dancer class reflects Raven’s daring, independent nature and her struggle to balance self-reliance 
     with trust in others. Her shadow-infused abilities mirror her emotional journey, evolving from isolation to synergy 
