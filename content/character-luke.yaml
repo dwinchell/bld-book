@@ -1,6 +1,5 @@
 type: character
 name: Luke Calloway
-class: Dawnbringer
 nationality: American
 
 at-start-of-story:
@@ -66,6 +65,20 @@ interpersonal_characteristics:
     with_raven_blackwood: >
       Initially cautious, grows to admire Raven’s courage. Reflective nature helps Raven explore motivations while her boldness challenges him.
   initial-flaws: Overheals because he is afraid of losing party memebers. Rooted in the trauma of losing his parents.
+
+class-overview:
+  summary: >
+    As a Dawnbringer, Luke balances healing, utility, and tactical offense. His abilities emphasize positional control, 
+    proactive protection, and burst healing, blending support and combat effectiveness. Using mana and Light Charges 
+    as resources, Luke’s kit rewards strategic placement and decision-making, enabling him to stabilize chaotic battles 
+    while enhancing his team’s effectiveness.
+  narrative-purpose: >
+    The Dawnbringer class reflects Luke’s nurturing and deliberate personality, showcasing his role as a stabilizing force 
+    both in combat and relationships. His light-based abilities symbolize hope, unity, and his journey toward trusting Raven’s 
+    bold instincts. By integrating healing with offensive and utility options, his gameplay mirrors his evolving ability 
+    to balance planning with decisive action.
+  reference: >
+    For a detailed breakdown of Luke’s abilities, resource mechanics, and synergy effects, refer to the combat-dynamics file.
 
 interests_and_hobbies:
   music:

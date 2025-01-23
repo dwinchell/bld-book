@@ -55,6 +55,19 @@ motivations_and_fears:
   fears:
     - "Fear of stagnation, driving her to continuously push her limits."
     - "Apprehensive about vulnerability, fearing it might undermine her independence if not managed carefully."
+class-overview:
+  summary: >
+    As a Night Dancer, Raven’s abilities emphasize agility, precision, and battlefield disruption. 
+    Her class revolves around generating Flow through skillful dodges, blocks, and counters, which she uses to fuel 
+    high-impact offensive and defensive moves. Her reliance on precision over durability makes her a high-risk, high-reward tank, 
+    thriving on bold maneuvers and adaptability.
+  narrative-purpose: >
+    The Night Dancer class reflects Raven’s daring, independent nature and her struggle to balance self-reliance 
+    with trust in others. Her shadow-infused abilities mirror her emotional journey, evolving from isolation to synergy 
+    with Luke. The interplay between Flow generation and execution symbolizes her ability to turn risk into opportunity, 
+    creating dynamic moments that reinforce her growth and partnership with Luke.
+  reference: >
+    For a detailed breakdown of Raven’s abilities, resource mechanics, and synergy effects, refer to the combat-dynamics file.
 combat:
   style: "Reactive and dynamic"
   movement: "dance-like. graceful and powerful. steps carefully. uses martial arts techniques. weaves through attacks and counters with precision."
