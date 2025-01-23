@@ -1,4 +1,8 @@
-combat-dynamics:
+metadata:
+  type: combat-dynamics
+  file: combat-dynamics.yaml
+
+team-combat-dynamics:
   luke:
     role: "Planner and battlefield shaper"
     style: "Positional and grounded, focusing on deliberate decisions and forethought."
@@ -78,3 +82,73 @@ combat-dynamics:
     narrative:
       - "Luke’s careful plans are pushed to their limits by Raven’s unpredictability, forcing him to adapt and trust her instincts."
       - "Raven learns to appreciate Luke’s deliberate, grounding presence, finding balance in their contrasting approaches."
+
+taunting:
+  description: >
+    Taunting in the world of *Bound in Light and Darkness* is narrative-driven and psychological in nature. Rather than relying on a mechanical "threat" system, taunts are rooted in the personalities, instincts, and emotional responses of the enemies Raven faces. Her taunt abilities leverage her boldness, shadow magic, and tactical skill to provoke enemies into focusing their attention on her.
+  mechanics:
+    - narrative_focus:
+        description: >
+          Enemies respond to Raven based on their psychology and instincts. Taunting is driven by her proximity, aggression, and disruptive actions, as well as her ability to manipulate their perception or emotions through specific abilities.
+    - taunt_rules:
+        - "Lesser enemies (e.g., beasts, basic dungeon mobs) are more likely to react instinctively to aggression and proximity."
+        - "Intelligent enemies (e.g., bosses, humanoids) require specific psychological triggers, such as anger, pride, or frustration, to taunt effectively."
+        - "Enemies resistant to manipulation (e.g., automata, undead) may be immune or only partially affected by taunting."
+    - synergy:
+        description: >
+          Taunts create opportunities for Luke to reposition, set up zone control, or heal strategically while Raven holds enemy focus. The success of taunting often depends on Raven’s ability to read and respond to the type of enemy she faces.
+
+abilities:
+  - name: Shadow's Grasp
+    type: aoe_taunt
+    description: >
+      Raven engulfs the battlefield in swirling shadows, disorienting her enemies and making herself appear as the only clear target. Lesser enemies are fully drawn to her, while smarter or stronger-willed foes may resist or break free after a short time.
+    mechanics:
+      effect:
+        - "Forces all enemies within a small radius to target Raven for up to 5 seconds."
+        - "High-intelligence or high-willpower enemies may break free after 1–2 seconds."
+      resource_generation:
+        description: >
+          Raven gains bonus Flow for each enemy that attacks her during the effect, encouraging her to maintain aggressive positioning.
+      synergy:
+        - "Combines well with Eclipse Flurry to maximize damage output while holding aggro."
+        - "Provides crowd control, buying time for Luke to establish barriers or heal."
+    visuals:
+      - "The battlefield is cloaked in a dark haze, with Raven standing out as a stark, shadowy figure."
+      - "Weaker enemies appear confused and frantic, focusing entirely on Raven."
+    limitations:
+      - "Less effective against intelligent or highly resistant enemies."
+      - "Duration may be reduced if Raven doesn’t maintain pressure."
+
+  - name: Dancer's Challenge
+    type: single_target_taunt
+    description: >
+      Raven issues a bold challenge to a single enemy, daring them to focus entirely on her. This ability plays on the target’s pride, anger, or frustration, forcing their attention onto her if they fail to resist her provocation.
+    mechanics:
+      effect:
+        - "Forces a single intelligent or emotionally-driven enemy to target Raven for 6 seconds."
+        - "If the target resists (based on their intelligence or emotional state), they suffer a minor debuff (e.g., reduced accuracy or focus) for 3 seconds."
+        - "Raven deals bonus damage to the taunted target during the effect."
+      resource_generation:
+        description: >
+          Generates Flow when the target attacks Raven, rewarding her for precision-based tanking.
+      synergy:
+        - "Works well to isolate a powerful enemy, giving Luke space to heal or set up tactical plays."
+        - "Can be chained with Phantom Chains to maintain control over the target’s positioning."
+    visuals:
+      - "Raven steps forward with a bold, confident stance, her shadowy aura flaring like a predator ready to strike."
+      - "The target’s focus visibly shifts to her, their aggression or frustration overcoming their rationality."
+    limitations:
+      - "Only works on intelligent or emotionally-driven enemies."
+      - "Enemies with no emotions (e.g., automata, certain undead) are immune."
+    narrative_usage:
+      - "Highlights Raven’s charisma and boldness in combat."
+      - "Creates high-risk, high-reward moments that align with her daring personality."
+
+examples:
+  shadow_grasp:
+    scenario: >
+      A pack of feral Shadow Predators surrounds Raven and Luke. Raven activates Shadow’s Grasp, enveloping the area in disorienting shadows. The predators turn their focus on her, allowing Luke to retreat to safety and cast Radiant Wall to cover her flank.
+  dancers_challenge:
+    scenario: >
+      Facing a cunning dungeon boss, Raven steps forward with a smirk. “You look like you need someone to put you in your place,” she taunts, her shadowy aura flaring. The boss roars in anger, focusing entirely on her, giving Luke time to heal and set up Blazing Circle.
