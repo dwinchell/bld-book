@@ -12,11 +12,12 @@ physical_description:
     complexion: "Pale, contrasting with her dark attire for a bold, striking look."
   style:
     inside_dungeon: >
-      Functional and stylish, her gear is predominantly black with flowing cloth armor 
-      adorned by glowing shadowy runes etched into its fabric. The runes pulse faintly 
-      as she channels her shadow magic, enhancing the sense of mystery and control 
-      she embodies in combat. The outfit’s design prioritizes freedom of movement 
-      while maintaining her bold, gothic flair.
+      Functional and stylish, her gear is predominantly black with fitted cloth armor 
+      that prioritizes freedom of movement while maintaining her bold, gothic flair. 
+      Her daggers, sleek and razor-sharp, are engraved with glowing runes that pulse 
+      faintly when she channels her shadow magic, reflecting her precision and mastery 
+      in combat. The understated design of her gear allows the runes on her weapons 
+      to take center stage, enhancing the sense of mystery and control she embodies.
     outside_dungeon: >
       Dark, gothic-inspired clothing with intricate designs and elegant simplicity. 
       She favors fitted, flowing pieces in deep black tones, accented with silver 
