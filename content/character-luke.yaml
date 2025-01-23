@@ -9,14 +9,17 @@ at-start-of-story:
 physical_description:
   appearance:
     height: "6 feet, 2 inches"
-    build: Brawny, muscular
-    hair: Short, neatly kept blonde hair
-    eyes: Warm blue or gray, showing calm focus and quiet determination
+    build: "Brawny, muscular"
+    hair: "Short, neatly kept blonde hair"
+    eyes: "Warm blue or gray, showing calm focus and quiet determination"
   style:
-    dungeon_gear: >
-      Stereotypical paladin gear including chain mail, shoulder guards, and a healer’s staff
-    casual_wear: >
-      Practical American casual wear such as jeans, flannel shirts, and sturdy boots
+    inside_dungeon: >
+      Reinforced leather armor designed for practicality and durability, offering protection without unnecessary weight or flair. 
+      The armor features subtle metallic accents at key points for additional reinforcement.
+      Luke wields a sturdy wooden staff capped with a glowing crystal, serving as both a magical focus and a melee weapon. 
+      Etched runes spiral up the staff, glowing softly in sync with his abilities, amplifying his light-based magic.
+    outside_dungeon: >
+      Practical American casual wear such as jeans, flannel shirts, and sturdy boots.
 
 personality:
   core_traits:
@@ -55,16 +58,22 @@ motivations_and_fears:
 
 combat:
   psychology:
-    typical_mental_state: Deadly serious, focused on keeping the party alive
-    group_dynamics: Values communication and takes charge in crises
-    weakness: Overly cautious
-interpersonal_characteristics:
-  friendships:
-    general: Warm but introverted, maintaining pleasant acquaintances
-    childhood_friend: Grown distant due to responsibilities
-    with_raven_blackwood: >
-      Initially cautious, grows to admire Raven’s courage. Reflective nature helps Raven explore motivations while her boldness challenges him.
-  initial-flaws: Overheals because he is afraid of losing party memebers. Rooted in the trauma of losing his parents.
+    typical_mental_state: >
+      Deadly serious and focused on keeping the party alive but gradually evolves to embrace offensive opportunities 
+      and calculated risks as his trust in Raven’s instincts grows.
+    group_dynamics: >
+      Initially takes full responsibility for the team’s survival, but over time learns to trust Raven’s proactive disruption. 
+      Their complementary roles allow him to blend tactical planning with adaptive combat support.
+    weakness: >
+      Struggles with incorporating offensive elements into his style early on, relying too heavily on caution and 
+      overprotective tactics.
+  interpersonal_characteristics:
+    friendships:
+      general: Warm but introverted, maintaining pleasant acquaintances
+      childhood_friend: Grown distant due to responsibilities
+      with_raven_blackwood: >
+        Initially cautious, grows to admire Raven’s courage. Reflective nature helps Raven explore motivations while her boldness challenges him.
+    initial-flaws: Overheals because he is afraid of losing party memebers. Rooted in the trauma of losing his parents.
 
 class-overview:
   summary: >
@@ -124,15 +133,34 @@ relationship_with_raven:
   help_with_her_growth:
     dynamic:
       start: >
-        Luke’s cautious, interdependence-minded approach contrasts with Raven’s fiercely independent, risk-taking nature.
-        Initially, they clash over their different perspectives on trust and teamwork.
+        Luke’s cautious, interdependence-focused approach contrasts sharply with Raven’s fiercely independent, risk-taking nature. 
+        Their initial interactions are marked by friction, as Raven dismisses Luke’s methodical caution as overly rigid, 
+        while Luke sees her boldness as reckless and dangerous.
       evolution: >
-        Over time, Luke’s life experience and grounding presence challenge Raven’s assumptions about independence. 
-        Through their partnership, she begins to see the value in collaboration and planning for the future.
+        As they face increasingly challenging battles, their synergy in combat deepens, with moments like the discovery of 
+        Harmonized Aegis symbolizing their growing ability to trust and rely on one another. Luke learns to appreciate Raven’s 
+        bold instincts, recognizing the value of her quick decision-making in chaotic situations, while Raven begins to understand 
+        and respect Luke’s deliberate, stabilizing presence. Beyond the dungeon, their relationship evolves through shared moments 
+        of vulnerability and connection, such as Luke teaching Raven guitar as a way to channel her restless energy, or Raven 
+        encouraging Luke to step out of his comfort zone by exploring more of the world around them. These interactions further 
+        dismantle their initial walls, allowing their emotional bond to grow as much as their combat partnership.
       resolution: >
-        By the end of the story, Luke’s influence helps Raven balance her drive for individuality with the ability to trust and rely on others.
-        Together, they form a partnership that blends boldness and stability, strength and vulnerability.
+        By the end of the story, Luke and Raven achieve a partnership that blends boldness and stability, light and shadow, 
+        into a cohesive whole. Their combat synergy, exemplified by abilities like Harmonized Aegis, reflects their personal 
+        relationship, where trust, interdependence, and understanding allow them to support and elevate one another. This growth 
+        culminates in a deep emotional connection, where they each find strength not just in their own abilities, but in the 
+        unwavering support of the other.
     key-contributions:
-      - "Luke’s life experience with his sister gives him unique insight into the value of interdependence."
-      - "His ability to remain calm and deliberate in crises models a kind of strength that Raven admires and eventually adopts."
-      - "Through his openness about his past struggles, Luke encourages Raven to confront and embrace her own vulnerabilities."
+      emotional-growth:
+        - "Luke’s life experience with his sister gives him unique insight into the value of interdependence, helping Raven 
+          see the strength in relying on others."
+        - "Luke’s willingness to share his own vulnerabilities encourages Raven to confront her own fears of trust and loss, 
+          fostering deeper emotional intimacy."
+        - "Raven’s courage and decisiveness challenge Luke to push beyond his cautious nature, helping him embrace the necessity 
+          of bold action both in combat and in life."
+      combat-growth:
+        - "Luke’s tactical planning and protective abilities create openings for Raven’s high-risk, high-reward style to shine."
+        - "Raven’s aggressive disruption and threat generation give Luke the space to focus on healing and area control, showcasing 
+          their complementary strengths."
+        - "Synergy abilities like Harmonized Aegis serve as a physical and symbolic representation of their trust, blending their 
+          light and shadow into a unified force."
