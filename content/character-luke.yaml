@@ -23,6 +23,21 @@ physical_description:
     outside_dungeon: >
       Practical American casual wear such as jeans, flannel shirts, and sturdy boots.
 
+conversational-style:
+  description: >
+    Luke’s tone is calm, measured, and pragmatic, reflecting his grounded and empathetic nature. 
+    He speaks with a quiet warmth, rarely raising his voice, but his words carry weight through their sincerity and thoughtfulness. 
+    His humor is understated and often self-deprecating, revealing a subtle charm without drawing attention to himself. 
+    While he can be cautious in opening up, when he does, his honesty is disarming, creating a sense of trust and reliability. 
+    His nurturing personality comes through in the way he checks on others or defuses tension, often prioritizing clarity and reassurance in his conversations.
+
+  drafting-instructions:
+    - "Luke’s dialogue should feel calm and steady, reflecting his role as a grounding presence."
+    - "Use understated humor or self-deprecating remarks to add charm without overshadowing his sincerity."
+    - "When he opens up, his honesty should feel genuine and disarming, building trust in his words."
+    - "Highlight his empathetic side by showing him prioritizing others’ well-being, offering reassurance or thoughtful advice."
+    - "In tense moments, let his words reflect his focus on clarity and problem-solving, maintaining his measured tone."
+
 personality:
   core_traits:
     - Deliberative

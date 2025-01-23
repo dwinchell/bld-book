@@ -30,6 +30,21 @@ physical_description:
           A cherished gift from her parents, symbolizing the freedom and exhilaration 
           she feels in the dungeon.
 
+conversational-style:
+  description: >
+    Raven’s tone is sharp and subtly confident, with wit that’s precise and often laced with dry humor or irony. 
+    Her words reflect her observational nature and quiet care, even when veiled by sarcasm or playful jabs. 
+    She’s bold in conversation, unafraid to take risks or throw out unexpected remarks that challenge or provoke. 
+    Beneath her teasing, her relentless drive shines through, giving her words an edge of determination. 
+    Fleeting moments of sincerity reveal a quiet warmth when her guard slips.
+
+  drafting-instructions:
+    - "Raven should be sarcastic but not in every phrase. Use her sharp wit sparingly to maintain its impact."
+    - "Weave in moments of direct, sincere statements to contrast her teasing and show depth."
+    - "Let her improvisational nature come through—her tone should feel spontaneous and uncalculated, leaning into the moment."
+    - "Show her boldness and drive by having her take conversational risks or push boundaries in subtle ways."
+    - "Allow occasional moments of vulnerability or warmth to surface, revealing the care beneath her confident facade."
+
 personality:
   core_traits:
     - "Driven"
