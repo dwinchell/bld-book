@@ -1,0 +1,69 @@
+---
+type: character
+name: "Anna Calloway"
+age: 18
+role: "Luke's Younger Sister"
+job: "College Student (Undeclared Major)"
+
+physical_description:
+  appearance:
+    height: "5 feet, 5 inches"
+    build: "Slim and athletic, with a dancer’s grace"
+    hair: "Dark brown, often tied in a high ponytail"
+    eyes: "Warm hazel, with a spark of curiosity"
+    complexion: "Fair with a natural glow, hinting at her energetic lifestyle"
+  style:
+    clothing: "Casual yet polished—light-wash jeans, colorful sweaters, and comfortable sneakers, often accessorized with small, sentimental jewelry like a locket or charm bracelet"
+
+personality:
+  core_traits:
+    - "Upbeat"
+    - "Friendly"
+    - "Energetic"
+    - "Supportive"
+    - "Independent"
+    - "Sentimental and romantic"
+  quirks:
+    - "Keeps a journal where she writes letters to her future self"
+    - "Tends to collect small keepsakes from meaningful moments"
+    - "Always hums softly when she’s in a good mood"
+
+relationships:
+  with_luke:
+    dynamic: >
+      Anna is very close to Luke, viewing him as both a protector and a role model. Despite his tendency to worry about her, she is more independent than he realizes, often surprising him with her maturity. 
+      She supports Luke emotionally, encouraging him to take risks and embrace the connections he’s hesitant to form. Their bond is grounded in mutual respect, with Anna occasionally teasing him to lighten his serious demeanor.
+  with_parents:
+    dynamic: >
+      Anna shares a good relationship with their late parents but holds onto her memories of them more sentimentally than Luke, often looking for ways to honor their legacy. 
+      She admires Luke for stepping up to take care of her after their loss, though she’s determined not to rely on him more than necessary, wanting to ease his burden.
+
+motivations_and_fears:
+  motivations:
+    - "To live a life full of meaningful connections and memories, embracing both the sentimental and the adventurous"
+    - "To encourage Luke to step out of his comfort zone and believe in himself"
+    - "To balance independence with maintaining strong familial bonds"
+  fears:
+    - "Losing her connection with Luke if he continues to shut himself off emotionally"
+    - "Failing to live up to her own romanticized view of life and relationships"
+    - "That Luke sacrifices too much of himself for her and others, leaving him emotionally unfulfilled"
+
+key_moments:
+  encouragement: >
+    Anna often encourages Luke to take risks, nudging him toward adventures or relationships he might otherwise avoid. Her optimistic outlook serves as a counterbalance to his cautious nature.
+  conflict: >
+    Occasionally clashes with Luke over his overprotective tendencies, reminding him that she’s capable of handling herself and doesn’t need to be shielded from everything.
+  resolution: >
+    Always circles back to their strong bond, using her warmth and humor to remind Luke that she appreciates his care while asserting her independence.
+
+quirks_and_habits:
+  - "Always carries a notebook for jotting down ideas, quotes, or reflections"
+  - "Likes to bake as a way of de-stressing, often gifting her creations to friends or Luke"
+  - "Keeps a jar of handwritten notes filled with small happy memories or achievements to read when she’s feeling down"
+
+narrative_role: >
+  Anna provides a lighter, more optimistic foil to Luke’s cautious and pragmatic nature. Her youthful energy and sentimentalism offer moments of warmth and levity, while her insights and encouragement serve as a catalyst for Luke’s emotional growth. 
+  Through her, Luke is reminded of the importance of balancing responsibility with joy, and she helps nudge him toward embracing his feelings for Raven.
+
+one-line-summary: >
+  Anna Calloway is Luke’s upbeat, independent, and sentimental younger sister who encourages him to embrace life’s connections and adventures while staying true to his caring nature.
