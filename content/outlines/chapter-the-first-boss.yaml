@@ -6,7 +6,10 @@ chapter-outline:
     Their initial attempts to coordinate falter, but a moment of crisis forces them to trust each other.
     They combine their unique strengths to defeat the boss and claim their reward.
     Raven invites Luke out for a celebratory drink and he accepts.
-
+  references:
+      - dungeons.yaml_key-dungeons_"The Shadow Warrens"
+      - dungeons.yaml_final-boss_"Shadow Sovereign"
+      
   narrative-purpose: >
     This chapter tests Raven and Luke’s teamwork under pressure, showcasing their growth as partners and setting up the trust and camaraderie that will deepen in subsequent chapters.
 
@@ -46,7 +49,8 @@ chapter-outline:
         - "Luke instinctively lights the chamber with a pulse of golden energy, creating a small safe zone."
         - "Raven steps in front of Luke, placing herself between him and the Sovereign, standing unshaken against its overwhelming presence."
         - "Raven delivers the line: 'Sunshine, this is exactly where I belong,' as the Sovereign lets out another roar and the scene ends with tension rising."
-
+      references:
+        - dungeons.yaml_final-boss_"Shadow Sovereign"
 
     - scene: "The First Clash"
       summary: >
@@ -65,7 +69,8 @@ chapter-outline:
         - "Luke observes the Sovereign’s strategic movements and warns Raven they need to adapt, but she ignores him and pushes forward again."
         - "As the Sovereign lands another sweeping attack, Raven narrowly evades, and her injury flares brighter on the ragdoll interface, showing the strain."
         - "Luke urges Raven to stop and regroup, but she stands her ground, determined and unyielding, delivering the line: 'We’re just getting started.'"
-
+      references:
+        - dungeons.yaml_final-boss_"Shadow Sovereign"
 
     - scene: "Crisis and Breakthrough"
       summary: >
@@ -84,6 +89,8 @@ chapter-outline:
         - "Raven lands a critical hit on the Sovereign, destabilizing its form and dealing significant damage."
         - "The Sovereign recoils but does not fall, setting the stage for the next phase of the fight."
         - "Luke observes the moment as a breakthrough in their partnership, realizing they are finally starting to fight as a team."
+      references:
+        - dungeons.yaml_final-boss_"Shadow Sovereign"
 
     - scene: "The Victory"
       plot-summary: >
@@ -94,6 +101,8 @@ chapter-outline:
         - "Luke uses his ultimate ability to protect Raven during the final attack."
         - "Raven delivers the killing blow, shadow and light working in harmony."
         - "The boss collapses, leaving behind valuable loot and a glowing sense of accomplishment."
+      references:
+        - dungeons.yaml_final-boss_"Shadow Sovereign"
 
     - scene: "The Invitation"
       summary: >
@@ -108,4 +117,3 @@ chapter-outline:
         - "Raven tucks her daggers into her belt and casually suggests they celebrate with a drink, offering to pay."
         - "Luke hesitates but ultimately agrees, showing a small but significant step toward opening up and connecting with her."
         - "They leave the dungeon together, with Raven’s laughter breaking the quiet night air as Luke begins to relax."
-

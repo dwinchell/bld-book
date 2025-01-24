@@ -97,6 +97,7 @@ acts:
           A dangerous situation in the dungeon forces them to rely on each other, leading into the next chapter, where trust begins to form.
 
       - chapter: "Trust in Shadows"
+        dungeon-reference: dungeons.yaml_key-dungeons_"The Shadow Warrens"
         file: "chapter-trust-in-shadows.yaml"
         plot-summary: >
           Inside the dungeon, Raven and Luke face increasingly difficult challenges that force them to rely on each other. 
@@ -122,6 +123,7 @@ acts:
           Their shared success in navigating the dungeon’s challenges leads directly into their boss encounter in the next chapter.
 
       - chapter: "The First Boss"
+        dungeon-reference: dungeons.yaml_key-dungeons_"The Shadow Warrens"
         perspective: "Luke"
         file: "chapter-the-first-boss.yaml"
         plot-summary: >
@@ -243,20 +245,24 @@ acts:
       - chapter: "A Dangerous Proposal"
         perspective: "Luke"
         plot-summary: >
-          Raven suggests tackling an exceptionally dangerous dungeon that could yield enormous rewards. Luke hesitates but ultimately agrees, spurred on by his growing feelings for Raven and her confidence in him.
+          Raven suggests tackling the Radiant Spire, an exceptionally dangerous dungeon known for its shifting light-and-dark mechanics and high risk-to-reward ratio. Luke hesitates, concerned about the risks and their readiness. However, he ultimately agrees, driven by his growing trust in Raven’s judgment and his feelings for her. Together, they prepare for the challenge, solidifying their commitment to face the trials ahead as a team.
         narrative-purpose: >
-          Set up the climactic dive in Act 3 while emphasizing Luke’s growing willingness to take risks for Raven and their partnership. Highlight their deepening mutual trust and interdependence.
+          Set up the climactic dive in Act 3 by introducing the Radiant Spire as a high-stakes test of their partnership. Emphasize Luke’s growing willingness to take risks for Raven and their partnership, while showcasing Raven’s confidence in his abilities. Highlight their deepening mutual trust and emotional interdependence.
         relationship-arc: >
-          Raven’s faith in Luke encourages him to step out of his cautious nature, while his agreement to the proposal underscores his growing trust in her judgment. Both characters are more attuned to their unspoken feelings, even as they keep them hidden behind the guise of partnership. Their mutual dependence becomes more evident, reinforcing their bond and emotional investment.
+          Raven’s confidence in Luke inspires him to step out of his cautious nature, while his decision to take on the Radiant Spire reflects his growing trust in her leadership. Their unspoken feelings become more evident as they prepare for the dive, reinforcing their emotional connection and mutual dependence while leaving space for further growth in the dungeon.
+        reference: >
+          The Radiant Spire dungeon is detailed in the dungeons.yaml file and is designed to test their synergy and interdependence with its light-and-dark mechanics.
 
-      - chapter: "Setbacks and Resolve"
+      - chapter: "The Radiant Spire"
         perspective: "Luke"
         plot-summary: >
-          Luke and Raven tackle another dungeon, but personal flaws and unresolved tensions cause friction. A dangerous moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds.
+          Luke and Raven tackle the Radiant Spire, a challenging dungeon designed around cycles of blinding light and oppressive darkness. Their unresolved tensions and personal flaws create friction as they navigate the dungeon’s hazards and enemies. A pivotal moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds. By the end, their bond is tested but strengthened as they confront their vulnerabilities and grow closer as a team.
         narrative-purpose: >
-          Test their partnership by showing how their individual fears and flaws create setbacks. Use a sacrifice to demonstrate the depth of their bond while leaving space for further growth and resolution.
+          The Radiant Spire serves as a narrative crucible, testing Luke and Raven’s partnership through intense challenges and personal flaws. The dungeon’s light-and-dark mechanics mirror their contrasting personalities and growing interdependence. A selfless act underscores the depth of their bond while leaving room for further emotional resolution.
         relationship-arc: >
-          Moments of personal conflict push Raven and Luke to confront their vulnerabilities. Their bond is tested but ultimately strengthened as they lean on each other for support.
+          Moments of personal conflict push Raven and Luke to confront their vulnerabilities. The dungeon’s intense trials highlight the strain in their relationship, but their shared success and sacrifice reinforce their emotional connection. By the end, their trust and mutual reliance are stronger, though not without lingering emotional scars.
+        reference: >
+          The Radiant Spire dungeon is detailed in the dungeons.yaml file and emphasizes dynamic mechanics where light and shadow cycles challenge timing, teamwork, and adaptability.
 
       - chapter: "The Morning After"
         perspective: "Raven"

@@ -27,6 +27,9 @@ key-emotional-beats:
 tone:
   - "Tense and observational, transitioning into cautious cooperation."
 
+references:
+  - dungeons.yaml_key-dungeons_"The Shadow Warrens"
+
 scenes:
   - title: "The First Meeting"
     plot-summary: >
@@ -50,6 +53,9 @@ scenes:
         Their mutual decision to enter the dungeon flows naturally into the next scene as they step into the dark corridor, marking the shift from setup to action.
 
   - title: "Entering the Dungeon"
+    references:
+      - dungeons.yaml_key-dungeons_"The Shadow Warrens"
+      - dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Phantom Stalker"
     plot-summary: >
       Raven and Luke take their first steps into the Shadow Warrens, and their clashing styles immediately lead to tension and missteps.
     narrative-purpose: >
@@ -59,7 +65,7 @@ scenes:
     events:
       - "The dungeon entrance is dark and foreboding."
       - description: "They encounter three Shadow Predators. Raven spots them before they attack, having learned to recognize them on her previous run."
-        reference: story-bible.yaml_monster-types_"Shadow Predator"
+        reference: dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Shadow Predator"
       - "Raven takes the lead, charging ahead and taunting the enemies with bold moves."
       - "Luke cautiously follows, scanning the area for traps and positioning himself strategically for healing."
       - "Their lack of coordination leads to a near-miss, forcing Luke to expend more mana than planned."
@@ -71,16 +77,16 @@ scenes:
       ending-style: drafting-guidance.yaml_ending-styles_"Escalating Tension"
       transition: >
         The unresolved tension between Raven and Luke carries into the next scene, as a new challenge appears deeper within the dungeon.
-    reference: story-bible.yaml_key-dungeons_"Shadow Warrens"
 
   - title: "Adapting to Each Other"
+    references:
+      - dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Phantom Stalker"
     plot-summary: >
       A critical moment forces Raven and Luke to adjust their approaches, planting the seeds of teamwork.
     narrative-purpose: >
       Show the turning point where they begin to recognize and adapt to each other’s strengths under pressure.
     scene-hook:
-      - description: They are ambushed by Phantom Stalkers
-        reference: story-bible.yaml_monster-types_"Phantom Stalkers"
+      - "They are ambushed by Phantom Stalkers"
     events:
       - "They are ambushed by Phantom Stalkers."
       - "Raven ignores a warning from Luke, resulting in significant damage."
@@ -125,6 +131,10 @@ scenes:
         setting the tone for their continued collaboration in the challenges ahead.
 
   - title: "The Guardian's Ambush"
+    references:
+    - dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Abyssal Warden"
+    - dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Shadow Predator"
+    - dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Phantom Stalker"
     plot-summary: >
       Approaching the gateway to a larger chamber, Raven and Luke encounter an Abyssal Warden blocking their path. The Warden’s ominous hum fills the air, disorienting them and masking the arrival of reinforcements: Shadow Predators and Phantom Stalkers. As they’re ambushed from all sides, Raven and Luke must combine their skills and resources to survive, pushing their limits to forge a functional level of synergy under pressure.
     narrative-purpose: >
@@ -132,7 +142,7 @@ scenes:
     scene-hook: >
       The towering Abyssal Warden looms at the entrance, its low, resonant hum vibrating through the air, creating an unsettling atmosphere. The dim light flickers, casting ominous shadows that seem to move of their own accord.
     events:
-      - "Raven and Luke approach cautiously, but the Warden’s hum creates a growing sense of unease, muffling their footsteps and masking other sounds."
+      - "Raven and Luke approach cautiously, but the Abyssal Warden’s hum creates a growing sense of unease, muffling their footsteps and masking other sounds."
       - "As Raven darts forward to draw the Warden’s attention, Shadow Predators leap from the darkness on either side, their precision strikes forcing her into evasive maneuvers."
       - "The Phantom Stalkers phase in behind Luke, their spectral forms flickering as they coordinate their strikes, catching him off guard."
       - "Luke casts Radiant Wall to shield himself, but the Warden slams its halberd into the ground, shattering part of the barrier and intensifying its hum."
@@ -155,6 +165,9 @@ scenes:
         Exhausted but victorious, Raven and Luke regroup, acknowledging the progress they’ve made in working together. The encounter strengthens their trust and sets a foundation for the deeper synergy they’ll need to face the challenges ahead.
 
   - title: "Crossing the Abyss"
+    references:
+      - dungeons.yaml_key-dungeons_"The Shadow Warrens"_other-challenges_"Crumbling Bridge"
+      - dungeons.yaml_key-dungeons_"The Shadow Warrens"_monster-types_"Abyssal Warden"
     plot-summary: >
       Raven and Luke must navigate a crumbling stone bridge over a shadowy abyss, facing environmental hazards and an 
       encounter with an Abyssal Warden. The trial forces them to confront their contrasting styles, with Luke ultimately 
@@ -168,8 +181,7 @@ scenes:
       - "Raven and Luke pause at the edge of the bridge, recognizing its precarious design as a deliberate dungeon hazard."
       - "They agree that Raven should lead, her agility and instincts better suited for the unstable path."
       - "Raven moves ahead, navigating the crumbling stone with precision, while Luke uses Radiant Wall to stabilize sections behind them."
-      - descriptioN: "An Abyssal Warden emerges from the shadows of the abyss, leaping onto the bridge to confront them."
-        reference: story-bible.yaml_monster-types_"Abyssal Warden"
+      - "An Abyssal Warden emerges from the shadows of the abyss, leaping onto the bridge to confront them."
       - "Raven engages the Abyssal Warden with Shadow Step and Eclipse Flurry, while Luke supports her with Guiding Radiance and Luminous Bond."
       - "The Warden’s attacks weaken the bridge further, forcing Raven to maneuver it toward a crumbling edge. The growing Warden's hum seems to resonate with the crumbling stone, destabilizing it"
       - "Raven uses Phantom Chains to destabilize the Warden, sending it into the abyss."
