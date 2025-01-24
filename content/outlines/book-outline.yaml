@@ -122,6 +122,7 @@ acts:
           Their shared success in navigating the dungeon’s challenges leads directly into their boss encounter in the next chapter.
 
       - chapter: "The First Boss"
+        perspective: "Luke"
         file: "chapter-the-first-boss.yaml"
         plot-summary: >
           Raven and Luke enter the boss room and face their first major challenge together. 
@@ -130,7 +131,6 @@ acts:
           Raven invites Luke out for a celebratory drink and he accepts.
         narrative-purpose: >
           This chapter tests Raven and Luke’s teamwork under pressure, showcasing their growth as partners and setting up the trust and camaraderie that will deepen in subsequent chapters.
-        perspective: "Raven"
         relationship-arc:
           start: >
             Raven and Luke’s improved teamwork carries them into the boss fight, where their synergy is tested under pressure.
@@ -157,7 +157,8 @@ acts:
           Raven and Luke share a celebratory drink after their dungeon success. 
           Playful banter gives way to moments of vulnerability as they bond over their pasts, deepening their relationship.
         narrative-purpose: >
-          This chapter provides emotional relief after the tension of the boss fight, deepening Raven and Luke’s connection and setting the stage for their emotional growth in Act 2.        perspective: "Luke"
+          This chapter provides emotional relief after the tension of the boss fight, deepening Raven and Luke’s connection and setting the stage for their emotional growth in Act 2.        
+          perspective: "Luke"
         relationship-arc:
           start: >
             Raven and Luke’s camaraderie carries over from the dungeon, creating an opportunity for deeper emotional connection.
@@ -194,6 +195,7 @@ acts:
 
     chapters:
       - chapter: "Anna Comes Home"
+        perspective: "Luke"
         plot-summary: >
           Luke’s younger sister Anna arrives unexpectedly, bringing humor, warmth, and insight. Her perspective on Luke’s life prompts him to reflect on his choices, particularly his growing bond with Raven. A follow-up message from Raven asking about a new dive gives him the push to say yes.
         narrative-purpose: >
@@ -202,6 +204,7 @@ acts:
           Anna’s arrival sheds light on Luke’s cautious and self-sacrificing nature. Her encouragement for Luke to pursue his feelings for Raven plants the seed for his eventual bold step, even as he remains reluctant to admit his emotions.
 
       - chapter: "Felforge Depths"
+        perspective: "Raven"
         plot-summary: >
           Luke and Raven tackle an elemental-themed dungeon, Felforge Depths. Their teamwork is tested in new ways, and Raven’s bold combat style pushes Luke to adapt and take risks. They emerge victorious, and their partnership grows stronger.
         narrative-purpose: >
@@ -210,6 +213,7 @@ acts:
           Raven and Luke’s growing trust is put to the test in a high-stakes dungeon. Subtle moments of mutual admiration begin to surface, though both suppress their deeper emotions.
 
       - chapter: "A Gala Invitation"
+        perspective: "Luke"
         plot-summary: >
           During their post-dive drink, Raven invites Luke to a high-fashion charity gala. She uses humor and the analogy of providing "armor" to convince him, offering to outfit him for the event. Luke hesitates but ultimately agrees.
         narrative-purpose: >
@@ -218,6 +222,7 @@ acts:
           Raven’s invitation to the gala underscores her reliance on Luke’s steady presence, while Luke’s agreement marks a small but significant step toward opening himself up to her outside the context of dives.
 
       - chapter: "The Gala"
+        perspective: "Raven"
         file: "chapter-the-gala.yaml"
         plot-summary: >
           Luke and Raven attend the gala, navigating a world of high fashion and societal expectations. When an heir from another prominent family pesters Raven, she uses the "pretend to be my boyfriend" trope to defuse the situation. The moment creates humor, tension, and deeper emotional closeness between them.
@@ -227,6 +232,7 @@ acts:
           The pretend-boyfriend moment forces both Raven and Luke to confront their feelings. Luke’s jealousy and Raven’s relief at his presence highlight their growing emotional dependence on each other, even as they keep their feelings unspoken.
 
       - chapter: "Raven’s Rebellion"
+        perspective: "Raven"
         plot-summary: >
           Raven has a heated argument with her parents about their expectations for her life and career. She storms out, grappling with feelings of frustration and self-doubt. Luke offers her unexpected support, further solidifying their connection.
         narrative-purpose: >
@@ -235,6 +241,7 @@ acts:
           Raven wrestles with her parents’ expectations and reflects on Luke’s unwavering support. This chapter deepens her understanding of his value both as a partner and as someone she can trust emotionally.
 
       - chapter: "A Dangerous Proposal"
+        perspective: "Luke"
         plot-summary: >
           Raven suggests tackling an exceptionally dangerous dungeon that could yield enormous rewards. Luke hesitates but ultimately agrees, spurred on by his growing feelings for Raven and her confidence in him.
         narrative-purpose: >
@@ -243,6 +250,7 @@ acts:
           Raven’s faith in Luke encourages him to step out of his cautious nature, while his agreement to the proposal underscores his growing trust in her judgment. Both characters are more attuned to their unspoken feelings, even as they keep them hidden behind the guise of partnership. Their mutual dependence becomes more evident, reinforcing their bond and emotional investment.
 
       - chapter: "Setbacks and Resolve"
+        perspective: "Luke"
         plot-summary: >
           Luke and Raven tackle another dungeon, but personal flaws and unresolved tensions cause friction. A dangerous moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds.
         narrative-purpose: >
@@ -251,6 +259,7 @@ acts:
           Moments of personal conflict push Raven and Luke to confront their vulnerabilities. Their bond is tested but ultimately strengthened as they lean on each other for support.
 
       - chapter: "The Morning After"
+        perspective: "Raven"
         plot-summary: >
           After a late-night conversation, Luke invites Raven to stay at his apartment, taking a bold step outside his comfort zone. The next morning, Anna’s arrival adds humor and heart, emphasizing how much Luke’s life is changing.
         narrative-purpose: >
