@@ -97,8 +97,8 @@ abilities:
 
   raven:
     eclipse-flurry:
-      type: "offense, threat"
-      description: "A multi-target melee attack that builds Flow and generates significant threat."
+      type: "offense"
+      description: "A multi-target melee attack that builds Flow per enemy hit."
       cooldown: "10 seconds"
       resource-cost: "Medium Flow"
       resource-generation: "Moderate Flow per hit"
