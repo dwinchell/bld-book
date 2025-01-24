@@ -1,5 +1,4 @@
-metadata:
-  type: book-outline
+file: book-outline.yaml
 
 title: "Bound in Light and Darkness"
 short-title: "BLD"
@@ -153,6 +152,7 @@ acts:
 
       - chapter: "A Drink"
         file: "chapter-a-drink.yaml"
+        perspective: "Raven"
         plot-summary: >
           Raven and Luke share a celebratory drink after their dungeon success. 
           Playful banter gives way to moments of vulnerability as they bond over their pasts, deepening their relationship.

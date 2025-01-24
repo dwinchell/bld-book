@@ -1,0 +1,85 @@
+metadata:
+  type: chapter-outline
+  title: "A Drink"
+  file: "chapter-a-drink.yaml"
+
+plot-summary: >
+  After their successful dungeon dive, Raven and Luke share a celebratory drink. Playful banter transitions into moments of vulnerability as they bond over their personal struggles, deepening their relationship and trust. This marks a key turning point in their partnership as they begin to see each other as more than just teammates.
+
+narrative-purpose: >
+  This chapter provides emotional relief after the intense boss fight, building camaraderie and trust between Raven and Luke. It begins to establish a foundation for their deeper emotional connection and explores their growing mutual respect.
+
+perspective: "Raven"
+
+relationship-arc:
+  start: >
+    Raven and Luke’s camaraderie from their dungeon success carries into this chapter, creating an opportunity for deeper connection.
+  progression: >
+    Their playful banter gives way to more vulnerable moments, where they reveal pieces of their past and begin to develop a deeper emotional bond.
+  end: >
+    By the end of the chapter, their growing trust and mutual admiration signal a shift in their dynamic, setting the stage for further emotional growth in Act 2.
+
+key-emotional-beats:
+  - "Raven’s teasing and lighthearted banter eases Luke into a more relaxed and open state."
+  - "Luke reveals a piece of his cautious nature stems from a previous failure, hinting at past trauma."
+  - "Raven shares her frustrations about her family’s expectations, allowing Luke to see her vulnerable side."
+  - "The growing chemistry between Raven and Luke becomes palpable, though both hold back their deepest vulnerabilities."
+
+tone:
+  - "Intimate and warm, with playful undertones and moments of emotional depth."
+
+scenes:
+  - title: "Arriving at the Tavern"
+    plot-summary: >
+      Raven and Luke arrive at The Warden’s Rest, a sleek, modern pub catering to divers. They ease into a casual conversation, sharing lighthearted moments and embarrassing dive stories at Raven’s insistence.
+    events:
+      - "Raven and Luke enter the pub, greeted by the warm lighting and lively hum of conversation."
+      - "Raven selects a table near a wall display of dungeon memorabilia, casually commenting on the decor."
+      - "They order drinks—Raven chooses a dark ale, while Luke opts for a non-alcoholic cider."
+      - "Raven teases Luke about his drink choice, but he responds with an amused retort, deflecting her banter."
+      - "Raven insists they share embarrassing dive moments to lighten the mood, and after a bit of hesitation, Luke recounts a time he misjudged a mob pull, leading to a chaotic but harmless retreat."
+      - "Raven follows with a story of an overconfident charge into a dungeon trap that left her dangling in midair, earning her the nickname ‘Spider Queen’ for weeks."
+      - "Their laughter softens the tension from earlier, allowing them to relax and enjoy each other’s company."
+    sensory-details:
+      - "The soft golden glow of pendant lights reflecting off polished wood and dark steel accents."
+      - "The sound of glasses clinking and muted laughter echoing from nearby tables."
+    ending:
+      ending-style: >
+        Lighthearted camaraderie
+      transition: >
+        The mood shifts slightly as their conversation turns to more personal topics, setting the stage for the next scene.
+
+  - title: "Opening Up"
+    plot-summary: >
+      As the evening continues, Raven and Luke delve into deeper topics, reflecting on the pressures they face in their respective roles. Luke shares the challenges of being a healer, while Raven touches on her struggles with family expectations.
+    events:
+      - "Raven leans back in her seat, her earlier teasing giving way to a quieter tone as she asks Luke what drives him as a healer."
+      - "Luke opens up about the immense responsibility of his role, recalling how a past failure left him wary of letting others down."
+      - "Raven listens intently, her usual smirk replaced with a thoughtful expression as she encourages him to continue."
+      - "She shares her own frustrations, speaking briefly about the expectations her family places on her and how it conflicts with her desire for independence."
+      - "Their conversation reveals shared vulnerabilities, leading to a deeper understanding of each other’s struggles."
+    sensory-details:
+      - "The faint hum of background music blending with the occasional clink of glasses."
+      - "The subtle shift in their voices as the tone moves from lighthearted to introspective."
+    ending:
+      ending-style: >
+        Emotional connection
+      transition: >
+        Their shared vulnerability deepens their bond, laying the foundation for further trust as the evening winds down.
+
+  - title: "Parting Ways"
+    plot-summary: >
+      As the night winds down, Raven and Luke leave The Warden’s Rest. Their conversation becomes reflective, and they part ways with a stronger sense of camaraderie and mutual respect.
+    events:
+      - "Luke thanks Raven for inviting him out and expresses his gratitude for the chance to unwind."
+      - "Raven brushes off the thanks but gives a small, genuine smile, showing her softer side."
+      - "They discuss plans for their next dive, with Raven hinting at a particularly challenging dungeon she’s been eyeing."
+      - "The two share a lingering look before parting ways, each quietly reflecting on the unexpected connection they’ve formed."
+    sensory-details:
+      - "The cool night air as they step outside, carrying the scent of rain on pavement."
+      - "The distant hum of traffic blending with the muffled sounds of music from the pub."
+    ending:
+      ending-style: >
+        Quiet reflection
+      transition: >
+        The chapter ends with Raven walking home under the city lights, her thoughts lingering on Luke and the partnership they’re beginning to build.
