@@ -10,14 +10,13 @@ overview:
   plot-summary: >
     Luke begins analyzing Raven’s classified ad, his cautious nature immediately highlighting the risks of partnering with someone so bold. 
     He wrestles with his reluctance to form new bonds, his memories of past loss amplifying his hesitation. However, curiosity about Raven’s audacious style 
-    and a pragmatic need to stabilize his finances begin to shift his perspective. The sight of his guitar reminds him of the balance he seeks in his life—responsibility 
-    tempered by fulfillment. Ultimately, Luke decides to accept the partnership, though with lingering uncertainty about stepping out of his comfort zone.
+    and a pragmatic need to stabilize his finances begin to shift his perspective. A surprise postcard from Anna adds warmth to his day and foreshadows her visit, leaving Luke with a sense of something to look forward to. Ultimately, Luke decides to accept the partnership, though with lingering uncertainty about stepping out of his comfort zone.
   events:
     - "Luke settles at his desk and opens the classified ad, Raven’s name standing out boldly against the interface."
     - "He scans her profile, noting her impressive stats and successes in solo diving."
     - "Luke reflects on the risks of working with a solo diver, his mind returning to past failures and losses."
-    - "He considers his cautious nature and the challenges of adapting to someone as dynamic as Raven."
-    - "The sight of his guitar pulls him into a moment of reflection about the balance he seeks between responsibility and fulfillment."
+    - "He checks his snail mail and finds a heartfelt postcard from Anna, announcing her visit home for spring break. He feels touched and looks forward to her return."
+    - "The sight of his guitar pulls him into a moment of reflection about the balance he seeks in his life—responsibility tempered by fulfillment."
     - "Curiosity begins to outweigh hesitation as Luke imagines the challenges and growth he might experience with Raven."
     - "After a final pause, Luke decides to accept the classified ad, taking a hesitant but deliberate step toward partnership."
   tone:
@@ -49,16 +48,37 @@ scenes:
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
     ending:
       transition-notes: >
-        Luke finishes his morning routine and opens his System interface, signaling his readiness to engage with the notification. 
-        The scene closes with a sense of quiet anticipation for the decisions ahead.
+        Luke walks outside to check his physical mail.
+
+  - title: "A Postcard from Anna"
+    plot-summary: >
+      While sorting through his mail, Luke discovers a sentimental postcard from Anna announcing her plans to visit home during spring break. 
+      The gesture touches him deeply and shifts his mood, providing a moment of connection and something to look forward to. 
+      He briefly worries about whether she has the money to go on a trip, but reassures himself by recalling how much she enjoys her local friends.
+    events:
+      - "Arriving at the bank of mailboxes, luke pulls a stack of mail from his small mailbox and sorts through it, setting aside bills and flyers."
+      - "He notices the colorful postcard with Anna’s handwriting, a cheerful note about her being homesick and excited to visit for spring break."
+      - "Luke smiles, reading her words about skipping a trip to spend time with local friends and family instead."
+      - "He feels a mix of pride and worry, briefly wondering if money played a role in her decision, but reassures himself by remembering how much she loves her friends back home."
+      - "Luke tacks the postcard on his bulletin board, appreciating the warmth and care behind her gesture."
+    key-emotional-beats:
+      - "Luke is touched by Anna’s thoughtfulness, finding comfort in her sentimental connection to home."
+      - "He reflects on their bond and looks forward to reconnecting with her, which lightens his mood for the day."
+      - "The scene ends with Luke thinking: 'Now that was something to look forward to.'"
+    sensory-details:
+      - "Anna’s handwriting looping playfully across the card in colorful ink."
+    ending:
+      transition-notes: >
+        The positive moment leaves Luke in a lighter mood, setting up a contrast to his upcoming doubts as he reviews Raven’s ad. He walks back inside.
 
   - title: "The Healer’s Decision"
     plot-summary: >
+      Luke sits at his desk, signaling his readiness to engage with the notification.
       Luke analyzes Raven’s classified ad, grappling with the risks and benefits of partnering with someone so bold. 
       His internal conflict crescendos as memories of loss clash with a growing curiosity and need for stability. 
       Ultimately, Luke decides to accept the ad, stepping into an uncertain but intriguing future.
     events:
-      - "Luke settles at his desk, the classified ad filling the glowing interface."
+      - "Luke settles at his desk and checks the notification. He brings up the classified ad and reads it."
       - "He scans Raven’s profile, focusing on her impressive stats and success as a solo diver."
       - "He reflects on past losses and his reluctance to form new bonds."
       - "The sight of his guitar reminds him of the balance he craves between responsibility and fulfillment."
