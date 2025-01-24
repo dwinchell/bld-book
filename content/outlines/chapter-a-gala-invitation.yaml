@@ -4,10 +4,10 @@ metadata:
   file: "chapter-a-gala-invitation.yaml"
 
 plot-summary: >
-  During their post-dive drink, Raven invites Luke to a high-fashion charity gala. The invitation sparks a humorous exchange, as Raven uses the analogy of providing "armor" to convince him and offers to outfit him for the event. Luke hesitates but ultimately agrees, setting up the gala as a key emotional beat. A follow-up shopping trip for the tuxedo adds lighthearted humor and deepens their bond as they navigate a world unfamiliar to Luke.
+  During their post-dive drink, Raven invites Luke to a high-fashion charity gala. The invitation sparks a humorous exchange, as Raven uses the analogy of providing "armor" to convince him and offers to outfit him for the event. Luke hesitates but ultimately agrees, setting up the gala as a key emotional beat. A follow-up shopping trip for the tuxedo adds lighthearted humor and deepens their bond as they navigate a world unfamiliar to Luke. A quiet moment of reflection highlights Luke’s struggle with his fear of attachment and his growing connection to Raven.
 
 narrative-purpose: >
-  Set up the gala as a pivotal emotional moment while emphasizing Raven’s playful and sincere efforts to include Luke in her world. Highlight their growing camaraderie and trust outside of dungeon dives, while subtly building romantic tension through humor and shared vulnerability.
+  Set up the gala as a pivotal emotional moment while emphasizing Raven’s playful and sincere efforts to include Luke in her world. Highlight their growing camaraderie and trust outside of dungeon dives, while subtly building romantic tension through humor and shared vulnerability. Provide insight into Luke’s fear of attachment and his growing internal conflict.
 
 tone:
   - "Playful and lighthearted, with moments of sincerity and emotional depth."
@@ -16,13 +16,14 @@ tone:
 key-emotional-beats:
   - "Raven’s casual yet meaningful invitation reveals her trust and growing reliance on Luke’s presence."
   - "Luke’s hesitation underscores his discomfort with stepping outside his comfort zone, while his eventual agreement marks a small but significant step toward personal growth."
+  - "Luke’s reflections highlight his fear of attachment, showing the emotional stakes behind his hesitation."
   - "The shopping trip offers a blend of humor and connection, with Raven’s boldness drawing Luke out of his shell."
 
 relationship-arc:
   start: >
     Luke and Raven begin the chapter as trusted teammates, but their bond remains rooted in their professional dynamic.
   progression: >
-    Raven’s invitation and Luke’s agreement mark a shift toward more personal connection. Their playful banter and shared moments during the shopping trip hint at mutual admiration and subtle romantic tension.
+    Raven’s invitation and Luke’s agreement mark a shift toward more personal connection. Luke’s reflection deepens his internal conflict, while playful banter and shared moments during the shopping trip hint at mutual admiration and subtle romantic tension.
   end: >
     By the end of the chapter, Luke and Raven’s relationship has taken another step toward emotional intimacy, though neither openly acknowledges their feelings.
 
@@ -46,6 +47,26 @@ scenes:
       Raven casually brings up the gala, piquing Luke’s curiosity and setting the stage for her invitation.
     ending: >
       Luke reluctantly agrees to attend, his curiosity about the gala outweighing his reservations.
+
+  - scene: "Luke’s Reflection"
+    perspective: Luke
+    plot-summary: >
+      Later that night, Luke reflects on the gala invitation and his hesitation to attend. His thoughts drift to his fear of forming attachments, driven by memories of losing his parents and his sense of responsibility for Anna. He considers how Raven challenges his walls and begins to wonder if he can take the risk of letting her in.
+    narrative-purpose: >
+      Provide insight into Luke’s fear of attachment and his internal conflict. Show his growing emotional connection to Raven and the stakes behind his hesitation to open up.
+    events:
+      - "Luke sits alone in his apartment, staring at the gala invitation with mixed feelings."
+      - "He recalls moments of loss and responsibility that have shaped his cautious nature."
+      - "Luke thinks about Raven, realizing how her boldness and trust challenge his emotional walls."
+      - "He resolves to take a small step forward by embracing the gala invitation as a chance to connect."
+    sensory-details:
+      - "The dim light of a single lamp casting shadows across Luke’s tidy apartment."
+      - "The soft rustle of the gala invitation in Luke’s hands as he turns it over thoughtfully."
+      - "The faint hum of the city outside his window, grounding him in the present."
+    scene-hook: >
+      Luke glances at his HUD, where the gala date looms closer, and wonders what it would mean to take this step.
+    ending: >
+      Luke sets the invitation aside, his expression a mix of determination and apprehension.
 
   - scene: "Shopping for a Tuxedo"
     perspective: Raven
