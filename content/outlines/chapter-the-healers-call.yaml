@@ -40,13 +40,12 @@ scenes:
       - "The System notification introduces a mix of apprehension and curiosity, disrupting his controlled mindset and setting up emotional tension for the next scene."
     narrative-purpose: >
       Introduce Luke’s cautious personality and his sense of responsibility, laying the groundwork for his decision to partner with Raven.
-    pacing:
-      previous-draft-words: 600
     sensory-details:
       - "The faint scratch of pen on paper as he updates his expenses."
       - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
     ending:
+      ending-style: "Subtle Tension"
       transition-notes: >
         Luke walks outside to check his physical mail.
 
@@ -56,7 +55,7 @@ scenes:
       The gesture touches him deeply and shifts his mood, providing a moment of connection and something to look forward to. 
       He briefly worries about whether she has the money to go on a trip, but reassures himself by recalling how much she enjoys her local friends.
     events:
-      - "Arriving at the bank of mailboxes, luke pulls a stack of mail from his small mailbox and sorts through it, setting aside bills and flyers."
+      - "Arriving at the bank of mailboxes, Luke pulls a stack of mail from his small mailbox and sorts through it, setting aside bills and flyers."
       - "He notices the colorful postcard with Anna’s handwriting, a cheerful note about her being homesick and excited to visit for spring break."
       - "Luke smiles, reading her words about skipping a trip to spend time with local friends and family instead."
       - "He feels a mix of pride and worry, briefly wondering if money played a role in her decision, but reassures himself by remembering how much she loves her friends back home."
@@ -68,6 +67,7 @@ scenes:
     sensory-details:
       - "Anna’s handwriting looping playfully across the card in colorful ink."
     ending:
+      ending-style: "Emotional Uplift"
       transition-notes: >
         The positive moment leaves Luke in a lighter mood, setting up a contrast to his upcoming doubts as he reviews Raven’s ad. He walks back inside.
 
@@ -98,7 +98,6 @@ scenes:
     requirements:
       use-this-text-for-the-ad: "*Seeking experienced healer for intermediate dungeon dives. Duo partnership. Consistent runs, fair loot split. Must be reliable.*"
     ending:
+      ending-style: "Quiet Resolve"
       transition-notes: >
         Luke’s acceptance of the ad ends the chapter with a mix of resolve and uncertainty, setting the stage for his first meeting with Raven in the next chapter.
-      ending-style: >
-        Luke reflects on his decision, anticipation and uncertainty mingling as he prepares to meet Raven.
