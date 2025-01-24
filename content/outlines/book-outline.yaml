@@ -183,47 +183,70 @@ acts:
       progression: >
         Act 2 focuses on building emotional closeness and stronger teamwork, with setbacks caused by their internal fears and clashing approaches. 
         Moments of vulnerability and shared danger deepen their bond.
-      key-beats:
-        - "A high-stakes dungeon dive forces them to rely on each other, solidifying trust."
-        - "Personal conflicts arise, such as Raven’s impulsiveness hindering teamwork and Luke’s over-caution creating hesitation."
-        - "Intimate bonding moments outside of dives reveal vulnerabilities and build romantic tension."
+      end: >
+        By the end of Act 2, their partnership is solidifying, with mutual respect and growing emotional tension setting the stage for deeper intimacy in Act 3.
+
     chapters:
-      - chapter: "A Dangerous Dive"
-        file: "a-dangerous-dive.yaml"
-        purpose: >
-          Raven and Luke’s partnership is tested in a high-stakes dungeon scenario, forcing them to rely on each other.
-        key-emotional-beats:
-          - "Tension rises as their contrasting approaches create conflict under pressure."
-          - "A near-death experience forces Raven and Luke to open up to each other."
-        tone:
-          - "High-stakes and adrenaline-fueled, with emotional undertones."
-        pacing:
-          min-words: 3500
-          max-words: 4000
-      - chapter: "Setbacks and Growth"
-        file: "setbacks-and-growth.yaml"
-        purpose: >
-          Personal setbacks highlight their flaws, pushing them to confront their fears and grow as individuals and partners.
-        key-emotional-beats:
-          - "Raven’s independence hinders teamwork, creating friction."
-          - "Luke’s fear of loss causes hesitation, putting them at risk."
-        tone:
-          - "Introspective and emotionally raw, focusing on internal struggles."
-        pacing:
-          min-words: 3200
-          max-words: 3700
+      - chapter: "Anna Comes Home"
+        plot-summary: >
+          Luke’s younger sister Anna arrives unexpectedly, bringing humor, warmth, and insight. Her perspective on Luke’s life prompts him to reflect on his choices, particularly his growing bond with Raven. A follow-up message from Raven asking about a new dive gives him the push to say yes.
+        narrative-purpose: >
+          Reintroduce Anna, deepen Luke’s backstory, and use her insights to nudge him toward growth and greater self-awareness. Set up the next dungeon dive.
+
+      - chapter: "Felforge Depths"
+        plot-summary: >
+          Luke and Raven tackle an elemental-themed dungeon, Felforge Depths. Their teamwork is tested in new ways, and Raven’s bold combat style pushes Luke to adapt and take risks. They emerge victorious, and their partnership grows stronger.
+        narrative-purpose: >
+          Highlight their evolving synergy and growing trust as they navigate a dangerous and visually distinct dungeon. Strengthen their emotional bond through shared danger and success.
+
+      - chapter: "A Gala Invitation"
+        plot-summary: >
+          During their post-dive drink, Raven invites Luke to a high-fashion charity gala. She uses humor and the analogy of providing "armor" to convince him, offering to outfit him for the event. Luke hesitates but ultimately agrees.
+        narrative-purpose: >
+          Set up the gala as a key emotional beat and deepen their personal connection. Show Raven’s playful yet sincere efforts to bring Luke into her world.
+
+      - chapter: "Raven’s Rebellion"
+        plot-summary: >
+          Raven has a heated argument with her parents about their expectations for her life and career. She storms out, grappling with feelings of frustration and self-doubt. Luke offers her unexpected support, further solidifying their connection.
+        narrative-purpose: >
+          Explore Raven’s family dynamics and internal struggles, adding depth to her character. Use Luke’s quiet support to highlight their growing emotional intimacy.
+
+      - chapter: "The Charity Gala"
+        plot-summary: >
+          Luke and Raven attend the gala, navigating a world of high fashion and societal expectations. When an heir from another prominent family pesters Raven, she uses the "pretend to be my boyfriend" trope to defuse the situation. The moment creates humor, tension, and deeper emotional closeness between them.
+        narrative-purpose: >
+          Use the gala to push Luke and Raven closer together emotionally and highlight the contrast between their personalities and worlds. Create a moment of introspection and vulnerability for both characters.
+
+      - chapter: "The Morning After"
+        plot-summary: >
+          Raven spends the night at Luke’s apartment for the first time. The next morning, Anna unexpectedly arrives, suitcase in hand, and is shocked to find Raven there. The humorous and heartfelt moment forces Luke to reflect on how much his life is changing.
+        narrative-purpose: >
+          Highlight the growing trust and comfort between Luke and Raven while using Anna’s arrival to underscore Luke’s emotional growth and the shifting dynamics of his life.
+
+      - chapter: "Setbacks and Sacrifice"
+        plot-summary: >
+          Luke and Raven tackle another dungeon, but personal flaws and unresolved tensions cause friction. A dangerous moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds.
+        narrative-purpose: >
+          Test their partnership by showing how their individual fears and flaws create setbacks. Use a sacrifice to demonstrate the depth of their bond while leaving space for further growth and resolution.
+
       - chapter: "Deepening Bonds"
-        file: "deepening-bonds.yaml"
-        purpose: >
-          Bonding moments deepen their connection, building trust and romantic tension.
-        key-emotional-beats:
-          - "Raven begins to see Luke’s caution as a strength."
-          - "Luke admires Raven’s boldness, recognizing how it inspires him to take calculated risks."
-        tone:
-          - "Tender and reflective, with moments of lightheartedness."
-        pacing:
-          min-words: 3000
-          max-words: 3500
+        plot-summary: >
+          Outside of the dungeon, Luke and Raven spend time together, opening up about their pasts and fears. The chapter explores their growing emotional connection, with romantic tension becoming undeniable.
+        narrative-purpose: >
+          Create a quieter, reflective chapter focused on their emotional growth and deepening intimacy. Lay the groundwork for the romance arc to blossom in Act 3.
+
+      - chapter: "A Dangerous Proposal"
+        plot-summary: >
+          Raven suggests tackling an exceptionally dangerous dungeon that could yield enormous rewards. Luke hesitates but ultimately agrees, spurred on by his growing feelings for Raven and her confidence in him.
+        narrative-purpose: >
+          Set up the climactic dive in Act 3 while emphasizing Luke’s growing willingness to take risks for Raven and their partnership. Highlight their deepening mutual trust and interdependence.
+
+      - chapter: "Crossing Lines"
+        plot-summary: >
+          After a late-night conversation, Luke invites Raven to stay at his apartment, taking a bold step outside his comfort zone. The next morning, Anna’s arrival adds humor and heart, emphasizing how much Luke’s life is changing.
+        narrative-purpose: >
+          Show Luke’s growth as he begins letting Raven into his personal life. Use Anna’s perspective to reinforce the emotional stakes and highlight the transformative impact of Raven on Luke’s world.
+
 
   - act: 3
     title: "Resolution"
