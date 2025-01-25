@@ -1,0 +1,76 @@
+---
+metadata:
+  type: chapter-outline
+  title: "Lava's Edge"
+  file: "chapter-lavas-edge.yaml"
+
+plot-summary: >
+  Luke and Raven face the intense challenges of the Felforge Depths as they navigate a hazardous lava causeway and confront a massive Molten Golem. The battle tests their teamwork, trust, and willingness to take risks for each other. After narrowly avoiding disaster, they find a moment of respite by a cascading lavafall, deepening their connection and setting the stage for the boss fight ahead.
+
+narrative-purpose: >
+  Showcase the environmental dangers of the Felforge Depths, emphasizing the dungeon’s hostility and raising the stakes. Highlight Raven’s combat skill and boldness, contrasting with Luke’s cautious but strategic mindset. Their near-disaster on the causeway and moment of connection by the molten cascade deepen their relationship while providing emotional resolution before the next chapter.
+
+relationship-arc:
+  start: >
+    Luke and Raven’s partnership is functional but still marked by lingering caution and tension.
+  progression: >
+    The dangerous environment and the Golem fight force them to take risks for each other, building trust and interdependence. The face-to-face moment after Luke’s near-fall serves as a breakthrough in their emotional connection.
+  end: >
+    By the end of the chapter, Raven and Luke share a quieter moment of camaraderie and mutual understanding, solidifying their growing bond and preparing them for the challenges ahead.
+
+key-emotional-beats:
+  - "Raven’s bold combat style puts her at risk, and Luke takes a dangerous step to keep her safe."
+  - "Their connection deepens as Raven saves Luke from falling into the lava, leading to a charged, emotional moment."
+  - "The molten cascade scene provides a reflective pause, allowing them to bond over their shared exhaustion and growing trust."
+
+tone:
+  - "Intense and high-stakes during the causeway and Golem fight."
+  - "Reflective and warm during the molten cascade scene, with subtle humor and camaraderie."
+
+scenes:
+  - scene: "Emerging from the Heat"
+    perspective: Raven
+    plot-summary: >
+      Luke and Raven exit a lava-filled tunnel and step onto a narrow causeway suspended over a river of molten rock. 
+      The oppressive heat and the unstable environment set the stage for a tense battle. A massive Molten Golem blocks the way ahead, its size and presence immediately raising the stakes.
+    narrative-purpose: >
+      Introduce the setting and the central threat of the chapter. Establish the dangers of the causeway, the environmental hazards like flameburst vents, 
+      and the looming presence of the Molten Golem to set up the tension for the upcoming fight.
+    ending: >
+      The Golem takes its first, thunderous step toward them, signaling the start of the battle as Raven moves forward to engage.
+
+  - scene: "Battle on the Causeway"
+    perspective: Raven
+    plot-summary: >
+      The fight with the Molten Golem intensifies as Raven’s bold combat style and Luke’s strategic healing are pushed to their limits. 
+      Flameburst vents complicate the fight, forcing Raven to overextend. Luke steps precariously close to the edge to keep her in healing range, 
+      risking himself to support her as the battle reaches its peak.
+    narrative-purpose: >
+      Showcase the dangers of the environment and the challenges of the fight, emphasizing their teamwork and willingness to take risks for each other. 
+      Build tension leading up to the Golem’s defeat and the climactic moment of Luke’s near-fall.
+    ending: >
+      Raven lands the final blow on the Golem, and its death destabilizes the ground, leading directly into the next scene.
+
+  - scene: "A Narrow Save"
+    perspective: Raven
+    plot-summary: >
+      The Golem’s death shakes the ground, throwing Luke off balance and toward the lava. 
+      Raven’s quick reflexes and dynamic movement allow her to leap over the fallen Golem and pull him back to safety. 
+      They end up face-to-face in a charged moment, the danger and relief blending with unspoken emotion.
+    narrative-purpose: >
+      Create a pivotal moment in their relationship, where Raven’s agility and willingness to save Luke contrast with his earlier risk to keep her safe. 
+      The physical proximity and emotional undercurrents deepen their bond, providing a key turning point for their partnership.
+    ending: >
+      Luke and Raven exchange a tense but meaningful glance, their bond strengthened by the near-disaster. Raven quips to break the tension, leading to a shared laugh as they move forward.
+
+  - scene: "Molten Cascade"
+    perspective: Raven
+    plot-summary: >
+      After the battle, Luke and Raven find a cascading lavafall and take a moment to rest and recover. 
+      The intense heat gives way to a calmer atmosphere as they share water and catch their breath. Raven notes that Shadow Aegis will be off cooldown soon, 
+      hinting at their readiness for the next challenge. Their conversation is light but meaningful, reflecting their growing camaraderie and trust.
+    narrative-purpose: >
+      Provide a reflective pause after the high-stakes battle, allowing the characters and readers to recover emotionally. 
+      Use the moment to deepen their connection and set the stage for the upcoming boss fight.
+    ending: >
+      They rise from their rest, refreshed and ready to tackle whatever the dungeon throws at them next, the molten cascade still glowing behind them as they walk away.
