@@ -16,12 +16,10 @@ physical_description:
     eyes: "Warm blue or gray, showing calm focus and quiet determination"
   style:
     inside_dungeon: >
-      Functional and stylish, her gear is predominantly black with fitted cloth armor 
-      that prioritizes freedom of movement while maintaining her bold, gothic flair. 
-      Her daggers, sleek and razor-sharp, are engraved with glowing runes that pulse 
-      faintly when she channels her shadow magic, reflecting her precision and mastery 
-      in combat. The understated design of her gear allows the runes on her weapons 
-      to take center stage, enhancing the sense of mystery and control she embodies.
+      Reinforced leather armor designed for practicality and durability, offering protection without unnecessary weight or flair. 
+      The armor features subtle metallic accents at key points for additional reinforcement.
+      Luke wields a sturdy wooden staff capped with a glowing crystal, serving as both a magical focus and a melee weapon. 
+      Etched runes spiral up the staff, glowing softly in sync with his abilities, amplifying his light-based magic.
     outside_dungeon: Practical American casual wear such as jeans, flannel shirts, and sturdy boots.
 
 dungeon-style:
