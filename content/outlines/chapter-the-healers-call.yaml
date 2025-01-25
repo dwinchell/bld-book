@@ -6,19 +6,9 @@ metadata:
 overview:
   perspective: Luke
   narrative-purpose: >
-    Introduce Luke’s cautious, pragmatic personality and motivations, establishing his initial reluctance to form new bonds and setting up his first meeting with Raven.
+    Introduce Luke’s cautious, pragmatic personality and motivations, establishing his initial reluctance to form new bonds and setting up his first meeting with Raven. Also forshadows a later visit by Anna.
   plot-summary: >
-    Luke begins analyzing Raven’s classified ad, his cautious nature immediately highlighting the risks of partnering with someone so bold. 
-    He wrestles with his reluctance to form new bonds, his memories of past loss amplifying his hesitation. However, curiosity about Raven’s audacious style 
-    and a pragmatic need to stabilize his finances begin to shift his perspective. A surprise postcard from Anna adds warmth to his day and foreshadows her visit, leaving Luke with a sense of something to look forward to. Ultimately, Luke decides to accept the partnership, though with lingering uncertainty about stepping out of his comfort zone.
-  events:
-    - "Luke settles at his desk and opens the classified ad, Raven’s name standing out boldly against the interface."
-    - "He scans her profile, noting her impressive stats and successes in solo diving."
-    - "Luke reflects on the risks of working with a solo diver, his mind returning to past failures and losses."
-    - "He checks his snail mail and finds a heartfelt postcard from Anna, announcing her visit home for spring break. He feels touched and looks forward to her return."
-    - "The sight of his guitar pulls him into a moment of reflection about the balance he seeks in his life—responsibility tempered by fulfillment."
-    - "Curiosity begins to outweigh hesitation as Luke imagines the challenges and growth he might experience with Raven."
-    - "After a final pause, Luke decides to accept the classified ad, taking a hesitant but deliberate step toward partnership."
+    Luke begins his day with a disciplined routine, reflecting on his financial burdens and longing for balance. A heartfelt postcard from his sister Anna lifts his spirits, giving him a moment of connection and something to look forward to. Returning inside, a System notification introduces Raven’s classified ad for a dungeon partner. Hesitant due to past losses, Luke reflects on his curiosity and need for growth, ultimately accepting the partnership and stepping into uncertainty.
   tone:
     - "Measured and cautious, reflecting Luke’s methodical nature and growing curiosity."
   transition-notes: >
@@ -27,51 +17,58 @@ overview:
 scenes:
   - title: "The Healer’s Morning"
     plot-summary: >
-      Luke begins his day with a disciplined routine, reflecting on his financial responsibilities and the balance he seeks in life. 
-      The System notification disrupts his controlled rhythm, introducing Raven’s classified ad and leaving him cautiously intrigued about the possibility of a partnership.
+      Luke begins his day with a disciplined routine, reflecting on the lingering exhaustion from a chaotic dungeon run the day before. 
+      He grounds himself in simple, predictable habits like stretching, reviewing his finances, and preparing a quick breakfast, 
+      which provide a much-needed sense of control after the previous day’s disarray.
     events:
-      - "Luke begins his morning stretches, grounding himself in his disciplined routine."
-      - "He notices his guitar, stirring memories of peace and balance, contrasting with his current burdens."
-      - "He updates his financial ledger, reflecting on the weight of his responsibilities and the tight resources he manages."
-      - "The System notification draws his attention, disrupting his routine and hinting at a new opportunity."
+      - "Luke wakes up, stretching to work out the stiffness from yesterday’s dungeon run."
+      - "He reflects on the chaotic group dynamics that forced him to work twice as hard as necessary to keep everyone alive."
+      - "He glances at his guitar, briefly tempted to play, but pulls away, knowing he can’t afford distractions."
+      - "Luke reviews his ledger, noting how tightly his credits are allocated to essentials like gear, potions, and rent."
+      - "His stomach growls, prompting him to grab a frozen breakfast burrito from the freezer."
+      - "While the burrito heats in the microwave, Luke leans against the counter, enjoying the grounding simplicity of his routine."
+      - "He eats the burrito, noting its blandness, and brushes his teeth to clear the lingering taste."
+      - "Grabbing his key, Luke prepares to check the mail, treating the routine task as a way to reset after yesterday’s frustration."
     key-emotional-beats:
-      - "Luke feels the weight of his financial burdens, emphasizing his sense of duty and need for stability."
-      - "The sight of the guitar stirs nostalgia, reflecting his longing for balance between work and fulfillment."
-      - "The System notification introduces a mix of apprehension and curiosity, disrupting his controlled mindset and setting up emotional tension for the next scene."
-    narrative-purpose: >
-      Introduce Luke’s cautious personality and his sense of responsibility, laying the groundwork for his decision to partner with Raven.
+      - "Luke’s physical soreness serves as a reminder of the burden he carries in dungeon runs and the cost of poorly coordinated groups."
+      - "The sight of his guitar stirs a longing for balance and creative expression, contrasting with his focus on survival and practicality."
+      - "Grounding himself in mundane tasks like budgeting and eating emphasizes Luke’s cautious, pragmatic nature."
     sensory-details:
-      - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
+      - "The bland, rubbery texture of the breakfast burrito, washed down with a glass of water."
+    narrative-purpose: >
+      Establish Luke’s cautious and pragmatic personality while reflecting on his physical and mental toll from dungeon runs. 
+      His methodical routine and focus on responsibilities provide insight into his grounded yet strained lifestyle.
     ending:
       ending-style: "Subtle Tension"
       transition-notes: >
-        Luke walks outside to check his physical mail.
-
+        Luke grabs his key and heads to check the mail, setting up the next scene.
 
   - title: "A Postcard from Anna"
     scene-hook: >
       As Luke sorts through his mail, he notices a colorful postcard sticking out—a small but vivid break from the stack of neutral bills and flyers.
     plot-summary: >
-      While sorting through his mail, Luke discovers a sentimental postcard from Anna announcing her plans to visit home during spring break. 
-      The gesture touches him deeply and shifts his mood, providing a moment of connection and something to look forward to. 
-      He briefly worries about whether she has the money to go on a trip, but reassures himself by recalling how much she enjoys her local friends.
+      While sorting through his mail, Luke discovers a postcard from Anna, announcing her plans to visit home for spring break. The gesture warms his heart and shifts his mood, reminding him of their bond and the years he spent providing for her after their parents passed. He feels a mix of pride and worry about her skipping a trip, but reassures himself, focusing on the connection they share.
     events:
-      - "Arriving at the bank of mailboxes, Luke pulls a stack of mail from his small mailbox and sorts through it, setting aside bills and flyers."
-      - "He notices the colorful postcard with Anna’s handwriting, a cheerful note about her being homesick and excited to visit for spring break."
-      - "Luke smiles, reading her words about skipping a trip to spend time with local friends and family instead."
-      - "He feels a mix of pride and worry, briefly wondering if money played a role in her decision, but reassures himself by remembering how much she loves her friends back home."
-      - "Luke tacks the postcard on his bulletin board, appreciating the warmth and care behind her gesture."
+      - "Luke descends to the apartment mailboxes, the dimly lit hallway and faint hum of fluorescent lights creating a solitary atmosphere."
+      - "He sorts through a stack of envelopes, setting aside bills and advertisements."
+      - "A colorful postcard catches his eye, standing out amidst the neutral tones of the other mail."
+      - "Luke recognizes Anna’s handwriting and reads the cheerful note announcing her plans to visit home for spring break."
+      - "He feels a mix of pride and lingering worry, wondering if money was a factor in her decision to skip a spring trip."
+      - "Luke reflects on their past, recalling the responsibility he took on after their parents passed when Anna was 16 and he was 18."
+      - "Back in his apartment, he tapes the postcard to his corkboard above his desk, placing it alongside a childhood photo of them."
+      - "Luke pauses, letting the warmth of the gesture settle, before a soft System notification chime draws his attention."
     key-emotional-beats:
-      - "Luke is touched by Anna’s thoughtfulness, finding comfort in her sentimental connection to home."
-      - "He reflects on their bond and looks forward to reconnecting with her, which lightens his mood for the day."
-      - "The scene ends with Luke thinking: 'Now that's something to look forward to.'"
+      - "Luke is touched by Anna’s thoughtfulness, finding comfort in her plans to come home and her cheerful tone."
+      - "Memories of their past deepen his connection to the postcard, highlighting his role in raising her and the pride he feels in her growth."
+      - "Despite his brief worry about finances, Luke’s mood lightens as he focuses on their bond and the promise of reconnecting."
     sensory-details:
-      - "Anna’s handwriting looping playfully across the card in colorful ink."
+      - "The vibrant colors and playful handwriting on the postcard, contrasting with the muted tones of the rest of the mail."
     ending:
       ending-style: "Emotional Uplift"
       transition-notes: >
-        The positive moment leaves Luke in a lighter mood, setting up a contrast to his upcoming doubts as he reviews Raven’s ad. He walks back inside.
+        The positive moment leaves Luke in a lighter mood, setting up a contrast to his curiosity and hesitation when the System notification about Raven's classified ad interrupts his thoughts.
+
 
   - title: "The Healer’s Decision"
     scene-hook: >
