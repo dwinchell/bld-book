@@ -17,32 +17,25 @@ overview:
 scenes:
   - title: "The Healer’s Morning"
     plot-summary: >
-      Luke begins his day with a disciplined routine, reflecting on the lingering exhaustion from a chaotic dungeon run the day before. 
-      He grounds himself in simple, predictable habits like stretching, reviewing his finances, and preparing a quick breakfast, 
-      which provide a much-needed sense of control after the previous day’s disarray.
+      Luke begins his day with a disciplined routine, recovering from the physical toll of a chaotic dungeon dive. He reflects on his financial burdens, including Anna’s textbook costs, and his need for stability. His small comforts—a moment spent eyeing his guitar and a bland breakfast burrito—offer fleeting solace before he heads out for the mail.
     events:
-      - "Luke wakes up, stretching to work out the stiffness from yesterday’s dungeon run."
-      - "He reflects on the chaotic group dynamics that forced him to work twice as hard as necessary to keep everyone alive."
-      - "He glances at his guitar, briefly tempted to play, but pulls away, knowing he can’t afford distractions."
-      - "Luke reviews his ledger, noting how tightly his credits are allocated to essentials like gear, potions, and rent."
-      - "His stomach growls, prompting him to grab a frozen breakfast burrito from the freezer."
-      - "While the burrito heats in the microwave, Luke leans against the counter, enjoying the grounding simplicity of his routine."
-      - "He eats the burrito, noting its blandness, and brushes his teeth to clear the lingering taste."
-      - "Grabbing his key, Luke prepares to check the mail, treating the routine task as a way to reset after yesterday’s frustration."
+      - "Luke stretches sore muscles, still stiff from the exertion of yesterday’s dungeon run."
+      - "He glances at his guitar, briefly tempted to play, but pulls back, prioritizing focus over distraction."
+      - "His stomach growls, and he microwaves a frozen breakfast burrito, eating it while leaning against the counter."
+      - "After brushing his teeth, Luke scans his ledger, noting allocated credits and upcoming costs, including Anna’s textbooks."
+      - "Routine complete, Luke grabs his keys and heads out to check the mail, grounding himself in predictability after the chaos of the previous day."
     key-emotional-beats:
-      - "Luke’s physical soreness serves as a reminder of the burden he carries in dungeon runs and the cost of poorly coordinated groups."
-      - "The sight of his guitar stirs a longing for balance and creative expression, contrasting with his focus on survival and practicality."
-      - "Grounding himself in mundane tasks like budgeting and eating emphasizes Luke’s cautious, pragmatic nature."
+      - "Luke reflects on the physical strain of his role as a healer, underscoring his sense of responsibility."
+      - "The guitar represents a longing for balance, though Luke consciously chooses practicality over indulgence."
+      - "Financial concerns weigh on him, including the added expense of supporting Anna, emphasizing his dedication to stability."
+      - "Routine provides Luke with a sense of control, highlighting his cautious, pragmatic nature."
     sensory-details:
-      - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
-      - "The bland, rubbery texture of the breakfast burrito, washed down with a glass of water."
-    narrative-purpose: >
-      Establish Luke’s cautious and pragmatic personality while reflecting on his physical and mental toll from dungeon runs. 
-      His methodical routine and focus on responsibilities provide insight into his grounded yet strained lifestyle.
+      - "The light wood finish of the guitar gleaming faintly, evoking memories of quieter evenings."
+      - "The rubbery texture of the burrito as a bland but necessary meal to fuel his day."
     ending:
       ending-style: "Subtle Tension"
       transition-notes: >
-        Luke grabs his key and heads to check the mail, setting up the next scene.
+        Luke leaves the apartment to check his mail, setting up the discovery of Anna's postcard in the next scene.
 
   - title: "A Postcard from Anna"
     scene-hook: >
