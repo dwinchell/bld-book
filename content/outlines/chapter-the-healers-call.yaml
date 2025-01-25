@@ -41,7 +41,6 @@ scenes:
     narrative-purpose: >
       Introduce Luke’s cautious personality and his sense of responsibility, laying the groundwork for his decision to partner with Raven.
     sensory-details:
-      - "The faint scratch of pen on paper as he updates his expenses."
       - "The soft chime of the System notification breaking the silence."
       - "The soft, worn wood of the guitar catching the morning light, evoking a sense of nostalgia."
     ending:
@@ -49,7 +48,10 @@ scenes:
       transition-notes: >
         Luke walks outside to check his physical mail.
 
+
   - title: "A Postcard from Anna"
+    scene-hook: >
+      As Luke sorts through his mail, he notices a colorful postcard sticking out—a small but vivid break from the stack of neutral bills and flyers.
     plot-summary: >
       While sorting through his mail, Luke discovers a sentimental postcard from Anna announcing her plans to visit home during spring break. 
       The gesture touches him deeply and shifts his mood, providing a moment of connection and something to look forward to. 
@@ -63,7 +65,7 @@ scenes:
     key-emotional-beats:
       - "Luke is touched by Anna’s thoughtfulness, finding comfort in her sentimental connection to home."
       - "He reflects on their bond and looks forward to reconnecting with her, which lightens his mood for the day."
-      - "The scene ends with Luke thinking: 'Now that was something to look forward to.'"
+      - "The scene ends with Luke thinking: 'Now that's something to look forward to.'"
     sensory-details:
       - "Anna’s handwriting looping playfully across the card in colorful ink."
     ending:
@@ -72,13 +74,15 @@ scenes:
         The positive moment leaves Luke in a lighter mood, setting up a contrast to his upcoming doubts as he reviews Raven’s ad. He walks back inside.
 
   - title: "The Healer’s Decision"
+    scene-hook: >
+      Luke pauses during his morning routine as he hears the soft chime of a System notification, signaling an unexpected opportunity that disrupts his usual rhythm.
     plot-summary: >
       Luke sits at his desk, signaling his readiness to engage with the notification.
       Luke analyzes Raven’s classified ad, grappling with the risks and benefits of partnering with someone so bold. 
       His internal conflict crescendos as memories of loss clash with a growing curiosity and need for stability. 
       Ultimately, Luke decides to accept the ad, stepping into an uncertain but intriguing future.
     events:
-      - "Luke settles at his desk and checks the notification. He brings up the classified ad and reads it."
+      - Luke settles at his desk, his fingers hovering over the System interface as Raven’s classified ad comes into focus, daring him to take a leap he’s hesitant to make.
       - "He scans Raven’s profile, focusing on her impressive stats and success as a solo diver."
       - "He reflects on past losses and his reluctance to form new bonds."
       - "The sight of his guitar reminds him of the balance he craves between responsibility and fulfillment."
@@ -91,7 +95,6 @@ scenes:
       - "Luke’s final decision reflects a mix of practicality, intrigue, and a tentative step toward trust."
     narrative-purpose: >
       Highlight Luke’s internal conflict and motivations, showing his cautious decision-making process and his growing curiosity about Raven’s boldness.
-    pacing:
     sensory-details:
       - "The buzz of the System confirmation vibrating faintly in the quiet room."
       - "The distant memory of his guitar’s strings, tied to moments of solace and purpose."
@@ -101,3 +104,4 @@ scenes:
       ending-style: "Quiet Resolve"
       transition-notes: >
         Luke’s acceptance of the ad ends the chapter with a mix of resolve and uncertainty, setting the stage for his first meeting with Raven in the next chapter.
+      
