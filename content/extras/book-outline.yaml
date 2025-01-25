@@ -208,11 +208,29 @@ acts:
       - chapter: "Felforge Depths"
         perspective: "Raven"
         plot-summary: >
-          Luke and Raven tackle an elemental-themed dungeon, Felforge Depths. Their teamwork is tested in new ways, and Raven’s bold combat style pushes Luke to adapt and take risks. They emerge victorious, and their partnership grows stronger.
+          Luke and Raven begin their dive into Felforge Depths, a long and grueling dungeon filled with intense heat, precarious platforming, and relentless Forge Hounds. As they navigate the oppressive environment, Raven tests her new ability, Shadow Aegis, while Luke carefully manages his resources. The chapter highlights the physical and mental endurance required to make progress and builds tension for the greater challenges that await.
         narrative-purpose: >
-          Highlight their evolving synergy and growing trust as they navigate a dangerous and visually distinct dungeon. Strengthen their emotional bond through shared danger and success.
+          Establish the Felforge Depths as an endurance-based dungeon and emphasize the growing trust and camaraderie between Luke and Raven. Show how even minor mistakes can have major consequences in a long dungeon, and set the stage for the rising difficulty in subsequent chapters.
         relationship-arc: >
-          Raven and Luke’s growing trust is put to the test in a high-stakes dungeon. Subtle moments of mutual admiration begin to surface, though both suppress their deeper emotions.
+          Luke and Raven’s partnership deepens as they work together to manage the grind of the dungeon. Raven’s willingness to test her abilities in real time showcases her boldness, while Luke’s careful planning highlights his steadiness. Subtle moments of humor and teamwork underscore the growing respect and understanding between them.
+
+      - chapter: "Lava's Edge"
+        perspective: "Luke"
+        plot-summary: >
+          After a grueling trek through Felforge Depths, Luke and Raven face the first major obstacle: a narrow causeway guarded by a massive Molten Golem. The battle pushes both of them to their limits, forcing Luke to take risks to keep Raven alive and Raven to demonstrate her bold adaptability. The fight culminates in a tense moment where Raven saves Luke from falling into lava, bringing them face-to-face and deepening their bond.
+        narrative-purpose: >
+          Create a thrilling midpoint by introducing the first major challenge of the dungeon, blending environmental hazards with a high-stakes battle. Highlight the dangers of the Felforge Depths and use the moment of Luke’s near fall to emphasize their growing emotional connection.
+        relationship-arc: >
+          The fight showcases how Luke’s cautious nature and Raven’s boldness can complement each other under pressure. Raven’s quick thinking to save Luke reinforces her protective instincts, while Luke’s willingness to take risks for her safety demonstrates his growing trust and investment in their partnership. The physical proximity after the save adds a charged emotional moment, hinting at the deepening bond between them.
+
+      - chapter: "Infernal Synergy"
+        perspective: "Raven"
+        plot-summary: >
+          Luke and Raven reach the heart of the Felforge Depths and confront the dungeon’s final challenge: the Infernal Forgemaster. The multi-phase fight tests every aspect of their teamwork, culminating in their first synergy ability, Harmonized Aegis, which combines their powers in a visually stunning and symbolic moment of unity. After their hard-fought victory, they are rewarded with a substantial haul of credits and meaningful loot, marked with a special System synergy bonus.
+        narrative-purpose: >
+          Deliver a climactic conclusion to the Felforge Depths dive, showcasing Luke and Raven’s growth as both combat partners and emotional allies. Use the Harmonized Aegis to symbolically and visually highlight their evolving bond. Reward their efforts with loot that carries both practical and thematic significance, and leave a sense of triumph to close the arc of the dungeon.
+        relationship-arc: >
+          The Infernal Forgemaster battle solidifies Luke and Raven’s partnership as they fully embrace their contrasting strengths to achieve victory. The use of Harmonized Aegis symbolizes their growing trust and synergy, while the aftermath provides a moment of shared pride and accomplishment that deepens their emotional connection.
 
       - chapter: "A Gala Invitation"
         perspective: "Luke"
