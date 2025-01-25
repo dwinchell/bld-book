@@ -264,3 +264,21 @@ scenes:
     ending: >
       With their new treasures secured and a significant credit haul in their HUDs, Raven and Luke exchange a glance that says it all: 
       they’ve come out of the Felforge Depths not just as a better team, but as something more.
+
+  - scene: "The Endless Grind"
+    perspective: Raven
+    plot-summary: >
+      After hours of traversing the narrow platforms and facing repeated waves of Forge Hounds, Raven and Luke take a brief pause to catch their breath. The oppressive heat, unrelenting attacks, and taxing platforming have worn on both of them, but they press forward with growing determination. Through weary banter and quiet reflection, they acknowledge the difficulty of the dungeon and the need to conserve energy for what lies ahead.
+    narrative-purpose: >
+      Highlight the physical and mental toll of the dungeon while using dialogue to show the bond growing between Raven and Luke. Foreshadow the shift in difficulty later in the dungeon and reinforce the sense of the dungeon’s endurance-based challenge.
+    events:
+      - "Raven wipes sweat from her face as she crouches on a platform, watching Luke finish healing a minor wound on his arm."
+      - "Luke comments on his dwindling mana reserves, calculating how long he can sustain their pace without running dry."
+      - "Raven quips about the seemingly endless packs of Forge Hounds, teasing Luke about losing count of how many they’ve fought."
+      - "Luke responds with dry humor, acknowledging the monotony but reminding her they need to stay focused."
+      - "They discuss rumors of the dungeon's difficulty ramping up near the end, speculating about what’s ahead while trying to stay optimistic."
+      - "Raven spots another distant pack of Forge Hounds, signaling that their break is over. She cracks her neck, muttering about the grind as they prepare to move."
+    sensory-details:
+      - "The smell of sulfur and charred stone hangs heavy in the air, clinging to their clothes and armor."
+    ending: >
+      Raven rises with a renewed sense of determination, glancing at Luke as they both nod silently. The camera pans to the next set of platforms and the glowing eyes of incoming Forge Hounds as they prepare to keep moving.
