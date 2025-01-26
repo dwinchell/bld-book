@@ -1,0 +1,61 @@
+metadata:
+  type: chapter-outline
+  title: "Family Expectations"
+  file: "chapter-family-expectations.yaml"
+
+plot-summary: >
+  After returning home from the dungeon dive, Raven navigates the dynamic with her parents, Grant and Elaine Blackwood. Conversations at dinner and afterward reveal their pride in her accomplishments but also their subtle expectations for her role in the family’s societal contributions. The upcoming gala becomes a focal point for both family tension and opportunity as Raven decides to bring Luke as her plus one, setting the stage for personal and professional intersections.
+
+narrative-purpose: >
+  Explore Raven’s family dynamics and how their values and expectations weigh on her independence. Highlight her decision to bring Luke to the gala as a turning point, showcasing her growing willingness to include him in her world. Lay the groundwork for future conflict and connection between Raven, her family, and Luke.
+
+relationship-arc:
+  start: >
+    Raven and Luke’s relationship remains grounded in their professional partnership, with Raven keeping her personal and family life separate from him.
+  progression: >
+    Raven’s decision to invite Luke to the gala signals a shift in their dynamic, as she begins to open up her personal world to him. This act reflects her growing trust in him and hints at the potential for a deeper connection beyond their professional collaboration.
+  end: >
+    By the end of the chapter, Raven’s invitation to the gala establishes an emotional turning point, signaling a desire to include Luke in a space that intertwines her personal, professional, and family expectations.
+
+key-emotional-beats:
+  - "Grant’s enthusiastic recounting of Raven’s dive reflects his pride but also the weight of his expectations."
+  - "Elaine’s calculated but supportive remarks reveal the family’s deeper hopes for Raven’s societal role."
+  - "Raven’s decision to bring Luke to the gala marks a step toward bridging her personal and professional lives."
+
+tone:
+  - "Warm and conversational with undercurrents of tension."
+  - "Reflective, with moments of humor and resolve."
+
+scenes:
+  - scene: "A Warm Welcome"
+    perspective: Raven
+    plot-summary: >
+      Raven returns home from her dive into Felforge Depths, heading toward her room in search of a shower. However, she encounters her father in the kitchen, busy preparing dinner. Grant greets her enthusiastically and immediately asks about her dive. Raven shares the key highlights, mentioning her decision to try duoing, a significant change in her usual diving approach. Grant's pride in her accomplishments and his genuine interest in her career shine through as they chat. Though he avoids pressuring her, the undertone of his expectations subtly surfaces, leaving Raven feeling both encouraged and reminded of her own self-imposed goals.
+    ending: >
+      Their conversation wraps up when Grant invites her to join dinner, noting she arrived at the perfect time. Raven nods and excuses herself, continuing on to her room with her thoughts lingering on their exchange.
+
+  - scene: "Shower Reflections"
+    perspective: Raven
+    plot-summary: >
+      Raven steps into the shower, letting the hot water wash away the grime and tension from her dive. As she shampoos her dark hair, her thoughts turn to the looming dinner conversation about the gala. Her parents' pride in her achievements carries subtle expectations about her role in the family’s legacy, leaving her feeling conflicted.
+    ending: >
+      With her hair rinsed clean and her body refreshed, Raven steps out of the shower, wrapping herself in a towel as steam swirls around her. She feels physically renewed but mentally braced for the discussion she knows is coming over dinner.
+
+  - scene: "Dinner with the Blackwoods"
+    perspective: Raven
+    plot-summary: >
+      Raven joins her parents for dinner after her dive, finding Grant enthusiastic about her latest adventure and Elaine poised to bring up the gala. 
+      As Grant tactfully recounts an embellished version of her dive, Elaine transitions the conversation toward the upcoming event. 
+      The topic shifts to a family friend’s attendance, subtly hinting at their hopes for Raven to connect with the Hargraves’ son, whom she has no interest in. 
+      Raven navigates the conversation carefully, masking her irritation and steering the discussion back to safer ground as dinner progresses.
+    ending: >
+      The conversation softens as the family settles into the meal in earnest, the clinking of utensils filling the brief quiet between lighter exchanges. 
+
+
+  - scene: "A Plus One, on One Condition"
+    perspective: Raven
+    plot-summary: >
+      At dinner, Raven impulsively decides to tell her parents she’s bringing a plus one to the gala—her new diving partner. Elaine subtly probes if this partner is romantic, but Raven quickly clarifies it’s strictly professional. Grant enthusiastically envisions the duo impressing donors, while Elaine agrees, provided Raven adheres to the blue and silver dress code. Raven’s too-easy acceptance hints she has a plan to work around the condition.
+    ending: >
+     Raven excuses herself for the evening, but not before Elaine reminds her to confirm the seating arrangements for her plus one by morning. As Raven heads upstairs, she’s already mulling over ways to work within—and around—the gala’s blue and silver theme, the conversation setting the stage for her next steps.
+
