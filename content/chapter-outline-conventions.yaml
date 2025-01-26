@@ -70,11 +70,11 @@ sensory-details-guidance:
       - Are specific and vivid to create a strong impression.
   examples:
     - recommended:
-        - "The hum of conversation and the clink of glasses in the busy tavern."
+        - "The buzz of conversation and the clink of glasses in the busy tavern."
         - "The crisp paper of the gala invitation in Luke’s hands as he turns it over thoughtfully."
     - not-recommended:
-        - "The hum of conversation, the clink of glasses, the smoky air, the faint smell of leather, and the warm glow of the tavern lights." (Too many details for one scene.)
-        - "A generic pleasant smell filled the room." (Too vague to add meaningful depth.)
+        - "The buzz of conversation, the clink of glasses, the smoky air, the faint smell of leather, and the warm glow of the tavern lights." # (Too many details for one scene.)
+        - "A generic pleasant smell filled the room." # (Too vague to add meaningful depth.)
 
 usage:
   - When referring to the entire YAML file: Use "chapter outline."
