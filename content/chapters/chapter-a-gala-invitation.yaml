@@ -98,18 +98,16 @@ scenes:
 
   - scene: "Shopping for a Tuxedo"
     perspective: Raven
+    narrative-purpose:
     plot-summary: >
       The next day, Raven drags Luke to a men’s clothing store to outfit him for the gala. The scene is filled with humor as Luke struggles with the idea of formalwear, while Raven’s playful teasing keeps the mood light. Amidst the laughter, subtle moments of connection deepen their bond.    narrative-purpose: >
       Add a lighthearted and intimate moment that contrasts with the tension of dungeon dives. Highlight Raven’s boldness and Luke’s quiet vulnerability, while showing how their contrasting personalities complement each other.
+    scene-hook: >
+      Raven drags a reluctant Luke into a high end men's clothing store
     events:
       - "Raven pulls Luke into a high-end men’s store, immediately taking charge of the selection process."
       - "Luke fidgets awkwardly in the fitting room as Raven insists on finding the perfect tuxedo."
       - "Raven teases Luke about his lack of fashion sense, making him laugh despite himself."
       - "A brief, sincere moment occurs as Raven adjusts Luke’s tie, catching him off guard."
-    sensory-details:
-      - "The soft rustle of expensive fabrics as Raven browses racks of tuxedos."
-      - "Luke’s reflection in the mirror, looking both sharp and uncomfortable in the tailored suit."
-    scene-hook: >
-      Raven drags a reluctant Luke into a high end men's clothing store
     ending: >
       Luke leaves the store with a new tuxedo, feeling a mix of amusement and apprehension about the gala, while Raven’s confidence in him leaves a lasting impression.
