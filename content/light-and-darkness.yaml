@@ -1,0 +1,40 @@
+file: light-and-darkness.yaml
+description: >
+  A central reference for the thematic and narrative role of light and darkness in
+  *Bound in Light and Darkness*. This file consolidates its symbolic meaning,
+  narrative function, and implementation across characters, relationships, and dungeons.
+
+themes:
+  description: >
+    Light and darkness symbolize Raven and Luke’s contrasting personalities and evolving relationship.
+    - Light represents: Healing, safety, unity, caution.
+    - Darkness represents: Independence, adaptability, mystery, boldness.
+    Together, they evolve from discord to harmony, symbolizing trust and synergy.
+
+usage:
+  - "Character design: Reflects in Raven's shadowy class and Luke's radiant class."
+  - "Dungeon environments: Contrasts between blinding light and oppressive shadows mirror character dynamics."
+  - "Abilities: Harmonized Aegis combines light and shadow, visually symbolizing their partnership."
+  - "Relationship arc: Early discord transitions into complementary teamwork, culminating in emotional and combat synergy."
+
+integration:
+  narrative:
+    - "Dungeons frequently feature challenges that force light and darkness to work together (e.g., Radiant Spire)."
+    - "Symbolism evolves to reflect the characters’ trust and growing emotional connection."
+  visual:
+    - "Light and shadow interact dynamically in battles, creating vivid, thematic backdrops."
+    - "Their pendants, Sunrise (Luke) and Moonrise (Raven), reinforce their balance and unity."
+  progression:
+    - act-1: >
+        Light and shadow clash, mirroring Raven and Luke’s initial friction and opposing styles.
+    - act-2: >
+        Early moments of harmony emerge as trust builds, and light and shadow begin to complement each other.
+    - act-3: >
+        Light and shadow merge seamlessly, symbolizing their emotional and professional unity.
+
+guidelines-for-use:
+  - "Weave visual motifs of light and darkness into action scenes, dialogue, and introspection."
+  - "Highlight moments when light and darkness visually or thematically transition from discord to harmony."
+  - "Use light and darkness to amplify character growth or emotional tension in key scenes."
+  - "Avoid overuse—keep the motif impactful by reserving it for significant moments."
+
