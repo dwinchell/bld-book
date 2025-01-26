@@ -52,16 +52,6 @@ luke:
       - "Acts as a stabilizing presence for Raven, whose bold and aggressive style benefits from his deliberate, grounding influence."
       - "Reflects themes of light overcoming darkness and safety in chaos, mirroring his evolving partnership with Raven."
 
-    recurring-motifs:
-      - light-and-darkness:
-          symbolism: >
-            The Dawnbringer’s radiant abilities symbolize healing, unity, and safety. His connection to light mirrors
-            his desire to protect and nurture, while his synergy with Raven’s shadow-infused powers reflects their growing trust and harmony.
-          abilities-connection:
-            - "Beacon of Judgement enhances Raven’s aggressive strikes, symbolizing their mutual amplification in battle."
-            - "Sanctuary of Light represents Luke’s protective instincts, offering a calm center in the chaos of combat."
-            - "Radiant Wall serves as a literal and symbolic barrier, demonstrating his proactive approach to shielding his allies."
-
     balance-considerations:
       strengths:
         - Capable of powerful burst healing, making him invaluable during moments of crisis.
@@ -275,3 +265,34 @@ taunting:
         her shadowy aura flaring. The boss, enraged, focuses entirely on her, giving Luke precious seconds to heal and set up a Blazing Circle.
       narrative-role: >
         This emphasizes Raven’s ability to outwit powerful enemies, turning their aggression into a tactical advantage for the team.
+
+combat:
+  recurring-motifs:
+    - light-and-darkness:
+        reference: "light-and-darkness.yaml"
+        description: >
+          This motif symbolizes the contrasting and complementary nature of Luke and Raven’s abilities and personalities.
+          - Light represents healing, unity, and safety (Luke).
+          - Darkness represents adaptability, independence, and boldness (Raven).
+        combat-integration:
+          - "Light and shadow abilities dynamically complement each other in combat."
+          - "Abilities like Beacon of Judgement and Sanctuary of Light highlight their synergy, with light amplifying Raven’s aggression and darkness protecting Luke’s position."
+          - "Radiant Wall symbolizes Luke’s protective instincts, mirroring his emotional role as Raven’s stabilizing partner."
+
+classes:
+  list:
+    - name: "Night Dancer"
+      summary: >
+        An agile, shadow-infused tank who generates Flow through precision and deliberate actions.
+      reference: "class-overview sections in character-raven.yaml"
+    - name: "Dawnbringer"
+      summary: >
+        A light-based healer specializing in high-output, reactive healing and protective magic.
+      reference: "class-overview sections in character-luke.yaml"
+recurring-motifs-in-combat:
+  - name: "Light and Darkness"
+    symbolism: >
+      This motif symbolizes the inherent duality between Raven and Luke. It is reinforced through their classes:
+      Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
+      The motif is central to the aesthetic and emotional tone of their dungeon dives.
+    reference: light-and-darkness.yaml

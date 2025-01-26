@@ -105,32 +105,6 @@ cultural-symbolism:
     - "Guild banners and names often draw from light and shadow imagery, reflecting their values or strategy."
     - "Diver initiation ceremonies sometimes feature symbolic tests in light or shadow environments, emphasizing adaptability or resilience."
 
-mechanics:
-  classes:
-    list:
-      - name: "Night Dancer"
-        summary: >
-          An agile, shadow-infused tank who generates Flow through precision and deliberate actions.
-        details-file: "classes/night_dancer.yaml"
-      - name: "Dawnbringer"
-        summary: >
-          A light-based healer specializing in high-output, reactive healing and protective magic.
-        details-file: "classes/dawnbringer.yaml"
-    recurring-motifs:
-      - name: "Light and Darkness"
-        symbolism: >
-          This motif symbolizes the inherent duality between Raven and Luke. It is reinforced through their classes:
-          Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
-          The motif is central to the aesthetic and emotional tone of their dungeon dives.
-          Reference: See "Recurring Motifs" under Themes, Narrative Guide.
-        progression: >
-          Early dungeon dives highlight their clashing styles: Raven’s shadows obscure Luke’s light, and his protective 
-          tendencies limit her bold maneuvers. Over time, they learn to complement each other, with light and shadow working 
-          together seamlessly. In the final dungeon, synchronized light and shadow abilities visually symbolize their mutual trust.
-        visual-details:
-          - "Dungeon environments frequently juxtapose areas of intense light and shadow, creating symbolic backdrops for their partnership."
-          - "Gear and abilities reflect the motif, with Raven’s dark armor and shadow-infused abilities contrasting Luke’s paladin gear and radiant light magic."
-
 settings:
   name: "The Warden's Rest"
   description: >
