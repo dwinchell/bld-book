@@ -1,0 +1,89 @@
+metadata:
+  type: convention-document
+  title: "Chapter Outline Conventions"
+  file: "chapter-outline-conventions.yaml"
+
+purpose: >
+  This document defines conventions for referring to parts of chapter outline files during the drafting workflow.
+  The goal is to streamline communication and ensure clarity when discussing or updating different parts of the files.
+
+definitions:
+  chapter-outline: >
+    The entire YAML file containing all details about a single chapter. It includes chapter-level fields, 
+    scene outlines, and any additional fields relevant to drafting the chapter.
+
+  chapter-headers: >
+    The collection of fields at the chapter level, which describe the overall structure, purpose, and goals of the chapter.
+    These include:
+      - `metadata`: Organizational details such as file type, chapter title, and filename.
+      - `plot-summary`: A high-level overview of the chapter’s events and outcomes.
+      - `narrative-purpose`: The chapter’s role in advancing the story and themes.
+      - `relationship-progression`: Details tracking the evolution of the protagonists' relationship throughout the chapter.
+      - `key-emotional-beats`: Major emotional moments or turning points in the chapter.
+
+  scene-outlines: >
+    The individual scene items within a chapter outline. Each scene outline describes a specific moment in the chapter and contains the following fields:
+      - `scene`: A short title summarizing the focus of the scene.
+      - `perspective`: The POV character for the scene.
+      - `plot-summary`: A brief overview of what happens in the scene.
+      - `narrative-purpose`: The role the scene plays in the chapter or story.
+      - `events`: A list of key actions or developments within the scene.
+      - `sensory-details`: One or two sensory elements (e.g., sights, sounds, smells) that enhance the scene’s tone or purpose. 
+                          These should be specific, vivid, and contribute meaningfully to immersion.
+      - `scene-hook`: How the scene begins to engage the reader or set up its purpose.
+      - `ending`: How the scene concludes, whether through resolution, transition, or open-ended tension.
+
+  fields: >
+    Each individual element within a chapter header or scene outline is referred to as a **field**. 
+    Fields provide specific details or instructions for drafting. Examples of fields include:
+      - In chapter headers: `plot-summary`, `narrative-purpose`, and `key-emotional-beats`.
+      - In scene outlines: `events`, `plot-summary`, `sensory-details`, and `ending`.
+
+examples:
+  - chapter-outline:
+      description: >
+        "A Gala Invitation" is a chapter outline containing all information about this chapter, including chapter headers 
+        and multiple scene outlines. The file is saved as `chapter-a-gala-invitation.yaml`.
+  - chapter-headers:
+      description: >
+        In the same chapter outline, fields like `plot-summary`, `narrative-purpose`, and `key-emotional-beats` are part of the chapter headers.
+  - scene-outlines:
+      description: >
+        The scene titled "Shopping for a Tuxedo" is a scene outline within the chapter outline. Its fields, such as `plot-summary` 
+        and `events`, describe the content and purpose of this specific scene.
+  - fields:
+      description: >
+        Fields refer to the individual components of both chapter headers and scene outlines. For example:
+          - `plot-summary` is a field in both the chapter headers and each scene outline.
+          - `events` is a field in scene outlines and lists key actions within the scene.
+          - `sensory-details` is a field that should include only one or two carefully chosen sensory elements that enrich the scene without overwhelming it.
+
+sensory-details-guidance:
+  purpose: >
+    The `sensory-details` field exists to enhance immersion and set the tone for a scene. By including sensory elements 
+    such as sights, sounds, smells, or textures, this field helps convey the mood and atmosphere effectively.
+  conventions:
+    - Include only one or two sensory details per scene to maintain focus and avoid overloading the outline.
+    - Choose sensory details that:
+      - Reflect the scene’s tone or emotional impact.
+      - Add depth to the setting or action without distracting from the primary events.
+      - Are specific and vivid to create a strong impression.
+  examples:
+    - recommended:
+        - "The hum of conversation and the clink of glasses in the busy tavern."
+        - "The crisp paper of the gala invitation in Luke’s hands as he turns it over thoughtfully."
+    - not-recommended:
+        - "The hum of conversation, the clink of glasses, the smoky air, the faint smell of leather, and the warm glow of the tavern lights." (Too many details for one scene.)
+        - "A generic pleasant smell filled the room." (Too vague to add meaningful depth.)
+
+usage:
+  - When referring to the entire YAML file: Use "chapter outline."
+  - When discussing chapter-level fields: Use "chapter headers."
+  - When referring to a specific scene within the chapter: Use "scene outline."
+  - When referring to an individual element within a chapter header or scene outline: Use "field" (e.g., the `plot-summary` field or the `events` field).
+
+notes:
+  - These conventions are designed to simplify collaboration and minimize confusion when discussing different parts of the workflow.
+  - For new chapter outlines, follow the structure outlined in `chapter-outline-template.yaml`.
+  - For consistency, refer to specific fields by their exact names (e.g., `plot-summary`, `narrative-purpose`) to avoid ambiguity.
+  - Keep the `sensory-details` field concise and purposeful, ensuring it serves the narrative and tonal goals of the scene.

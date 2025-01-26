@@ -1,0 +1,42 @@
+# This file is a chapter outline used during the drafting workflow. It contains chapter-level details 
+# (headers) and individual scene outlines, including key fields for structuring the chapter’s events, 
+# emotional beats, and relationship progression. Each field should be concise and focused, with sensory 
+# details limited to one or two elements per scene.
+
+metadata:
+  type: chapter-outline # File type, always 'chapter-outline'.
+  title: [Chapter Title] # The title of the chapter.
+  file: [Filename] # Name of the YAML file for this chapter.
+
+plot-summary: >
+  [A high-level summary of the chapter’s events and outcomes, focusing on the key narrative developments.]
+
+narrative-purpose: >
+  [Describe what this chapter accomplishes in the story. Does it develop the plot, deepen character relationships, explore a theme, or prepare for future events?]
+
+relationship-progression:
+  start: >
+    [Describe the protagonists’ relationship state at the beginning of the chapter.]
+  key-moments:
+    - [List significant moments in the chapter that illustrate the relationship’s growth or conflict.]
+  end: >
+    [Describe the relationship state at the end of the chapter.]
+
+key-emotional-beats:
+  - [List the chapter’s major emotional moments or turning points. Focus on interactions or reflections that resonate emotionally with the characters or reader.]
+
+scenes:
+  - scene: [Scene Title] # A short, descriptive title for the scene.
+    perspective: [Protagonist's Name] # The POV character for the scene.
+    plot-summary: >
+      [A brief overview of what happens in the scene.]
+    narrative-purpose: >
+      [Explain the scene’s purpose within the chapter—advancing the plot, deepening relationships, providing reflection, etc.]
+    events:
+      - [List key actions or developments within the scene.]
+    sensory-details:
+      - [Include one or two carefully chosen sensory elements (e.g., sights, sounds, smells) that enhance the scene’s tone or purpose. Avoid listing more than two.]
+    scene-hook: >
+      [Describe how the scene starts in a way that engages the reader or sets up its purpose.]
+    ending: >
+      [Summarize how the scene concludes, whether through resolution, transition, or open-ended tension.]
