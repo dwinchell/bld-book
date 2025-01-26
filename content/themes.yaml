@@ -1,0 +1,78 @@
+file: themes.yaml
+
+purpose: >
+  The themes and the central relationship between Raven and Luke are deeply interconnected. The relationship
+  serves as the primary vehicle for exploring the themes, while the themes guide the structure and progression
+  of their bond. This file defines the story’s themes, showing how they shape and are shaped by the characters’
+  external challenges, internal growth, and interpersonal conflicts. By integrating themes and relationships,
+  the narrative achieves emotional depth and resonance.
+
+sections:
+  - list-of-themes
+  - theme-implementation
+
+list-of-themes:
+  # This section lists the themes, each with a concise definition and narrative relevance.
+  - name: "The Power of Partnership"
+    definition: >
+      The idea that true strength comes from trust, collaboration, and shared growth. This theme
+      explores how partnerships allow individuals to overcome challenges that would be insurmountable
+      alone, while also addressing internal fears and vulnerabilities.
+    relevance: >
+      This is the central theme driving the story, reflected in the relationship between Luke and Raven,
+      their teamwork in the dungeon, and their personal growth through mutual support.
+
+  - name: "Independence vs. Interdependence"
+    definition: >
+      The tension between self-reliance and relying on others for support. This theme explores
+      how individuals balance their desire for autonomy with the need for meaningful connections and
+      collaboration.
+    relevance: >
+      This theme is personified by the contrasting personalities of Raven (fiercely independent) and
+      Luke (focused on interdependence), and their journey toward finding a balance between the two.
+
+  - name: "Trust and Vulnerability"
+    definition: >
+      The idea that building trust requires opening up and embracing vulnerability, even in the face
+      of fear or past trauma. This theme emphasizes the emotional risks and rewards of forming close bonds.
+    relevance: >
+      This theme is at the heart of the protagonists' relationship arc, as Luke and Raven must confront their fears of attachment
+      and reliance on others to build a deep, lasting connection.
+
+theme-implementation:
+  # This section describes how each theme is incorporated into the story, with details on external, internal, and interpersonal conflicts.
+  - theme: "The Power of Partnership"
+    external-conflict: >
+      Luke and Raven’s ability to survive and succeed in dungeons hinges on their combat synergy and mutual reliance.
+      Key moments, such as using Harmonized Aegis during the Infernal Forgemaster fight, symbolize how their partnership
+      allows them to achieve feats neither could accomplish alone.
+    internal-conflict: >
+      Both characters’ internal struggles—Luke’s fear of attachment and Raven’s fear of vulnerability—are challenged
+      and ultimately resolved through their growing partnership. Their ability to trust and rely on each other leads to
+      personal growth and healing.
+    interpersonal-conflict: >
+      Raven’s family expectations create tension as she navigates her desire for independence versus her parents’ values.
+      Luke’s support helps her reconcile these conflicts, demonstrating how their partnership extends beyond the dungeon.
+
+  - theme: "Independence vs. Interdependence"
+    external-conflict: >
+      Luke’s careful planning and Raven’s bold improvisation initially clash, creating friction in their dungeon teamwork.
+      Over time, their contrasting styles evolve into complementary strengths, demonstrating the value of interdependence.
+    internal-conflict: >
+      Raven’s struggle to prove her independence and Luke’s preference for collaboration highlight the tension between these
+      perspectives. Their journey together reveals that strength lies in balancing autonomy with reliance on trusted partners.
+    interpersonal-conflict: >
+      Raven’s evolving relationship with her parents mirrors her internal conflict, as she learns to value interdependence
+      while asserting her individuality. Luke’s influence helps her navigate this balance.
+
+  - theme: "Trust and Vulnerability"
+    external-conflict: >
+      Dungeon trials force Luke and Raven to trust each other implicitly, such as during high-stakes moments
+      where their lives depend on each other’s abilities and decisions.
+    internal-conflict: >
+      Luke’s fear of attachment and Raven’s reluctance to rely on others are confronted as they grow closer.
+      Quiet moments of reflection and shared vulnerability allow them to overcome these fears and build trust.
+    interpersonal-conflict: >
+      Their evolving bond requires both characters to embrace emotional risks, such as confiding in each other
+      about their pasts and opening up about their fears, creating deeper emotional intimacy.
+
