@@ -1,0 +1,96 @@
+file: relationship-arc.yaml
+file-purpose: Explain the relationship arc between the two protagonists, who are Raven and Luke.
+
+narrative-purpose: The book is a romance, so the relationship between the two protagonists, Raven and Luke, drives the entire book, decides the narrative structure, and underpins the narrative purpose of every elements.
+
+goals:
+  - Ensure the relationship is portrayed as based on trust, mutual respect, and mutual attraction.
+  - Ensure both characters are fully rounded and neither is fully defined by their relationship.
+  - Ensure the relationship is balanced
+  - Ensure the relationship ends up in a state where they collaborate. Neither one the leader inside or outside the dungeon.
+  - Ensure neither character is oversexualized
+  - Balance physical descriptions of the two characters.
+
+overall-relationship-arc:  
+  stages:
+    start: >
+      Strangers with clashing personalities and fears, struggling to find common ground in their approaches to diving.
+    middle: >
+      Tentative trust forms as shared experiences reveal their strengths and vulnerabilities, deepening their connection.
+    end: >
+      Lovers whose emotional bond underpins their seamless teamwork, symbolizing their growth as individuals and as partners.
+  internal:
+    - "Luke’s fear of attachment hinders his ability to open up to Raven."
+    - "Raven struggles with her fear of reliance and trust."
+  interpersonal:
+    - "Their contrasting diving styles (Luke’s caution vs. Raven’s recklessness) create friction, forcing each to confront their internal fears: Luke’s fear of losing others and Raven’s fear of dependence."
+    - "Everyday interactions reveal their growing comfort and trust, such as moments of casual banter or shared vulnerability."
+    - "Over time, shared challenges foster trust, mutual admiration, and romantic tension."
+  external:
+    - "The dungeon’s life-threatening challenges force them to work together."
+    - "External events, like the charity gala, create moments of personal and relational growth."
+  elements:
+    nickname: >
+      Raven sarcastically calls Luke "Sunshine" early on, poking fun at his overly cautious and steady demeanor. 
+      Over time, the nickname evolves into a genuine term of endearment, reflecting their growing bond and Raven's shifting perception of Luke. 
+      The nickname serves as a symbol of their relationship progression, from initial friction to deep trust and affection.
+
+ravens-relationship-with-luke:
+  purpose: Describe the relationship arc as it affects Raven's character and her perspective
+  start: >
+    Raven’s bold, risk-taking nature often clashes with Luke’s cautious, measured approach. She sees his deliberation
+    as overly rigid and frustrating, while he views her independence as reckless. Initially, she resists his attempts to
+    impose structure on their teamwork, preferring to act on instinct rather than collaborate closely.
+  evolution: >
+    Over time, Raven begins to appreciate Luke’s strategic mindset and his ability to create stability in the chaos of battle.
+    Their combat synergy develops as she learns to trust his tactical decisions, such as relying on his zones and barriers
+    to create openings for her aggressive playstyle. Outside the dungeon, their dynamic softens as Luke’s calm, nurturing
+    personality provides a counterbalance to Raven’s intensity. Through quiet moments of reflection, playful banter,
+    and shared struggles, Raven discovers the value of having someone she can truly rely on. She encourages Luke to take
+    more risks and embrace the thrill of the moment, pushing him to step outside his comfort zone, while he helps her
+    understand the strength found in planning and interdependence.
+  resolution: >
+    By the end of the story, Raven and Luke’s relationship embodies a harmony of opposites. Raven’s boldness inspires Luke
+    to take initiative and trust his instincts, while Luke’s grounded presence helps Raven temper her recklessness and see
+    the value of collaboration. Their mutual growth results in a partnership that thrives on trust, respect, and an intimate
+    understanding of each other’s strengths, both in combat and in life.
+  key-contributions-of-raven:
+    - "Raven’s fearless and decisive nature inspires Luke to embrace risk and break away from his overly cautious tendencies."
+    - "Her ability to adapt quickly in chaotic situations teaches Luke the importance of flexibility and intuition."
+    - "Raven’s playful, bold personality draws Luke out of his shell, helping him experience life beyond duty and responsibility."
+    - "Her struggles with vulnerability mirror Luke’s own fears, allowing them to bond and grow through mutual understanding."
+
+lukes_relationship_with_raven:
+  purpose: Describe the relationship arc as it affects Luke's character and his perspective
+  start: >
+    Luke’s cautious, interdependence-focused approach contrasts sharply with Raven’s fiercely independent, risk-taking nature. 
+    Their initial interactions are marked by friction, as Raven dismisses Luke’s methodical caution as overly rigid, 
+    while Luke sees her boldness as reckless and dangerous.
+  evolution: >
+    As they face increasingly challenging battles, their synergy in combat deepens, with moments like the discovery of 
+    Harmonized Aegis symbolizing their growing ability to trust and rely on one another. Luke learns to appreciate Raven’s 
+    bold instincts, recognizing the value of her quick decision-making in chaotic situations, while Raven begins to understand 
+    and respect Luke’s deliberate, stabilizing presence. Beyond the dungeon, their relationship evolves through shared moments 
+    of vulnerability and connection, such as Luke teaching Raven guitar as a way to channel her restless energy, or Raven 
+    encouraging Luke to step out of his comfort zone by exploring more of the world around them. These interactions further 
+    dismantle their initial walls, allowing their emotional bond to grow as much as their combat partnership.
+  resolution: >
+    By the end of the story, Luke and Raven achieve a partnership that blends boldness and stability, light and shadow, 
+    into a cohesive whole. Their combat synergy, exemplified by abilities like Harmonized Aegis, reflects their personal 
+    relationship, where trust, interdependence, and understanding allow them to support and elevate one another. This growth 
+    culminates in a deep emotional connection, where they each find strength not just in their own abilities, but in the 
+    unwavering support of the other.
+  key-contributions-of-luke:
+    emotional-growth:
+      - "Luke’s life experience with his sister gives him unique insight into the value of interdependence, helping Raven 
+        see the strength in relying on others."
+      - "Luke’s willingness to share his own vulnerabilities encourages Raven to confront her own fears of trust and loss, 
+        fostering deeper emotional intimacy."
+      - "Raven’s courage and decisiveness challenge Luke to push beyond his cautious nature, helping him embrace the necessity 
+        of bold action both in combat and in life."
+    combat-growth:
+      - "Luke’s tactical planning and protective abilities create openings for Raven’s high-risk, high-reward style to shine."
+      - "Raven’s aggressive disruption and threat generation give Luke the space to focus on healing and area control, showcasing 
+        their complementary strengths."
+      - "Synergy abilities like Harmonized Aegis serve as a physical and symbolic representation of their trust, blending their 
+        light and shadow into a unified force."

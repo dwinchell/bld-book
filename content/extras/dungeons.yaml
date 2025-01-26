@@ -1,7 +1,7 @@
 file: dungeons.yaml
 description: "Descriptions of specific dungeons"
 
-key-dungeons:
+dungeons:
   - name: "The Shadow Warrens"
     references:
     - chapter-first-impressions.yaml

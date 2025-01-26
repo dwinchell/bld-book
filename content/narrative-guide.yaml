@@ -6,28 +6,28 @@ basic-information:
   short-title: "BLD"
   point-of-view: Third Person Limited
 
-story-foundation:
-  themes:
-    list-of-themes:
-      - "Trust and vulnerability in relationships."
-      - "The pursuit of meaning and self-discovery."
-      - "Balancing independence and interdependence."
-      - "Growth through contrasting perspectives."
-  recurring-motifs:
-    light-and-darkness:
-      description: >
-          Light and darkness symbolize Raven and Luke's contrasting personalities, classes, and mutual growth.
-          The motif evolves alongside their relationship, starting as a point of tension (recklessness vs. caution)
-          and becoming a representation of their synergy and trust.
-          Reference: See "Light and Darkness" in Mechanics: Classes and Story Elements, Story Bible.
-      usage:
-        - "Raven’s Night Dancer class thrives in shadows, reflecting her desire for independence and avoidance of vulnerability."
-        - "Luke’s Dawnbringer class embodies his cautious, protective nature, symbolized by healing light."
-        - "As they grow closer, moments of literal light and shadow in dungeons mirror their developing partnership."
-        - "Progression: Early tension in their clashing styles is symbolized by discordant light and shadow in their dives.
-          By the climax, light and shadow work together in harmony, visually reinforcing their bond."
-    key-elements:
-      - "Raven’s room in her parents’ house serves as a physical representation of her internal conflict—her independence clashes with the familial expectations she lives under."
+themes:
+  list-of-themes:
+    - "Trust and vulnerability in relationships."
+    - "The pursuit of meaning and self-discovery."
+    - "Balancing independence and interdependence."
+    - "Growth through contrasting perspectives."
+
+recurring-motifs:
+  light-and-darkness:
+    description: >
+        Light and darkness symbolize Raven and Luke's contrasting personalities, classes, and mutual growth.
+        The motif evolves alongside their relationship, starting as a point of tension (recklessness vs. caution)
+        and becoming a representation of their synergy and trust.
+        Reference: See "Light and Darkness" in Mechanics: Classes and Story Elements, Story Bible.
+    usage:
+      - "Raven’s Night Dancer class thrives in shadows, reflecting her desire for independence and avoidance of vulnerability."
+      - "Luke’s Dawnbringer class embodies his cautious, protective nature, symbolized by healing light."
+      - "As they grow closer, moments of literal light and shadow in dungeons mirror their developing partnership."
+      - "Progression: Early tension in their clashing styles is symbolized by discordant light and shadow in their dives.
+        By the climax, light and shadow work together in harmony, visually reinforcing their bond."
+  key-elements:
+    - "Raven’s room in her parents’ house serves as a physical representation of her internal conflict—her independence clashes with the familial expectations she lives under."
 
   goals:
     narrative-goals:
@@ -84,55 +84,6 @@ narrative-structure:
       - "To deepen emotional engagement by immersing the reader in the thoughts and feelings of each character."
       - "To highlight contrasting worldviews and how they complement each other over the course of the story."
 
-  acts:
-    - name: "Act 1: Setup"
-      purpose: >
-        Introduce the protagonists, their individual struggles, and the central theme of trust and vulnerability.
-      key-events:
-        - description: "Raven and Luke meet through a System classified ad."
-          references:
-            - "system.yaml_mechanics_'classified-ads'"
-        - description: "Their contrasting personalities and combat styles create tension and friction."
-          references:
-            - "character-sheets.yaml_class_'Night Dancer'"
-            - "character-sheets.yaml_class_'Dawnbringer'"
-        - description: "Early stakes: Raven’s recklessness and Luke’s over-caution clash, setting the stage for their growth."
-          references:
-            - "combat-dynamics.yaml_conflict_'recklessness-vs-caution'"
-      key-emotional-beats:
-        - "Raven reflects on her fear of mediocrity and her longing for meaning."
-        - "Luke struggles with the pressure of supporting his family and his fear of attachment."
-        - "A near-death experience forces Raven and Luke to open up to each other."
-        - "A shared victory cements their trust and romantic connection."
-
-    - name: "Act 2: Conflict and Growth"
-      purpose: >
-        Develop their partnership as they face external challenges and internal conflicts, leading to mutual growth.
-      key-events:
-        - description: "A dangerous dungeon dive forces them to rely on each other."
-          reference: "dungeons.yaml_dungeon_'The Shadowed Warrens'"
-        - description: "Personal setbacks highlight their flaws: Raven’s independence hinders teamwork, and Luke’s fear of loss creates hesitation."
-        - description: "Bonding moments deepen their connection, building trust and romantic tension."
-      key-emotional-beats:
-        - "A near-death experience forces Raven and Luke to open up to each other."
-
-    - name: "Act 3: Resolution"
-      purpose: >
-        Resolve their conflicts, showing how their partnership allows them to overcome challenges and grow as individuals.
-      key-events:
-        - description: "A climactic dungeon dive tests their teamwork and trust."
-          reference: "dungeons.yaml_mechanics_'Mortality Rate'"
-        - description: "Luke risks everything to save Raven, overcoming his fear of loss."
-        - description: "Raven embraces vulnerability, realizing the strength in relying on others."
-        - description: "They emerge victorious, solidifying their bond and future as partners."
-      key-emotional-beats:
-        - "A shared victory cements their trust and romantic connection."
-
-  resolution-guidance:
-    - "Ensure the final dungeon dive symbolizes both their emotional and relational growth."
-    - "Show how resolving their internal conflicts allows them to succeed as a team."
-    - "Leave room for ongoing personal growth while cementing their romantic partnership."
-
 scene-construction:
   tips:
     general:
@@ -147,180 +98,86 @@ scene-construction:
     scene-endings:
       - "Reference: scene-endings in drafting-guidance.yaml"
 
-narrative-dynamics:
-  subplots:
-    - name: "Raven's Family Expectations"
-      description: >
-        Raven’s parents, Elaine and Grant Blackwood, represent a source of both support and tension in her life. 
-        Their belief in "noblesse oblige" drives their expectation that Raven will use her talents to build a legacy that contributes meaningfully to society.
-        This subplot explores the balance between their encouragement and the pressure Raven feels to align with their vision.
-      narrative-purpose: >
-        The subplot highlights the contrast between Raven’s pursuit of independence and her family’s values of legacy and societal contribution.
-        It deepens Raven’s character arc by forcing her to reconcile her desire for freedom with her parents’ ideals, shaping her growth and decisions.
-      key-elements:
-        - "Elaine’s guidance often pushes Raven to think long-term and consider collaboration, even when it clashes with her rebellious instincts."
-        - "Grant’s practical advice reflects his belief in ambition tempered by strategy, offering Raven a different perspective on success."
-        - "Family gatherings, like the charity gala for the families of fallen divers, create moments of tension and reflection, challenging Raven’s views on responsibility."
-      progression:
-        act-1:
-          - "Introduce Elaine and Grant Blackwood as supportive yet assertive figures in Raven’s life."
-          - "Elaine reminds Raven about the importance of societal contribution, setting the tone for their dynamic."
-          - "Raven reflects on the conflict between their expectations and her personal goals after placing the classified ad."
-        act-2:
-          - "The Blackwood Charitable Foundation's charity gala becomes a key setting where Raven feels the weight of their expectations."
-          - "Grant advises Raven to balance her ambitions with strategic partnerships, subtly referencing her classified ad."
-          - "Raven begins to see glimpses of alignment between her parents’ ideals and her own goals but remains resistant to fully embracing their vision."
-        act-3:
-          - "A major success in Raven’s diving career allows her to approach her parents with renewed confidence and autonomy."
-          - "Raven reconciles with her family, finding a way to honor their values without compromising her independence."
-          - "Elaine and Grant express pride in Raven’s growth, marking a turning point in their relationship."
-      themes:
-        - "Balancing independence and interdependence"
-        - "The tension between legacy and personal freedom"
-        - "Intergenerational relationships and understanding"
+subplots:
+  - name: "Raven's Family Expectations"
+    description: >
+      Raven’s parents, Elaine and Grant Blackwood, represent a source of both support and tension in her life. 
+      Their belief in "noblesse oblige" drives their expectation that Raven will use her talents to build a legacy that contributes meaningfully to society.
+      This subplot explores the balance between their encouragement and the pressure Raven feels to align with their vision.
+    narrative-purpose: >
+      The subplot highlights the contrast between Raven’s pursuit of independence and her family’s values of legacy and societal contribution.
+      It deepens Raven’s character arc by forcing her to reconcile her desire for freedom with her parents’ ideals, shaping her growth and decisions.
+    key-elements:
+      - "Elaine’s guidance often pushes Raven to think long-term and consider collaboration, even when it clashes with her rebellious instincts."
+      - "Grant’s practical advice reflects his belief in ambition tempered by strategy, offering Raven a different perspective on success."
+      - "Family gatherings, like the charity gala for the families of fallen divers, create moments of tension and reflection, challenging Raven’s views on responsibility."
+    progression:
+      act-1:
+        - "Introduce Elaine and Grant Blackwood as supportive yet assertive figures in Raven’s life."
+        - "Elaine reminds Raven about the importance of societal contribution, setting the tone for their dynamic."
+        - "Raven reflects on the conflict between their expectations and her personal goals after placing the classified ad."
+      act-2:
+        - "The Blackwood Charitable Foundation's charity gala becomes a key setting where Raven feels the weight of their expectations."
+        - "Grant advises Raven to balance her ambitions with strategic partnerships, subtly referencing her classified ad."
+        - "Raven begins to see glimpses of alignment between her parents’ ideals and her own goals but remains resistant to fully embracing their vision."
+      act-3:
+        - "A major success in Raven’s diving career allows her to approach her parents with renewed confidence and autonomy."
+        - "Raven reconciles with her family, finding a way to honor their values without compromising her independence."
+        - "Elaine and Grant express pride in Raven’s growth, marking a turning point in their relationship."
+    themes:
+      - "Balancing independence and interdependence"
+      - "The tension between legacy and personal freedom"
+      - "Intergenerational relationships and understanding"
 
-    - name: "Luke’s Fear of Attachment"
+  - name: "Luke’s Fear of Attachment"
+    description: >
+      Luke struggles with a deep fear of loss, stemming from his parents’ death and his sense of responsibility for his sister.
+      His reluctance to form close bonds is challenged as he partners with Raven.
+    drafting-objectives:
+      - "Show Luke’s fear of attachment through his cautious decisions and emotional distance."
+      - "Use Raven’s boldness and trust-building moments to challenge Luke’s emotional walls."
+      - "Illustrate Luke’s growth as he embraces vulnerability and learns to trust Raven as a partner."
+    progression:
+      act-1:
+        - description: "Introduce Luke’s fear of attachment through his cautious approach to diving and guarded interactions with Raven."
+          reference: "timeline.yaml_event_'2011'"
+        - description: "Establish the emotional burden of his responsibility for his sister as a key motivator for his reluctance to trust others."
+      act-2:
+        - description: "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
+        - description: "Raven’s willingness to trust Luke challenges him to reciprocate and open up emotionally."
+      act-3:
+        - description: "Luke faces a climactic challenge where he must risk himself for Raven, symbolizing his emotional growth."
+        - description: "He overcomes his fear of loss, fully trusting in their partnership and embracing vulnerability."
+        - description: "Luke reflects on how his relationship with Raven has transformed his outlook, finding balance between his responsibilities and his personal happiness."
+
+protagonists:
+  approach: "Dual-Protagonist"
+  list:
+    - name: "Raven Blackwood"
       description: >
-        Luke struggles with a deep fear of loss, stemming from his parents’ death and his sense of responsibility for his sister.
-        His reluctance to form close bonds is challenged as he partners with Raven.
-      drafting-objectives:
-        - "Show Luke’s fear of attachment through his cautious decisions and emotional distance."
-        - "Use Raven’s boldness and trust-building moments to challenge Luke’s emotional walls."
-        - "Illustrate Luke’s growth as he embraces vulnerability and learns to trust Raven as a partner."
-      progression:
-        act-1:
-          - description: "Introduce Luke’s fear of attachment through his cautious approach to diving and guarded interactions with Raven."
+        A thrill-seeking, rebellious diver from a wealthy family who struggles with trust and isolation.
+        Her arc focuses on learning to rely on others without losing her individuality.
+      character-arc:
+        initial-state:
+          - "Thrill-seeking, rebellious, and fiercely independent."
+          - "Views reliance on others as weakness."
+        growth:
+          - "Learns to trust and rely on Luke without losing her individuality."
+          - "Finds deeper meaning in shared victories and connections."
+        resolution:
+          - "Embraces partnership, realizing that true strength includes vulnerability."
+    - name: "Luke Calloway"
+      description: >
+        A cautious, pragmatic healer diving to support his family, burdened by fear of loss and attachment.
+        His arc centers on embracing risk and finding balance between responsibility and personal happiness.
+      character-arc:
+        initial-state:
+          - trait: "Cautious, pragmatic, and burdened by fear of loss."
             reference: "timeline.yaml_event_'2011'"
-          - description: "Establish the emotional burden of his responsibility for his sister as a key motivator for his reluctance to trust others."
-        act-2:
-          - description: "Moments of shared danger in the dungeon force Luke to confront his fear of losing Raven."
-          - description: "Raven’s willingness to trust Luke challenges him to reciprocate and open up emotionally."
-        act-3:
-          - description: "Luke faces a climactic challenge where he must risk himself for Raven, symbolizing his emotional growth."
-          - description: "He overcomes his fear of loss, fully trusting in their partnership and embracing vulnerability."
-          - description: "Luke reflects on how his relationship with Raven has transformed his outlook, finding balance between his responsibilities and his personal happiness."
+          - trait: "Keeps relationships at arm’s length to avoid attachment."
+        growth:
+          - "Learns to take calculated risks and trust in others’ resilience."
+          - "Finds balance between responsibility and personal happiness."
+        resolution:
+          - "Overcomes fear of loss, committing fully to Raven and their shared goals."
 
-  protagonists:
-    approach: "Dual-Protagonist"
-    list:
-      - name: "Raven Blackwood"
-        description: >
-          A thrill-seeking, rebellious diver from a wealthy family who struggles with trust and isolation.
-          Her arc focuses on learning to rely on others without losing her individuality.
-        character-arc:
-          initial-state:
-            - "Thrill-seeking, rebellious, and fiercely independent."
-            - "Views reliance on others as weakness."
-          growth:
-            - "Learns to trust and rely on Luke without losing her individuality."
-            - "Finds deeper meaning in shared victories and connections."
-          resolution:
-            - "Embraces partnership, realizing that true strength includes vulnerability."
-      - name: "Luke Calloway"
-        description: >
-          A cautious, pragmatic healer diving to support his family, burdened by fear of loss and attachment.
-          His arc centers on embracing risk and finding balance between responsibility and personal happiness.
-        character-arc:
-          initial-state:
-            - trait: "Cautious, pragmatic, and burdened by fear of loss."
-              reference: "timeline.yaml_event_'2011'"
-            - trait: "Keeps relationships at arm’s length to avoid attachment."
-          growth:
-            - "Learns to take calculated risks and trust in others’ resilience."
-            - "Finds balance between responsibility and personal happiness."
-          resolution:
-            - "Overcomes fear of loss, committing fully to Raven and their shared goals."
-
-relationship-arcs:
-  - characters: [Luke, Raven]
-    stages:
-      start: >
-        Strangers with clashing personalities and fears, struggling to find common ground in their approaches to diving.
-      middle: >
-        Tentative trust forms as shared experiences reveal their strengths and vulnerabilities, deepening their connection.
-      end: >
-        Lovers whose emotional bond underpins their seamless teamwork, symbolizing their growth as individuals and as partners.
-    internal:
-      - "Luke’s fear of attachment hinders his ability to open up to Raven."
-      - "Raven struggles with her fear of reliance and trust."
-    interpersonal:
-      - "Their contrasting diving styles (Luke’s caution vs. Raven’s recklessness) create friction, forcing each to confront their internal fears: Luke’s fear of losing others and Raven’s fear of dependence."
-      - "Everyday interactions reveal their growing comfort and trust, such as moments of casual banter or shared vulnerability."
-      - "Over time, shared challenges foster trust, mutual admiration, and romantic tension."
-    external:
-      - "The dungeon’s life-threatening challenges force them to work together."
-      - "External events, like the charity gala, create moments of personal and relational growth."
-    elements:
-      nickname: >
-        Raven sarcastically calls Luke "Sunshine" early on, poking fun at his overly cautious and steady demeanor. 
-        Over time, the nickname evolves into a genuine term of endearment, reflecting their growing bond and Raven's shifting perception of Luke. 
-        The nickname serves as a symbol of their relationship progression, from initial friction to deep trust and affection.
-
-workflow-conventions:
-  cross-referencing:
-    purpose: >
-      Provide clear and consistent standards for referencing content across YAML files. 
-      These standards ensure clarity and ease of use in all workflows, including outline generation, drafting, YAML validation, 
-      and general LLM responses. The conventions are designed to maintain modularity, support enriched storytelling, 
-      and ensure data integrity across files.
-    applies-to:
-      - "Outline generation"
-      - "Drafting responses"
-      - "YAML validation"
-      - "General context expansion in LLM responses"
-    syntax:
-      reference: "<file_name>_<context_type>_<content_identifier>"
-      description: >
-        The syntax for cross-referencing includes three parts:
-        - `<file_name>`: The YAML file where the referenced content is defined (e.g., `abilities.yaml`).
-        - `<context_type>`: The type of content being referenced (e.g., `character`, `dungeon`, `theme`).
-        - `<content_identifier>`: The exact name of the referenced content, enclosed in double quotes. This must match the source file exactly.
-    examples:
-      - type: "Ability Reference"
-        example: "reference: abilities.yaml_character_'Beacon of Judgement'"
-      - type: "Dungeon Reference"
-        example: "reference: dungeons.yaml_dungeon_'Shadow Warrens'"
-      - type: "Theme Reference"
-        example: "reference: themes.yaml_theme_'Light and Darkness'"
-    guidelines:
-      - "Use exact names for `<content_identifier>`, ensuring they match the source file exactly, including capitalization and spacing."
-      - "Avoid special characters (e.g., `/`, `#`, `*`) in names that may cause parsing issues."
-      - "Include `<file_name>` and `<context_type>` to minimize ambiguity and simplify parsing."
-      - "Update references whenever content identifiers or file names are renamed to prevent errors."
-    llm-usage:
-      parsing-instructions:
-        - "Locate `reference` fields in YAML files."
-        - "Extract `<file_name>`, `<context_type>`, and `<content_identifier>` from the reference string."
-      resolving-references:
-        - "Open the specified `<file_name>`."
-        - "Search for entries matching `<context_type>` and `<content_identifier>`."
-        - "Retrieve the referenced content for use in the current context."
-      validation:
-        - "Ensure the `content_identifier` exists in the specified `<file_name>`."
-        - "Check for typos, case mismatches, or missing files during parsing."
-      enrichment:
-        - "Use referenced content to enhance responses with relevant details (e.g., ability descriptions, dungeon mechanics)."
-        - "Avoid duplicating the reference string in responses unless explicitly instructed."
-      error-handling:
-        - "Notify the user if a reference cannot be resolved, providing suggestions for corrections."
-        - example-error-response: >
-            "The reference abilities.yaml_character_'Radiant Strike' could not be found. Please ensure it exists and is correctly named."
-    narrative-integration:
-      description: >
-        The conventions ensure referenced content is integrated seamlessly into YAML workflows, narrative elements, and validation processes, 
-        allowing for enriched storytelling, modular file management, and consistent responses.
-      usage:
-        - "Include ability references in key event descriptions to ensure the narrative incorporates character mechanics naturally."
-        - "Use dungeon references in chapter outlines to maintain continuity with the story's setting."
-      example-behavior:
-        input: |
-          abilities:
-            radiant-strike:
-              reference: abilities.yaml_character_"Radiant Strike"
-        llm-response: >
-          Parse the reference and retrieve:
-          - `file_name`: `abilities.yaml`
-          - `context_type`: `character`
-          - `content_identifier`: `Radiant Strike`
-          Resolve and use the corresponding entry:
-          - "Radiant Strike is an offensive ability that deals light damage and generates a Light Charge. It reflects Luke’s methodical combat style."

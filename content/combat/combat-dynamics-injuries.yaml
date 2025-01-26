@@ -1,0 +1,58 @@
+file: combat-dynamics-injuries.yaml
+file-purpose: Explain the worldbuilding behind injuries and healing and how descriptions are done while drafting scenes.
+
+worldbuilding:
+  injuries_and_healing:
+    description: >
+      Injuries and healing in *Bound in Light and Darkness* are represented
+      through a combination of immersive prose and redacted tags that convey
+      severity and location. This system ensures clear stakes and emotional weight
+      without relying on explicit descriptions of physical harm.
+
+    injury_categories:
+      - name: Minor
+        color: Yellow
+        description: >
+          Small impacts with limited effects. Typically results in slight stamina drain
+          or minor inconvenience in combat.
+
+      - name: Moderate
+        color: Red
+        description: >
+          Noticeable injuries that affect combat capabilities, such as reduced movement
+          speed or accuracy. Requires healing to restore optimal performance.
+
+      - name: Major
+        color: Dark Red
+        description: >
+          Significant injuries with serious consequences. Impairs critical functions like
+          mobility or the ability to use certain skills. Prioritized for immediate healing.
+
+      - name: Critical
+        color: Black
+        description: >
+          Life-threatening or incapacitating damage. Requires urgent intervention to avoid
+          catastrophic outcomes.
+
+drafting-guidance:
+  ways-to-describe-injuries:
+    - perspective: "Description of Character Actions"
+      method: >
+        In prose, injuries are usually described through emotional and sensory reactions, with graphic details replaced by tags. 
+        Tags are embedded naturally within sentences to enhance immersion and narrative flow.
+      example: |
+        The predator’s claws grazed her side, sharp pain blossoming instantly as her HUD flickered: [Injury: Moderate, Torso]. Each step pulled at the wound, her movements losing some of their usual grace.
+
+    - perspective: "HUD-Based Ragdoll Interface"
+      method: >
+        Injuries are visually represented on Luke's HUD as a color-coded ragdoll figure.
+        Areas of the body are shaded based on severity: Yellow (Minor), Red (Moderate),
+        Dark Red (Major), Black (Critical). This system provides clarity during combat.
+      example: |
+        The ragdoll figure on Luke’s HUD flickered, Raven’s leg glowing red. His jaw tightened as he adjusted his stance. She wouldn’t last long at this pace.
+
+    - perspective: "HUD Notifications"
+      method: >
+        Critical injuries and status effects trigger text-based alerts on Luke’s HUD, providing immediate, actionable information.
+      example: |
+        Luke’s HUD flashed: **Raven: Major Injury (Torso). Movement impaired.**

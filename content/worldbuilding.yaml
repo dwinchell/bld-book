@@ -1,0 +1,132 @@
+file: worldbuilding.yaml
+file-purpose: Describe the core elementes of BLD worldbuilding and reference files that contain other elements.
+
+other-worldbuilding-files:
+  - timeline.yaml
+  - dungeons.yaml
+  - character-raven.yaml
+  - character-luke.yaml
+  - character-anna.yaml
+  - character-grant.yaml
+  - combat-abilities.yaml
+  - combat-dynamics.yaml
+  - combat-dynaimcs-injuries.yaml
+
+system:
+  description: >
+    The System is a mysterious construct with a user interface reminiscent of video-game menus and heads-up displays.
+    It integrates with human society and grants access to dungeons, adventuring classes, and rewards.
+  origins: >
+    The System integration event occurred in 2000 when people gained HUDs and dungeon portals mysteriously appeared overnight across the globe.
+    No one knows the origins of the System, but its presence has become normalized in society.
+  divers: >
+    - "The discovery of the System and dungeons has created a new class of adventurers, divers."
+    - "Upon registering as a diver, individuals gain persistent access to the System interface, which functions"
+    - "Most divers are motivated by either, seeking thrills, or fame and riches, or out of financial necessity."
+    - "Anyone age 18 or older can register as a diver using their HUD, which grants them access to dungeons and extended HUD menus"
+    - "Diving is incredibly dangerous. 50% of divers die in their first 5 years of diving. 40% quit before that because they can't handle it."
+  encyclopedia:
+    - "The HUD grants access to an encyclopedia of basic System-related concepts"
+    - "The encyclopedia includes descriptions of each class and their abilities"
+    - "The encyclopedia includes basic information about how dungeons work"
+  classes:
+    - "Everyone chooses a class when they register as a diver"
+    - "There is a large list of available classes"
+    - "The System determines the list of classes which an individual gets to choose from when they registery, based on their personalities, talents, and life experience"
+  hud:
+    - "Ever since the system integration event has a heads-up displah (HUD) that connects them to the System"
+    - "A HUD like an augmented reality display without requiring a headset"
+    - "Individuals interact with interface using thought or a chosen method, such as hand gestures. They can summon and dismiss it at will."
+    - "The HUD shows divers that shows basic status information, including health, cooldowns"
+    - "Once divers get a good look at a monster, they can see its name on their HUD"
+    - "Class abilities can expand HUD functionality."
+    - "The HUD is not visible to anyone other than the person using it"
+    - "Body language may give away the fact that they are focusing on their HUD"
+    - "The HUD does not illuminate anything"
+    - "People can share information from their HUD to someone else's"
+    - "The default System theme is minimalistic, featuring simple menus with text and boxes."
+    - "People can customize the interface to suit their preferences, including colors, layouts, and interaction methods."
+  societal-impact:
+    - "Diving has reshaped the global economy, introducing credits as a valuable currency."
+    - "Divers are both admired for their bravery and seen as reckless or desperate."
+  classified-ads:
+    - "The System allows people to post classified ads"
+    - "It shows the ads to whoever it thinks might be interested. it may notify the interested party if their settings allow it."
+    - "classified ads are often used to find party members"
+
+dungeons:
+  description: >
+    Dungeons are mysterious, dangerous places associated with the System and accessed through portals on Earth.
+    They contain traps, monsters, and treasures, constantly reshaping their layouts and threats.
+  key-details:
+    - "Death is permanent in the dungeon; there are no second chances."
+    - "Higher-level dungeons offer better rewards but require greater skill and teamwork."
+    - "Content is rated by level, with higher levels requiring divers to strengthen and specialize their builds."
+    - "Technology such as computers and guns does not function inside the dungeon."
+  mechanics:
+    - "Completing dungeon content grants rewards like credits, gear, and experience."
+    - "The dungeon industry includes currency exchangers that will trade credits directly for local currency"
+    - "Dungeons adapt to group size and level, scaling difficulty dynamically."
+
+credits:
+  - "Credits are gained by completing dungeons. Higher level dungeons grant more credits. Better performance in the dungeon increases credit reward."
+  - "Credits can be redeemed at shops, usually located just inside of portals. They can also be given or traded to other people using the HUD."
+  - "Credits can be redeemed for things that are useful in dungeons like gear and consumables"
+  - "Credits can also be redeemed for things that are useful outside of dungeons, like food or precious metals."
+
+setting: >
+  The world is similar to 2020s Earth, with an alternate history diverging in 2000 due to the System's appearance.
+
+adventurers:
+  - "Thrill-seekers who dive for the excitement and challenge."
+  - "Financially driven divers who see it as a path to wealth or survival."
+  - "Elite divers or guild leaders who aim to elevate their societal status through fame and achievements."
+  - "Most divers operate in parties, relying on complementary skills for survival. Solo divers, like Raven, are rare and viewed as reckless or overly ambitious."
+
+economy:
+  - "Credits function as a secondary currency, often more valuable than local currencies."
+  - "Currency exchangers allow divers to convert credits into USD or other Earth currencies."
+  - "The lucrative nature of diving has led to a cultural divide between divers and non-divers."
+  - "Wealthy families and high-status individuals often see diving as an opportunity to reinforce societal ideals, using their resources to fund or influence elite guilds."
+
+societal-values:
+  nobility-and-duty:
+    description: >
+      The concept of 'noblesse oblige'—the belief that privilege comes with the responsibility to contribute to society—is prevalent
+      among affluent families like the Blackwoods. They view diving as a way to combine prestige with meaningful impact.
+    impact-on-raven:
+      - "Raven’s parents believe she should channel her diving skills into creating a guild or business that benefits society."
+      - "This expectation fuels tension between Raven’s independent, thrill-seeking nature and her family’s values of responsibility and legacy."
+
+cultural-symbolism:
+  light-and-darkness:
+    - "Light is often associated with healing, safety, and unity in adventurer culture, while shadows symbolize adaptability, mystery, and independence."
+    - "The dichotomy of light and shadow is seen in popular media and guild banners, reinforcing its resonance among divers."
+    - "Guild banners and names often draw from light and shadow imagery, reflecting their values or strategy."
+    - "Diver initiation ceremonies sometimes feature symbolic tests in light or shadow environments, emphasizing adaptability or resilience."
+
+mechanics:
+  classes:
+    list:
+      - name: "Night Dancer"
+        summary: >
+          An agile, shadow-infused tank who generates Flow through precision and deliberate actions.
+        details-file: "classes/night_dancer.yaml"
+      - name: "Dawnbringer"
+        summary: >
+          A light-based healer specializing in high-output, reactive healing and protective magic.
+        details-file: "classes/dawnbringer.yaml"
+    recurring-motifs:
+      - name: "Light and Darkness"
+        symbolism: >
+          This motif symbolizes the inherent duality between Raven and Luke. It is reinforced through their classes:
+          Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
+          The motif is central to the aesthetic and emotional tone of their dungeon dives.
+          Reference: See "Recurring Motifs" under Themes, Narrative Guide.
+        progression: >
+          Early dungeon dives highlight their clashing styles: Raven’s shadows obscure Luke’s light, and his protective 
+          tendencies limit her bold maneuvers. Over time, they learn to complement each other, with light and shadow working 
+          together seamlessly. In the final dungeon, synchronized light and shadow abilities visually symbolize their mutual trust.
+        visual-details:
+          - "Dungeon environments frequently juxtapose areas of intense light and shadow, creating symbolic backdrops for their partnership."
+          - "Gear and abilities reflect the motif, with Raven’s dark armor and shadow-infused abilities contrasting Luke’s paladin gear and radiant light magic."

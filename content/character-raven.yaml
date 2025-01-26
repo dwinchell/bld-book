@@ -144,28 +144,3 @@ strengths_and_weaknesses:
   strengths: ["Virtuoso combatant with unparalleled intuition in high-pressure situations.", "Fearless and determined, adapting creatively to challenges.", "Charismatic and inspiring, even unintentionally."]
   weaknesses: ["Reckless and risk-seeking, often pushing herself into danger.", "Struggles to define goals and find deeper meaning in pursuits.", "Vulnerable to disruptions in combat flow, like crowd control or high spike damage."]
 
-relationship_with_luke:
-  help_with_his_growth:
-    dynamic:
-      start: >
-        Raven’s bold, risk-taking nature often clashes with Luke’s cautious, measured approach. She sees his deliberation
-        as overly rigid and frustrating, while he views her independence as reckless. Initially, she resists his attempts to
-        impose structure on their teamwork, preferring to act on instinct rather than collaborate closely.
-      evolution: >
-        Over time, Raven begins to appreciate Luke’s strategic mindset and his ability to create stability in the chaos of battle.
-        Their combat synergy develops as she learns to trust his tactical decisions, such as relying on his zones and barriers
-        to create openings for her aggressive playstyle. Outside the dungeon, their dynamic softens as Luke’s calm, nurturing
-        personality provides a counterbalance to Raven’s intensity. Through quiet moments of reflection, playful banter,
-        and shared struggles, Raven discovers the value of having someone she can truly rely on. She encourages Luke to take
-        more risks and embrace the thrill of the moment, pushing him to step outside his comfort zone, while he helps her
-        understand the strength found in planning and interdependence.
-      resolution: >
-        By the end of the story, Raven and Luke’s relationship embodies a harmony of opposites. Raven’s boldness inspires Luke
-        to take initiative and trust his instincts, while Luke’s grounded presence helps Raven temper her recklessness and see
-        the value of collaboration. Their mutual growth results in a partnership that thrives on trust, respect, and an intimate
-        understanding of each other’s strengths, both in combat and in life.
-    key-contributions:
-      - "Raven’s fearless and decisive nature inspires Luke to embrace risk and break away from his overly cautious tendencies."
-      - "Her ability to adapt quickly in chaotic situations teaches Luke the importance of flexibility and intuition."
-      - "Raven’s playful, bold personality draws Luke out of his shell, helping him experience life beyond duty and responsibility."
-      - "Her struggles with vulnerability mirror Luke’s own fears, allowing them to bond and grow through mutual understanding."

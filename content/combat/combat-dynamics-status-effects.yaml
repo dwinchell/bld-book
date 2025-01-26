@@ -1,0 +1,46 @@
+
+status_effects:
+  description: >
+    Status effects are temporary conditions that impact performance during combat or exploration. 
+    They can impair movement, health, or resource generation, or provide temporary boosts. 
+    Resolving or leveraging these effects requires strategic abilities, items, or environmental interactions. 
+    Effects are visually represented on the HUD for clarity.
+  narrative-role:
+    description: >
+      Status effects serve as both a storytelling and gameplay tool, enhancing tension, stakes, and the sense of strategy during encounters. 
+      They reflect the dynamic challenges of dungeon diving while highlighting the strengths and weaknesses of characters like Luke and Raven.
+    purposes:
+      - "Reinforce stakes: Persistent or escalating effects like Poisoned or Shadow Corruption create urgency and consequences for failure."
+      - "Showcase teamwork: Conditions like Frozen encourage characters to synergize their abilities to resolve challenges collaboratively."
+      - "Emphasize character arcs: Specific effects mirror emotional or thematic struggles, such as Shadow Corruption symbolizing Raven’s internal battles."
+      - "Create dynamic pacing: Status effects add variability to encounters, requiring the party to adapt their strategies mid-fight."
+      - "Highlight abilities: Healing and utility skills become essential for resolving effects, reflecting Luke’s nurturing and proactive role."
+    examples:
+      - "Raven’s resilience and quick reactions allow her to fight through Exhaustion, showing her grit and determination."
+      - "Luke’s light-based abilities provide critical moments of relief, countering Shadow Corruption and underscoring his protective nature."
+  examples:
+    - name: Poisoned
+      effect: >
+        Gradual health loss over time. HUD shows a green aura on affected areas.
+      resolution: >
+        Antidotes, healing abilities, or natural recovery outside combat.
+    - name: Burning
+      effect: >
+        Reduces stamina regeneration and causes periodic damage. HUD glows orange in affected areas.
+      resolution: >
+        Fire-resistant healing or water-based interactions.
+    - name: Frozen
+      effect: >
+        Slows movement and reduces Flow generation. HUD highlights limbs in icy blue.
+      resolution: >
+        Heat-based abilities or fire sources.
+    - name: Shadow Corruption
+      effect: >
+        Drains health and amplifies damage taken. HUD displays spreading black veins.
+      resolution: >
+        Light-based healing or time in safe zones.
+    - name: Exhaustion
+      effect: >
+        Limits stamina and ability recharge rates. No HUD marker; visible in character behavior.
+      resolution: >
+        Rest, food, or energy-restoring items.
