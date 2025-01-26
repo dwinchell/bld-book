@@ -6,13 +6,6 @@ basic-information:
   short-title: "BLD"
   point-of-view: Third Person Limited
 
-themes:
-  list-of-themes:
-    - "Trust and vulnerability in relationships."
-    - "The pursuit of meaning and self-discovery."
-    - "Balancing independence and interdependence."
-    - "Growth through contrasting perspectives."
-
 recurring-motifs:
   light-and-darkness:
     description: >
@@ -52,8 +45,7 @@ recurring-motifs:
     interpersonal:
       - "Raven and Luke initially clash due to their opposing approaches to diving: her recklessness vs. his caution."
     external:
-      - description: "The dungeon forces them to confront life-threatening challenges that require teamwork and trust."
-        reference: "See 'Dungeons: Mechanics and Mortality Rate' in Story Bible."
+      - description: "Dungeon dives forces them to confront life-threatening challenges that require teamwork and trust."
 
 decision-guidance:
   - "Ensure each chapter advances both the relationship and the plot."
@@ -180,4 +172,3 @@ protagonists:
           - "Finds balance between responsibility and personal happiness."
         resolution:
           - "Overcomes fear of loss, committing fully to Raven and their shared goals."
-
