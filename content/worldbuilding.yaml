@@ -1,17 +1,6 @@
 file: worldbuilding.yaml
 file-purpose: Describe the core elementes of BLD worldbuilding and reference files that contain other elements.
 
-other-worldbuilding-files:
-  - timeline.yaml
-  - dungeons.yaml
-  - character-raven.yaml
-  - character-luke.yaml
-  - character-anna.yaml
-  - character-grant.yaml
-  - combat-abilities.yaml
-  - combat-dynamics.yaml
-  - combat-dynaimcs-injuries.yaml
-
 system:
   description: >
     The System is a mysterious construct with a user interface reminiscent of video-game menus and heads-up displays.
@@ -77,7 +66,7 @@ credits:
 setting: >
   The world is similar to 2020s Earth, with an alternate history diverging in 2000 due to the System's appearance.
 
-adventurers:
+divers:
   - "Thrill-seekers who dive for the excitement and challenge."
   - "Financially driven divers who see it as a path to wealth or survival."
   - "Elite divers or guild leaders who aim to elevate their societal status through fame and achievements."
@@ -97,8 +86,6 @@ societal-values:
     impact-on-raven:
       - "Raven’s parents believe she should channel her diving skills into creating a guild or business that benefits society."
       - "This expectation fuels tension between Raven’s independent, thrill-seeking nature and her family’s values of responsibility and legacy."
-
-
 
 settings:
   name: "The Warden's Rest"
