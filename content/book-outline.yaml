@@ -42,8 +42,6 @@ act-1:
         - "Raven’s gothic room symbolizes her independence and clashes with family expectations."
       tone:
         - "Introspective and reflective, focusing on Raven’s internal frustrations."
-      pacing:
-        target-words: 1800
       connection-to-next-chapter: >
         Raven’s classified ad leads directly to Luke’s consideration of it in the next chapter.
 
@@ -65,8 +63,6 @@ act-1:
         - "Luke begins to mentally prepare for the challenges of working with a new and dynamic partner."
       tone:
         - "Measured and cautious, reflecting Luke’s calculated approach to new partnerships."
-      pacing:
-        target-words: 1700
       connection-to-next-chapter: >
         Luke’s acceptance of the ad sets the stage for their first meeting in the next chapter.
 
@@ -92,8 +88,6 @@ act-1:
         - "Early dungeon interactions highlight their strengths and weaknesses, escalating the stakes."
       tone:
         - "Tense and observational, transitioning into cautious cooperation."
-      pacing:
-        target-words: 2500
       connection-to-next-chapter: >
         A dangerous situation in the dungeon forces them to rely on each other, leading into the next chapter, where trust begins to form.
 
@@ -118,8 +112,6 @@ act-1:
         - "Raven realizes that her independence doesn’t have to come at the cost of partnership."
       tone:
         - "Suspenseful and emotionally charged, emphasizing teamwork under pressure."
-      pacing:
-        target-words: 2800
       connection-to-next-chapter: >
         Their shared success in navigating the dungeon’s challenges leads directly into their boss encounter in the next chapter.
 
@@ -148,8 +140,7 @@ act-1:
         - "Raven’s subtle invitation for a celebratory drink hints at a deeper interest, leaving Luke momentarily unsure of how to respond."
       tone:
         - "Tense and suspenseful during the fight, transitioning to triumphant in the resolution."
-      pacing:
-        target-words: 3500
+
       connection-to-next-chapter: >
         Their shared sense of accomplishment transitions naturally into a celebratory drink in the next chapter, where camaraderie deepens.
 
@@ -173,8 +164,6 @@ act-1:
         - "The growing chemistry between Raven and Luke is palpable, though both hold back their vulnerabilities."
       tone:
         - "Intimate and warm, with playful undertones."
-      pacing:
-        target-words: 2700
 
 act-2:
   title: "Conflict and Growth"
@@ -327,9 +316,6 @@ act-3:
         - "Raven embraces vulnerability, realizing the strength in relying on others."
       tone:
         - "Intense and cathartic, building to an emotionally satisfying resolution."
-      pacing:
-        min-words: 4000
-        max-words: 4500
     - chapter: "Victory and Partnership"
       file: "victory-and-partnership.yaml"
       purpose: >
@@ -339,9 +325,6 @@ act-3:
         - "Both find meaning in their partnership, embracing growth and mutual support."
       tone:
         - "Hopeful and uplifting, with a sense of closure."
-      pacing:
-        min-words: 3000
-        max-words: 3500
 
 book-resolution-guidance:
   - "Ensure the final dungeon dive symbolizes both their emotional and relational growth."
