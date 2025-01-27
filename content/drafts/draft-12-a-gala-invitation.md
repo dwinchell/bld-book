@@ -1,4 +1,4 @@
-Chapter 12: A Gala Invitation
+## Chapter 12: A Gala Invitation
 
 The Warden’s Rest was exactly what Luke needed after a dive—a place to let the lingering tension melt into the background hum of laughter and clinking glasses. Polished wood and steel accents reflected the warm overhead lighting, while the faint glow of a boss core, encased in glass on the back wall, gave the space an otherworldly edge. The scattered displays of shattered armor and ancient weapons, hung like trophies, added a layer of nostalgia that made it feel unmistakably like a diver’s sanctuary.
 
