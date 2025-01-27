@@ -1,115 +1,97 @@
 metadata:
   type: chapter-outline
-  title: "A Gala Invitation"
-  file: "chapter-a-gala-invitation.yaml"
-
-act: 2
+  title: A Gala Invitation
+  file: chapter_a_gala_invitation.yaml
 
 plot-summary: >
-  During their post-dive drink, Raven invites Luke to a high-fashion charity gala. The invitation sparks a humorous exchange, as Raven uses the analogy of providing "armor" to convince him and offers to outfit him for the event. Luke hesitates but ultimately agrees, setting up the gala as a key emotional beat. A follow-up shopping trip for the tuxedo adds lighthearted humor and deepens their bond as they navigate a world unfamiliar to Luke. A quiet moment of reflection highlights Luke’s struggle with his fear of attachment and his growing connection to Raven.
+  Luke and Raven meet at the Warden’s Rest to unwind after a dive, where their camaraderie and contrasting
+  approaches to life are highlighted. Raven invites Luke to her family’s annual gala, which challenges him
+  to step out of his comfort zone. The chapter ends with Luke deciding to attend, setting the stage for
+  deeper exploration of their dynamic and Raven’s world.
 
 narrative-purpose: >
-  Set up the gala as a pivotal emotional moment while emphasizing Raven’s playful and sincere efforts to include Luke in her world. Highlight their growing camaraderie and trust outside of dungeon dives, while subtly building romantic tension through humor and shared vulnerability. Provide insight into Luke’s fear of attachment and his growing internal conflict.
+  This chapter develops the relationship between Luke and Raven by contrasting their personalities
+  and deepening their trust. It also introduces Raven’s high-society background, foreshadowing
+  future conflicts and opportunities for character growth.
 
-tone:
-  - "Playful and lighthearted, with moments of sincerity and emotional depth."
-  - "Grounded and reflective, contrasting with the opulence of the upcoming gala."
+relationship-progression:
+  start: >
+    Luke and Raven are comfortable in their partnership, with an easy banter that shows mutual
+    respect but still hints at underlying differences in how they approach life.
+  key-moments:
+    - Raven’s teasing nickname for Luke reinforces their playful dynamic.
+    - Luke’s critique of Raven’s dive strategy reflects his role as a responsible partner.
+    - Raven’s invitation to the gala signals a step toward vulnerability and trust, showing
+      she values Luke beyond their professional partnership.
+  end: >
+    Luke and Raven’s relationship feels slightly more personal and trusting, with Luke accepting
+    the invitation as a tentative step into Raven’s world.
 
 key-emotional-beats:
-  - "Raven’s casual yet meaningful invitation reveals her trust and growing reliance on Luke’s presence."
-  - "Luke’s hesitation underscores his discomfort with stepping outside his comfort zone, while his eventual agreement marks a small but significant step toward personal growth."
-  - "Luke’s reflections highlight his fear of attachment, showing the emotional stakes behind his hesitation."
-  - "The shopping trip offers a blend of humor and connection, with Raven’s boldness drawing Luke out of his shell."
-
-relationship-arc:
-  start: >
-    Luke and Raven begin the chapter as trusted teammates, but their bond remains rooted in their professional dynamic.
-  progression: >
-    Raven’s invitation and Luke’s agreement mark a shift toward more personal connection. Luke’s reflection deepens his internal conflict, while playful banter and shared moments during the shopping trip hint at mutual admiration and subtle romantic tension.
-  end: >
-    By the end of the chapter, Luke and Raven’s relationship has taken another step toward emotional intimacy, though neither openly acknowledges their feelings.
+  - Raven’s rare display of softness when she invites Luke to the gala, showing her trust in him.
+  - Luke’s internal conflict about attending the gala, revealing his discomfort with high society
+    and his growing connection to Raven.
+  - The moment Luke agrees to attend, symbolizing his willingness to step out of his comfort zone
+    for her.
 
 scenes:
-  - scene: "A Familiar Rest"
+  - scene: The Warden’s Rest
     perspective: Luke
     plot-summary: >
-      Luke arrives at the Warden’s Rest for a post-dive meetup with Raven. He notices her striking all-black ensemble and her hair down, catching a softer side of her. They share light banter as they order food and settle in. A diver greets Raven, revealing she frequents the tavern despite being a solo diver, which surprises Luke. She explains she enjoys blowing off steam and swapping stories, emphasizing the camaraderie among divers.
+      Luke arrives at the Warden’s Rest after a dive, where he finds Raven already seated. They
+      banter over drinks and fries, discussing their dive and sharing stories.
     narrative-purpose: >
-      Introduce the Warden’s Rest as a lively setting for divers to bond after dives. Deepen Luke’s understanding of Raven’s multifaceted personality, highlighting her social side despite her independence. Establish the contrast between their personalities and set the tone for the chapter’s exploration of their growing connection.
+      Establishes the camaraderie and contrasting personalities of Luke and Raven while providing
+      a comfortable setting to highlight their dynamic.
     events:
-      - "Luke enters the Warden’s Rest, scanning the lively atmosphere."
-      - "He spots Raven in an all-black ensemble with her hair down, a softer look than her dungeon gear."
-      - "Raven greets Luke with her usual teasing, and they settle in to order food and drinks."
-      - "A nearby diver greets Raven, surprising Luke that she’s known in the group-oriented tavern."
-      - "Raven explains she visits to blow off steam and talk about diving, even as a solo diver."
-    ending: >
-      Luke reflects on the camaraderie in the tavern, starting to understand the appeal of these post-dive outings as Raven’s laughter blends with the warm atmosphere.
-
-  - scene: "Dungeon Debrief"
-    perspective: Luke
-    plot-summary: >
-      Luke and Raven chat about their recent dive into Felforge Depths, recounting narrow escapes and victories with a mix of dry humor and camaraderie. Raven playfully teases Luke about his precision and quick thinking, while Luke reflects on Raven’s daring combat style. Their growing trust and rapport come through as they share observations and banter over food and drinks.
-    narrative-purpose: >
-      Reinforce the growing bond between Luke and Raven, showcasing their contrasting personalities and mutual reliance. Use lighthearted banter to provide a moment of levity and reflection after the intensity of the dive, setting up for the deeper emotional beats to follow.
-    ending: >
-      The scene concludes with Luke and Raven toasting to their shared success and survival, the camaraderie between them firmly established.
-
-  - scene: "A Bold Invitation"
-    perspective: Luke
-    plot-summary: >
-      After their dive into Felforge Depths, Luke and Raven share a drink to unwind. Their conversation shifts from light banter to Raven’s gala invitation, with Luke expressing reluctance but eventually agreeing after Raven’s playful persuasion.
-    narrative-purpose: >
-      Reinforce the growing tradition of post-dive drinks as a bonding moment for Luke and Raven. Introduce the gala invitation as a turning point, showcasing Raven’s trust in Luke and his willingness to step outside his comfort zone for her.
-
-    events:
-      - "Raven casually mentions the gala and jokes about needing someone to have her back."
-      - "Luke hesitates, worried about fitting in, but Raven reassures him with humor and sincerity."
-      - "Luke takes a bite of food and a drink to buy time to think. He's worried about fitting in, but he's also worried about getting closer to Raven. He knows he's growing a bit attatched, though he won't yet admit to himself that it's anything romantic. He visualizes a close call with the Infernal Forgemaster's hammer. He has a strong emotional response to that, and asks himself why it's that strong. He knew he was starting to trust and rely on her, but that's a bit much."
-      - "Luke makes another attempt to get out of it saying he doesn't even own a suit"
-      - "Without skipping a beat, Raven says she'll buy him one. Problem solved, no reason for him not to ground."
-      - "Luke objects that she can't just buy him a tux, it's far to expensive"
-      - "Raven says technically it will be a tuxedo, and likens it to armor. Her dive partner needs proper equipment for a 'dive' and it's the least she could do for imposing. While doing so, she subtly refers to the gala again as something her famiy is hosting, and makes a casual gesture with her wine. She's very tactfully telling him she's rich enough to afford it without boasting or condescending."
-      - "Luke says he'll think about it."
-      - "Raven says ok, but let her know because seating arrangements are going to be finalized tomorrow"
+      - Luke enters the Warden’s Rest and finds Raven.
+      - They exchange banter about nicknames and their dive performance.
+      - Raven explains why she enjoys the Warden’s Rest despite being a solo diver.
     sensory-details:
-      - "The clink of glasses and the warm hum of chatter in the tavern."
-      - "The faint smell of smoke and leather from the dive still clinging to their clothes."
-      - "Raven’s laughter cutting through Luke’s hesitation, making him smile despite himself."
+      - The warm glow of overhead lighting reflecting off polished wood and steel.
+      - The hum of conversation punctuated by laughter and the clinking of glasses.
     scene-hook: >
-      Raven casually brings up the gala, piquing Luke’s curiosity and setting the stage for her invitation.
+      Luke’s arrival at the lively Warden’s Rest sets a casual, engaging tone, immediately drawing
+      the reader into the post-dive ritual.
     ending: >
-      They part ways, Raven glossing over his earlier statements and saying she's looking forward to going with him. He corrects her and tells her he said he'd think about it.
+      Their banter shifts to a comfortable silence, setting the stage for Raven’s invitation.
 
-  - scene: "Luke’s Reflection"
+  - scene: The Invitation
     perspective: Luke
     plot-summary: >
-      Later that night, Luke reflects on the gala invitation and his hesitation to attend. His thoughts drift to his fear of forming attachments, driven by memories of losing his parents and his sense of responsibility for Anna. He considers how Raven challenges his walls and begins to wonder if he can take the risk of letting her in.
+      Raven casually invites Luke to her family’s gala, catching him off guard. He hesitates but
+      ultimately agrees to consider it after Raven’s persistence.
     narrative-purpose: >
-      Provide insight into Luke’s fear of attachment and his internal conflict. Show his growing emotional connection to Raven and the stakes behind his hesitation to open up.
+      Introduces the key narrative turn of the chapter, pushing Luke out of his comfort zone while
+      showcasing Raven’s trust in him.
     events:
-      - "Luke sits alone in his apartment, staring at the gala invitation with mixed feelings."
-      - "He recalls moments of loss and responsibility that have shaped his cautious nature."
-      - "Luke thinks about Raven, realizing how her boldness and trust challenge his emotional walls."
-      - "He resolves to take a small step forward by embracing the gala invitation as a chance to connect."
+      - Raven introduces the idea of the gala as “a different kind of dive.”
+      - Luke hesitates, citing his lack of experience with high-society events.
+      - Raven reassures him, framing the invitation as an extension of their partnership.
     sensory-details:
-      - "The crisp paper of the gala invitation in Luke’s hands as he turns it over thoughtfully."
+      - The sharp grin Raven wears as she leans back in her seat.
+      - The faint clink of their glasses as Raven finishes her drink.
     scene-hook: >
-      Luke glances at his HUD, where the gala date looms closer, and wonders what it would mean to take this step.
+      Raven’s sudden, playful announcement about the gala shifts the tone, creating intrigue.
     ending: >
-      Luke messages Raven that he'll go
+      Luke stalls for time, but the seed of his eventual decision is planted.
 
-  - scene: "Shopping for a Tuxedo"
-    perspective: Raven
-    narrative-purpose:
+  - scene: Late-Night Reflection
+    perspective: Luke
     plot-summary: >
-      The next day, Raven drags Luke to a men’s clothing store to outfit him for the gala. The scene is filled with humor as Luke struggles with the idea of formalwear, while Raven’s playful teasing keeps the mood light. Amidst the laughter, subtle moments of connection deepen their bond.    narrative-purpose: >
-      Add a lighthearted and intimate moment that contrasts with the tension of dungeon dives. Highlight Raven’s boldness and Luke’s quiet vulnerability, while showing how their contrasting personalities complement each other.
-    scene-hook: >
-      Raven drags a reluctant Luke into a high end men's clothing store
+      Unable to sleep, Luke reflects on Raven’s invitation and what it means for their partnership.
+      He decides to accept, stepping into an unfamiliar world for her.
+    narrative-purpose: >
+      Provides insight into Luke’s internal conflict and growth, deepening the emotional stakes of
+      his decision to attend the gala.
     events:
-      - "Raven pulls Luke into a high-end men’s store, immediately taking charge of the selection process."
-      - "Luke fidgets awkwardly in the fitting room as Raven insists on finding the perfect tuxedo."
-      - "Raven teases Luke about his lack of fashion sense, making him laugh despite himself."
-      - "A brief, sincere moment occurs as Raven adjusts Luke’s tie, catching him off guard."
+      - Luke lies awake, replaying the conversation with Raven in his mind.
+      - He considers his discomfort with high society and his growing trust in Raven.
+      - Luke sends a message agreeing to attend, receiving an immediate, playful reply from Raven.
+    sensory-details:
+      - The faint lines of moonlight streaking across the ceiling.
+      - The muffled sounds of the city outside his window.
+    scene-hook: >
+      Luke’s restless thoughts and vivid memory of Raven’s grin draw the reader into his dilemma.
     ending: >
-      Luke leaves the store with a new tuxedo, feeling a mix of amusement and apprehension about the gala, while Raven’s confidence in him leaves a lasting impression.
+      Luke sends his response, resolving his conflict and hinting at the chapter’s emotional payoff.
