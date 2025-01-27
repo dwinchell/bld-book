@@ -83,24 +83,23 @@ metadata:
 relationship-arc:
   stages:
     start: >
-      Raven and Luke begin as strangers with distinct fears and opposing diving styles. Luke’s cautious, interdependence-focused approach clashes with Raven’s bold, independent nature. 
-      Initial interactions are marked by friction, misunderstandings, and their struggle to find common ground.
+      Raven and Luke begin as strangers with distinct fears and opposing diving styles. Luke’s cautious, interdependence-focused approach clashes with Raven’s fiercely independent, risk-taking nature. Initial interactions are marked by friction and misunderstandings as they struggle to find common ground.
     middle: >
-      As they face shared challenges, trust begins to grow. Tentative camaraderie and moments of mutual respect develop as they start to recognize the value of each other’s strengths.
-      Conflicts rooted in their internal fears—Luke’s fear of attachment and Raven’s fear of reliance—create tension but also opportunities for growth.
+      As they face shared challenges, trust begins to grow. Tentative camaraderie and moments of mutual respect, admiration, and attraction develop as they recognize each other’s strengths. Raven starts to see how trust and interdependence can coexist with her independence. Luke learns to appreciate Raven’s bold instincts and begins taking calculated risks in combat and emotionally.
     end: >
-      Their relationship culminates in a seamless partnership, symbolized by their combat synergy and emotional intimacy. 
-      By the end of the story, Raven and Luke embrace both love and mutual reliance, showcasing their individual growth and commitment to each other.
+      Their relationship culminates in a seamless partnership, symbolized by their combat synergy and emotional intimacy. Raven realizes that contributing to something greater includes relationships, while Luke embraces vulnerability and trust. Together, they commit to both their partnership and individual growth, blending boldness and caution into a unified dynamic.
   internal:
     - "Luke’s fear of attachment hinders his ability to open up to Raven."
-    - "Raven struggles with her fear of reliance and trust."
+    - "Raven struggles with her fear of losing her independence and her sense of identity within a relationship."
+    - "Both must reconcile their individual fears to fully trust and rely on each other."
   interpersonal:
-    - "Their contrasting diving styles (Luke’s caution vs. Raven’s recklessness) create friction, forcing them to confront their internal fears."
-    - "Everyday interactions reveal their growing comfort and trust, such as moments of casual banter or shared vulnerability."
-    - "Over time, shared challenges foster trust, mutual admiration, and romantic tension."
+    - "Their contrasting diving styles (Luke’s caution vs. Raven’s recklessness) create initial friction, forcing them to confront internal fears."
+    - "Moments of shared vulnerability, such as the gala dance, highlight their growing admiration and connection."
+    - "Over time, they realize their differences are complementary, with Raven inspiring Luke to take bold risks and Luke grounding Raven with his steadiness."
   external:
-    - "The dungeon’s life-threatening challenges force them to work together, testing their teamwork and trust."
-    - "External events, like the charity gala, provide opportunities for personal and relational growth."
+    - "Dungeon trials force them to trust each other implicitly, building teamwork and synergy."
+    - "External events, like the gala, challenge their dynamic, pushing Raven to see the value in partnership and Luke to step outside his comfort zone."
+    - "High-stakes battles test their combined strengths and reinforce their growing bond."
   elements:
     nickname: >
       Raven sarcastically calls Luke "Sunshine" early on, poking fun at his overly cautious and steady demeanor. 
@@ -158,12 +157,15 @@ tonal-guidelines:
 symbolic-elements:
   description: >
     Light and darkness symbolize Raven and Luke’s contrasting personalities and evolving partnership, serving as a recurring motif throughout the story.
-  usage-in-scenes: >
-    In descriptions, emphasize how light and shadow interact with the environment and characters, mirroring their emotional state or relationship dynamic.
   progression:
-    - act-1: "Light and shadow frequently conflict, symbolizing the tension in their partnership and approaches."
-    - act-2: "Light and shadow begin to harmonize during moments of mutual trust and synergy, foreshadowing their eventual bond."
-    - act-3: "Light and shadow work seamlessly together, visually symbolizing their unified partnership."
+    - act-1: >
+        Light and shadow frequently conflict, symbolizing the tension in their partnership and approaches.
+        The friction mirrors their struggles with trust and teamwork.
+    - act-2: >
+        Light and shadow begin to complement each other during key moments of mutual understanding and cooperation.
+        The gala dance and their synergy in dungeons reflect this growing harmony.
+    - act-3: >
+        Light and shadow merge seamlessly, symbolizing their unified partnership and emotional growth.
   instances:
     - "The Harmonized Aegis ability combines light and shadow, representing their mutual trust and synergy."
     - "Their matching loot, the Sunrise and Moonrise Pendants, reinforces the balance of their individual contributions."
