@@ -22,19 +22,7 @@ system:
     - "Everyone chooses a class when they register as a diver"
     - "There is a large list of available classes"
     - "The System determines the list of classes which an individual gets to choose from when they registery, based on their personalities, talents, and life experience"
-  hud:
-    - "Ever since the system integration event has a heads-up displah (HUD) that connects them to the System"
-    - "A HUD like an augmented reality display without requiring a headset"
-    - "Individuals interact with interface using thought or a chosen method, such as hand gestures. They can summon and dismiss it at will."
-    - "The HUD shows divers that shows basic status information, including health, cooldowns"
-    - "Once divers get a good look at a monster, they can see its name on their HUD"
-    - "Class abilities can expand HUD functionality."
-    - "The HUD is not visible to anyone other than the person using it"
-    - "Body language may give away the fact that they are focusing on their HUD"
-    - "The HUD does not illuminate anything"
-    - "People can share information from their HUD to someone else's"
-    - "The default System theme is minimalistic, featuring simple menus with text and boxes."
-    - "People can customize the interface to suit their preferences, including colors, layouts, and interaction methods."
+  hud: Since the System Integration event, individuals have a heads-up display (HUD) connecting them to the System. The HUD, summoned through thought or gestures, displays health, cooldowns, and monster names. Invisible to others, it features a minimalistic design with simple menus. It opens dungeon portals, shows rewards, and supports classified ads. It does not hum or illuminate the environment.
   societal-impact:
     - "Diving has reshaped the global economy, introducing credits as a valuable currency."
     - "Divers are both admired for their bravery and seen as reckless or desperate."

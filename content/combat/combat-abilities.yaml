@@ -5,10 +5,9 @@ abilities:
   luke:
     radiant-strike:
       type: "offense"
-      description: "A slow, deliberate melee attack that deals light damage and generates a Light Charge."
+      description: "A slow, deliberate melee attack that deals light damage."
       cooldown: "None"
       resource-cost: "Low mana"
-      resource-generation: "1 Light Charge on hit"
       narrative-use: "Reflects Luke’s tactical and methodical nature, balancing offense and resource-building in combat."
 
     blazing-circle:
@@ -17,15 +16,14 @@ abilities:
       duration: "10 seconds"
       cooldown: "15 seconds"
       resource-cost: "Medium mana"
-      resource-generation: "1 Light Charge if two or more allies/enemies are affected for the full duration"
       clears-status-effects: ["Frozen"]
       narrative-use: "Highlights Luke’s role in area control and support, emphasizing his deliberate, stabilizing presence."
 
     beacon-of-judgement:
       type: "offense, synergy"
-      description: "Ranged attack that consumes a Light Charge to deal high damage and increase incoming damage from Raven’s attacks."
+      description: "Ranged attack that deals high damage and increase incoming damage from Raven’s attacks."
       cooldown: "20 seconds"
-      resource-cost: "Medium mana, 1 Light Charge"
+      resource-cost: "Medium mana"
       resource-generation: "None"
       narrative-use: "Demonstrates Luke and Raven’s synergy, amplifying her aggression through precise support."
 
@@ -54,7 +52,7 @@ abilities:
       description: "Ultimate ability. Creates a large healing aura that regenerates stamina/mana/Flow and reduces incoming damage."
       duration: "15 seconds"
       cooldown: "5 minutes"
-      resource-cost: "High mana, 2 Light Charges"
+      resource-cost: "High mana"
       resource-generation: "None"
       clears-status-effects: ["Poisoned", "Shadow Corruption", "Exhaustion"]
       narrative-use: "Represents Luke’s ultimate role as a healer and protector, stabilizing chaotic encounters."
