@@ -96,31 +96,31 @@ scenes:
     ending: >
       Luke sends his response, resolving his conflict and hinting at the chapter’s emotional payoff.
 
-- scene: Shopping for a Tuxedo
-  perspective: Luke
-  plot-summary: >
-    Raven drags a reluctant Luke to a high-end men’s clothing store to prepare him for the gala.
-    Despite his discomfort, Luke gradually relaxes as Raven teases and reassures him.
-    The experience highlights their contrasting personalities and growing camaraderie.
-  narrative-purpose: >
-    Showcase Luke’s discomfort with stepping outside his comfort zone and Raven’s role in
-    easing him into unfamiliar situations. Reinforce their contrasting but complementary dynamic
-    and hint at the deeper trust developing between them.
-  events:
-    - Luke enters the store reluctantly, overwhelmed by its polished and unfamiliar atmosphere.
-    - Raven playfully drags him deeper inside, choosing a tuxedo for him without hesitation.
-    - Luke awkwardly tries on the tuxedo, muttering about its unnecessary complexity.
-    - Raven adjusts the tuxedo for him, offering lighthearted encouragement and banter.
-    - They select a dark blue tie, with Raven framing the outfit as Luke’s “armor” for the gala.
-    - Luke begins to relax, his tension easing as Raven’s humor and confidence lighten the mood.
-    - They leave the store with Luke dressed and ready, feeling slightly more at ease.
-  sensory-details:
-    - The soft rustle of fabric and faint background music in the store.
-    - Luke’s stiff discomfort mirrored in the fit of the tuxedo.
-    - Raven’s confident hands adjusting his lapels and tying the tie.
-  scene-hook: >
-    Luke’s visible discomfort and Raven’s teasing confidence set the tone for a lighthearted
-    and character-driven scene.
-  ending: >
-    Luke leaves the store with the tuxedo in hand, his apprehension tempered by Raven’s support and humor,
-    though he’s still unsure of what awaits at the gala.
+  - scene: Shopping for a Tuxedo
+    perspective: Luke
+    plot-summary: >
+      Raven drags a reluctant Luke to a high-end men’s clothing store to prepare him for the gala.
+      Despite his discomfort, Luke gradually relaxes as Raven teases and reassures him.
+      The experience highlights their contrasting personalities and growing camaraderie.
+    narrative-purpose: >
+      Showcase Luke’s discomfort with stepping outside his comfort zone and Raven’s role in
+      easing him into unfamiliar situations. Reinforce their contrasting but complementary dynamic
+      and hint at the deeper trust developing between them.
+    events:
+      - Luke enters the store reluctantly, overwhelmed by its polished and unfamiliar atmosphere.
+      - Raven playfully drags him deeper inside, choosing a tuxedo for him without hesitation.
+      - Luke awkwardly tries on the tuxedo, muttering about its unnecessary complexity.
+      - Raven adjusts the tuxedo for him, offering lighthearted encouragement and banter.
+      - They select a dark blue tie, with Raven framing the outfit as Luke’s “armor” for the gala.
+      - Luke begins to relax, his tension easing as Raven’s humor and confidence lighten the mood.
+      - They leave the store with Luke dressed and ready, feeling slightly more at ease.
+    sensory-details:
+      - The soft rustle of fabric and faint background music in the store.
+      - Luke’s stiff discomfort mirrored in the fit of the tuxedo.
+      - Raven’s confident hands adjusting his lapels and tying the tie.
+    scene-hook: >
+      Luke’s visible discomfort and Raven’s teasing confidence set the tone for a lighthearted
+      and character-driven scene.
+    ending: >
+      Luke leaves the store with the tuxedo in hand, his apprehension tempered by Raven’s support and humor,
+      though he’s still unsure of what awaits at the gala.
