@@ -1,3 +1,4 @@
+---
 file: symbolism-light-and-darkness.yaml
 description: >
   A central reference for the thematic and narrative role of light and darkness in
@@ -16,6 +17,7 @@ usage:
   - "Dungeon environments: Contrasts between blinding light and oppressive shadows mirror character dynamics."
   - "Abilities: Harmonized Aegis combines light and shadow, visually symbolizing their partnership."
   - "Relationship arc: Early discord transitions into complementary teamwork, culminating in emotional and combat synergy."
+  - "Matching loot (e.g., Sunrise and Moonrise Pendants) reflects balance and unity."
 
 integration:
   narrative:
@@ -26,11 +28,41 @@ integration:
     - "Their pendants, Sunrise (Luke) and Moonrise (Raven), reinforce their balance and unity."
   progression:
     - act-1: >
-        Light and shadow clash, mirroring Raven and Luke’s initial friction and opposing styles.
+        Light and shadow frequently conflict, symbolizing the tension in their partnership and approaches.
     - act-2: >
         Early moments of harmony emerge as trust builds, and light and shadow begin to complement each other.
     - act-3: >
         Light and shadow merge seamlessly, symbolizing their emotional and professional unity.
+
+usage-in-scenes:
+  - "Weave visual motifs of light and darkness into action scenes, dialogue, and introspection."
+  - "Highlight moments when light and darkness visually or thematically transition from discord to harmony."
+  - "Use light and darkness to amplify character growth or emotional tension in key scenes."
+  - "The Harmonized Aegis ability combines light and shadow, reflecting their partnership’s evolution."
+  - "Matching loot reinforces their bond, symbolizing unity through complementary strengths."
+  - "Use physical settings, like Raven’s gothic room or dungeons, to emphasize the characters' dynamics."
+
+progression:
+  - act-1: >
+      Light and shadow frequently conflict, symbolizing the tension in their partnership and approaches.
+      The friction between Raven’s independence and Luke’s caution mirrors their struggles with trust and teamwork.
+  - act-2: >
+      Light and shadow begin to complement each other during key moments of mutual understanding and cooperation.
+      Instances like Harmonized Aegis and combined combat strategies reflect their growing synergy.
+  - act-3: >
+      Light and shadow work seamlessly together, symbolizing their unified partnership and emotional growth.
+      This evolution is visually reinforced through abilities, environments, and shared victories in the final dungeon.
+
+symbolic-instances:
+  - name: "Harmonized Aegis"
+    description: >
+      This ability combines light and shadow, symbolizing trust and synergy between Raven and Luke.
+  - name: "Sunrise and Moonrise Pendants"
+    description: >
+      Matching loot representing their complementary strengths and unified bond, reinforcing the light and darkness motif.
+  - name: "Raven’s Room"
+    description: >
+      A gothic-styled room contrasting with light symbolism elsewhere, representing her individuality and internal struggles.
 
 guidelines-for-use:
   - "Weave visual motifs of light and darkness into action scenes, dialogue, and introspection."
