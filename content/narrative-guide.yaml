@@ -4,7 +4,6 @@ description: "A comprehensive guide for the narrative structure, character arcs,
 basic-information:
   title: "Bound in Light and Darkness"
   short-title: "BLD"
-  point-of-view: Third Person Limited
 
   goals:
     narrative-goals:
@@ -45,20 +44,19 @@ tone-and-style:
     - "Blend of cinematic action and introspective emotional beats."
     - "Alternating first-person narration highlights each character's unique voice."
 
-narrative-structure:
-  type: "Three-Act Structure"
+narrative-structure: "Three-Act Structure"
 
-  perspective:
-    type: "First-Person, Alternating"
-    description: >
-      The narrative alternates between the first-person perspectives of Raven Blackwood and Luke Calloway.
-      Each chapter or scene is written in the voice of one of the protagonists, providing insight into their
-      unique thoughts, emotions, and motivations. This perspective emphasizes their individual struggles and
-      allows readers to experience events from both sides of their evolving relationship.
-    purpose:
-      - "To give equal narrative weight to both protagonists, showcasing their growth arcs and perspectives."
-      - "To deepen emotional engagement by immersing the reader in the thoughts and feelings of each character."
-      - "To highlight contrasting worldviews and how they complement each other over the course of the story."
+point-of-view:
+  type: "Third Person Limited, Alternating Characters"
+  description: >
+    The narrative alternates between the point of view of Raven Blackwood and Luke Calloway.
+    Each chapter or scene is written in the voice of one of the protagonists, providing insight into their
+    unique thoughts, emotions, and motivations. This perspective emphasizes their individual struggles and
+    allows readers to experience events from both sides of their evolving relationship.
+  purpose:
+    - "To give equal narrative weight to both protagonists, showcasing their growth arcs and perspectives."
+    - "To deepen emotional engagement by immersing the reader in the thoughts and feelings of each character."
+    - "To highlight contrasting worldviews and how they complement each other over the course of the story."
 
 scene-construction:
   tips:
