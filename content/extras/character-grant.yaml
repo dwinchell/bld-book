@@ -1,82 +1,90 @@
 type: character
-name: "Grant Blackwood"
+name: Grant Blackwood
 age: 57
-role: "Secondary Character"
-job: "CEO of Blackwood Industries"
+role: CEO of Blackwood Industries; Secondary Character
+personality_influence: >
+  Charismatic and strategic, with a grand conversational style reminiscent of Gomez Addams, combining infectious enthusiasm with a deeply supportive and familial focus.
 
 physical_description:
-  appearance:
-    height: "6 feet, 1 inch"
-    build: "Athletic and commanding, with broad shoulders and a strong posture"
-    hair: "Dark brown with streaks of silver, neatly styled"
-    eyes: "Sharp hazel, exuding charisma and focus"
-    complexion: "Warm, with the weathered polish of a seasoned executive"
-  style:
-    clothing: "Tailored suits in dark, classic colors with subtle modern touches, exuding authority and sophistication"
+  height: "6 feet, 1 inch"
+  build: "Athletic and commanding, with broad shoulders and a strong posture"
+  hair: "Dark brown with streaks of silver, neatly styled"
+  eyes: "Sharp hazel, exuding charisma and focus"
+  complexion: "Warm, with the weathered polish of a seasoned executive"
+  style: "Tailored suits in dark, classic colors with subtle modern touches, such as velvet lapels or unexpected pocket square designs, exuding timeless sophistication with a hint of flair."
 
 personality:
   core_traits:
-    - "Charismatic"
-    - "Confident"
-    - "Persuasive"
-    - "Strategic"
-    - "Approachable, but with a strong commanding presence"
+    - Charismatic
+    - Confident
+    - Persuasive
+    - Strategic
+    - Infectiously enthusiastic
   values:
-    - "Innovation and adaptability in business"
-    - "Building relationships through trust and mutual benefit"
-    - "Family as the foundation for personal and professional success"
+    - Innovation and adaptability in business
+    - Building relationships through trust and mutual benefit
+    - Family as the foundation for personal and professional success
+    - Noblesse oblige: privilege comes with responsibility
   quirks:
-    - "Tends to speak in metaphors, often tying them back to business or strategy"
-    - "Keeps a collection of vintage pens, using a different one for every major deal"
-    - "Subtly adjusts his tie when deep in thought or negotiating"
+    - Tends to speak in grand metaphors, often tying them back to strategy, legacy, or life lessons.
+    - Keeps a collection of vintage pens, using a different one for every major deal or signature moment.
+    - Adjusts his tie or cuffs when deep in thought, a subtle reflection of his composure.
 
 relationships:
-  with_raven:
+  with_raven_blackwood:
     dynamic: >
-      Grant admires Raven’s independence and drive, often comparing her determination to his own early career. 
-      While he wishes she would align more with the family’s business interests, he values her individuality and offers practical advice 
-      rather than overt pressure.
-  with_elaine:
+      Grant admires Raven’s independence and adventurous spirit, seeing echoes of his younger self in her boldness.
+      While he wishes she would align more closely with the family’s goals, he never overtly pressures her. Instead,
+      he offers pragmatic advice framed as opportunities to amplify her impact.
+    perspective: >
+      Deeply proud of Raven’s achievements, he often boasts about her success on the leaderboards. However, his vision
+      of her future involves her combining her daring nature with strategic partnerships, a reflection of his own values.
+    key_trait: >
+      Loves to draw her into philosophical or strategic conversations, leaving her both amused and frustrated by his
+      relentless charm and clever deflections.
+  with_elaine_blackwood:
     dynamic: >
-      Grant and Elaine share a deep partnership built on mutual respect and complementary strengths. 
-      Grant’s charm and business acumen balance Elaine’s methodical and philanthropic focus, creating a united front in family and societal matters.
+      Their partnership is built on mutual respect and complementary strengths. Grant’s charm and improvisational nature
+      balance Elaine’s methodical and diplomatic approach. Together, they present a united front when guiding Raven, though
+      Grant’s playful tone often softens moments of tension.
   with_blackwood_industries:
     dynamic: >
-      Grant views the company as an extension of his legacy, combining innovation in the dungeon economy with ethical practices. 
-      He fosters strong relationships with adventurers and investors, positioning Blackwood Industries as a trusted, indispensable player in the credits market.
+      Grant sees the company as both a legacy and a platform for innovation. He fosters loyalty among adventurers and
+      investors by emphasizing trust and collaboration. His Gomez Addams-like enthusiasm often turns business meetings into
+      theatrical and inspiring events, leaving an indelible impression on everyone involved.
 
 job_details:
-  title: "CEO of Blackwood Industries"
+  title: CEO of Blackwood Industries
   company_focus: >
-    Blackwood Industries is a leader in the American dungeon economy, specializing in purchasing credits from adventurers, 
-    redeeming them for goods that benefit the broader economy, and reselling those goods at competitive prices.
+    Blackwood Industries is a leader in the American dungeon economy, specializing in purchasing credits from adventurers,
+    redeeming them for tangible goods, and reselling those goods at competitive prices to benefit the broader economy.
   business_approach: >
-    Grant runs the company with a forward-thinking mindset, emphasizing adaptability in the ever-evolving dungeon industry. 
-    His leadership focuses on creating sustainable profit while fostering loyalty among adventurers and maintaining a stellar public reputation.
+    Grant’s leadership blends adaptability with vision, ensuring Blackwood Industries remains a trusted and indispensable
+    player in the dungeon economy. His larger-than-life personality reinforces his reputation as a fair and brilliant strategist.
 
 motivations_and_fears:
   motivations:
-    - "To expand Blackwood Industries’ influence in the global dungeon economy while maintaining ethical practices"
-    - "To guide his family, especially Raven, toward meaningful contributions and shared success"
-    - "To leave a legacy of innovation and trust within the industry"
+    - Expand Blackwood Industries’ influence in the global dungeon economy while upholding ethical practices
+    - Guide his family, especially Raven, toward a legacy that balances bold individualism with meaningful societal contributions
+    - Leave a legacy defined by innovation, trust, and a thriving family legacy
   fears:
-    - "That Raven’s independence might cause her to reject opportunities that align with the family’s goals"
-    - "That the volatility of the dungeon economy could jeopardize the company’s long-term stability"
-    - "Failing to balance his professional success with being present for his family"
+    - That Raven’s independent streak might cause her to reject opportunities that align with the family’s goals
+    - That the volatility of the dungeon economy could jeopardize the company’s long-term stability
+    - Failing to balance his professional ambitions with his role as a present, supportive father
 
 key_moments:
   mentorship: >
-    Frequently offers Raven insights drawn from his own career, using anecdotes and advice to encourage her growth without directly steering her choices.
+    Frequently offers Raven insights drawn from his career, using colorful metaphors to encourage her growth without
+    appearing heavy-handed.
   conflict: >
-    Occasionally clashes with Raven over her preference for independence, with Grant urging her to consider how collaboration and compromise 
-    could enhance her long-term success.
+    Occasionally clashes with Raven over her insistence on independence, with Grant urging her to see the strategic
+    advantages of collaboration and long-term planning.
   resolution: >
-    Often bridges disagreements with humor and wisdom, demonstrating his belief in Raven’s ability to find her own path while staying connected to the family legacy.
+    Resolves conflicts with humor, charm, and a reaffirmation of his belief in Raven’s potential, showing his ability
+    to balance guidance with encouragement.
 
 narrative_role: >
-  Grant represents the balance between ambition and ethics, serving as a foil to Raven’s more individualistic approach. His presence provides a 
-  framework of support and guidance, offering a nuanced perspective on success, legacy, and the importance of relationships in achieving both. 
-  He also helps illustrate the broader context of the dungeon economy and its societal impact.
-
-one-line-summary: >
-  A charismatic and strategic leader, Grant Blackwood is the CEO of Blackwood Industries, navigating the complexities of the dungeon economy while balancing family and legacy.
+  Grant represents the balance between ambition and ethics, serving as a foil to Raven’s individualism. His grand,
+  Gomez Addams-like persona adds a layer of warmth and theatricality to his interactions, making him a memorable
+  and supportive influence. His presence contextualizes Raven’s struggles within the broader societal and familial
+  landscape, while his unique mentorship style ensures her growth feels grounded yet aspirational.

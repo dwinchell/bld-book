@@ -60,13 +60,18 @@ conversational-style:
     - "Allow occasional moments of vulnerability or warmth to surface, revealing the care beneath her confident facade."
 
 personality:
-  core_traits: ["Driven", "Daring", "Pragmatic (beneath her rebellious surface)", "Independent but open to calculated partnerships", "Ambitious", "Virtuoso", "Brilliant", "Adaptable", "In the moment"]
-  values: ["Resilience and adaptability", "Growth through experience and challenge", "Genuine connections, though slow to trust", "Making a societal contribution"]
-  maturity_focus:
-    - "Though bold and rebellious, Raven is deeply reflective about her goals, carefully balancing her pursuit of freedom with long-term ambitions."
-    - "She recognizes the importance of a strong support system and is willing to take measured risks to find the right partner, professionally and personally."
-    - "She has mostly internalized her parents value of making a societal contribution, and expects herself to live up to. She still rejects or feels pressure and stress from some of their guidance and advice sometimes. She still clashes with her parents sometimes over their expections. She asserts her own independence but also cares to some extent about making them proud in her own way. Ultimately she loves and appreciates her parents despite there being some friction."
-  quirks: ["Hums absentmindedly when content.", "Dances slightly when celebrating or being playful.", "Good-naturedly sarcastic but abrasive when in a bad mood.", "Sharp, dark sense of humor", "Bores easily"]
+  core_traits:
+    - Driven
+    - Daring
+    - Independent but learning the value of interdependence
+    - Ambitious
+    - Balances thrill-seeking with contributing to something greater than herself
+  values:
+    - Resilience and adaptability
+    - Growth through experience and challenge
+    - Genuine connections, though slow to trust
+    - Contributing to something greater than herself, both through diving and personal relationships
+  quirks: ["Good-naturedly sarcastic but abrasive when in a bad mood.", "Sharp, dark sense of humor", "Bores easily"]
   mottos:
   - "Live life to the fullest"
   - "There's no use living like you're already dead"
@@ -81,7 +86,7 @@ personality:
     current-approach: >
       Raven reluctantly places a classified ad for a healer, marking her first step toward acknowledging the potential value of partnership. Her journey with Luke challenges her to balance her independence with the trust required to grow.
 
-growth_arc: "Learns that living life to the fullest isn’t about solo glory but sharing epic moments with someone she trusts, like Luke."
+growth_arc: Raven begins as fiercely independent, viewing diving as personal. Over time, she realizes independence doesn’t mean isolation. She learns to balance thrill-seeking with purpose, using her career to contribute to society. Through her partnership with Luke, she embraces vulnerability and interdependence, discovering strength in emotional connection. Ultimately, she reconciles her desire for freedom with contributing to something greater than herself, including both societal impact and a meaningful relationship.
 
 background:
   family_life:
@@ -97,16 +102,17 @@ background:
         - "Used Phantom Chains to avoid lethal attacks and reposition for counters."
       result: "Barely survived but emerged victorious, illustrating her reckless brilliance."
 
-motivations-and-fears:
+motivations_and_fears:
   motivations:
-    - "To prove her strength and independence."
-    - "To break free from her parents' expectations and legacy. She embraces their value of contributing to society, but rejects their focus on family apperances and legacy. She begrudgingly acknowledges the importance of networking but struggles with the related emotions vis a vis her independent mindset."
-    - "To push her limits and grow as a diver."
+    - To prove her strength and independence
+    - To break free from her parents' expectations while finding ways to live out shared values on her own terms
+    - To use her diving career to make a meaningful societal contribution
+    - To embrace vulnerability and interdependence as a source of strength
   fears:
-    - "Fear of losing her sense of identity in a partnership."
-    - "Fear of vulnerability and reliance on others."
-    - "Aversion to feeling trapped by societal or familial obligations."
-    - "Fear of stagnation, driving her to continuously push her limits."
+    - Fear of losing her sense of identity in a partnership
+    - Fear of vulnerability and reliance on others
+    - Aversion to feeling trapped by societal or familial obligations
+    - Fear of stagnation, driving her to continuously push her limits
 
 class-overview:
   summary: >
