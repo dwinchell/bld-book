@@ -101,3 +101,57 @@ His HUD pinged almost immediately with Raven’s reply:
 Knew you’d come around, Sunshine. 🌑 Tux shopping tomorrow. Non-negotiable.
 
 Luke stared at the message, a faint smile tugging at his lips. He let out a slow breath, and the pull of sleep didn’t seem so far away.
+
+The polished floors, cedar-scented air, and racks of suits that looked like they belonged in a museum set Luke on edge the moment he stepped inside. This wasn’t his world. The last time he’d worn anything remotely formal had been years ago, and even that felt awkward and forced. Now he stood in the entryway of a high-end men’s store, wishing the floor would swallow him whole.
+
+“Come on, Sunshine,” Raven’s teasing voice broke through his thoughts. She was already a few steps ahead, her grin sharp as ever. “You can’t just stand there looking like you’ve been dragged into a trap.”
+
+“This whole place feels like a trap,” he muttered, scanning the rows of suits with suspicion. “Do people actually spend this much on clothes?”
+
+“Yes, they do,” Raven said, her tone matter-of-fact as she grabbed his arm and dragged him further into the store. “And it’s called investing in your appearance. You should try it sometime.”
+
+Luke sighed, resigned. “I’m here, aren’t I?”
+
+“You are,” she agreed, patting his arm like he’d just done something heroic. “Now let’s make sure you don’t look like you just walked out of a dive.”
+
+She pulled a tuxedo off the rack and held it up to him, her eyes narrowing in exaggerated concentration. Luke stared at the intricate folds of fabric, his discomfort mounting.
+
+“I don’t even know how to put one of these on,” he admitted.
+
+“That’s what I’m here for,” Raven said, pushing the tuxedo into his hands and steering him toward the fitting rooms. “Go. Try it on. And don’t argue.”
+
+Luke sighed again but followed her direction. The fitting room felt claustrophobic as he wrestled with the tuxedo, muttering under his breath about unnecessary buttons and stiff collars. When he finally stepped out, the look on Raven’s face stopped him in his tracks.
+
+“Well?” he asked cautiously. “How ridiculous do I look?”
+
+Raven tilted her head, pretending to give it serious thought. “Ridiculous? No. Uncomfortable? Absolutely. But we can fix that.”
+
+She stepped closer, adjusting the lapels and smoothing the fabric over his shoulders. The proximity made him freeze for a moment, but her casual confidence put him slightly at ease. “You clean up nicely, Sunshine.”
+
+He felt his ears heat up and cleared his throat. “It’s just for one night, right?”
+
+“One night,” she confirmed, though the glint in her eyes suggested she was enjoying this far too much. “Now let’s find a tie to match your charming personality.”
+
+“Do I get a say in that?” he asked dryly.
+
+“Not a chance,” she said, already moving toward the tie display.
+
+Luke stood in front of the mirror, tugging awkwardly at the cuffs of the tuxedo jacket as Raven flitted between racks of ties. It was strange seeing himself like this, polished and formal. Out of place, but not as ridiculous as he’d feared.
+
+When she returned, holding up a dark blue tie with a triumphant grin, he couldn’t help but let out a small huff of laughter. “You’ve really thought this through, haven’t you?”
+
+“Of course,” she said, looping the tie around his neck and stepping closer to adjust it. “This is your armor for the gala, after all. Can’t have my dive partner looking anything less than sharp.”
+
+As her fingers deftly worked the knot, Luke found himself relaxing, the tension in his shoulders easing bit by bit. 
+
+“There,” Raven said, stepping back to admire her handiwork. “Now you look like someone who belongs at a gala.”
+
+Luke glanced at himself in the mirror, the unfamiliar sight pulling a frown. “If you say so.”
+
+“I do,” she said firmly, clapping him on the shoulder. “And trust me, Sunshine, you’ll be the best-dressed person there. Well, second-best,” she added with a smirk.
+
+“Let me guess,” he said. “You’re planning to take the top spot.”
+
+“Obviously.” She winked and handed the tuxedo over to the store clerk. “Now let’s get this wrapped up before you change your mind.”
+
+Luke followed her to the register, shaking his head but not arguing. As much as he might grumble, he had to admit there was something oddly satisfying about the whole ordeal. Raven’s confidence and easy humor had a way of making even this—this bizarre, out-of-his-element experience—almost enjoyable. Almost.
