@@ -1,0 +1,166 @@
+metadata:
+  type: chapter-splitting-outline
+  title: "Splitting the Gala Chapter"
+  file: "split-gala-chapters.yaml"
+
+approach:
+  rationale: >
+    The decision to split the gala into two chapters stems from the need to give each protagonist their own emotional arc within the same event. 
+    This structure allows for a richer exploration of Luke and Raven's internal conflicts and feelings while maintaining clear POV boundaries.
+    Splitting the chapters also avoids cramming too many pivotal moments into one chapter, ensuring emotional beats land effectively.
+
+  benefits:
+    - "Allows each character's emotional journey to be fully developed and distinct."
+    - "Provides room to explore Luke's realization of his romantic feelings without rushing his fear of attachment arc."
+    - "Creates space for Raven's family expectations subplot, showing how Luke supports her in navigating those pressures."
+    - "Maintains reader investment by heightening romantic tension—Luke admits his feelings to himself, while Raven remains conflicted."
+
+  narrative-purpose:
+    chapter-1: >
+      Luke's chapter focuses on his experience of the gala, emphasizing his discomfort in high society, his role in the pretend boyfriend moment, 
+      and his reflection on the balcony where he realizes he is falling for Raven but is terrified of what that means.
+    chapter-2: >
+      Raven's chapter shifts focus to her family dynamics and societal expectations, showing her leaning on Luke for emotional support. 
+      It culminates in the dance, where Raven takes a vulnerable step toward acknowledging her feelings but leaves conflicted about what they mean.
+
+chapters:
+  - chapter: "Luke at the Gala"
+    perspective: "Luke"
+    plot-summary: >
+      Luke arrives at the gala feeling out of place and overwhelmed by the opulence of high society. 
+      His role as Raven's pretend boyfriend leaves him feeling conflicted, as the moment stirs emotions he hasn't felt in years. 
+      On the balcony, Luke reflects on his evening and realizes he is falling for Raven, but his fear of attachment resurfaces, leaving him exhilarated and terrified.
+    narrative-purpose: >
+      To show Luke's internal conflict as he begins to fall for Raven while struggling with his fear of getting close to people. 
+      This chapter deepens his character arc and builds romantic tension through his realization of his feelings.
+    relationship-progression:
+      start: >
+        Luke enters the gala as Raven's partner for the evening, viewing their relationship as one of camaraderie and mutual respect.
+      key-moments:
+        - "Luke feels a thrill and protectiveness during the pretend boyfriend scene, though he doesn't yet fully understand why."
+        - "On the balcony, Luke reflects on the evening and admits to himself that he is falling for Raven."
+        - "Luke connects his fear of attachment to his growing feelings, creating emotional tension."
+      end: >
+        Luke leaves the balcony grounded in his feelings for Raven but deeply conflicted about what his attachment could mean for both of them.
+    key-emotional-beats:
+      - "Luke's discomfort and alienation in high society contrast with his admiration for Raven."
+      - "The pretend boyfriend scene stirs unexpected feelings of protectiveness, pride, and butterflies."
+      - "On the balcony, Luke processes his emotions and admits his romantic feelings, paired with fear."
+    scenes:
+      - scene: "Arrival at the Gala"
+        perspective: "Luke"
+        plot-summary: >
+          Luke arrives at the gala, feeling out of place among the opulent setting and polished attendees. 
+          He scans the room for Raven, whose entrance captivates him.
+        narrative-purpose: >
+          Establish Luke's discomfort in high society and his growing admiration for Raven's poise and confidence.
+        events:
+          - "Luke steps out of the cab, adjusting his rented tuxedo."
+          - "He enters the grand hall, overwhelmed by the lavish decor and crowd."
+          - "Raven's entrance draws his attention, leaving him briefly awestruck."
+        sensory-details:
+          - "The clink of crystal glasses and soft hum of classical music."
+          - "The gleam of chandeliers reflecting off polished marble floors."
+        scene-hook: "Luke hesitates at the entrance, feeling out of place but determined to see this through."
+        ending: "Luke spots Raven entering and feels a mix of relief and admiration."
+
+      - scene: "Pretend Boyfriend"
+        perspective: "Luke"
+        plot-summary: >
+          Raven enlists Luke to play the role of her boyfriend to defuse an uncomfortable encounter with a persistent heir. 
+          The moment leaves Luke feeling butterflies and conflicted emotions.
+        narrative-purpose: >
+          Highlight Luke's immediate physical and emotional reaction to Raven's trust in him, setting up his later realization on the balcony.
+        events:
+          - "Raven approaches Luke urgently, asking for his help."
+          - "Luke agrees, and Raven links her arm with his, pulling him into the conversation."
+          - "Luke notices the heir's reaction and feels a surprising rush of protectiveness."
+        sensory-details:
+          - "The cool touch of Raven's hand on his arm."
+          - "Luke's pulse quickening as he fumbles through the charade."
+        scene-hook: "Luke feels both pride and unease as Raven leans on him for support."
+        ending: "Luke notices Raven's lingering tension, leaving him feeling protective but confused."
+
+      - scene: "On the Balcony"
+        perspective: "Luke"
+        plot-summary: >
+          Luke and Raven step outside to the balcony, escaping the crowd. 
+          As Luke reflects on the evening, he realizes he is falling for Raven, but his fear of attachment resurfaces.
+        narrative-purpose: >
+          Give Luke space to process his emotions from the evening, culminating in his romantic realization and inner conflict.
+        events:
+          - "Luke notices Raven's elegance as she leans on the railing, bathed in moonlight."
+          - "He reflects on the pretend boyfriend scene and how it stirred unexpected feelings."
+          - "Luke connects his fear of loss to his growing feelings for Raven, realizing how much she matters to him."
+        sensory-details:
+          - "The crisp night air and faint murmur of the crowd inside."
+          - "Moonlight illuminating Raven's silhouette, making her seem almost untouchable."
+        scene-hook: "Luke steps onto the balcony, drawn by the need for space and clarity."
+        ending: "Luke admits to himself that he is falling for Raven, though the thought terrifies him."
+
+  - chapter: "Raven at the Gala"
+    perspective: "Raven"
+    plot-summary: >
+      After leaving the balcony, Raven navigates interactions with her family and the societal pressures of the gala. 
+      Luke's support helps her face these challenges, culminating in her decision to dance with him, a symbolic step toward vulnerability. 
+      The chapter ends with Raven conflicted about her growing feelings for Luke and what they mean for her independence.
+    narrative-purpose: >
+      To explore Raven's internal conflict regarding family expectations and her fear of reliance, while highlighting how Luke's presence helps her navigate these pressures.
+    relationship-progression:
+      start: >
+        Raven views Luke as a reliable and steadying presence but remains guarded about her deeper feelings.
+      key-moments:
+        - "Raven leans on Luke during interactions with her parents, appreciating his quiet support."
+        - "The dance serves as a turning point where Raven allows herself to be vulnerable."
+        - "Raven feels conflicted about her growing attachment to Luke, unsure how to reconcile it with her independence."
+      end: >
+        Raven leaves the gala emotionally unsettled, recognizing her feelings for Luke but hesitant to fully embrace them.
+    key-emotional-beats:
+      - "Raven's frustration with societal expectations clashes with her appreciation for Luke's grounding presence."
+      - "The dance becomes a moment of emotional vulnerability, forcing Raven to confront her feelings."
+      - "Raven's internal conflict leaves her uncertain but deeply affected by the evening."
+    scenes:
+      - scene: "Family Expectations"
+        perspective: "Raven"
+        plot-summary: >
+          Raven engages with her parents and other high-society figures, feeling the weight of their expectations. 
+          Luke's steady presence helps her navigate these interactions.
+        narrative-purpose: >
+          Highlight Raven's family dynamics and show how Luke's support contrasts with the pressures she feels from others.
+        events:
+          - "Grant proudly introduces Raven to an influential guest, subtly emphasizing the family's values."
+          - "Elaine comments on Raven's partnership with Luke, planting seeds of doubt and reflection."
+          - "Luke steps in to defuse a tense moment, offering quiet reassurance."
+        sensory-details:
+          - "The sharp tang of expensive cologne and the warm glow of chandeliers."
+          - "Raven's forced smile as she maneuvers through stilted conversations."
+        scene-hook: "Raven steels herself as her parents lead her into another round of introductions."
+        ending: "Raven glances at Luke, feeling a flicker of gratitude for his presence."
+
+      - scene: "The Last Dance"
+        perspective: "Raven"
+        plot-summary: >
+          As the evening winds down, Raven surprises herself by asking Luke to dance. 
+          The intimate moment leaves her conflicted, feeling closer to Luke than she expected.
+        narrative-purpose: >
+          Use the dance to symbolize Raven's step toward vulnerability and deepen the romantic tension between her and Luke.
+        events:
+          - "Raven hesitates but asks Luke to dance, surprising both of them."
+          - "Their movements grow more natural, the physical closeness heightening the emotional tension."
+          - "Raven feels unexpectedly safe in Luke's presence, which unsettles her."
+        sensory-details:
+          - "The warmth of Luke's hand and the soft strains of a slow waltz."
+          - "The golden light of chandeliers reflecting off the polished dance floor."
+        scene-hook: "Raven hesitates on the edge of the dance floor, feeling Luke's steady gaze on her."
+        ending: "Raven steps away from the dance, her chest tight with emotions she doesn’t yet want to name."
+
+      - scene: "Departure"
+        perspective: "Raven"
+        plot-summary: >
+          Raven prepares to leave the gala, reflecting on the evening's events and her conflicted feelings about Luke. 
+          She thanks him for his support, but her emotions remain unresolved.
+        narrative-purpose: >
+          Provide a reflective beat to close the chapter, emphasizing Raven's inner conflict and setting up future emotional growth.
+        events:
+          - "Raven gathers her belongings and exchanges polite goodbyes with key guests."
+          - "She thanks Luke for being
