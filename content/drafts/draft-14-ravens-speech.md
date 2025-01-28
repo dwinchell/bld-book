@@ -137,7 +137,7 @@ The words were teasing, but something about the way his smile faltered—just fo
 
 Raven took another sip of water to buy herself time. The room felt warmer than it should have, and the knot in her chest loosened slightly at his presence. She was still rattled from the impromptu speech, from the way her parents had managed to pull her into yet another spotlight she hadn’t asked for. But Luke—he was steady. Grounding. She’d never thought she’d appreciate having someone like that next to her, but here she was.
 
-“I’ll keep that in mind,” she said, smirking just enough to make it clear she was brushing off the discomfort. “Guess I should stop before it goes to your head.”
+“I have been known for my improvisation skills,” she said, smirking just enough to make it clear she was brushing off the discomfort. “Guess I should stop before it goes to your head.”
 
 Luke’s eyes softened further. He reached out briefly, his hand brushing her arm—just enough to steady her as another donor rushed past, nearly bumping her shoulder. “I think you’re doing fine. Better than fine, actually.”
 
@@ -153,10 +153,12 @@ The noise of the gala hummed around them, distant and unimportant for just a mom
 
 “Well,” she finally said, straightening. “I should probably get back out there. Can’t let all the glory-hungry guests monopolize my parents.”
 
-Luke’s smile lingered, though it carried something softer now, less teasing and more thoughtful. “If you need backup, you know where to find me.”
+Luke’s smile lingered, though it carried something softer now, less teasing and more thoughtful. He hesitated for just a moment before speaking. “Do you want me to come with you?”
 
-Raven hesitated for just a second before nodding. “I’ll keep that in mind.”
+Raven blinked, caught off guard. Her first instinct was to brush it off, to tell him she was fine. But something in the way he asked, steady and without expectation, made her pause. 
 
-As she walked back toward the crowd, she couldn’t help glancing over her shoulder. Luke was still there, watching her, his expression unreadable. For all the chaos and expectations swirling around her tonight, there was something about him that felt… solid. Something she might even be able to lean on, if she ever let herself.
+“Yeah,” she said finally, the word slipping out before she could overthink it. “Sure. Why not?”
 
-She shook the thought away, stepping back into the noise and sparkle of the gala, her mixed feelings lingering as she disappeared into the crowd.
+Luke’s smile widened just slightly, and he nodded. “Lead the way.”
+
+As they walked back into the crowd together, Raven felt the weight on her chest lift just a little. For all the chaos and expectations swirling around her tonight, it was nice—just this once—not to face it alone.
