@@ -1,0 +1,98 @@
+metadata:
+  type: chapter-outline
+  title: "The Dance"
+  file: "chapter-the-dance.yaml"
+
+plot-summary: >
+  After her speech, Raven navigates the gala alongside Luke, mingling with influential guests. Their interactions deepen Raven’s understanding of her potential to contribute through diving while highlighting the growing intimacy in her partnership with Luke. The chapter culminates in a dance, where Raven lets herself be emotionally vulnerable, realizing how much Luke means to her.
+
+narrative-purpose: >
+  This chapter focuses on Raven’s relationship arc with Luke, showcasing their growing emotional connection and Raven’s trust in him. It also introduces the idea that Raven can use her diving career to inspire and contribute to society, reinforcing her family subplot while keeping the relationship as the central focus.
+
+relationship-progression:
+  start: >
+    Raven appreciates Luke’s steady presence after her speech but remains hesitant to fully rely on him emotionally.
+  key-moments:
+    - Luke supports Raven during their interactions with guests, showing his admiration and respect for her accomplishments.
+    - Raven begins to feel grounded by Luke, noticing his quiet but growing affection for her.
+    - The dance becomes a moment of emotional vulnerability, where Raven realizes her feelings for Luke and her trust in him.
+  end: >
+    Raven acknowledges to herself that she’s beginning to rely on Luke in ways she didn’t expect, leaving her both exhilarated and unsettled.
+
+key-emotional-beats:
+  - Raven’s growing sense of pride in her accomplishments as she sees how others admire her.
+  - Luke’s subtle but sincere gestures of support that Raven increasingly notices and appreciates.
+  - The physical and emotional intimacy of the dance, where Raven begins to fully confront her feelings for Luke.
+
+scenes:
+  - scene: "Making Rounds"
+    perspective: "Raven"
+    plot-summary: >
+      Raven and Luke mingle with the guests, meeting influential donors and other high-profile figures. Luke’s calm presence helps Raven navigate the social gauntlet, while she begins to see how her diving career can have broader societal value.
+    narrative-purpose: >
+      Show Raven’s gradual realization that her accomplishments can inspire and contribute to something greater. Deepen the partnership dynamic with Luke as he provides quiet support and encouragement.
+    events:
+      - Raven and Luke meet a donor who praises her leaderboard ranking and expresses interest in her diving stories.
+      - Luke deflects a snide comment from a guest, subtly protecting Raven’s confidence.
+      - Raven reflects on how diving, which she saw as personal, could also be a platform for societal good.
+    sensory-details:
+      - The faint clink of crystal glasses and the rustle of formal gowns.
+      - The warmth of Luke’s steady hand at the small of her back as he guides her toward another conversation.
+    scene-hook: >
+      Raven steels herself for the rounds, unsure how to handle the attention but reassured by Luke’s presence.
+    ending: >
+      Raven feels a mix of pride and reflection as she sees how others view her accomplishments, with Luke’s quiet encouragement bolstering her confidence.
+
+  - scene: "A Private Conversation"
+    perspective: "Raven"
+    plot-summary: >
+      Overwhelmed by the socializing, Raven steps aside with Luke for a quieter moment. They share a candid conversation about the speech and the expectations she feels, leading to a subtle but significant moment of emotional connection.
+    narrative-purpose: >
+      Provide a moment of introspection and connection, showing how Luke’s presence helps Raven feel grounded and appreciated.
+    events:
+      - Raven vents about feeling used by her family but admits she’s starting to see the value in their ideals.
+      - Luke reassures her, complimenting her speech and emphasizing how much he admires her boldness.
+      - Raven notices the subtle ways Luke looks at her, hinting at his growing feelings.
+    sensory-details:
+      - The crisp night air from a nearby open door, a contrast to the warmth of the gala.
+      - The low murmur of distant conversations blending with soft music in the background.
+    scene-hook: >
+      Raven slips away from the crowd, her tension easing slightly as Luke joins her.
+    ending: >
+      Raven feels unexpectedly comforted by Luke, her growing trust in him leaving her both reassured and unsettled.
+
+  - scene: "The Dance"
+    perspective: "Raven"
+    plot-summary: >
+      Luke suggests a dance to escape the pressure of the evening. As they move together, Raven feels the physical and emotional closeness, realizing how much she relies on him and how vulnerable she feels in his presence.
+    narrative-purpose: >
+      The dance serves as the emotional climax of the chapter, where Raven confronts her feelings for Luke and embraces a moment of vulnerability.
+    events:
+      - Luke gently suggests the dance, framing it as a way to decompress.
+      - As they move across the floor, Raven notices how steady and confident Luke is, realizing how much she trusts him.
+      - Raven allows herself to be vulnerable, feeling both exhilarated and terrified by her growing feelings for Luke.
+    sensory-details:
+      - The warm glow of chandeliers reflecting off the polished dance floor.
+      - The weight of Luke’s hand resting lightly on her waist as they move together.
+    scene-hook: >
+      Luke holds out a hand to Raven, his calm smile breaking through her hesitation.
+    ending: >
+      Raven steps away from the dance floor, her chest tight with emotion as she realizes how much Luke means to her.
+
+  - scene: "Departure"
+    perspective: "Raven"
+    plot-summary: >
+      As the gala winds down, Raven reflects on the evening’s events. She acknowledges the seeds of a new understanding of her role in society and her growing feelings for Luke but remains unsure how to reconcile them.
+    narrative-purpose: >
+      Conclude the chapter with a reflective moment that ties together the societal and relational themes, setting up future growth for Raven.
+    events:
+      - Raven exchanges polite goodbyes with key guests, thinking about how her diving could have a broader impact.
+      - Luke offers to see her home, further emphasizing his support and care.
+      - Raven thanks Luke sincerely, leaving him with a lingering sense of admiration and connection.
+    sensory-details:
+      - The cool night breeze brushing against her skin as they step outside.
+      - The fading strains of music and chatter as the gala comes to an end.
+    scene-hook: >
+      Raven stands at the edge of the crowd, watching Luke approach with a steady smile.
+    ending: >
+      Raven walks into the night with Luke at her side, her thoughts swirling with uncertainty and hope.
