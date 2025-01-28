@@ -39,7 +39,7 @@ Grant Blackwood stood at the edge of the gala floor, commanding the space with h
 
 "And here she is now!" Grant said, gesturing grandly as Raven stepped into earshot. "The fearless diver herself. Raven, I’d like you to meet Dr. Annabelle Haldane, Chair of the Department of Chemistry at Yale."
 
-Dr. Keating extended a hand, her warm smile contrasting with the sharpness of her tailored gown. "It’s a pleasure, Raven. Your father has been telling me all about your exploits."
+Dr. Haldane extended a hand, her warm smile contrasting with the sharpness of her tailored gown. "It’s a pleasure, Raven. Your father has been telling me all about your exploits."
 
 Raven shook her hand, feeling the firm grip of someone who commanded her field. "All good things, I hope."
 
@@ -125,7 +125,7 @@ The audience broke into applause as Raven stepped back from the microphone, her 
 
 ### Scene 5: After the Speeches
 
-Raven stepped off the stage, her pulse still racing from the applause. The crowd's polite smiles and soft claps echoed in her mind, their weight pressing down harder than she'd expected. She grabbed a glass of water from a passing tray and took a slow sip, letting the coolness steady her.
+Raven stepped off the stage, her pulse still racing. The crowd's polite smiles and soft claps echoed in her mind, their weight pressing down harder than she'd expected. She grabbed a glass of water from a passing tray and took a slow sip, letting the coolness steady her.
 
 “You handled that well,” Luke’s voice came from just to her left, calm and grounded, cutting through the swirling noise in her head. She turned to find him standing a few feet away, his expression soft but steady. He was watching her like she was something solid and steady, not the chaos she currently felt.
 
@@ -161,4 +161,4 @@ Raven blinked, caught off guard. Her first instinct was to brush it off, to tell
 
 Luke’s smile widened just slightly, and he nodded. “Lead the way.”
 
-As they walked back into the crowd together, Raven felt the weight on her chest lift just a little. For all the chaos and expectations swirling around her tonight, it was nice—just this once—not to face it alone.
+As they walked back into the crowd together, Raven felt the weight on her chest lift just a little. For all the pressure and expectations swirling around her tonight, it was nice—just this once—not to face it alone.
