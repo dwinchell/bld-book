@@ -1429,9 +1429,9 @@ Grant’s expression brightened. “Speaking of the gala, the Hargraves will be 
 
 Raven tensed slightly but kept her face neutral. “Yeah, I remember.”
 
-Elaine, ever tactful, added, “Yes, their son will be attending as well. It’ll be nice for you to catch up—he’s grown into quite a remarkable young man.”
+Elaine, ever tactful, added, “Yes, their son Julian will be attending as well. It’ll be nice for you to catch up—he’s grown into quite a remarkable young man.”
 
-Ah, there it was. Raven recognized the subtle push beneath her mother’s words, the carefully veiled hope that she might finally take an interest in the Hargraves’ son. She’d met him a few times before—dull, arrogant, and thoroughly not her type. She reached for her water glass, masking her irritation with a sip.
+Ah, there it was. Raven recognized the subtle push beneath her mother’s words, the carefully veiled hope that she might finally take an interest in the Hargraves’ son. She’d met him a few times before—arrogant, pushy, and thoroughly not her type. She reached for her water glass, masking her irritation with a sip.
 
 “Well, I’ll keep that in mind,” she said dryly, her tone dismissive but light enough to pass as casual. She could feel her father’s gaze lingering, but to his credit, he didn’t press the point. Instead, he leaned back in his chair and gestured toward the meal.
 

@@ -1,0 +1,114 @@
+metadata:
+  type: chapter-outline
+  title: "Framed by Moonlight"
+  file: "chapter-framed-by-moonlight.yaml"
+
+plot-summary: >
+  Luke navigates the overwhelming world of high society at a gala, supporting Raven in an unexpected situation and
+  reflecting on his growing feelings for her. Despite his initial discomfort, the evening leaves him conflicted as he realizes
+  how much she means to him, though he struggles to maintain professional boundaries.
+
+narrative-purpose: >
+  This chapter explores Luke’s internal conflict regarding vulnerability and attachment, deepens his relationship with Raven,
+  and highlights the contrast between their worlds. It sets up future emotional tension and relationship growth.
+
+relationship-progression:
+  start: >
+    Luke views Raven as a strong, independent partner whom he admires but keeps at an emotional distance.
+  key-moments:
+    - Luke feels unexpected protectiveness and pride during the pretend boyfriend moment.
+    - On the balcony, Luke reflects on Raven’s vulnerability and realizes he is falling for her.
+    - After Raven excuses herself to speak with her mother, Luke questions their dynamic, grappling with whether he is only her dive partner.
+  end: >
+    Luke reaches a clearer understanding of his feelings for Raven but remains conflicted, trying to convince himself
+    to keep things professional while realizing he’s already emotionally invested.
+
+key-emotional-beats:
+  - Luke’s discomfort and feelings of inadequacy in the high-society environment.
+  - Unexpected protectiveness and pride during the pretend boyfriend scene.
+  - Luke’s growing realization on the balcony that he is falling for Raven.
+  - His inner conflict after Raven refers to him as her dive partner, struggling to define their connection.
+
+scenes:
+  - scene: "Arrival at the Gala"
+    perspective: "Luke"
+    plot-summary: >
+      Luke arrives at the gala feeling out of place amidst the opulence and sophistication. Raven’s confident entrance
+      captivates him and provides a moment of relief as she draws him into her world.
+    narrative-purpose: >
+      Introduce Luke’s discomfort in high society, highlight his admiration for Raven, and set up their dynamic in the chapter.
+    events:
+      - Luke steps out of a cab, adjusting his rented tuxedo nervously.
+      - He enters the grand hall, overwhelmed by the lavish setting and polished attendees.
+      - Raven makes her entrance, her confidence and elegance immediately drawing attention.
+      - She spots Luke and approaches, teasing him gently to ease his nerves.
+    sensory-details:
+      - The clink of crystal glasses and hum of classical music filling the grand hall.
+      - The gleam of chandeliers reflecting off polished marble floors.
+    scene-hook: >
+      Luke hesitates at the entrance, feeling out of place but determined to support Raven.
+    ending: >
+      Luke feels a mix of relief and admiration as Raven pulls him into her orbit.
+
+  - scene: "Pretend Boyfriend"
+    perspective: "Luke"
+    plot-summary: >
+      Raven enlists Luke to play the role of her boyfriend to defuse an uncomfortable interaction with a persistent heir.
+      The charade leaves Luke feeling protective and exhilarated.
+    narrative-purpose: >
+      Highlight Luke’s growing attachment to Raven and his willingness to support her, setting up later reflection on their bond.
+    events:
+      - Raven urgently asks Luke to help her fend off an overly persistent man.
+      - Luke agrees, and Raven links her arm with his, pulling him into the conversation.
+      - Luke feels a rush of protectiveness as he notices Raven’s tension.
+      - The heir reluctantly backs off after Raven confidently introduces Luke as her boyfriend.
+    sensory-details:
+      - The cool touch of Raven’s hand on Luke’s arm as she pulls him close.
+      - Luke’s pulse quickening as he fumbles through the charade.
+    scene-hook: >
+      Raven’s urgent request catches Luke off guard, but he agrees without hesitation.
+    ending: >
+      Luke notices Raven’s lingering tension as she thanks him, leaving him protective but confused.
+
+  - scene: "On the Balcony"
+    perspective: "Luke"
+    plot-summary: >
+      Luke and Raven share a quiet moment on the balcony, escaping the noise of the gala. As they talk, Luke realizes he is
+      falling for her, though his fear of attachment resurfaces, leaving him conflicted.
+    narrative-purpose: >
+      Provide a reflective moment for Luke to process his emotions, deepening his internal conflict and connection to Raven.
+    events:
+      - Luke steps onto the balcony to clear his head, grateful for the quiet.
+      - Raven joins him, her poise softened by the moonlight as she leans on the railing.
+      - They talk about the pressures of the gala, with Raven revealing glimpses of vulnerability.
+      - Luke is struck by her elegance in the moonlight and realizes he is falling for her.
+    sensory-details:
+      - The crisp night air contrasting with the warmth of the gala inside.
+      - Moonlight illuminating Raven’s silhouette, making her seem ethereal.
+    scene-hook: >
+      Luke steps onto the balcony, seeking clarity after the whirlwind of emotions from the evening.
+    ending: >
+      Luke admits to himself that he is falling for Raven, though the realization terrifies him.
+
+  - scene: "Back Inside"
+    perspective: "Luke"
+    plot-summary: >
+      Returning to the gala, Raven excuses herself to speak with her mother, leaving Luke to reflect on the evening. He grapples
+      with whether he is just her dive partner while realizing he is already emotionally invested in her.
+    narrative-purpose: >
+      Deepen Luke’s internal conflict as he questions his relationship with Raven and struggles to balance his growing feelings
+      with his cautious nature.
+    events:
+      - Luke and Raven step back into the bustling gala, the contrast striking after the quiet balcony.
+      - Raven excuses herself to speak with her mother, leaving Luke relieved but unsettled.
+      - Luke reflects on her words, “dive partner,” and questions if that’s all he is to her.
+      - He recalls moments of connection from earlier in the evening and struggles to convince himself to stay detached.
+      - Luke spots Raven with her poised mother, feeling out of place and unsure of his role in her life.
+    sensory-details:
+      - The clinking of glasses and hum of polite laughter growing louder as they step back inside.
+      - The glow of chandeliers reflecting off polished floors, a surreal contrast to the balcony’s quiet.
+    scene-hook: >
+      Luke and Raven re-enter the gala, the noise and warmth immediately enveloping them.
+    ending: >
+      Luke watches Raven from a distance as she speaks with her mother, wrestling with the realization that his feelings for her
+      go deeper than he wants to admit.
