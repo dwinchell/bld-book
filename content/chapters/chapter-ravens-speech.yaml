@@ -115,3 +115,21 @@ scenes:
       Raven starts her speech with a lighthearted acknowledgment of her father’s enthusiasm, immediately engaging the audience.
     ending: >
       Raven steps back from the microphone to applause, her heart pounding as she processes the unintended consequences of her words.
+
+  - scene: "After the Speech"
+    perspective: "Raven"
+    plot-summary: >
+      Luke approaches Raven as she steps off stage, offering quiet reassurance and admiring her composure. Their brief exchange leaves Raven feeling unexpectedly supported.
+    narrative-purpose: >
+      Use Luke’s presence to ground Raven emotionally, hinting at the growing trust in their partnership.
+    events:
+      - Luke subtly compliments Raven’s speech, breaking through her lingering self-doubt.
+      - Raven apologizes for the misunderstanding with the crowd. Luke laughs it off, and jokes "If you keep calling me your boyfriend I'm going to start to believing you." She notices the joke seems strained.
+      - Raven notices how steady and sincere Luke’s demeanor is, beginning to see him as a grounding force.
+    sensory-details:
+      - The cool glass of water Raven sips as she exhales her tension.
+      - The warmth of Luke’s hand briefly brushing her arm as he steadies her.
+    scene-hook: >
+      Luke steps out of the crowd as Raven leaves the stage, catching her off guard with his calm support.
+    ending: >
+      Raven walks away from the encounter with mixed feelings—comforted by Luke’s presence but still uncertain about her family’s expectations.
