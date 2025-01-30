@@ -227,22 +227,22 @@ act-2:
     - chapter: "The Radiant Spire"
       perspective: "Luke"
       plot-summary: >
-        Luke and Raven tackle the Radiant Spire, a challenging dungeon designed around cycles of blinding light and oppressive darkness. Their unresolved tensions and personal flaws create friction as they navigate the dungeon’s hazards and enemies. A pivotal moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds. By the end, their bond is tested but strengthened as they confront their vulnerabilities and grow closer as a team.
+        Luke and Raven tackle the Radiant Spire, a challenging dungeon themed around light that requires flawless teamwork to survive. Their unresolved tensions and personal flaws create friction as they navigate the dungeon’s hazards and enemies. A pivotal moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds. By the end, their bond is tested but strengthened as they confront their vulnerabilities and grow closer as a team.
       narrative-purpose: >
-        The Radiant Spire serves as a narrative crucible, testing Luke and Raven’s partnership through intense challenges and personal flaws. The dungeon’s light-and-dark mechanics mirror their contrasting personalities and growing interdependence. A selfless act underscores the depth of their bond while leaving room for further emotional resolution.
+        The Radiant Spire serves as a narrative crucible, testing Luke and Raven’s partnership through intense challenges and personal flaws. The dungeon’s light mechanics represent and test their growing interdependence. A selfless act underscores the depth of their bond while leaving room for further emotional resolution.
       relationship-arc: >
         Moments of personal conflict push Raven and Luke to confront their vulnerabilities. The dungeon’s intense trials highlight the strain in their relationship, but their shared success and sacrifice reinforce their emotional connection. By the end, their trust and mutual reliance are stronger, though not without lingering emotional scars.
       reference: >
-        The Radiant Spire dungeon is detailed in the dungeons.yaml file and emphasizes dynamic mechanics where light and shadow cycles challenge timing, teamwork, and adaptability.
+        dungeons.yaml
 
     - chapter: "The Morning After"
       perspective: "Raven"
       plot-summary: >
-        After a late-night conversation, Luke invites Raven to stay at his apartment, taking a bold step outside his comfort zone. The next morning, Anna’s arrival adds humor and heart, emphasizing how much Luke’s life is changing.
+        After the dive, Luke invites Raven back to his apartment, taking a bold step outside his comfort zone. The next morning, Anna’s arrival adds humor and heart, emphasizing how much Luke’s life is changing.
       narrative-purpose: >
         Show Luke’s growth as he begins letting Raven into his personal life. Use Anna’s perspective to reinforce the emotional stakes and highlight the transformative impact of Raven on Luke’s world.
       relationship-arc: >
-        Luke takes a bold step by inviting Raven to his home after a difficult experience. The scene where Anna walks in on them together provides a lighthearted yet meaningful moment that cements the depth of their connection. Both characters privately acknowledge their feelings but remain hesitant to voice them.
+        Luke takes a bold step by inviting Raven to his home after a difficult experience. The scene where Anna walks in on them together provides a lighthearted yet meaningful moment that cements the depth of their connection. Both characters tentatively acknowledge their feelings for each other.
 
 act-3:
   title: "Resolution"
