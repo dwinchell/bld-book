@@ -6,7 +6,7 @@ The faint clink of crystal glasses and the rustle of silk gowns formed the backd
 
 Luke’s steady presence beside her was an unexpected relief. His simple, tailored suit made him look polished yet understated—a stark contrast to the ostentation around them. He’d already deflected two comments aimed at her with quiet poise, redirecting the conversations in a way that let her regain control. His presence at her side as they stopped near another group of guests felt like an anchor amidst the current of expectations.
 
-And that, of course, was the problem. Raven hated how much she appreciated the anchor. She prided herself on her independence, on her ability to navigate these social minefields alone. Yet here she was, leaning—just a little—on Luke’s calm and steady presence. The dichotomy made her chest tighten, as if the very idea of relying on someone else was an admission of weakness. But there was no denying that his support made it easier to breathe in this stifling room.
+And that, of course, was the problem. That, of course, was the problem. Raven didn’t need an anchor. She never had. She had weathered these things alone before, so why was she letting herself steady against him now? She prided herself on her independence, on her ability to navigate these social minefields alone. Yet here she was, leaning—just a little—on Luke’s calm and steady presence. The dichotomy made her chest tighten, as if the very idea of relying on someone else was an admission of weakness. But there was no denying that his support made it easier to breathe in this stifling room.
 
 “Raven Blackwood, isn’t it?” The voice came from a man in his late forties, his eyes gleaming with recognition. “Leaderboards don’t do your accomplishments justice. Your last run through Felforge Depths was… inspiring.”
 
@@ -24,9 +24,9 @@ As the group dissolved into more innocuous chatter, Raven leaned slightly toward
 
 The faintest smile tugged at her lips. She wasn’t sure whether to find his humility amusing or endearing. Either way, his presence made the room’s sharp edges feel just a little softer.
 
-They moved on to another cluster of guests, and as another round of pleasantries began, Raven caught herself reflecting on something unexpected: unlike previous events, she wasn't just enduring. There was something—someone—making it bearable. A small but undeniable warmth settled in her chest.
+They moved on to another cluster of guests, and as another round of pleasantries began, Raven caught herself reflecting on something unexpected: unlike previous events, she wasn't just enduring. There was something—someone—making it bearable.
 
-Uh oh.
+A small but undeniable warmth settled in her chest. She straightened her spine, rolling back her shoulders as if to physically shrug it off. It didn’t work. The warmth remained, quiet but insistent.
 
 # Scene: A Hole in the Armor
 
@@ -36,7 +36,9 @@ Two weeks ago, she had been a solo diver who needed no one in the dungon and wan
 
 These events and the broader obligations of being a Blackwood were never something she had needed help with. Sure, it sucked. Sure, she tried to avoid it all as much as possible. But she didn't *need* anyone to get through it.
 
-Now, she was acting like she needed someone to hold her hand and save her. In fact she had literally put on an act, asked Luke to hold her hand, and used him as an out with Julian. A few sharp words instead would have been enough to put him in his place. The only reason he had approached was she hadn't been firm enough last time. For that matter, she could have simply Shadow Stepped behind him and whispered a sweet nothing in his ear like "get lost". Maybe she would next time. Maybe she ... stop. It wasn't Julian she was angry with. It was herself.
+Now, she was acting like she needed someone to hold her hand and save her. In fact she had literally put on an act, asked Luke to hold her hand, and used him as an out with Julian. A few sharp words instead would have been enough to put him in his place. The only reason he had approached was she hadn't been firm enough last time. For that matter, she could have simply Shadow Stepped behind him and whispered a sweet nothing in his ear like "get lost". Maybe she would next time. Maybe she ... stop.
+
+It wasn't Julian she was angry with. It was herself. She could have handled Julian. She could have handled the schmoozing. She could have handled everything. She always had. So why did the idea of doing it without Luke now feel…lonelier than it should?
 
 Beyond needing anyone, she hadn't wanted anyone. Sure, she had her social circle - a few friendly faces at the Warden's Rest, a few friends from school she messaged or met up with occasionally. But she relentlessly focused on diving. No time for close friendships. No desire to engage in other pursuits. Still living with her parents because she coudln't be bothered to find her own place. And definitely not looking for a boyfriend.
 
@@ -68,9 +70,9 @@ She raised an eyebrow. “Adapt, huh? Is that what this is?”
 
 “Something like that,” he said, his voice calm. He began to lead in truth then, guiding and turning her through the melody.
 
-The music swelled, and for a moment, Raven let herself follow his lead completely. She didn’t overthink her movements or the way his hand steadied her. She didn’t worry about the dozens of eyes that might be watching. She simply… let go.
+The music swelled, and for a moment, Raven let herself follow his lead. She didn’t overthink her movements, didn’t think about the people watching. And then, at some point, she realized she wasn’t thinking about it at all. And that—that scared her more than anything. She nearly stumbled, her pulse kicking up—not from the dance, but from the terrifying realization that she liked this. Liked the way it felt to let go.
 
-“You’re not half bad at this,” she said after a while, her voice quieter now.
+“You’re not half bad at this,” she said after a long moment, her voice quieter now.
 
 “Thanks,” he replied, his tone light. “But you’re the one making us look good.”
 
@@ -88,7 +90,7 @@ As the song drew to a close, Raven felt the tension she’d carried all evening 
 
 Luke tilted his head slightly. “Good unexpected or bad unexpected?”
 
-“Still deciding,” she replied with a faint smirk, already turning back toward the crowd. 
+“Still deciding,” she tried to smirk, but the words came out uncertainly. 
 
 As they walked off the floor, that small but undeniable warmth lingered in her chest, refusing to fade.
 
@@ -138,4 +140,4 @@ She smiled faintly, though it didn’t quite reach her eyes. As he opened the ca
 
 "I'll message you,” she confirmed with a small nod.
 
-He slid into the car, the door shutting with a quiet thud. As the car rolled away, Raven lingered at the curb, the night breeze brushing against her skin. Her thoughts churned, a tangled mix of warmth, unease, and something far too close to reliance. Two weeks ago, she’d been sure she didn’t need anyone. Now, she wasn’t sure of anything. And that terrified her.
+He slid into the car, the door shutting with a quiet thud. As the car rolled away, Raven lingered at the curb, the night breeze brushing against her skin. Her thoughts churned, a tangled mix of warmth, unease, and something far too close to reliance. Two weeks ago, she hadn’t needed anyone. She still didn’t. Did she? Raven clenched her jaw, willing herself to believe it. But the small, persistent warmth in her chest refused to fade. And that terrified her most of all.
