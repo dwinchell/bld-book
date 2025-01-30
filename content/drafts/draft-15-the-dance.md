@@ -36,9 +36,9 @@ Two weeks ago, she had been a solo diver who needed no one in the dungon and wan
 
 These events and the broader obligations of being a Blackwood were never something she had needed help with. Sure, it sucked. Sure, she tried to avoid it all as much as possible. But she didn't *need* anyone to get through it.
 
-Now, she was acting like she needed someone to hold her hand and save her. In fact she had literally put on an act, asked Luke to hold her hand, and used him as an out with Julian. A few sharp words instead would have been enough to put him in his place. The only reason he had approached was she hadn't been firm enough last time. For that matter, she could have simply Shadow Stepped behind him and whispered a sweet nothing in his ear like "get lost". Maybe she would next time. Maybe she ... stop.
+Now, she was acting like she needed someone to hold her hand and save her. In fact she had literally put on an act, let him hold her, and used him as an out with Julian. A few sharp words instead would have been enough to put Julian in his place. The only reason he had approached was she hadn't been firm enough last time. For that matter, she could have simply Shadow Stepped behind him and whispered a sweet nothing in his ear like "get lost". Maybe she would next time. Maybe she ... stop.
 
-It wasn't Julian she was angry with. It was herself. She could have handled Julian. She could have handled the schmoozing. She could have handled everything. She always had. So why did the idea of doing it without Luke now feel…lonelier than it should?
+It wasn't Julian she was angry with. It was herself. She could have handled Julian. She could have handled the schmoozing. She could have handled everything. She always had. So why did the idea of doing it without Luke now feel … lonelier than it should?
 
 Beyond needing anyone, she hadn't wanted anyone. Sure, she had her social circle - a few friendly faces at the Warden's Rest, a few friends from school she messaged or met up with occasionally. But she relentlessly focused on diving. No time for close friendships. No desire to engage in other pursuits. Still living with her parents because she coudln't be bothered to find her own place. And definitely not looking for a boyfriend.
 
