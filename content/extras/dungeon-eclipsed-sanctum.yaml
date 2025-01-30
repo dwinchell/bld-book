@@ -1,0 +1,76 @@
+type: dungeon
+file: dungeon-eclipsed-sanctum.yaml
+
+name: "Eclipsed Sanctum"
+difficulty: "Mythic"
+description: >
+  The Eclipsed Sanctum is a sprawling, ethereal dungeon set in the heart of an ancient, forgotten temple. The entire environment is suffused with shifting cycles of light and darkness, with glowing celestial mosaics illuminating vast halls and deep shadows concealing perilous secrets. The dungeon's layout forces divers to seamlessly navigate between areas of radiant brilliance and oppressive darkness, each with its own unique challenges and hazards. The Sanctum’s design evokes the feeling of a celestial battleground, where balance and unity are paramount for survival.
+narrative-purpose: >
+  The Eclipsed Sanctum serves as the ultimate test of Luke and Raven’s partnership, showcasing their seamless synergy and the culmination of their personal and relational growth. Its light-and-dark themes symbolize their contrasting strengths and their unity, both in combat and emotionally. This dungeon acts as the final crucible where their combined abilities and trust are key to overcoming the challenges and achieving victory, cementing their bond as partners in every sense.
+
+threats:
+  - "Shifting light-dark cycles that alter enemy behavior and dungeon hazards, requiring precise timing and adaptation."
+  - "Areas where extreme light blinds or extreme darkness conceals traps and enemies, forcing divers to balance risk and reward."
+  - "Waves of enemies that alternate between radiant and shadow-infused, requiring divers to adjust their strategies on the fly."
+
+monster-types:
+  - name: "Solar Herald"
+    description: >
+      Towering, humanoid figures of golden light, Solar Heralds unleash searing blasts of radiant energy and summon celestial orbs that create zones of burning light. They are strongest during light phases and grow weaker in darkness.
+    narrative-role: >
+      Solar Heralds challenge Luke’s healing and barrier skills, as their radiant attacks overwhelm defensive strategies without precise timing and placement.
+  - name: "Umbral Stalker"
+    description: >
+      Agile, shadowy predators that blend into the darkness, striking with lethal precision. Umbral Stalkers thrive in dark phases, becoming nearly invisible and dealing massive damage with stealth attacks.
+    narrative-role: >
+      Umbral Stalkers force Raven to showcase her agility and adaptability, using her shadow-based skills to outmaneuver them while protecting Luke.
+  - name: "Eclipse Warden"
+    description: >
+      Massive, dual-aspect constructs that shift between radiant and shadow forms. In radiant form, they emit powerful AoE blasts; in shadow form, they summon minions and deal devastating melee attacks.
+    narrative-role: >
+      Eclipse Wardens require Luke and Raven to synchronize their efforts, with Luke countering radiant phases and Raven excelling during shadow phases.
+
+traps:
+  - name: "Luminous Crystals"
+    description: >
+      Glowing crystals that release bursts of blinding light when triggered, stunning divers and leaving them vulnerable to enemy attacks. They react to proximity or sudden movements.
+    narrative-role: >
+      Luminous Crystals test patience and precision, requiring divers to move carefully and use abilities to neutralize them.
+    counter: >
+      Triggering the crystals from a distance using ranged abilities or navigating carefully to avoid their activation.
+  - name: "Veil of Shadows"
+    description: >
+      Areas of thick, magical darkness that obscure vision and conceal traps or ambushes. Stepping into the veil drains stamina or mana until the area is illuminated or escaped.
+    narrative-role: >
+      Veils of Shadows create moments of tension and force divers to use light-based abilities or teamwork to navigate safely.
+    counter: >
+      Using light spells or abilities to temporarily dispel the darkness, or carefully scouting with ranged attacks to reveal hidden dangers.
+
+puzzle:
+  - name: "The Celestial Mechanism"
+    description: >
+      A massive central mechanism with rotating celestial rings and glowing runes that must be aligned to trigger the next phase of the dungeon. The rings shift between light and dark, requiring precise timing and coordination to align the runes correctly.
+    narrative-role: >
+      The Celestial Mechanism emphasizes the duo's teamwork and communication, with Luke managing defensive support while Raven uses her agility to manipulate the rings. Mistiming the alignment causes waves of enemies to spawn, creating additional challenges.
+    counter: >
+      Observing the rhythm of the light-dark cycles and coordinating movements to align the runes during the correct phase.
+
+final-boss:
+  name: "The Eclipsed Sovereign"
+  description: >
+    A godlike, celestial being that embodies both light and shadow. The Eclipsed Sovereign alternates between radiant and umbral phases, each with distinct abilities and hazards. In its radiant phase, it summons beams of searing light and creates radiant fields that burn over time. In its umbral phase, it cloaks the arena in oppressive darkness, summoning shadowy minions and creating dangerous shadow zones. During the final phase, the Sovereign becomes a fusion of light and shadow, unleashing devastating abilities that require perfect synergy to counter.
+  abilities:
+    - name: "Solar Flare"
+      description: >
+        Unleashes massive beams of radiant energy that sweep across the battlefield, requiring precise movement and timing to avoid.
+    - name: "Umbral Tide"
+      description: >
+        Summons waves of shadowy energy that flow unpredictably, dealing heavy damage and disorienting divers.
+    - name: "Eclipse Nova"
+      description: >
+        During its final phase, releases a powerful explosion of light and shadow that blankets the arena, forcing divers to rely on their combined abilities to mitigate the damage and counterattack.
+    - name: "Astral Bonds"
+      description: >
+        Links divers with glowing chains of light and shadow, requiring them to stay within a certain range of each other or suffer increasing damage.
+  narrative-role: >
+    The Eclipsed Sovereign is the ultimate test of Raven and Luke’s growth and synergy. Its alternating phases and devastating final form highlight their ability to adapt, coordinate, and trust one another completely. The fight serves as a visual and narrative culmination of their light-and-shadow motif, symbolizing their unity and strength as a team.

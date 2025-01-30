@@ -1,0 +1,68 @@
+type: dungeon
+file: dungeon-infernal-depths.yaml
+
+name: "Felforge Depths"
+difficulty: "Hard"
+description: >
+  A fiery, forge-themed dungeon filled with molten rivers, glowing embers, and intricate machinery. The environment is oppressive and chaotic, with intense heat and shifting platforms over rivers of lava. Felforge Depths is designed to test coordination, endurance, and precision as divers navigate unstable terrain and confront fire-forged monsters born of molten metal and flame. The dungeon’s atmosphere evokes the feeling of stepping into a colossal, ancient forge, where the air itself seems alive with heat and danger.
+narrative-purpose: >
+  The Felforge Depths serves as a key moment in Raven and Luke’s journey, pushing their teamwork and synergy to new heights. Raven’s adaptability and boldness shine as she leads them through chaotic challenges, while Luke’s strategic healing and terrain control provide the stability needed to survive. The dungeon’s fiery, forge-like aesthetic contrasts sharply with their light-and-shadow motifs, symbolizing the crucible of their partnership. Their success here cements their growing trust and admiration for each other.
+threats:
+  - "Molten rivers that create unstable terrain, forcing divers to navigate shifting platforms and timed jumps."
+  - "Blasts of fire from forge vents, requiring divers to anticipate and evade environmental hazards."
+  - "Relentless waves of fire-based enemies that require precision and endurance to defeat."
+monster-types:
+  - name: "Molten Golem"
+    description: >
+      Towering creatures of solidified magma, these slow but powerful enemies hit like a freight train. Their molten cores emit waves of heat, causing continuous damage to anyone in close proximity. They can hurl chunks of lava that explode on impact, creating pools of fire that linger on the battlefield.
+    narrative-role: >
+      These enemies emphasize endurance and careful positioning, forcing divers to manage distance and environmental hazards while maintaining sustained pressure.
+  - name: "Blazing Forge Hound"
+    description: >
+      Swift, quadrupedal creatures with metallic hides and flaming maws, these hounds hunt in packs. Their speed and coordination overwhelm unprepared divers, and their breath attacks leave searing trails of fire that restrict movement.
+    narrative-role: >
+      Blazing Forge Hounds test the party’s ability to handle mobility-focused enemies, forcing divers to split attention between evasion and counterattacks.
+  - name: "Lava Wraith"
+    description: >
+      Ghostly figures composed of molten fire and ash, these ethereal enemies phase in and out of reality, making them difficult to hit. They can summon small firestorms that obscure vision and deal damage over time.
+    narrative-role: >
+      Lava Wraiths create a sense of chaos and urgency, challenging divers to balance offense and survival while maintaining awareness of their surroundings.
+traps:
+  - name: "Flameburst Vent"
+    description: >
+      Hidden vents in the floor periodically erupt with pillars of flame, scorching anything in their path. The flames follow a set pattern, but the intervals between bursts are unpredictable, requiring careful timing to cross safely.
+    narrative-role: >
+      Adds tension by forcing divers to analyze patterns under pressure, with mistakes causing significant damage or separation from the group.
+    counter: >
+      Careful observation of vent patterns and timed movement. Abilities that provide temporary immunity or reduce fire damage are helpful.
+  - name: "Forge Chains"
+    description: >
+      Massive, swinging chains dangle across key pathways, glowing red-hot from the heat of the forge. Contact with the chains causes severe burns and temporary movement debuffs, making navigation treacherous.
+    narrative-role: >
+      Forge Chains add an element of unpredictability and danger to platforming sections, emphasizing the importance of timing and precision.
+    counter: >
+      Observing the chains’ swing patterns and coordinating movements with teammates to avoid collisions.
+puzzle:
+  - name: "The Ember Key Forge"
+    description: >
+      A massive, ancient forge blocks the path to the final chamber, requiring divers to repair and activate it to unlock the way forward. The puzzle involves collecting Ember Shards scattered throughout the dungeon, then placing them in the correct sequence to reignite the forge. Failure to sequence the shards correctly triggers a fiery explosion, forcing the team to reset and try again.
+    narrative-role: >
+      The Ember Key Forge emphasizes coordination and teamwork as divers must split up to retrieve shards while defending against waves of enemies. The sequencing phase tests communication and attention to detail under pressure.
+    counter: >
+      Careful observation of environmental clues, such as glyphs and forge markings, to determine the correct shard sequence. Timed defensive maneuvers to protect the forge while it activates.
+final-boss:
+  name: "Infernal Forgemaster"
+  description: >
+    A towering, humanoid figure crafted of molten steel and fire, wielding a massive hammer that ignites the ground with each strike. The Infernal Forgemaster commands the dungeon’s machinery, using the environment to trap and overwhelm divers. It summons waves of molten creatures to assist during key phases of the battle.
+  abilities:
+    - name: "Lava Slam"
+      description: >
+        The Forgemaster slams its hammer into the ground, creating shockwaves that split the floor and unleash rivers of lava that flow unpredictably.
+    - name: "Smoldering Anvil"
+      description: >
+        Summons a massive anvil that radiates heat, damaging divers within its vicinity and empowering the Forgemaster’s hammer strikes.
+    - name: "Flamebound Constructs"
+      description: >
+        Creates smaller, autonomous constructs of molten metal that charge at divers and explode on impact, dealing AoE fire damage.
+  narrative-role: >
+    The Infernal Forgemaster serves as the ultimate test of endurance and coordination, blending environmental hazards with relentless offensive pressure. Its fiery theme contrasts with Luke and Raven’s light and shadow abilities, visually and narratively symbolizing the crucible of their growing partnership.
