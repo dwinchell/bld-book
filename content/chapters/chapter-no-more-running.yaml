@@ -1,0 +1,84 @@
+metadata:
+  type: chapter-outline
+  title: "No More Running"
+  file: "chapter-no-more-running.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: >
+    Luke realizes he misunderstood Raven’s offer and rejected her out of fear.
+    Raven, hurt and humiliated, has cut him off. Luke decides that waiting isn’t an option—he goes to her in person.
+    This chapter reverses their usual dynamic: Raven runs, and Luke chases.
+  plot-summary: >
+    - Luke tries to message Raven—she doesn’t answer.
+    - He goes to the Blackwood mansion, but Grant turns him away.
+    - Luke tricks Grant into admitting Raven is home.
+    - Rather than leaving, Luke climbs up to Raven’s window and breaks in—because that’s what she would do.
+    - Raven nearly attacks him, mistaking him for a burglar.
+    - Luke tells her the truth: he rejected her because he was afraid.
+    - He asks for another chance—not to run the Spire immediately, but to train, prepare, and build trust first.
+    - Raven, reluctantly, listens.
+
+tone:
+  - "Tense and emotionally charged at the start."
+  - "Light humor through the burglary misunderstanding."
+  - "Heartfelt and sincere during the reconciliation."
+
+scenes:
+  - title: "The Blackwood Mansion"
+    perspective: Luke
+    plot-summary: >
+      Luke arrives at the Blackwood mansion, determined to see Raven. Grant Blackwood greets him but politely refuses to let him in.
+      Instead of leaving, Luke engages Grant in conversation, baiting him into admitting Raven is home.
+    events:
+      - Luke knocks on the Blackwood estate’s grand entrance.
+      - Grant greets him with polite but firm dismissal.
+      - Luke plays along, then tricks Grant into revealing Raven is inside.
+    key-emotional-beats:
+      - Luke’s frustration builds as he realizes Raven has completely shut him out.
+      - Grant’s verbal sparring provides tension, but also amusement—he sees through Luke but plays along.
+    ending: >
+      Luke, knowing the front door won’t work, decides to do what Raven would: break in.
+
+  - title: "Through the Window"
+    perspective: Luke
+    plot-summary: >
+      Luke climbs up to Raven’s window and sneaks inside, only for Raven to nearly throw something at his head.
+      After a tense, amused exchange, they finally talk.
+    events:
+      - Luke scales the wall of the mansion, reaching Raven’s window.
+      - He sneaks inside, only for Raven to nearly attack him, mistaking him for a burglar.
+      - After a brief, sharp exchange, Raven challenges him: why is he here?
+    key-emotional-beats:
+      - Raven’s reaction is a mix of shock, anger, and reluctant amusement.
+      - Luke, despite the absurdity, is completely serious—he isn’t leaving without fixing this.
+    ending: >
+      Luke finally tells Raven the truth—why he rejected her, and why he won’t run again.
+
+  - title: "The Truth and the Offer"
+    perspective: Luke
+    plot-summary: >
+      Luke admits that he turned her down because he was scared, not because he didn’t care. 
+      He offers her a compromise—not to run the Radiant Spire immediately, but to prepare for it together.
+    events:
+      - Luke admits his fear—he wasn’t rejecting her, he was running from what she meant to him.
+      - He tells her he *wants* to run the Spire with her, but not yet.
+      - He proposes that they train, build trust, and do it right.
+    key-emotional-beats:
+      - Raven, guarded, listens—hearing what she wanted to hear but struggling to trust it.
+      - Luke lays everything bare—this isn’t about fear anymore, it’s about doing things right.
+    ending: >
+      Raven, after a long silence, doesn’t say yes—but she doesn’t say no either.
+
+  - title: "Unfinished Business"
+    perspective: Raven
+    plot-summary: >
+      As Luke leaves through the window again, Raven watches him go, finally shaken.
+      This isn’t over, and she knows it.
+    events:
+      - Luke, knowing he can’t force an answer, leaves.
+      - Raven watches him go, conflicted.
+    key-emotional-beats:
+      - For the first time, Raven realizes Luke isn’t just someone she trusts—he’s someone she wants to trust completely.
+    ending: >
+      Raven exhales and finally checks her messages—Luke’s old ones, unread until now.

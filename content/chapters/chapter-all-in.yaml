@@ -1,0 +1,111 @@
+metadata:
+  type: chapter-outline
+  title: "All In"
+  file: "chapter-all-in.yaml"
+
+overview:
+  perspective: Raven
+  narrative-purpose: >
+    Raven processes the emotional fallout from the gala, struggles with her growing reliance on Luke, and ultimately decides to embrace it.
+    After a near-failure in a solo dungeon run, she acknowledges that trust is not weakness—it’s necessary.
+    She chooses the most extreme way to prove this to herself: running the Radiant Spire with Luke.
+  plot-summary: >
+    - Raven isolates herself after the gala, unsettled by how much she relied on Luke.
+    - She forces herself into a solo dungeon run, needing to prove she doesn’t need anyone.
+    - The run goes badly—she barely escapes, forced to confront the reality of her limits.
+    - A quiet moment with Luke after the run makes her realize she wants to stop fighting this.
+    - She hears about the Radiant Spire and fixates on it—it’s a perfect metaphor for trust.
+    - She tries to rationalize away the idea but ultimately embraces it.
+    - Raven asks Luke to run the Spire with her. He refuses, calling her reckless.
+    - The rejection **hurts**—she wasn’t offering a challenge; she was offering *them*.
+    - Raven shuts him out completely.
+
+tone:
+  - "Introspective and tense at the start."
+  - "High-stakes action and frustration in the solo dungeon run."
+  - "Quiet, bittersweet realization before she makes her decision."
+  - "Sharp, raw tension in the final confrontation with Luke."
+
+scenes:
+  - title: "A Mind That Won’t Quiet"
+    perspective: Raven
+    plot-summary: >
+      In the aftermath of the gala, Raven finds herself restless, unable to shake how much she relied on Luke.
+      Instead of feeling comforted, she feels exposed—like she’s let him too close.
+      She isolates herself, retreating into familiar patterns, pushing away what she doesn’t want to face.
+    events:
+      - Raven holes up in her apartment, avoiding messages and drowning herself in training.
+      - She replays the gala moments in her head—the pretend boyfriend moment, Luke’s steadiness, how *safe* she felt.
+      - Instead of acknowledging her feelings, she gets angry—at herself, at Luke, at how easily he seems to navigate trust.
+    key-emotional-beats:
+      - Raven refuses to acknowledge her feelings as fear—she frames them as *losing control* instead.
+      - The more she tries to shake the thoughts, the stronger they return.
+    ending: >
+      Needing to reclaim her independence, Raven decides to do a solo dungeon run—something challenging, to prove she doesn’t need anyone.
+
+  - title: "Going It Alone"
+    perspective: Raven
+    plot-summary: >
+      Raven enters a high-level dungeon alone, determined to reaffirm her strength.
+      She starts strong, but miscalculations pile up, leading to a near-disastrous failure.
+      She barely escapes, shaken by the realization that she’s hit her limit.
+    events:
+      - Raven pushes herself aggressively, cutting down enemies with precision.
+      - A tactical mistake forces her into an attrition battle she didn’t plan for.
+      - She gets **hurt**, and for the first time in a long while, there’s no backup.
+      - Forced to retreat, she barely makes it out before the dungeon collapse.
+    key-emotional-beats:
+      - The failure isn’t dramatic—it’s subtle, creeping, **a slow unraveling of control**.
+      - She realizes she **doesn’t just want someone to watch her back—she wants *him*.**
+    ending: >
+      Beaten, bruised, and frustrated, Raven returns, and against her better judgment, meets up with Luke.
+
+  - title: "A Simple Conversation"
+    perspective: Raven
+    plot-summary: >
+      Over a casual meal, Luke unknowingly says something that shatters Raven’s walls.
+      He treats trust as natural, practical—while she’s spent her life resisting it.
+      The contrast shakes her, making her realize how tired she is of fighting this.
+    events:
+      - Raven meets up with Luke under the pretense of getting food.
+      - Luke notices she’s hurt and questions her about it, but she shrugs it off.
+      - He makes an offhand comment: “You don’t have to do everything alone.”
+      - Something about the way he says it—like it’s just a fact—hits Raven harder than she expects.
+    key-emotional-beats:
+      - Raven realizes **he trusts her without even thinking about it.** But she still can’t let herself do the same.
+    ending: >
+      As they part ways, Raven sees something about the Radiant Spire—a news update, a rumor—and it sticks in her head.
+
+  - title: "The Radiant Spire"
+    perspective: Raven
+    plot-summary: >
+      The idea of the Spire takes hold—an impossible challenge that demands absolute trust.
+      She tries to shake the thought, but she keeps coming back to it.
+      Eventually, she gives in. If she and Luke can do *that*, then nothing else matters.
+    events:
+      - Raven does research on the Spire—no one has ever cleared it.
+      - The stories intrigue her. The mechanics demand **total synchronization**—exactly what she fears.
+      - She argues with herself, resisting the idea, but the conclusion is inevitable.
+    key-emotional-beats:
+      - She stops running from the truth: *she wants to trust Luke completely, and this is how she’ll prove she can.*  
+    ending: >
+      Raven makes her decision. She’s going to ask him.
+
+  - title: "The Proposal"
+    perspective: Raven
+    plot-summary: >
+      Raven finds Luke and, in her usual direct way, asks him to run the Radiant Spire with her.
+      Luke immediately refuses, calling her reckless.
+      She brushes it off like it’s just another challenge—but inside, it cuts deeper than she expected.
+    events:
+      - Raven finds Luke and, without preamble, says: “Run the Radiant Spire with me.”
+      - Luke is caught off guard—then immediately refuses.
+      - He calls it reckless, saying no one has survived it. She counters: “That’s why I want to do it.”
+      - Luke *sees through it*—this isn’t about the challenge, it’s about **trust**.
+      - He says no—not because he doesn’t believe in her, but because *she doesn’t understand what she’s asking*.
+      - The rejection stings in a way she wasn’t prepared for.
+    key-emotional-beats:
+      - Raven wasn’t just offering him a challenge—she was offering **them**.
+      - Luke’s refusal makes her feel like she **miscalculated something deeply personal**.
+    ending: >
+      Hurt and humiliated, Raven shuts him out completely, setting up the next stage of their conflict.
