@@ -1,0 +1,77 @@
+type: dungeon
+name: "Radiant Spire"
+difficulty: "Extreme (Lethal)"
+description: >
+  A floating citadel of pure light, suspended high above an endless sky. The Radiant Spire
+  is not a battle of strength—it is a trial of teamwork and trust.
+  Unlike other dungeons, the Radiant Spire does not seek to destroy intruders with malice—it tests them with unwavering precision. 
+  Every challenge demands absolute coordination between two divers, and those who fail are not granted second chances.
+  Only partners in perfect harmony will live. Only those who enter in perfect trust will survive to the end.
+
+narrative-purpose: >
+  The Spire represents a critical point in Luke and Raven’s partnership: 
+  Do they trust each other enough to survive this?
+
+challenges:
+  - name: "The Luminous Ascent"
+    description: >
+      A vertical climb up a shifting tower of radiant platforms—each one appearing and disappearing 
+      in rhythmic pulses of light. The platforms are not solid for both divers simultaneously; 
+      only one can stand on them at a time.
+    mechanics:
+      - "One diver must step forward as the other steps back, ensuring the platforms remain stable."
+      - "If one moves too fast, the other will fall to their death."
+      - "Misjudging a jump or losing sync results in immediate, irreversible failure."
+
+  - name: "The Guardians of Harmony"
+    description: >
+      Towering golden statues with blazing halos, standing at the threshold of the Spire’s inner sanctum. 
+      They do not attack—but they respond violently to disharmony.
+    mechanics:
+      - "The statues demand perfectly synchronized strikes—if one diver hits too early or too late, 
+         the guardians unleash a radiant blast that disintegrates the attacker."
+      - "The only way forward is to match pace, match force, match intent—the very essence of unity."
+      - "A single mistake results in instant death."
+
+  - name: "The Bridge of Light"
+    description: >
+      A path of pure, blinding radiance stretching into the sky. The bridge only exists when both divers advance together—
+      if one lags behind, the path disappears beneath their feet.
+    mechanics:
+      - "Moving out of sync causes the bridge to vanish beneath one diver, sending them plummeting."
+      - "The light flickers in response to movement—if one hesitates, both are stranded midair, leading to fatal collapse."
+      - "There is no saving someone who falls."
+
+final-challenge:
+  name: "The Heart of Light"
+  description: >
+    The Radiant Spire’s core is a living embodiment of light’s true nature—not just power, but caution, balance, and trust. 
+    It does not fight. It watches. It judges. And it presents the final test: one diver must leap into the void, 
+    trusting the other to catch them.
+  mechanics:
+    - "At the climax, the path abruptly ends. One diver must jump forward into empty space, 
+       knowing that if the other does not react, they will fall to their death."
+    - "The second diver must reach out and bridge the gap, activating the Spire’s final passage."
+    - "If they hesitate, miscalculate, or do not trust completely—one of them dies."
+    - "Only those who understand the true meaning of unity and caution will survive."
+
+rewards:
+  - name: "Sunwoven Sigils"
+    description: >
+      A radiant marking on the survivors’ hands, granting a permanent combat synergy boost 
+      when fighting alongside a trusted ally.
+
+  - name: "Cloak of the Luminous Path"
+    description: >
+      A shimmering mantle that enhances reaction speed and defensive abilities when guarding another person.
+
+  - name: "Guiding Light Ability Upgrade"
+    description: >
+      A skill enhancement that allows Raven and Luke to augment each other’s abilities through sheer presence, 
+      reinforcing unity.
+
+symbolic-meaning:
+  - "The Radiant Spire is not about destruction—it is about trust. It demands caution, precision, and absolute coordination."
+  - "There is no room for second chances—recklessness is punished, hesitation is fatal, and only those who fully trust their partner can succeed."
+  - "By the end, Luke and Raven have proven their bond in a way that no mere words or training could ever achieve."
+  - "This is the ultimate test of unity—and the only thing standing between victory and death is trust."
