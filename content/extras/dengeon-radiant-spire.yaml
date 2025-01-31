@@ -56,22 +56,12 @@ final-challenge:
     - "Only those who understand the true meaning of unity and caution will survive."
 
 rewards:
-  - name: "Sunwoven Sigils"
+  - name: "Luminous Vow"
     description: >
-      A radiant marking on the survivors’ hands, granting a permanent combat synergy boost 
-      when fighting alongside a trusted ally.
-
-  - name: "Cloak of the Luminous Path"
-    description: >
-      A shimmering mantle that enhances reaction speed and defensive abilities when guarding another person.
-
-  - name: "Guiding Light Ability Upgrade"
-    description: >
-      A skill enhancement that allows Raven and Luke to augment each other’s abilities through sheer presence, 
-      reinforcing unity.
+      A pair of rings with System description, 'Exchange these rings and make a vow. Gain 5 levels. If either partner breaks the vow, you both die.'
 
 symbolic-meaning:
-  - "The Radiant Spire is not about destruction—it is about trust. It demands caution, precision, and absolute coordination."
+  - "The Radiant Spire is not about destruction—it is about trust. It demands precision, and absolute coordination."
   - "There is no room for second chances—recklessness is punished, hesitation is fatal, and only those who fully trust their partner can succeed."
   - "By the end, Luke and Raven have proven their bond in a way that no mere words or training could ever achieve."
   - "This is the ultimate test of unity—and the only thing standing between victory and death is trust."
