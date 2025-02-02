@@ -1,15 +1,15 @@
 file: character-luke.yaml
 
 name: "Raven Blackwood"
-age: 21
+age: 25
 nationality: "American"
 
 physical_description:
   appearance:
-    height: "5 feet, 7 inches"
-    build: "Lithe and agile, reflecting her grace and dexterity."
-    hair: "Raven-black, often cascading down her back."
-    eyes: "Dark brown"
+    height: "5'7\""
+    build: "Lean and athletic, built for speed and precision"
+    hair: "Black, cut to just below her shoulders, usually tied back for practicality"
+    eyes: "Dark with an intensity that makes people uneasy"
     complexion: "Pale, contrasting with her dark attire for a bold, striking look."
   style:
     inside_dungeon: >
@@ -44,6 +44,12 @@ dungeon-style:
       symbolic-representation: >
         Raven represents the power of individuality and self-discovery, embodying the beauty of chaos and the strength that comes from adaptability. Her arc explores how these traits evolve as she learns to trust others without sacrificing her identity.
 
+narrative_role: >
+  Raven’s arc is about learning that trust doesn’t mean weakness. She begins the story as someone who believes independence is strength, but through her journey with Luke, she comes to understand that real strength is knowing when to stand alone—and when to let someone stand beside you.
+
+one-line-summary: >
+  Raven Blackwood is a fiercely independent diver who must learn that trust and interdependence aren’t weaknesses, but the foundation of something stronger than she ever imagined.
+
 conversational-style:
   description: >
     Raven’s tone is sharp and subtly confident, with wit that’s precise and often laced with dry humor or irony. 
@@ -62,10 +68,11 @@ conversational-style:
 personality:
   core_traits:
     - Driven
+    - Determined
     - Daring
-    - Independent but learning the value of interdependence
-    - Ambitious
-    - Balances thrill-seeking with contributing to something greater than herself
+    - Independent
+    - Guarded
+    - Sharp-witted
   values:
     - Resilience and adaptability
     - Growth through experience and challenge
@@ -88,6 +95,11 @@ personality:
 
 growth_arc: Raven begins as fiercely independent, viewing diving as personal. Over time, she realizes independence doesn’t mean isolation. She learns to balance thrill-seeking with purpose, using her career to contribute to society. Through her partnership with Luke, she embraces vulnerability and interdependence, discovering strength in emotional connection. Ultimately, she reconciles her desire for freedom with contributing to something greater than herself, including both societal impact and a meaningful relationship.
 
+relationships:
+  with_grant_blackwood:
+    dynamic: >
+      Her father, a powerful and charismatic figure, has always expected great things from her. While he is proud of her, his confidence in her abilities sometimes feels like pressure rather than support. They have a complicated but affectionate relationship.
+
 background:
   family_life:
     upbringing: >
@@ -104,15 +116,28 @@ background:
 
 motivations_and_fears:
   motivations:
-    - To prove her strength and independence
+    - "To prove herself, not just to others but to herself."
+    - "To push beyond limits and take on the impossible."
+    - "To find something worth holding onto, despite her instinct to stand alone."
     - To break free from her parents' expectations while finding ways to live out shared values on her own terms
-    - To use her diving career to make a meaningful societal contribution
-    - To embrace vulnerability and interdependence as a source of strength
   fears:
-    - Fear of losing her sense of identity in a partnership
     - Fear of vulnerability and reliance on others
+    - Losing control over her own choices.
+    - Fear of losing her sense of identity in a partnership
+    - Becoming stagnant, losing her edge.
     - Aversion to feeling trapped by societal or familial obligations
-    - Fear of stagnation, driving her to continuously push her limits
+
+key_moments:
+  first_meeting_with_luke: >
+    She initially sees Luke as an unnecessary liability—too cautious, too slow. But their first dive together forces her to admit, begrudgingly, that his presence isn’t entirely useless.
+  the_gala: >
+    An unexpected moment of vulnerability. Luke becomes a shield for her in an environment where she can’t rely on brute force or skill. This changes how she sees him, making her question what their relationship actually is.
+  the_spire_proposal: >
+    Asking Luke to run the Radiant Spire with her isn’t just about the challenge—it’s about trust. When he refuses, it cuts deeper than she expected, forcing her to confront just how much she was beginning to depend on him.
+  rebuilding_trust: >
+    When Luke comes back and asks for another chance, she doesn’t immediately accept. Instead, she tests him, needing proof that he truly understands what trust means to her.
+  the_spire_run: >
+    The final trial. The culmination of everything they’ve built. For the first time in her life, she leaps knowing someone will be there to catch her.
 
 class-overview:
   summary: >
