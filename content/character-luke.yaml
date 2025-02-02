@@ -37,7 +37,7 @@ conversational-style:
   description: >
     Luke’s tone is calm, measured, and pragmatic, reflecting his grounded and empathetic nature. 
     He speaks with a quiet warmth, rarely raising his voice, but his words carry weight through their sincerity and thoughtfulness. 
-    His humor is understated and often self-deprecating, revealing a subtle charm without drawing attention to himself. 
+    His humor is dray and understated, revealing a subtle charm without drawing attention to himself. 
     While he can be cautious in opening up, when he does, his honesty is disarming, creating a sense of trust and reliability. 
     His nurturing personality comes through in the way he checks on others or defuses tension, often prioritizing clarity and reassurance in his conversations.
 
@@ -50,14 +50,17 @@ conversational-style:
 
 personality:
   core_traits: ["Deliberative", "Cautious", "Pragmatic", "Nurturing", "Empathetic", "Grounding presence"]
-  quirks: ["Sweats when nervous", "Stretches often to calm himself", "Strikes bold poses unintentionally", "Creative sense of humor"]
   values: ["Care", "Relationships", "Family", "Sister"]
+
+quirks_and_habits:
+  - "Always double-checks his supplies before a dive"
+  - "Mediates stress by sketching strategy layouts"
+  - "Has a dry, understated sense of humor that surfaces when he’s comfortable"
 
 background:
   family_life:
     parents: Deceased
     sister: Younger, doted on by Luke
-    grandparents: Distant relationship with expectations for care
   early_life:
     training: Self-taught healer through experience
     motivation: Diving to provide for family, prioritizing safety and stability
@@ -71,33 +74,13 @@ background:
 
 motivations_and_fears:
   motivations:
-    - "To ensure the safety and well-being of his team."
-    - "To provide financial stability for his younger sister and himself."
-    - "To create meaningful connections through shared challenges."
-    - "To care for and stay connected with his sister."
+    - "To keep the people he cares about safe"
+    - "To master his craft as a healer and strategist"
+    - "To build something stable in an unpredictable world"
   fears:
-    - "Fear of losing teammates or loved ones in a dive."
-    - "Fear of making impulsive decisions that lead to failure or harm."
-    - "Aversion to solo diving due to its inherent risks and isolation."
-
-combat:
-  psychology:
-    typical_mental_state: >
-      Deadly serious and focused on keeping the party alive but gradually evolves to embrace offensive opportunities 
-      and calculated risks as his trust in Raven’s instincts grows.
-    group_dynamics: >
-      Initially takes full responsibility for the team’s survival, but over time learns to trust Raven’s proactive disruption. 
-      Their complementary roles allow him to blend tactical planning with adaptive combat support.
-    weakness: >
-      Struggles with incorporating offensive elements into his style early on, relying too heavily on caution and 
-      overprotective tactics.
-  interpersonal_characteristics:
-    friendships:
-      general: Warm but introverted, maintaining pleasant acquaintances
-      childhood_friend: Grown distant due to responsibilities
-      with_raven_blackwood: >
-        Initially cautious, grows to admire Raven’s courage. Reflective nature helps Raven explore motivations while her boldness challenges him.
-    initial-flaws: Overheals because he is afraid of losing party memebers. Rooted in the trauma of losing his parents.
+    - "Losing someone he cares about because he wasn’t careful enough"
+    - "Relying on someone only be let down in a way that prevents him from meeting his responsibilies"
+    - "Taking a risk that he can’t control the outcome of"
 
 class-overview:
   summary: >
@@ -110,8 +93,10 @@ class-overview:
     both in combat and relationships. His light-based abilities symbolize hope, unity, and his journey toward trusting Raven’s 
     bold instincts. By integrating healing with offensive and utility options, his gameplay mirrors his evolving ability 
     to balance planning with decisive action.
-  reference: >
-    For a detailed breakdown of Luke’s abilities, resource mechanics, and synergy effects, refer to the combat-dynamics file.
+  reference: combat-dynamics.yaml
+
+narrative_role: >
+  Luke’s arc is about learning to trust—not just others, but himself. While he starts as a pragmatic survivalist who avoids emotional risks, his journey with Raven (and his sister) forces him to confront the limits of his caution. By the time he chooses to run the Radiant Spire with Raven, he is no longer just the protector—he is an equal partner, willing to take a leap with someone instead of simply catching them when they fall.
 
 interests_and_hobbies:
   music:
@@ -131,10 +116,17 @@ strengths_and_weaknesses:
     - Hesitant to take risks, hindering progression
     - Neglects own needs for family and party
 
+key_moments:
+  emotional_breakthrough: >
+    Luke’s biggest moment of growth comes when he realizes that his inability to trust isn’t just about fear of loss—it’s about control. By always being the provider, the protector, he has kept himself emotionally walled off. His journey with Raven forces him to accept that trust is built, not assumed, and that he has to allow himself to rely on others if he ever wants to grow.
+  training_with_raven: >
+    Their training arc is a slow but steady dismantling of his belief that preparation alone guarantees survival. Through failures and small victories, he learns that sometimes instinct matters just as much as planning. Raven, in turn, learns that trusting his structure doesn’t mean losing her edge—it means sharpening it.
+  shift_with_anna: >
+    When Anna decides to take a student loan to focus on school, Luke’s first instinct is to warn her about the risks. But then he realizes—she’s made her choice, and she’s thought it through. For the first time, he lets go, acknowledges her independence, and tells her he’s proud of her. This moment becomes the catalyst for how he approaches his relationship with Raven.
+
 key_emotional_beats:
   fear_of_attachment: >
     Initially tries to keep a professional relationship with Raven, afraid of attachment. Over time, grows closer and embraces connection.
-growth_arc: "Motivated by desire for a partner and family, pushes past fear and embraces challenges, balancing caution with boldness."
 
 worldview:
   philosophy: >
@@ -153,3 +145,13 @@ recurring-motif:
 mottos:
 - "We are stronger together"
 
+relationships:
+  with_raven:
+    dynamic: >
+      Initially partners out of necessity, Luke and Raven have a push-pull relationship built on contrasting philosophies. She thrives on instinct and adaptability; he relies on careful preparation and planning. Over time, their trust deepens, and he learns that trusting someone doesn’t mean losing control—it means sharing the burden.
+  with_anna:
+    dynamic: >
+      His younger sister and the only person he has ever fully trusted. He sees himself as her protector and provider, structuring his life around ensuring her stability. However, as Anna grows more independent, he begins to realize that he has been using his responsibility to her as an excuse to avoid risks and personal attachments. Her subtle encouragement and autonomy help him confront his fears.
+
+one-line-summary: >
+  Luke Calloway is a careful, pragmatic healer who has spent his life avoiding emotional risks—but when faced with true partnership, he must learn that trust isn’t about control, it’s about choice.
