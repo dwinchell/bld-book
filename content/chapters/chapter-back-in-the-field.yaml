@@ -1,0 +1,48 @@
+---
+type: chapter-outline
+title: "Back in the Field"
+file: "chapter-back-in-the-field.yaml"
+
+overview:
+  perspective: Raven
+  narrative-purpose: >
+    This chapter marks the first time Luke and Raven fight together again after their fallout. While they functionally complete the dungeon challenge, it highlights that their trust isn’t fully restored yet. Old habits resurface, and while they work well as a team, the emotional weight of fighting alongside someone they are deeply connected to complicates their performance.
+
+scenes:
+  - title: "Into the Ruins"
+    perspective: Raven
+    plot-summary: >
+      Luke and Raven enter a mid-level dungeon, an abandoned ruin overrun with constructs. The environment is manageable but requires cooperation to navigate efficiently.
+    key-emotional-beats:
+      - Raven feels the weight of being back in the field with Luke, a mix of comfort and unease.
+      - Luke, cautious as ever, double-checks their plan, while Raven is ready to move forward.
+      - Their old habits immediately surface—Luke hesitates, Raven pushes ahead.
+    ending: >
+      They proceed into the dungeon, falling into familiar rhythms but feeling the strain of their unresolved issues.
+
+  - title: "Mechanical Success, Emotional Disconnect"
+    perspective: Raven
+    plot-summary: >
+      Fighting the constructs should be routine, and in some ways, it is—they move in sync, cover each other’s weaknesses, and execute strategies efficiently. But something is off.
+    key-emotional-beats:
+      - Raven expects to feel the same battle-high she always does, but something about Luke’s presence makes her hyperaware of every action.
+      - Luke calls out moves he normally wouldn’t need to, as if second-guessing her responses.
+      - The fight is won cleanly, but they are both left feeling like they didn’t truly win together.
+    ending: >
+      As they clear the first section, an uneasy silence lingers between them.
+
+  - title: "The Real Test"
+    perspective: Raven
+    plot-summary: >
+      The dungeon’s second phase introduces an unexpected challenge—a split-path segment where they are forced to fight independently but rely on the other triggering mechanisms on their side.
+    key-emotional-beats:
+      - This forces them to work together in a structured way rather than instinctively.
+      - Luke overthinks the timing of a mechanism, causing a delay that nearly costs Raven.
+      - Raven moves forward without checking if Luke is ready, leading to a moment of vulnerability.
+      - They manage to complete the segment, but there is no real sense of victory—only frustration.
+    ending: >
+      As they exit the dungeon, Raven acknowledges that skill isn’t the issue—trust still is.
+
+narrative-purpose: >
+  This chapter sets the foundation for their training arc. It establishes that, while they can functionally work together, their deeper emotional connection complicates their ability to trust each other fully in combat. Their old habits resurface, reinforcing that their partnership needs more than just experience to work—it needs trust rebuilt from the ground up. The resolution remains open-ended, leading into further training sessions where they actively address their weaknesses.
+

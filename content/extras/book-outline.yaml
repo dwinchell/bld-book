@@ -213,36 +213,23 @@ act-2:
     - chapter: The Dance
       reference: chapter-the-dance.yaml
 
-    - chapter: "A Dangerous Proposal"
-      perspective: "Luke"
-      plot-summary: >
-        Raven suggests tackling the Radiant Spire, an exceptionally dangerous dungeon known for its shifting light-and-dark mechanics and high risk-to-reward ratio. Luke hesitates, concerned about the risks and their readiness. However, he ultimately agrees, driven by his growing trust in Raven’s judgment and his feelings for her. Together, they prepare for the challenge, solidifying their commitment to face the trials ahead as a team.
-      narrative-purpose: >
-        Set up the climactic dive in Act 3 by introducing the Radiant Spire as a high-stakes test of their partnership. Emphasize Luke’s growing willingness to take risks for Raven and their partnership, while showcasing Raven’s confidence in his abilities. Highlight their deepening mutual trust and emotional interdependence.
-      relationship-arc: >
-        Raven’s confidence in Luke inspires him to step out of his cautious nature, while his decision to take on the Radiant Spire reflects his growing trust in her leadership. Their unspoken feelings become more evident as they prepare for the dive, reinforcing their emotional connection and mutual dependence while leaving space for further growth in the dungeon.
-      reference: >
-        The Radiant Spire dungeon is detailed in the dungeons.yaml file and is designed to test their synergy and interdependence with its light-and-dark mechanics.
+    - chapter: "All In"
+      reference: "chapter-all-in.yaml"
 
-    - chapter: "The Radiant Spire"
-      perspective: "Luke"
-      plot-summary: >
-        Luke and Raven tackle the Radiant Spire, a challenging dungeon themed around light that requires flawless teamwork to survive. Their unresolved tensions and personal flaws create friction as they navigate the dungeon’s hazards and enemies. A pivotal moment forces one of them to make a personal sacrifice to save the other, rekindling their trust but leaving emotional wounds. By the end, their bond is tested but strengthened as they confront their vulnerabilities and grow closer as a team.
-      narrative-purpose: >
-        The Radiant Spire serves as a narrative crucible, testing Luke and Raven’s partnership through intense challenges and personal flaws. The dungeon’s light mechanics represent and test their growing interdependence. A selfless act underscores the depth of their bond while leaving room for further emotional resolution.
-      relationship-arc: >
-        Moments of personal conflict push Raven and Luke to confront their vulnerabilities. The dungeon’s intense trials highlight the strain in their relationship, but their shared success and sacrifice reinforce their emotional connection. By the end, their trust and mutual reliance are stronger, though not without lingering emotional scars.
-      reference: >
-        dungeons.yaml
+    - chapter: "No More Running"
+      reference: "chapter-no-more-running.yaml"
+
+    - chapter: "Back in the Field"
+      reference: chapter-back-in-the-field.yaml
+
+    - chapter: "Dinner with the Blackwoods"
+      reference: chapter-dinner-with-the-blackwoods.yaml
+
+    - chapter: "Crossing the Line"
+      reference: chapter-crossing-the-line.yaml
 
     - chapter: "The Morning After"
-      perspective: "Raven"
-      plot-summary: >
-        After the dive, Luke invites Raven back to his apartment, taking a bold step outside his comfort zone. The next morning, Anna’s arrival adds humor and heart, emphasizing how much Luke’s life is changing.
-      narrative-purpose: >
-        Show Luke’s growth as he begins letting Raven into his personal life. Use Anna’s perspective to reinforce the emotional stakes and highlight the transformative impact of Raven on Luke’s world.
-      relationship-arc: >
-        Luke takes a bold step by inviting Raven to his home after a difficult experience. The scene where Anna walks in on them together provides a lighthearted yet meaningful moment that cements the depth of their connection. Both characters tentatively acknowledge their feelings for each other.
+      reference: chapter-the-morning-after.yaml
 
 act-3:
   title: "Resolution"
