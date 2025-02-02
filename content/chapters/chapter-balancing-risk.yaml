@@ -1,0 +1,60 @@
+---
+type: chapter-outline
+title: "Balancing Risk"
+file: "chapter-balancing-risk.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: >
+    This chapter is a major shift in Luke’s understanding of Raven’s combat style. His emotional attachment has begun affecting his decision-making—he’s overcompensating by over-healing, which makes him less efficient. Raven forces him to confront this by making him watch her take damage on purpose, proving that she is in control of her own health. This lesson deepens their combat coordination and sets up their eventual ability to function without verbal communication.
+
+scenes:
+  - title: "A Rough Start"
+    perspective: Luke
+    plot-summary: >
+      Luke and Raven enter a dungeon filled with slow but heavy-hitting golems. The first fights seem routine, but Luke keeps over-healing Raven, draining his mana faster than necessary.
+    key-emotional-beats:
+      - Luke is too focused on keeping Raven at full health, unconsciously reacting to every hit she takes.
+      - Raven notices and calls him out for overhealing, pointing out that he’s being inefficient.
+      - Luke bristles at the comment—his healer pride is slightly wounded—but he realizes she’s right.
+    ending: >
+      Raven tells him to stop healing her completely and watch instead.
+
+  - title: "The Lesson"
+    perspective: Luke
+    plot-summary: >
+      Raven aggros a slow-hitting golem and kites it, dodging flawlessly while casually explaining Flow. She shares her Flow status to his HUD so he can see it build over time.
+    key-emotional-beats:
+      - Luke watches, tense, as she moves effortlessly, dodging every attack.
+      - Raven casually talks him through it, showing him how Flow stacks through dodging.
+      - Then, she blocks on purpose, letting herself take damage, which causes a major Flow increase.
+      - Luke instinctively moves to heal her, but Raven **sharply stops him**—if he changes her health without permission, she’ll do the same to him.
+      - She makes him **breathe and accept** that she’s in control of her own health.
+    ending: >
+      Raven asks him what her increased Flow means. Luke, after hesitating, finally responds: "Your health is a resource."
+
+  - title: "Shared Resources"
+    perspective: Luke
+    plot-summary: >
+      Raven shares her HUD status with Luke, and in return, he shares his mana bar with her. She teaches him how to balance spending her health and conserving his mana.
+    key-emotional-beats:
+      - Raven points out that if he keeps overhealing, she can’t optimize her Flow, and he burns mana for no reason.
+      - She tells him to **trust her to back off when she needs to.**
+      - Luke reluctantly agrees, seeing the logic in it, but it’s an emotional hurdle as much as a strategic one.
+    ending: >
+      To drive the lesson home, Raven finishes the fight with a devastating Flow-infused attack, proving that the strategy works.
+
+  - title: "Putting It Into Practice"
+    perspective: Luke
+    plot-summary: >
+      They continue through the dungeon, this time **practicing everything Raven taught him.**
+    key-emotional-beats:
+      - Luke fights the urge to heal too soon, watching Raven dodge and manage her health instead.
+      - Raven acknowledges that he’s learning, giving small but significant praise.
+      - Their combat dynamic **becomes smoother**, hinting at their future synchronicity.
+    ending: >
+      They exit the dungeon, feeling a real sense of progress—**this is the first step toward true combat trust.**
+
+narrative-purpose: >
+  This chapter establishes a critical shift in their combat relationship. Luke must learn to **trust Raven’s ability to manage her own health**, and Raven must help him break the instinct of overprotection. The HUD-sharing mechanic lays the foundation for their eventual ability to fight without verbal communication, strengthening their coordination for future challenges. This is an essential step toward them becoming a true combat unit.
+

@@ -1,0 +1,47 @@
+---
+type: chapter-outline
+title: "Audibles"
+file: "chapter-audibles.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: >
+    This chapter focuses on improving Luke and Raven’s in-combat communication. After a tough fight where they overlap defensive cooldowns inefficiently, they realize they need a structured system for callouts. Drawing from their previous lessons, they establish a streamlined way to communicate crucial information quickly, leading to smoother fights and better coordination.
+
+scenes:
+  - title: "Cooldown Clash"
+    perspective: Luke
+    plot-summary: >
+      During a tough fight, Luke and Raven instinctively use their defensive cooldowns at the same time. This leaves Raven vulnerable later, forcing Luke to burn a major ability to save her, creating a chain reaction of inefficiency. They finish the fight safely, but it was clearly a mess.
+    key-emotional-beats:
+      - Raven recognizes they both played suboptimally but is reluctant to analyze another mistake.
+      - Luke, determined to fix the problem, insists on reviewing what went wrong.
+      - They pinpoint cooldown management as the main issue.
+    ending: >
+      Raven sighs but agrees to a post-fight review, knowing their previous reviews have been valuable.
+
+  - title: "Callout System"
+    perspective: Luke
+    plot-summary: >
+      As they break down the fight, Raven remembers using “fast” and “hot” in the healing lesson and suggests they apply a similar shorthand for combat callouts.
+    key-emotional-beats:
+      - Luke is immediately on board, recognizing how this could improve reaction time.
+      - They start with basic cooldown calls but quickly expand it to positioning, engagement, and fallback strategies.
+      - The process feels natural—like an evolution of how they already fight together.
+    ending: >
+      They formalize a simple but efficient system and decide to test it in real combat.
+
+  - title: "Putting It Into Practice"
+    perspective: Luke
+    plot-summary: >
+      They dive into another fight using the new callouts, testing how well they can coordinate without over-explaining.
+    key-emotional-beats:
+      - At first, they overuse the system, calling out things that aren’t necessary.
+      - As the fight progresses, they start naturally refining it, reducing unnecessary chatter.
+      - By the end, they talk **less** overall, but their movements are **more in sync.**
+    ending: >
+      They finish the fight smoothly, realizing they’ve taken a major step forward in their combat coordination.
+
+narrative-purpose: >
+  This chapter cements their evolution from instinct-based teamwork to **structured coordination.** Learning to communicate efficiently in combat is crucial for their future success, particularly as they move toward **fighting without verbal cues.** This is another key step toward **intuitive combat synergy.**
+

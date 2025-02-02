@@ -1,0 +1,47 @@
+---
+type: chapter-outline
+title: "Going Solo"
+file: "chapter-going-solo.yaml"
+
+overview:
+  perspective: Raven
+  narrative-purpose: >
+    This chapter forces Raven to confront her fear of losing Luke in combat. After a close call in a dungeon, she starts hovering too close, overcorrecting and disrupting her own movement. Luke calls her out and insists she teach him to solo dive—forcing her to let go and trust him to handle himself. This deepens their combat dynamic by making Raven acknowledge that Luke isn’t helpless without her and helping her develop confidence in his survival skills.
+
+scenes:
+  - title: "Too Close for Comfort"
+    perspective: Raven
+    plot-summary: >
+      During a dungeon run, Luke has a close call, and Raven immediately shifts into overprotective mode—staying too close, limiting her own movement efficiency. Luke notices and points it out, teasing her about hovering. She, of course, denies it.
+    key-emotional-beats:
+      - Raven doesn’t realize how much the near-miss affected her until she starts adjusting her playstyle instinctively.
+      - Luke, amused but serious, calls her out—he can, in fact, fight weak mobs if necessary.
+      - Raven pushes back at first, but deep down, she knows he’s right.
+    ending: >
+      Luke suggests that if she doesn’t believe in his ability to fight solo, she should teach him properly.
+
+  - title: "The Training Grounds"
+    perspective: Raven
+    plot-summary: >
+      They enter an easy dungeon designed for beginner divers. Luke is determined to solo while Raven watches from the sidelines, only intervening if absolutely necessary.
+    key-emotional-beats:
+      - Raven struggles to hold back as Luke makes inefficient movements and takes unnecessary hits.
+      - Every instinct in her is screaming to step in, but she forces herself to wait.
+      - Luke, knowing she’s watching, deliberately tests himself, making a few calculated mistakes to learn through experience.
+    ending: >
+      Raven clenches her fists but doesn’t interfere—**this is as much a lesson for her as it is for him.**
+
+  - title: "Learning to Let Go"
+    perspective: Raven
+    plot-summary: >
+      As Luke slowly improves, Raven starts to relax. She stops watching every little move and focuses on analyzing his progress instead of waiting to step in.
+    key-emotional-beats:
+      - Raven recognizes that she has been treating Luke like someone who constantly needs saving—just like he used to do to her.
+      - She realizes that trusting him isn’t just about partnership in combat—it’s about **accepting that she can’t control every risk.**
+      - Luke finishes a fight on his own, breathing hard but victorious, and she feels something shift inside her—a quiet acknowledgment that he can stand on his own.
+    ending: >
+      Luke grins at her and asks if he “graduated.” Raven, smirking, tells him he still has a long way to go.
+
+narrative-purpose: >
+  This chapter is critical for Raven’s emotional arc. She has spent so much time proving she doesn’t need saving, but now she has to **learn to let go and trust Luke to survive without her.** The training forces her to **acknowledge her own fears** and recognize that her protective instincts, while well-intended, can be just as overbearing as Luke’s past over-healing. This lesson cements their combat dynamic as a true partnership—one where trust flows both ways.
+

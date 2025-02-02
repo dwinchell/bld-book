@@ -1,0 +1,57 @@
+---
+type: chapter-outline
+title: "The Healer’s Lesson"
+file: "chapter-healing-efficiency.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: >
+    This chapter flips the dynamic from the previous lesson—now Luke is the one teaching. Raven pushes too hard, burning through his mana faster than he can sustain. Inspired by her Flow lesson, he forces her to learn how to manage healing efficiency, making her actively control his healing and adjust her own combat style accordingly. This reinforces their growing synergy and mutual trust, proving that each has something to learn from the other.
+
+scenes:
+  - title: "Running on Empty"
+    perspective: Luke
+    plot-summary: >
+      Raven is pushing too hard during a dungeon run, taking more damage than necessary and forcing Luke to spam heals. His mana is running low, and he tells her to slow down, but she pushes back, arguing that slowing down will make things worse.
+    key-emotional-beats:
+      - Luke is frustrated—he sees the long-term problem, while Raven only sees the short-term.
+      - Raven refuses to accept slowing down as an option, arguing that it would make her take more damage in the long run.
+      - Luke realizes the only way to make her understand is to let her experience it herself.
+    ending: >
+      Luke decides to teach Raven about healing efficiency by letting her control his healing directly.
+
+  - title: "Your Turn"
+    perspective: Luke
+    plot-summary: >
+      Luke asks Raven to pull up his mana bar and tells her that she will dictate his healing. He simplifies the system: "Big" for a large, efficient heal, "Fast" for an instant, expensive heal, and "Hot" for a heal-over-time effect. To make it more challenging, he dumps most of his mana into a radiant strike before they begin.
+    key-emotional-beats:
+      - Raven is caught off guard by this reversal—Luke is making her responsible for **his** resource management.
+      - Luke challenges her, knowing she won’t back down from a difficult test.
+      - The mana dump shocks her—she realizes **how quickly resources can disappear** when used inefficiently.
+    ending: >
+      Raven struggles to maintain a balance at first, nearly running out of mana while trying to keep him alive.
+
+  - title: "The Learning Curve"
+    perspective: Luke
+    plot-summary: >
+      As Raven’s inefficient healing causes problems, Luke steps in to stabilize the run and then calmly explains proper healing management—timing heals to avoid waste, balancing sustain with bursts, and thinking ahead rather than reacting emotionally.
+    key-emotional-beats:
+      - Raven listens carefully, realizing for the first time how healing works on a strategic level.
+      - 'Luke breaks it down practically: **Don’t overuse "Fast," keep "Hot" active only when needed, time "Big" heals properly.**'
+      - Raven starts **adjusting her own combat rhythm** to make healing more efficient, pulling enemies more carefully and blocking at smarter moments.
+    ending: >
+      By the end of the fight, she has improved significantly—and without realizing it, she has unconsciously slowed down just enough for Luke’s mana to keep up.
+
+  - title: "Newfound Balance"
+    perspective: Luke
+    plot-summary: >
+      With Raven now understanding the balance between healing and combat, they continue the dungeon run far more efficiently. Luke notices with amusement that she’s unconsciously pacing herself better, proving that she internalized the lesson.
+    key-emotional-beats:
+      - Raven acknowledges, in her own way, that Luke’s method makes sense.
+      - Luke sees this as a turning point—not just in combat, but in their partnership. They are **finally learning to adapt to each other.**
+      - For the first time, they leave a dungeon run feeling like a true team, **not just two skilled individuals working alongside each other.**
+    ending: >
+      They exit the dungeon, both knowing they are far closer to the level of coordination they will need for the Radiant Spire.
+
+narrative-purpose: >
+  This chapter is a key step in their progression toward perfect combat synergy. Just as Luke had to learn to trust Raven’s Flow, Raven now has to learn the intricacies of healing efficiency. This reinforces the theme of interdependence—each of them has strengths the other lacks, and only by learning from each other can they truly function as a unit. By the end, they have taken another major step toward becoming an unstoppable team.
