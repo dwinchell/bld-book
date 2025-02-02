@@ -185,6 +185,7 @@ Luke nodded once. "Thanks for your time, Mr. Blackwood."
 Then he turned and walked right back out the door.
 
 ### Scene 3: "Breaking and Entering"
+
 Luke stood outside the Blackwood estate, assessing his options.
 
 Grant had turned him away. That had been expected.
