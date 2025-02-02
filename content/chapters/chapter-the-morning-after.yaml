@@ -1,0 +1,69 @@
+---
+type: chapter-outline
+title: "The Morning After"
+file: "chapter-the-morning-after.yaml"
+
+overview:
+  perspective: Raven
+  narrative-purpose: >
+    This chapter shifts the focus from Raven and Luke’s developing intimacy to Raven’s integration into Luke’s world. Through her interactions with Anna, she gets an outside perspective on Luke, understanding parts of his life that he never talks about. What starts as playful mischief—inviting Anna out—becomes a quiet realization: if she wants to truly know Luke, she has to understand the people he’s spent his life protecting.
+
+scenes:
+  - title: "The Morning After"
+    perspective: Raven
+    plot-summary: >
+      Raven wakes up in Luke’s apartment, the events of the night before still lingering in her mind. It’s unfamiliar but oddly comfortable—until Anna’s voice breaks the moment.
+    key-emotional-beats:
+      - Raven is unused to waking up somewhere that isn’t her own space, let alone in someone else’s home.
+      - She feels the weight of the night before, but it isn’t regret—it’s something deeper, something settling.
+      - Then, Anna arrives, shattering the quiet moment.
+    ending: >
+      Raven pulls on Luke’s robe and heads to the kitchen to meet his sister.
+
+  - title: "Breakfast with Anna"
+    perspective: Raven
+    plot-summary: >
+      Anna, surprised to find Raven in Luke’s apartment, immediately starts asking questions. Luke tries—and fails—to steer the conversation, leaving Raven deeply amused.
+    key-emotional-beats:
+      - Anna’s reaction is **curious, not judgmental**—Luke doesn’t usually bring people home.
+      - Raven finds herself genuinely intrigued by Anna, watching their sibling dynamic with interest.
+      - Luke is **awkward**, which makes Raven subtly enjoy the situation more.
+    ending: >
+      As breakfast wraps up, Raven, on impulse, invites Anna out.
+
+  - title: "An Invitation"
+    perspective: Raven
+    plot-summary: >
+      Without giving Luke a chance to interfere, Raven invites Anna to go shopping. Luke, immediately suspicious, watches the exchange with growing concern.
+    key-emotional-beats:
+      - Raven **deliberately does this in front of Luke**, just to see his reaction.
+      - Anna, quick to catch on, **agrees immediately**—she’s interested in learning about Raven, too.
+      - Luke’s obvious distress is a bonus.
+      - Raven hesitates for a moment before inviting Anna—this isn’t something she usually does, and she knows it means something.
+    ending: >
+      Luke warns Anna not to believe anything Raven tells her. Raven smirks and leads Anna out.
+
+  - title: "Sister’s Perspective"
+    perspective: Raven
+    plot-summary: >
+      Alone with Anna, Raven quickly realizes that this isn’t just about messing with Luke—she genuinely wants to understand him. Anna, perceptive, picks up on this and shares insights Raven wasn’t expecting.
+    key-emotional-beats:
+      - Anna talks about Luke’s protective instincts—how he’s always been the one looking out for others.
+      - She reveals things about Luke that Raven never knew—how hard he worked to keep their life stable, how much of himself he sacrifices for others.
+      - Raven listens, realizing that learning about Anna means **learning about Luke.**
+    ending: >
+      Raven, for the first time, recognizes that this isn’t just about her and Luke—it’s about the life he’s built, and whether she’s willing to be part of it.
+
+  - title: "The Black Dress"
+    perspective: Raven
+    plot-summary: >
+      As they browse stores, Raven spots a sleek black dress and convinces Anna to try it on. What starts as playful mischief turns into a moment of quiet reflection—on Luke, on herself, and on where they go from here.
+    key-emotional-beats:
+      - Raven enjoys teasing Anna about it, but deep down, she recognizes why she’s doing this—she wants to connect.
+      - As Anna tries the dress on, Raven reflects on what she’s learned about Luke, linking it to how she and Luke need to navigate their own trust.
+      - Anna, sharp as ever, subtly acknowledges that Raven is thinking about more than just fashion.
+    ending: >
+      They return to Luke’s apartment, and the moment Luke sees Anna in a sleek black dress, his suspicions are confirmed—Raven has "corrupted" his sister.
+
+narrative-purpose: >
+  Through playful mischief and genuine curiosity, Raven begins to integrate into Luke’s world. Anna provides a unique perspective—Luke as a protector, a brother, someone who has spent his life ensuring others don’t fall apart. For Raven, this is a turning point: learning about Luke through the people he loves. "The Black Dress" serves as a quiet moment for Raven to process her emotions, and a playful callback when they return home, keeping the balance between humor and emotional depth.
