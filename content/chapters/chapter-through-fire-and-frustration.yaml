@@ -1,0 +1,59 @@
+---
+type: chapter-outline
+title: "Through Fire and Frustration"
+file: "chapter-through-fire.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: >
+    This chapter serves as the turning point in Luke and Raven’s combat coordination, transforming frustration into unspoken understanding. Initially struggling with mismatched rhythm and lingering tension, they fight—first with words, then with weapons—until they rediscover their bond through movement. By the chapter’s end, their connection is deeper, their teamwork effortless, and their trust reinforced without the need for words.
+
+scenes:
+  - title: "Off Beat"
+    perspective: Luke
+    plot-summary: >
+      The dungeon environment is as volatile as they are—flames, molten rivers, and oppressive heat pressing in on all sides. Their rhythm is off, leading to **missed timings, overextensions, and growing frustration.**
+    key-emotional-beats:
+      - Raven pushes forward too fast, **forcing Luke to scramble.**
+      - Luke misses CC windows, **throwing off her momentum.**
+      - The fights are harder than they should be, **amplifying their irritation.**
+    ending: >
+      The latest skirmish ends messily, and Raven turns on Luke, **challenging him outright.**
+
+  - title: "Rehashing the Fight"
+    perspective: Luke
+    plot-summary: >
+      Their frustration spills over into a heated argument, rehashing conflicts they had already resolved. Neither is willing to admit what’s actually wrong—they aren’t out of sync because of strategy, but because of something deeper.
+    key-emotional-beats:
+      - Raven insists she needs to keep her speed; **Luke argues he can’t keep up if she doesn’t adapt.**
+      - The fight escalates, neither backing down, until they realize **they’re not fixing anything.**
+      - A charged silence falls between them as Luke makes a different decision.
+    ending: >
+      Luke **challenges Raven to a fight.** No more words. Just action.
+
+  - title: "The Final Exchange"
+    perspective: Luke
+    plot-summary: >
+      Raven dominates the opening exchange, working out her frustration through aggression. Once her anger is spent, she **shifts into a defensive stance, inviting him to take the lead.**
+    key-emotional-beats:
+      - Luke takes the offensive, **pushing back for the first time.**
+      - The fight shifts from frustration to something else—**understanding, instinct, connection.**
+      - The final clash: their weapons lock, eyes meeting through the heat of battle, **the moment stretching too long.**
+      - The tension breaks, and **playfulness seeps into their movements.**
+    ending: >
+      The fight ends not in victory, but in silent agreement—**they’ve found their rhythm again.**
+
+  - title: "After the Flames"
+    perspective: Luke
+    plot-summary: >
+      With the tension resolved, they move through the rest of the dungeon effortlessly. Every action feels like an **unspoken conversation—his heals offer reassurance, her pulls invite togetherness, her taunts are protective rather than reckless.**
+    key-emotional-beats:
+      - Their teamwork is **flawless, instinctive, and effortless.**
+      - The final boss falls with ease, a testament to their regained coordination.
+      - Raven summons the return portal, and they share **one last, unreadable glance.**
+    ending: >
+      Luke follows her through the portal, knowing something between them has changed.
+
+narrative-purpose: >
+  This chapter marks a shift in Luke and Raven’s partnership—what was once conscious effort has become **instinctive trust.** Through combat, they work through their unresolved emotions and emerge stronger, more in sync than ever. This lays the groundwork for their **silent fight** later, proving that their connection isn’t circumstantial—it’s real, lasting, and deeper than either of them fully understands yet.
+
