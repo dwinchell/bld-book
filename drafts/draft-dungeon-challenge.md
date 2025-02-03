@@ -81,7 +81,7 @@ The system’s HUD flashed. **Wave Three: Incoming.**
 
 No more time to talk. Just time to fix it.
 
-### Scene: Breaking the Pattern  
+**Scene: Breaking the Pattern**  
 
 Wave Three hit harder. The constructs came faster this time, their movements more unpredictable, the eerie glow of their cores pulsing in a chaotic rhythm. Luke gritted his teeth, adjusting his stance. They weren’t adapting fast enough. If they kept stumbling over each other’s movements, they were going to burn through their resources before the final wave.
 
@@ -91,7 +91,7 @@ He needed to break the pattern.
 
 She hesitated for half a breath. Then something clicked. She darted sideways, slipping between two constructs without hesitation, her blades flashing as she carved into their exposed cores. No more waiting, no more second-guessing—just instinct and momentum.
 
-Luke shifted his own approach. Instead of trying to anticipate her moves, he let them unfold naturally, responding in kind. **Beacon of Judgement** flared to life, amplifying her strikes, pushing their tempo higher. When she surged ahead, he didn’t try to slow her down—he matched her speed, repositioning his defenses accordingly. He trusted her not to overextend, and she didn’t. **Radiant Wall** cut off flanking attacks, and **Guiding Radiance** pulsed with steady healing, reinforcing her aggression without restricting it.
+Luke shifted his own approach. Instead of trying to anticipate her moves, he let them unfold naturally, responding in kind. **Beacon of Judgment** flared to life, amplifying her strikes, pushing their tempo higher. When she surged ahead, he didn’t try to slow her down—he matched her speed, repositioning his defenses accordingly. He trusted her not to overextend, and she didn’t. **Radiant Wall** cut off flanking attacks, and **Guiding Radiance** pulsed with steady healing, reinforcing her aggression without restricting it.
 
 And it worked.
 
@@ -103,28 +103,39 @@ Raven flicked her daggers clean and exhaled. “That felt better.”
 
 Luke nodded, rolling his shoulders to release some of the tension. “Yeah. Let’s make sure it stays that way.”
 
-The system’s HUD flashed. **Final Wave: Incoming.**
+But this time, he didn’t just mean trusting their instincts. He meant structuring it.
 
-### Scene: Final Wave  
-**Perspective: Luke**  
+They had always worked with some verbal callouts—basic ones, instinctive. But this challenge had shown them that their real-time coordination still needed tightening.
+
+Luke glanced at Raven. “We should refine our calls. Cut down reaction time.”
+
+She wiped a streak of energy residue from her blade and nodded. “Fast, clear, and nothing extra. Got it.”
+
+They ran through a few quick exchanges—establishing short, efficient calls for defensive shifts, attack priorities, and timing. Raven, of course, leaned toward fewer words, keeping things sharp and effective. Luke kept his focus on ensuring nothing important was left out.
+
+It wasn’t just about coordination—it was about **trusting that when a call was made, the other would follow through**.
+
+By the time the next wave was inbound, their system was set. No hesitation, no wasted words. Only action.
 
 The system’s HUD flashed. **Final Wave: Incoming.**
 
 The air between them pulsed with energy as the constructs materialized—larger this time, their cores burning brighter, their movements sharper. Luke could feel the shift. This wasn’t just an escalation. It was the system throwing everything at them, testing whether they had actually learned or just gotten lucky.
 
-Raven took the lead without hesitation, slipping into motion with a grace that no longer felt forced. She wove between the constructs, her daggers flashing, each movement precise, efficient. Luke matched her rhythm instinctively, his own actions reinforcing rather than dictating. **Beacon of Judgement** flared again, fueling her strikes with radiant energy.
+Raven took the lead without hesitation, slipping into motion with a grace that no longer felt forced. She wove between the constructs, her daggers flashing, each movement precise, efficient. Luke matched her rhythm instinctively, his own actions reinforcing rather than dictating. Beacon of Judgement flared again, fueling her strikes with radiant energy.
 
-A construct broke from the group, aiming straight for him. Luke planted his staff and raised **Radiant Wall**, cutting off its advance. The moment of forced repositioning gave Raven an opening, and she took it without hesitation, spinning low to drive her dagger through its core.
+A construct broke from the group, aiming straight for him. Luke planted his staff and raised Radiant Wall, cutting off its advance. The moment of forced repositioning gave Raven an opening, and she took it without hesitation, spinning low to drive her dagger through its core.
 
 They were in sync. Finally.
 
-Another construct lunged for Raven’s back. "Left flank, incoming!" Luke called, his voice steady. She didn’t break her momentum—she trusted him to see it, to react. And he did. **Guiding Radiance** pulsed just before the strike could land, mending a scratch before it even became a wound. She twisted around, carving through the construct with a final slash.
+Another construct lunged for Raven’s back. "Left flank, incoming!" Luke called, his voice steady. She didn’t break her momentum—she trusted him to see it, to react. And he did. Guiding Radiance pulsed just before the strike could land, mending a scratch before it even became a wound. She twisted around, carving through the construct with a final slash.
+
+“Next two collapsing center!” Luke called, reading the movement before it fully formed. Raven didn’t even glance his way. “Opening them up—hold burst!” she responded, shifting her stance. Luke delayed his spell, waiting the fraction of a second until her daggers carved through the first core, then unleashed Beacon of Hope the moment she broke free. The explosion of light caught the second construct just as she repositioned, amplifying her next strike into a clean kill.
 
 Luke could feel it in his bones now. "They're shifting their attack pattern—faster intervals!" he noted, adjusting his stance. The push and pull, the balance between aggression and stability, was finally making sense. This was what they had been fighting toward.
 
-The last construct staggered, its core flickering.  Raven didn’t need him to call a play—she just knew. She pivoted on instinct, blades flashing in time with the burst of **Beacon of Hope** he cast, reinforcing her just before she delivered the final blow.
+The last construct staggered, its core flickering. She pivoted on instinct, blades flashing in time with the burst of Beacon of Hope he cast, reinforcing her just before she delivered the final blow.
 
-The system chimed. **Challenge Complete.**
+The system chimed. Challenge Complete.
 
 For a long moment, neither of them spoke. Their breathing was steady, controlled. Then Raven let out a sharp, satisfied breath, wiping her daggers clean on her sleeve.
 
@@ -132,7 +143,6 @@ For a long moment, neither of them spoke. Their breathing was steady, controlled
 
 Luke exhaled, the tension in his shoulders finally releasing. He let himself nod. “Yeah. It was.”
 
-The glow of the disintegrating constructs faded around them, leaving only the quiet hum of the system’s acknowledgment. They had done it—not just completed the challenge, but **proved** something to themselves.
+The glow of the disintegrating constructs faded around them, leaving only the quiet hum of the system’s acknowledgment. They had done it—not just completed the challenge, but proved something to themselves.
 
 They were ready for what came next.
-
