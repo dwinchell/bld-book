@@ -1,0 +1,26 @@
+workflow_improvement:
+  goal: "Reduce manual worldbuilding review by having the AI flag potential violations during scene drafting."
+  
+  changes:
+    - "Highlight anything uncertain or inconsistent with prior YAML details."
+    - "Provide a short justification for creative choices when making subtle deviations."
+    - "Ask the user to confirm any gray areas before assuming details."
+
+  process:
+    - "During scene drafting, insert inline comments such as:"
+    - "🚩 This contradicts X from the worldbuilding YAML—should I adjust?"
+    - "📝 I added [small new detail] because [reason]. Does this fit?"
+    - "❓ Unclear how [thing] works—do you want to clarify before I proceed?"
+    
+  post_draft_summary:
+    - "At the end of each scene draft, summarize:"
+    - "Any potential contradictions flagged."
+    - "New worldbuilding details introduced for approval."
+    - "Gray areas needing input before finalizing details."
+
+  next_steps:
+    - "User pastes worldbuilding YAML + chapter outline."
+    - "AI drafts a scene while actively flagging issues."
+    - "User reviews flagged items instead of manually checking everything."
+    - "If successful, apply this process to all future scene drafting."
+
