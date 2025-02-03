@@ -1,0 +1,57 @@
+---
+type: chapter-outline
+title: "Fighting in Silence"
+file: "chapter-fighting-in-silence.yaml"
+
+overview:
+  perspective: Raven
+  narrative-purpose: >
+    This chapter serves as the ultimate proof of Raven and Luke’s combat trust. The dungeon’s silencing effect forces them to rely purely on instinct, testing whether their synergy is truly intuitive. The initial struggle highlights lingering hesitation, but once they adjust, they reach an unspoken rhythm that solidifies their trust. The final scene cements their emotional connection as well, with Luke’s accidental confession leading to Raven’s casual, but deeply meaningful, reciprocation.
+
+scenes:
+  - title: "Silence Falls"
+    perspective: Raven
+    plot-summary: >
+      As soon as they enter the dungeon, all sound vanishes. Raven initially tries to call out to Luke, but the words never reach him. The battle begins, and the first signs of misalignment appear—Luke hesitates, Raven overcompensates, and they struggle to find a rhythm.
+    key-emotional-beats:
+      - The loss of verbal communication creates an unsettling disconnect between them.
+      - Luke is thinking too much, analyzing instead of moving.
+      - Raven grows frustrated, unable to force the pace of the battle as she usually does.
+    ending: >
+      They realize they must adjust—not just to the dungeon’s conditions, but to each other.
+
+  - title: "Learning the Wind"
+    perspective: Raven
+    plot-summary: >
+      They begin adapting to the dungeon’s shifting currents, and Raven makes a deliberate choice—she stops leading. Instead of setting the rhythm, she lets Luke take control of the pace for the first time. The shift is awkward at first, but gradually, they begin to sync up.
+    key-emotional-beats:
+      - Raven relinquishes control, trusting Luke to lead.
+      - Luke starts moving with confidence instead of reacting.
+      - Their synergy becomes fluid, more natural than before.
+    ending: >
+      They aren't fully there yet, but they find the thread of it. Now they have to build on it.
+
+  - title: "The Rhythm of the Wind"
+    perspective: Raven
+    plot-summary: >
+      They fully commit to instinct. Instead of strategizing, they let the fight dictate their movements. Luke’s magic reinforces Raven’s attacks seamlessly, barriers placed exactly when needed, strikes landing the instant she creates an opening. Their silent coordination feels effortless, proving that trust—not words—defines their teamwork.
+    key-emotional-beats:
+      - The moment mirrors their fire dungeon fight, answering the question: can they do this again?
+      - Every movement, every action, falls into perfect harmony.
+      - The fight ends, and neither of them needs to say anything. 
+    ending: >
+      The dungeon’s silence lifts, but they don’t speak for a long moment, until they leave. They don’t need to. They both know what that they’ve just proven they can do this in any dungeon.
+
+  - title: "Cloak Theft Confession"
+    perspective: Raven
+    plot-summary: >
+      Back in the staging area, Raven immediately steals Luke’s newly materialized loot—a wind-infused cloak. What starts as playful banter turns into something more when Luke, flustered, blurts out "I love you" by accident. The confession is met not with shock or tension, but with an easy acceptance as Raven casually returns the sentiment.
+    key-emotional-beats:
+      - Luke’s accidental confession catches both of them off guard.
+      - Raven’s response is effortless, reinforcing the comfort of their bond.
+      - Humor and intimacy blend naturally into the moment, solidifying their emotional trust just as they have solidified their combat trust.
+    ending: >
+      Raven keeps the cloak. Luke accepts this as inevitable.
+
+narrative-purpose: >
+  This chapter acts as the **final proof of their trust**, both in battle and emotionally. The silencing effect forces them to fight without words, testing whether their instincts are truly aligned. When they succeed, it isn’t just a mechanical victory—it’s an affirmation that they trust each other completely. The closing moment with Luke’s accidental confession and Raven’s casual reciprocation seamlessly ties their combat synergy to their emotional intimacy, reinforcing that they are ready for the next stage—together.
