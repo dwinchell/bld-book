@@ -1,0 +1,46 @@
+---
+type: chapter-outline
+title: "Dungeon Challenge"
+file: "chapter-dungeon-challenge.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: >
+    This chapter is the first real test of Luke and Raven’s renewed partnership. Having fought together again in "Back in the Field," they take on a structured challenge to push their limits and gauge their combat effectiveness. While they are more in sync than before, unresolved trust issues manifest under pressure. This chapter reinforces the idea that skill alone isn’t enough—true synergy requires complete trust, something they are still working to rebuild.
+
+scenes:
+  - title: "A Higher Bar"
+    perspective: Luke
+    plot-summary: >
+      Luke and Raven accept a dungeon challenge designed for high-level coordination. The structured nature of the challenge means they must operate with maximum efficiency, testing their ability to work as a unit under pressure.
+    key-emotional-beats:
+      - Luke feels confident in their teamwork, but still notices small hesitations in their coordination.
+      - Raven acts like everything is fine, but her overcompensation shows she isn’t fully settled.
+    ending: >
+      They clear the first wave of the challenge but expend more resources than necessary.
+
+  - title: "Hesitations and Overcorrections"
+    perspective: Luke
+    plot-summary: >
+      The next phase of the dungeon introduces an escalating difficulty curve, requiring tighter synergy. Raven and Luke make small but costly miscalculations—him hesitating, her pushing too fast—revealing that they aren’t quite where they need to be yet.
+    key-emotional-beats:
+      - Luke second-guesses a defensive call, costing them an opening.
+      - Raven overcommits in response, forcing him to scramble to compensate.
+      - The missteps frustrate them both, but neither directly addresses it.
+    ending: >
+      A near failure forces them to reset mentally and approach the final challenge with sharper focus.
+
+  - title: "Breaking the Pattern"
+    perspective: Luke
+    plot-summary: >
+      Realizing their mistakes, Luke takes initiative to break their cycle of hesitation and misalignment. He calls out a new strategy, trusting Raven to adapt. She follows through, and their execution becomes noticeably smoother.
+    key-emotional-beats:
+      - Luke consciously chooses to trust Raven’s instincts rather than over-plan.
+      - Raven, in turn, adjusts her approach to sync with him rather than force her pace.
+      - They feel the shift—the first true glimpse of the synergy they once had.
+    ending: >
+      They clear the challenge, not perfectly, but well enough to prove they are improving. It’s a victory, but one that highlights the work still ahead.
+
+narrative-purpose: >
+  This chapter solidifies that while Luke and Raven are making progress, they aren’t fully there yet. Their teamwork is improving, but moments of hesitation and overcompensation show that trust isn’t something they can just decide to have—it has to be rebuilt through action. This challenge sets the stage for the deeper training ahead, pushing them to recognize what they still need to refine before they take on the Radiant Spire.
+
