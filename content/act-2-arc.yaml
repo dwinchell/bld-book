@@ -1,8 +1,9 @@
-type: combat-training-arc
-title: "Combat Training Arc"
+file: act-2-arc.yaml
+title: "Act 2 Arc"
 description: >
   This file tracks Luke and Raven's progression from the time they decide to do the spire in No More Running to the time they are prepared to run it instinct.
-  This is an arc with two layers - combat and emotional. The combat layer occurs primarily inside the dungeon and shows how their combat synergy evolves.
+  This comprises the arc of act 2.
+  The arc has two layers - combat and emotional. The combat layer occurs primarily inside the dungeon and shows how their combat synergy evolves.
   The emotional layer occurs primarily outside the dungeon and shows how their emotional connection evolves. The two layers reinforce each other.
   Both layers are vehicles for the themes of Trust and Vulnerability, The Power of Partnership, and Independence vs Interdependence.
   The layers section below describes each layer in more detail. The progression section describes how both layers of evolve, chapter by chapter.
