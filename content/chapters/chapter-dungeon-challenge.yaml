@@ -1,46 +1,49 @@
----
-type: chapter-outline
-title: "Dungeon Challenge"
-file: "chapter-dungeon-challenge.yaml"
-
-overview:
-  perspective: Luke
-  narrative-purpose: >
+chapter_outline:
+  title: "Dungeon Challenge"
+  perspective: "Luke"
+  narrative_purpose: >
     This chapter is the first real test of Luke and Raven’s renewed partnership. Having fought together again in "Back in the Field," they take on a structured challenge to push their limits and gauge their combat effectiveness. While they are more in sync than before, unresolved trust issues manifest under pressure. This chapter reinforces the idea that skill alone isn’t enough—true synergy requires complete trust, something they are still working to rebuild.
 
 scenes:
   - title: "A Higher Bar"
-    perspective: Luke
-    plot-summary: >
-      Luke and Raven accept a dungeon challenge designed for high-level coordination. The structured nature of the challenge means they must operate with maximum efficiency, testing their ability to work as a unit under pressure.
-    key-emotional-beats:
-      - Luke feels confident in their teamwork, but still notices small hesitations in their coordination.
-      - Raven acts like everything is fine, but her overcompensation shows she isn’t fully settled.
-    ending: >
-      They clear the first wave of the challenge but expend more resources than necessary.
+    summary: >
+      Luke and Raven enter a **structured dungeon challenge** designed to push the limits of their coordination. 
+      While not technically a higher-tier dungeon, the precision and efficiency required are beyond anything they've faced before. 
+      This is their hardest test yet, revealing cracks in their synergy and forcing them to refine their teamwork.
+    key_emotional_beats:
+      - "Luke feels confident in their teamwork but notices subtle hesitations in their coordination."
+      - "Raven overthinks her movements, trying to match Luke’s tactical rhythm rather than following her own instincts."
+      - "They clear the first wave but expend more resources than necessary."
 
   - title: "Hesitations and Overcorrections"
-    perspective: Luke
-    plot-summary: >
-      The next phase of the dungeon introduces an escalating difficulty curve, requiring tighter synergy. Raven and Luke make small but costly miscalculations—him hesitating, her pushing too fast—revealing that they aren’t quite where they need to be yet.
-    key-emotional-beats:
-      - Luke second-guesses a defensive call, costing them an opening.
-      - Raven overcommits in response, forcing him to scramble to compensate.
-      - The missteps frustrate them both, but neither directly addresses it.
-    ending: >
-      A near failure forces them to reset mentally and approach the final challenge with sharper focus.
+    summary: >
+      The second wave introduces an escalating difficulty curve, forcing them to make tighter decisions. 
+      Raven struggles with her Flow generation—her hesitation disrupts the cycle, preventing her from building momentum. 
+      When she overcorrects by pushing too aggressively, the misalignment continues, straining their resources.
+    key_emotional_beats:
+      - "Luke realizes Raven is trying too hard to adjust to him, making her movements unnatural."
+      - "Raven recognizes the issue but overcorrects, pushing for too much tempo and throwing them off balance again."
+      - "A near failure forces them to reset mentally before facing the next wave."
 
   - title: "Breaking the Pattern"
-    perspective: Luke
-    plot-summary: >
-      Realizing their mistakes, Luke takes initiative to break their cycle of hesitation and misalignment. He calls out a new strategy, trusting Raven to adapt. She follows through, and their execution becomes noticeably smoother.
-    key-emotional-beats:
-      - Luke consciously chooses to trust Raven’s instincts rather than over-plan.
-      - Raven, in turn, adjusts her approach to sync with him rather than force her pace.
-      - They feel the shift—the first true glimpse of the synergy they once had.
-    ending: >
-      They clear the challenge, not perfectly, but well enough to prove they are improving. It’s a victory, but one that highlights the work still ahead.
+    summary: >
+      Luke realizes the need to change their approach. He stops reacting to Raven and instead lets her dictate the pace, adjusting to her tempo rather than trying to structure it.
+    key_emotional_beats:
+      - "Luke calls out key battlefield observations rather than trying to manage Raven’s movements."
+      - "Raven stops hesitating and starts moving instinctively."
+      - "Their rhythm begins to solidify, leading to a much cleaner execution."
 
-narrative-purpose: >
-  This chapter solidifies that while Luke and Raven are making progress, they aren’t fully there yet. Their teamwork is improving, but moments of hesitation and overcompensation show that trust isn’t something they can just decide to have—it has to be rebuilt through action. This challenge sets the stage for the deeper training ahead, pushing them to recognize what they still need to refine before they take on the Radiant Spire.
+  - title: "Final Wave"
+    summary: >
+      The system throws its strongest constructs at them. This is the final test of whether they have truly adapted or if their improvements were temporary.
+    key_emotional_beats:
+      - "Luke and Raven fully sync up for the first time, balancing aggression and support."
+      - "Luke reinforces Raven’s momentum with Beacon of Judgement, helping her push tempo rather than slowing her down."
+      - "Raven trusts Luke to call out information, and he does—giving her what she needs without interfering with her lead."
+      - "Challenge Cleared. They finish with full confidence that they are improving and can handle greater trials ahead."
+
+narrative_purpose:
+  - "Establishes that they are progressing but not fully there yet. Their teamwork is improving, but moments of hesitation and misalignment prove that trust has to be built over time."
+  - "Sets up their next phase of training. They now know what works and what doesn’t, which will drive their preparation for even harder challenges ahead."
+  - "Emphasizes their combat philosophy. Luke provides structure without restricting Raven, and Raven fights freely without overextending."
 
