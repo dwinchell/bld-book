@@ -225,12 +225,17 @@ act-2:
     - chapter: "Dinner with the Blackwoods"
       reference: chapter-dinner-with-the-blackwoods.yaml
 
+
+
     # Combat growth
     - chapter: "Balancing Risk"
     - chapter: "Healing Efficiency"
     - chapter: "Going Solo"
     - chapter: "Audibles"
-
+    - chapter: "Through Fire and Frustration"
+    - chapter: "The Silent Fight"
+    
+      
     - chapter: "Crossing the Line"
       reference: chapter-crossing-the-line.yaml
 
