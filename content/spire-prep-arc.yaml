@@ -33,6 +33,7 @@ progression:
   - chapter: "No More Running"
     purpose: "Luke apologizes and re-establishes their emotional trust."
     layer: emotional
+
   - chapter: "Back in the Field"
     purpose: "Their first dungeon together post-fallout. They function but aren’t fully in sync, revealing lingering emotional tension."
     layer: combat
@@ -45,9 +46,11 @@ progression:
       - "They recognize they can still function as a duo, but the deeper trust isn’t there yet."
       - "This dive **proves they can work together** again, but it also highlights that they have work to do."
     result: "A baseline for their partnership—functional but not seamless."
+
   - chapter: "Crossing the Line"
     purpose: "A personal turning point in their relationship outside of combat."
     layer: emotional
+
   - chapter: "Dungeon Challenge"
     purpose: "They take on a challenge to test their current level of teamwork."
     layer: combat
@@ -59,9 +62,11 @@ progression:
       - "Raven recognizes she has to stop second-guessing and just move naturally."
       - "They consciously refine their callouts, improving their real-time coordination."
     result: "First glimpse of true synergy, but with structured communication still acting as a crutch."
+
   - chapter: "Dinner with the Blackwoods"
     purpose: "Raven invites Luke to dinner with her parents, reinforcing her commitment."
     layer: emotional
+
   - chapter: "Overhealing Lesson"
     purpose: "Raven forces Luke to recognize his overprotectiveness, making him adjust his healing."
     layer: combat
@@ -70,15 +75,19 @@ progression:
     breakthrough:
       - "Raven teaches Luke to see health as a resource, not just a safety buffer."
     result: "They begin defining clear boundaries of intervention."
+
   - chapter: "The Morning After"
     purpose: "Raven wakes up in Luke’s apartment, surprising Anna and gaining insight into Luke’s life outside of diving."
     layer: emotional
+
   - chapter: "Healing Efficiency"
     purpose: "Luke forces Raven to manage healing efficiency by making her control his spells and adjust her own combat style accordingly."
     layer: combat
+
   - chapter: "Stolen Words"
     purpose: "Raven steals Luke’s dungeon loot, prompting an accidental love confession."
     layer: emotional
+
   - chapter: "Raven Teaches Luke to Solo"
     purpose: "Luke asks Raven to teach him to solo dive, pushing her to accept his independence."
     layer: combat
@@ -87,6 +96,11 @@ progression:
     breakthrough:
       - "Luke learns to trust his own survival instincts, mirroring how Raven trusts him in a duo."
     result: "Luke gains confidence in taking risks."
+
+  - chapter: "What we Fight For"
+    purpose: "Luke and Raven take a night off, reflecting on why they push themselves so hard, reinforcing their emotional bond."
+    layer: emotional
+
   - chapter: "Through Fire and Frustration"
     purpose: "They struggle with coordination, leading to a heated spar that resets their dynamic."
     layer: combat
@@ -95,6 +109,7 @@ progression:
     breakthrough:
       - "A mid-dungeon sparring match forces them to reset and trust pure instinct."
     result: "First seamless fight—proof they’re improving."
+
   - chapter: "The Silent Fight"
     purpose: "They prove they can fight instinctively without words, affirming their final stage of combat trust."
     layer: combat
