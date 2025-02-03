@@ -33,11 +33,12 @@ scenes:
   - title: "Breaking the Pattern"
     perspective: Luke
     plot-summary: >
-      Realizing their mistakes, Luke takes initiative to break their cycle of hesitation and misalignment. He calls out a new strategy, trusting Raven to adapt. She follows through, and their execution becomes noticeably smoother. They also take this moment to refine and structure their combat callouts, reinforcing their coordination.
+      Realizing their mistakes, Luke takes initiative to break their cycle of hesitation and misalignment. He calls out a new strategy, trusting Raven to adapt. She follows through, and their execution becomes noticeably smoother. They also take this moment to refine and structure their combat callouts, reinforcing their coordination and eliminating redundancies in their communication.
     key-emotional-beats:
       - Luke consciously chooses to trust Raven’s instincts rather than over-plan.
       - Raven, in turn, adjusts her approach to sync with him rather than force her pace.
-      - They begin using structured callouts effectively, creating a combat language that improves their timing.
+      - They begin using structured callouts effectively, simplifying commands to be faster and clearer.
+      - A key breakthrough occurs when Raven **anticipates** Luke’s defensive moves based on his callout, and he does the same for her offense.
       - They feel the shift—the first true glimpse of the synergy they once had.
     ending: >
       They clear the challenge, not perfectly, but well enough to prove they are improving. It’s a victory, but one that highlights the work still ahead.
@@ -53,6 +54,3 @@ scenes:
       - The final strike lands perfectly, affirming that they are truly in sync.
     ending: >
       The system announces their victory, and they acknowledge—without words—that they are ready for the next step.
-
-narrative-purpose: >
-  This chapter solidifies that while Luke and Raven are making progress, they aren’t fully there yet. Their teamwork is improving, but moments of hesitation and overcompensation show that trust isn’t something they can just decide to have—it has to be rebuilt through action. They also refine their structured callouts as a tool to enhance coordination, though this will later evolve into instinctive trust. This challenge sets the stage for the deeper training ahead, pushing them to recognize what they still need to refine before they take on the Radiant Spire.
