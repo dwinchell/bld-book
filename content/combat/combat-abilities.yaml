@@ -21,11 +21,19 @@ abilities:
 
     beacon-of-judgement:
       type: "offense, synergy"
-      description: "Ranged attack that deals high damage and increase incoming damage from Raven’s attacks."
+      description: "Places a blazing aura on an ally that buffs their damage for the duration."
       cooldown: "20 seconds"
       resource-cost: "Medium mana"
       resource-generation: "None"
       narrative-use: "Demonstrates Luke and Raven’s synergy, amplifying her aggression through precise support."
+  
+    beacon-of-hope:
+      type: "support"
+      description: "Places a shimmering aura on an ally that temporarily strengthens their defenses."
+      duration: "8 seconds"
+      cooldown: "12 seconds"
+      resource-cost: "Low mana"
+      narrative-use: "A quick, supportive ability that allows Luke to preemptively reinforce allies without committing to a major defensive cooldown."
 
     guiding-radiance:
       type: "heal"
