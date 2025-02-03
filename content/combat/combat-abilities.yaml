@@ -59,7 +59,7 @@ abilities:
 
     radiant-wall:
       type: "defense"
-      description: "Blocks projectiles and slows melee attackers who pass through it."
+      description: "For the duration, creates a wall that deflects attacks and slows enemies who pass through it. Can be broken with enough damage."
       duration: "8 seconds"
       cooldown: "20 seconds"
       resource-cost: "Medium mana"
