@@ -10,7 +10,7 @@ Not quiet. Silence.
 
 No voices. No shouts of warning or battle cries. But the world still breathed around them—the rush of wind through the cavern, the whisper of shifting mist, the crackling pulse of energy as spells formed and released. Like the dungeon itself had stolen something vital from them, but not from the world.
 
-The environment had already been unsettling. This dungeon was unlike the last—here, everything felt weightless, shifting, ephemeral. Jagged spires of floating stone drifted lazily in the vast cavernous space, carried by unseen currents. Wisps of pale mist spiraled upward, dissipating into nothing as if devoured by the dungeon itself. The air felt restless, twisting in unseen patterns, pulling at her clothes, pushing against her skin. Every step felt insubstantial, as though the ground itself might dissolve beneath them.
+The dungeon was unsettling even before this. This was not the steady, oppressive heat of the fire dungeon, nor the creeping, suffocating ice of the frozen depths. This place was weightless, shifting, ephemeral. Jagged spires of floating stone drifted lazily in the vast cavernous space, carried by unseen currents. Wisps of pale mist spiraled upward, dissipating into nothing as if devoured by the dungeon itself. The air felt restless, twisting in unseen patterns, pulling at her clothes, pushing against her skin. Every step felt insubstantial, as though the ground itself might dissolve beneath them.
 
 The wind stirred.
 
@@ -18,37 +18,71 @@ A gust swept through the chamber—not a natural current, but something with int
 
 Raven turned instinctively toward Luke, but the words died before they could form. Her lips moved. No sound came.
 
-Luke was already shifting, his staff raised in defense, golden energy flickering between his fingers. He met her gaze across the battlefield, and in that single look, understanding passed between them.
+Luke was already shifting, his staff raised in defense, golden energy flickering between his fingers. He met her gaze across the battlefield, and for a moment, understanding passed between them.
 
 She exhaled, adjusting her grip on her daggers. They had done this before—in the fire-lit dungeon, where words had failed and instincts had taken over. This would have to be the same. No callouts, no commands. No reassurances. They would have to do this without words.
 
+But then—
+
+Something faltered.
+
+Luke’s magic surged, but his spell fizzled before connecting. Raven saw his eyes flicker in brief hesitation. That hesitation was enough. A gust of wind slammed into her side, throwing her off balance. She twisted midair, boots barely catching the edge of a floating platform before she pushed off into a roll, regaining her footing.
+
+She looked to Luke again, expecting him to already be moving in sync with her, but he wasn’t. He was scanning, analyzing.
+
+No. That wasn’t what they needed.
+
+They had fought without needing words before—in The Blazing Rift, where words had failed and instincts had taken over. But this time, the moment wasn’t clicking into place.
+
+Luke wasn’t meeting her in the rhythm. She wasn't feeling his beat either, so she couldn't improvise around it.
+
 The wind howled—silent but furious—as the elementals closed in.
 
-### Scene: Learning the Wind
+They weren’t in sync yet. And without words, they had to figure it out fast.
 
-Raven sidestepped a strike that came from nowhere, twisting as the formless mass of wind sliced past. Even without sound, she felt the force of it—sharp, controlled, alive. The elementals didn’t move like ordinary creatures. They shifted with the air itself, untethered and erratic, forming limbs only when they needed to strike.
+### Scene: To be Like the Wind
 
-She had no way to call out to Luke. No way to ask if he understood what they were dealing with. But she didn’t need to. He was watching. They would learn this together.
+Raven twisted away from a strike that came from nowhere, the shifting mass of air slicing past. Even without sound, she felt the force of it—sharp, controlled, alive. The elementals didn’t move like ordinary creatures. They didn’t have weight, momentum, or muscle—just sudden acceleration, shifting form, and relentless unpredictability.
 
-Except they weren’t.
+She ducked another blow and pivoted, scanning for Luke. He wasn’t where she expected. She adjusted, stepping left, assuming he would quickily reposition beside her—but he didn't.
 
-She stepped forward to engage, expecting him to follow, but when she turned, his barrier came up too late. He was hesitating. Reacting instead of anticipating. 
+Her pulse kicked up. This was wrong.
 
-Luke struck out with radiant energy, but it burned through empty air as the elemental dissolved before the blast could land. She pressed into the space between them, expecting him to adjust, to move in tandem like before—but he wasn’t there.
+She tried to improvise around his structure as she always did, to move into the rhythm of their usual combat flow, but there was no rhythm. His positioning felt reactionary—slightly off-time, just a fraction behind the battle. Instead of setting the pace with his support, he was responding too late, and she couldn’t align herself around that to engage and taunt.
 
-Her frustration flared. It wasn’t working. The seamless rhythm they’d found before wasn’t coming naturally this time. Had that been a fluke?
+Another elemental surged toward her from the side. She twisted, slashing through the air, but the attack passed through its form like mist, missing its core. It reformed instantly, its formless mass shifting too fast to counter. Her feet barely found traction as she avoided the strike, her cloak snapping behind her.
 
-She tried again, leading the fight as she had before, dodging, adjusting her tempo, carving an opening—but Luke’s timing was off. His spells landed a fraction too late or a fraction too soon, his barriers rising when she didn’t need them, missing when she did. It wasn’t that he was making mistakes. It was that they weren’t connected.
+This wasn’t working.
 
-A sudden impact struck her side, sending her staggering. She caught herself against a floating rock, heart pounding. She turned, expecting Luke to look equally frustrated, but instead, she saw him watching. Studying her, studying them. He wasn’t reacting—he was trying to figure out what was missing.
+A flash of golden light pulsed from Luke’s staff—Radiant Wall, but too late. The barrier formed where she had been a second ago, the placement just off enough that it blocked nothing.
 
-Realization settled. They weren’t fighting the elementals. They were fighting themselves.
+Raven gritted her teeth, darting away from another attack. She flicked her gaze toward Luke, frustration tightening in her chest.
 
-She met his eyes again, lifted one hand, and let her fingers ghost through the air in a quick, deliberate motion. Wait. Watch. Feel it.
+He wasn’t moving like he had in The Blazing Rift. He was thinking too much.
 
-Luke hesitated, then nodded.
+Her instinct was to shout at him—to snap him back into motion, to tell him to stop analyzing and just move, but the silence stole even that from her.
 
-She turned back to the fight, inhaled deeply, and let herself fall into the wind’s pace.
+Luke met her eyes across the battlefield, and in that instant, she knew he saw the problem too. She exhaled sharply, adjusting her grip on her daggers. They had to fix this—fast.
+
+She made a deliberate choice—one that felt unnatural, but necessary.
+
+Instead of leading, instead of forcing the fight into her direction, instead of deciding how to dominate the battle field ... instead she did something she had never consciously chosen before—she relinquished control.
+
+She moved into his space, letting him set the rhythm, trusting that he could. She stopped trying to guide him, stopped compensating for his hesitation, and instead watched, let him lead—let herself follow.
+
+A strike came at her from the right. Instead of dodging outright, she shifted closer to Luke, baiting the elemental into his range. He responded immediately, Radiant Strike flaring as he channeled mana into the blow, cutting through the elemental's shifting form.
+
+Better. It was less efficient. This wasn't how their classes were meant to act. But better. They needed to adapt to this style, right now.
+
+She spun, shifting in tighter, letting his positioning dictate her movement rather than the other way around. Instead of weaving forward and assuming he’d follow, she waited—gave him space to dictate the next move.
+
+He did.
+
+His staff moved more decisively now, the next Radiant Wall snapping into place right as she stepped behind it. Her next attack landed true, dagger carving through the core of an elemental just as Luke’s golden pulse of energy burst through the mist.
+
+They weren’t fully there yet—but this was something new, something untested.
+
+Now they had to build on it.
 
 ---
 
@@ -79,9 +113,9 @@ Then, slowly, Raven smirked, tilting her head as she gave him a long, measured l
 They had done it.
 
 ### Cloak Theft Confession
-The afterglow of battle still clung to Raven’s skin, a charged hum beneath her pulse as she stepped out of the dungeon portal. The weight of the run was settling in—not exhaustion, but something deeper. She flexed her fingers, shaking out the last remnants of tension as the staging area’s familiar surroundings took shape around them.
+The afterglow of battle still clung to Raven’s skin, a charged feeling inside her as she stepped out of the dungeon portal. The weight of the run was settling in—not exhaustion, but something deeper. She flexed her fingers, shaking out the last remnants of tension as the staging area’s familiar surroundings took shape around them.
 
-Luke materialized beside her, rolling one shoulder before lifting his hand to summon the spoils of their victory. Light shimmered in his palm, swirling in a delicate spiral before solidifying into fabric—a cloak woven from the same wind-infused magic that had filled the dungeon, its edges flickering like mist caught in a current.
+Luke materialized beside her, rolling one shoulder before lifting his hand to summon his share of the loot. Light shimmered in his palm, swirling in a delicate spiral before solidifying into fabric—a cloak woven from the same wind-infused magic that had filled the dungeon, its edges flickering like mist caught in a current.
 
 Interesting.
 
@@ -97,7 +131,7 @@ Luke exhaled, irritation flickering across his face as he dragged a hand down it
 
 “You’re a healer,” she mused, turning it over in her hands. “I’m the one who actually dodges things.”
 
-She tossed the cloak over her shoulders, rolling them slightly to let the fabric settle. Light, flexible, perfect.
+She tossed the cloak over her shoulders, shifting them slightly to let the fabric settle. Light, flexible, perfect.
 
 Luke stared at her. Then pinched the bridge of his nose. “I love you, but that’s not how loot works.”
 
