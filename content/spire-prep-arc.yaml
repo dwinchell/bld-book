@@ -30,6 +30,10 @@ layers:
       a challenge that requires perfect trust, to romantic partners with a deep emotional connection.
 
 progression:
+  - chapter: "All In"
+    purpose: "Raven asks Luke to run the Radiant Spire. After initial rejection, they reconcile and commit to training together."
+    layer: emotional
+    first-plot-point: true
   - chapter: "No More Running"
     purpose: "Luke apologizes and re-establishes their emotional trust."
     layer: emotional
@@ -76,9 +80,6 @@ progression:
   - chapter: "Healing Efficiency"
     purpose: "Luke forces Raven to manage healing efficiency by making her control his spells and adjust her own combat style accordingly."
     layer: combat
-  - chapter: "Stolen Words"
-    purpose: "Raven steals Luke’s dungeon loot, prompting an accidental love confession."
-    layer: emotional
   - chapter: "Raven Teaches Luke to Solo"
     purpose: "Luke asks Raven to teach him to solo dive, pushing her to accept his independence."
     layer: combat
@@ -98,6 +99,7 @@ progression:
     breakthrough:
       - "A mid-dungeon sparring match forces them to reset and trust pure instinct."
     result: "First seamless fight—proof they’re improving."
+    midpoint: true
   - chapter: "The Silent Fight"
     purpose: "They prove they can fight instinctively without words, affirming their final stage of combat trust."
     layer: combat
@@ -107,4 +109,8 @@ progression:
       - "They rely entirely on instinct and rhythm—no second-guessing, just flow."
     result: "They prove they can fight as a single unit."
     second-plot-point: true
+  - chapter: "All In"
+    purpose: "Raven asks Luke to run the Radiant Spire. After initial rejection, they reconcile and commit to training together."
+    layer: emotional
+    first-plot-point: true
 

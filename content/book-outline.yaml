@@ -141,6 +141,7 @@ act-1:
       connection-to-next-chapter: >
         Their shared sense of accomplishment transitions naturally into a celebratory drink in the next chapter, where camaraderie deepens.
 
+    # Considering reworking the chapters up to this so that they're not fully committed to a long term diving partnership, and this chapter marks that commitment, making it the first plot point
     - chapter: "A Drink"
       file: "chapter-a-drink.yaml"
       perspective: "Raven"
@@ -162,27 +163,6 @@ act-1:
       tone:
         - "Intimate and warm, with playful undertones."
 
-act-2:
-  title: "Conflict and Growth"
-  purpose: >
-    Develop Raven and Luke’s partnership as they face external challenges and internal conflicts, leading to mutual growth.
-    Highlight their evolving dynamic as trust deepens and tension arises from their contrasting personalities and pasts.
-  relationship-arc:
-    start: >
-      Having established tentative trust in Act 1, Raven and Luke’s partnership is tested as they face greater challenges and begin to rely on each other more deeply.
-    progression: >
-      Both characters become increasingly aware of their growing feelings for each other, but neither admits it openly. Luke’s cautious nature and Raven’s fear of vulnerability hold them back, even as their bond strengthens through shared challenges. 
-      By the end of the act, they both know they want a romantic relationship with the other, but the unspoken tension creates an emotional undercurrent driving their actions into Act 3.
-    end: >
-      Their partnership solidifies as they move beyond functional teamwork into emotional intimacy, setting the stage for the eventual resolution of their feelings in Act 3.
-    key-beats:
-      - "Luke and Raven’s bond deepens as they support each other through challenges, both in and out of the dungeon."
-      - "Luke begins to recognize his growing feelings for Raven, spurred by moments of jealousy and admiration."
-      - "Raven becomes increasingly drawn to Luke’s steadfastness and quiet strength, but hesitates to admit her feelings out of fear of vulnerability."
-      - "The gala scene heightens the romantic tension, with the pretend-boyfriend moment forcing both to confront their emotions."
-      - "Luke takes a bold step in inviting Raven to his home, a symbolic moment of his growing willingness to take risks for her."
-
-  chapters:
     - chapter: "A Spring Breeze"
       reference: chapter-a-spring-breeze.yaml
 
@@ -213,35 +193,122 @@ act-2:
     - chapter: The Dance
       reference: chapter-the-dance.yaml
 
+    # First Plot point - Raven confesses her desire to take their relationship to the next level by setting an impossible goal together and deepening their trust. Luke rejects her, creating conflict that will play out through the first half of Act 2.
     - chapter: "All In"
       reference: "chapter-all-in.yaml"
+      
+act-2:
+  title: "Conflict and Growth"
+  purpose: >
+    Develop Raven and Luke’s partnership as they face external challenges and internal conflicts, leading to mutual growth.
+    Highlight their evolving dynamic as trust deepens and tension arises from their contrasting personalities and pasts.
+  relationship-arc:
+    start: >
+      Having established tentative trust in Act 1, Raven and Luke’s partnership is tested as they face greater challenges and begin to rely on each other more deeply.
+    progression: >
+      Both characters become increasingly aware of their growing feelings for each other, but neither admits it openly. Luke’s cautious nature and Raven’s fear of vulnerability hold them back, even as their bond strengthens through shared challenges. 
+      By the end of the act, they both know they want a romantic relationship with the other, but the unspoken tension creates an emotional undercurrent driving their actions into Act 3.
+    end: >
+      Their partnership solidifies as they move beyond functional teamwork into emotional intimacy, setting the stage for the eventual resolution of their feelings in Act 3.
+    key-beats:
+      - "Luke and Raven’s bond deepens as they support each other through challenges, both in and out of the dungeon."
+      - "Luke begins to recognize his growing feelings for Raven, spurred by moments of jealousy and admiration."
+      - "Raven becomes increasingly drawn to Luke’s steadfastness and quiet strength, but hesitates to admit her feelings out of fear of vulnerability."
+      - "The gala scene heightens the romantic tension, with the pretend-boyfriend moment forcing both to confront their emotions."
+      - "Luke takes a bold step in inviting Raven to his home, a symbolic moment of his growing willingness to take risks for her."
+
+  chapters:
 
     - chapter: "No More Running"
-      reference: "chapter-no-more-running.yaml"
+      purpose: "Luke apologizes and re-establishes their emotional trust."
+      layer: emotional
+      emotional-beginning: "They both tentatively agree to run the spire, though trust is damaged. They commit to rebuilding trust and reaching a level that will allow them to run the spire."
 
     - chapter: "Back in the Field"
-      reference: chapter-back-in-the-field.yaml
+      purpose: "Their first dungeon together post-fallout. They function but aren’t fully in sync, revealing lingering emotional tension."
+      layer: combat
 
-    - chapter: "Dinner with the Blackwoods"
-      reference: chapter-dinner-with-the-blackwoods.yaml
-
-
-
-    # Combat growth
-    - chapter: "Balancing Risk"
-    - chapter: "Healing Efficiency"
-    - chapter: "Going Solo"
-    - chapter: "Audibles"
-    - chapter: "Through Fire and Frustration"
-    - chapter: "The Silent Fight"
-    
-      
+    # Their relationship becomes phsyical
     - chapter: "Crossing the Line"
-      reference: chapter-crossing-the-line.yaml
+      purpose: "A personal turning point in their relationship outside of combat."
+      layer: emotional
+      emotional-progression: "They relationship becomes physical"
 
+    - chapter: "Dungeon Challenge"
+      purpose: "They take on a challenge to test their current level of teamwork."
+      layer: combat
+      key-misalignment:
+        - "Raven hesitates, trying too hard to match Luke’s tactical rhythm."
+        - "Luke second-guesses his defensive calls."
+      breakthrough:
+        - "Luke realizes he needs to trust Raven’s instincts instead of over-planning."
+        - "Raven recognizes she has to stop second-guessing and just move naturally."
+        - "They consciously refine their callouts, improving their real-time coordination."
+      result: "First glimpse of true synergy, but with structured communication still acting as a crutch."
+
+    # Luke meets her family
+    - chapter: "Dinner with the Blackwoods"
+      purpose: "Raven invites Luke to dinner with her parents, reinforcing her commitment."
+      layer: emotional
+      emotional-progression: "Luke meets Raven's family, entering further into her world"
+
+    - chapter: "Overhealing Lesson"
+      purpose: "Raven forces Luke to recognize his overprotectiveness, making him adjust his healing."
+      layer: combat
+      key-misalignment:
+        - "Luke overheals, disrupting Raven’s natural tempo."
+      breakthrough:
+        - "Raven teaches Luke to see health as a resource, not just a safety buffer."
+      result: "They begin defining clear boundaries of intervention."
+
+    # Raven meets his family
     - chapter: "The Morning After"
-      reference: chapter-the-morning-after.yaml
+      purpose: "Raven wakes up in Luke’s apartment, surprising Anna and gaining insight into Luke’s life outside of diving."
+      layer: emotional
+      emotional-progression: "Raven meets Luke's family, further entering into his world. She also gains from Anna valuable insights into his background and motivations."
 
+    - chapter: "Healing Efficiency"
+      purpose: "Luke forces Raven to manage healing efficiency by making her control his spells and adjust her own combat style accordingly."
+      layer: combat
+
+    - chapter: "Raven Teaches Luke to Solo"
+      purpose: "Luke asks Raven to teach him to solo dive, pushing her to accept his independence."
+      layer: combat
+      key-misalignment:
+        - "Luke hesitates too much when diving alone, making him inefficient."
+      breakthrough:
+        - "Luke learns to trust his own survival instincts, mirroring how Raven trusts him in a duo."
+      result: "Luke gains confidence in taking risks."
+
+      # Midpoint - They acknowledge that they are an entangled, committed couple, deepen their understanding of each others' motives, and commit to leeling up their emotional trust and combat synergy to a level that will allow them to run the spire.
+    - chapter: "What We Fight For"
+      purpose: "Luke and Raven take a night off, reflecting on why they push themselves so hard, reinforcing their emotional bond."
+      layer: emotional
+      emotional-progression: "They acknowledge that they are an committed couple, deepen their understanding of each others' motives, and commit to further strengthening their emotional trust and combat synergy to a level that will allow them to run the spire."
+
+    # Setup for the Second Plot point - first time they reach the ultimate level of combat synergy
+    - chapter: "Through Fire and Frustration"
+      purpose: "They struggle with coordination, leading to a heated spar that resets their dynamic."
+      layer: combat
+      key-misalignment:
+        - "They aren’t fully syncing in early fights, leading to minor inefficiencies."
+      breakthrough:
+        - "A mid-dungeon sparring match forces them to reset and trust pure instinct."
+      result: "First seamless fight—proof they’re improving."
+
+    # Second Plot Point - they prove they can achieve the ultimate level of combat synergy consistently, even during an extreme challenge
+    - chapter: "The Silent Fight"
+      purpose: "They prove they can fight instinctively without words, affirming their final stage of combat trust."
+      layer: ["combat", "emotional"]
+      key-misalignment:
+        - "No verbal coordination available."
+      breakthrough:
+        - "They rely entirely on instinct and rhythm—no second-guessing, just flow."
+      result: "They prove they can fight as a single unit."
+      emotional-ending: "They confess that they love each other"
+      second-plot-point: true
+
+# Very TBD. We know it centers on the Spire, which is the climax of the book
 act-3:
   title: "Resolution"
   purpose: >
@@ -259,24 +326,15 @@ act-3:
       - "A climactic challenge forces them to synchronize their strengths, blending light and shadow into a powerful metaphor for their relationship."
       - "Their shared victory cements their partnership, both romantically and professionally."    
   chapters:
-    - chapter: "The Final Dive"
-      file: "the-final-dive.yaml"
+    # Chapter list for Act 3 is incomplete
+    - chapter: "The Radiant Spire"
+      file: "the-radiant-spire.yaml"
       purpose: >
         A climactic dungeon dive tests their teamwork, trust, and emotional growth.
-      key-emotional-beats:
-        - "Luke risks everything to save Raven, overcoming his fear of loss."
-        - "Raven embraces vulnerability, realizing the strength in relying on others."
-      tone:
-        - "Intense and cathartic, building to an emotionally satisfying resolution."
     - chapter: "Victory and Partnership"
       file: "victory-and-partnership.yaml"
       purpose: >
         Raven and Luke emerge victorious, solidifying their bond and establishing a shared vision for their future.
-      key-emotional-beats:
-        - "A shared victory cements their trust and romantic connection."
-        - "Both find meaning in their partnership, embracing growth and mutual support."
-      tone:
-        - "Hopeful and uplifting, with a sense of closure."
 
 book-resolution-guidance:
   - "Ensure the final dungeon dive symbolizes both their emotional and relational growth."
