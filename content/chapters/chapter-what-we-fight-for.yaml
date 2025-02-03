@@ -1,0 +1,54 @@
+---
+type: chapter-outline
+title: "What We Fight For"
+file: "chapter-what-we-fight-for.yaml"
+
+overview:
+  perspective: Luke
+  narrative-purpose: This chapter shifts the focus from training to introspection, giving Luke and Raven a moment to reflect on why they fight. Their partnership isn’t just about survival or skill—it’s about shared purpose and mutual trust. This quiet night together deepens their bond, strengthening their resolve for the challenges ahead.
+
+scenes:
+  - title: "A Night Off"
+    perspective: Luke
+    plot-summary: >
+      After back-to-back training sessions, Raven proposes they take a break. Luke is skeptical, but she insists, pointing out that even elite divers need downtime. They agree to spend the evening somewhere outside of their usual routines.
+    key-emotional-beats:
+      - Luke hesitates, feeling like they should be preparing more, but realizes he doesn’t actually want to say no.
+      - Raven casually calls it "a break" but there’s an unspoken understanding that this is a date.
+      - The decision itself shows how much they’ve changed—early on, neither of them would have taken a night off.
+    ending: >
+      Luke agrees, more curious than he lets on.
+
+  - title: "Where the World Slows Down"
+    perspective: Luke
+    plot-summary: >
+      They go somewhere unexpected—Raven picks a quiet rooftop bar overlooking the city. It’s a stark contrast to their usual adrenaline-filled environments, forcing them to slow down and exist in a space where there’s no immediate danger.
+    key-emotional-beats:
+      - Luke, always scanning for threats, struggles to fully relax at first.
+      - Raven, on the other hand, seems oddly at ease—it’s rare to see her in a setting like this.
+      - They share small, quiet observations about the city below, hinting at how their perspectives have evolved.
+    ending: >
+      Luke finally lets his guard down, settling into the moment.
+
+  - title: "Why We Fight"
+    perspective: Luke
+    plot-summary: >
+      The conversation naturally shifts toward why they do what they do—not just diving, but pushing themselves harder than anyone else. They share personal motivations, leading to deeper insight into what truly drives them.
+    key-emotional-beats:
+      - Luke confesses that for a long time, **his reason was survival**—for himself, for Anna. But now, he’s realizing that’s not enough.
+      - Raven admits that **pushing forward is the only thing that’s ever made sense to her**—but she’s starting to think about what comes after.
+      - The unspoken truth: they are becoming part of each other’s reasons.
+    ending: >
+      Neither of them says it outright, but the weight of the moment is clear—**they’re no longer just fighting for themselves.**
+
+  - title: "The Quiet Between the Battles"
+    perspective: Luke
+    plot-summary: >
+      As the night winds down, neither of them is in a hurry to leave. There’s something sacred about the stillness, the understanding that this is temporary but real.
+    key-emotional-beats:
+      - They don’t rush to fill the silence, comfortable just being there together.
+      - Luke recognizes that this is **what he’s been missing all along—a life beyond just surviving.**
+      - Raven, for once, doesn’t feel the need to run.
+    ending: >
+      As they walk away from the rooftop, there’s an unspoken agreement: whatever happens next, they’re not fighting alone anymore.
+
