@@ -141,7 +141,7 @@ Raven took another sip of water to buy herself time. The room felt warmer than i
 
 Luke’s eyes softened further. He reached out briefly, his hand brushing her arm—just enough to steady her as another donor rushed past, nearly bumping her shoulder. “I think you’re doing fine. Better than fine, actually.”
 
-The sincerity in his voice left her unbalanced in a way no chaotic battle ever could. Raven found herself holding his gaze a beat too long before looking away, her heart beating faster than she’d admit.
+The sincerity in his voice left her unbalanced in a way no chaotic battle ever could. Raven found herself holding his gaze a beat too long before looking away, her heart beating faster.
 
 “Thanks,” she muttered. The word felt insufficient, but it was all she could manage without unraveling. She cleared her throat, forcing a casualness she didn’t feel. “I’ll have to practice my donor-pleasing skills. Next time, maybe I’ll keep it to thirty percent sarcasm.”
 
