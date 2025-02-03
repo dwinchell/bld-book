@@ -145,3 +145,45 @@ Raven turned first, summoning the return portal. The soft, pulsing glow of it cu
 She glanced at him, unreadable for half a second, then stepped through.
 
 Luke hesitated, feeling the shift between them settle into something unspoken but undeniable. Then, steady this time, he followed
+
+### Scene: Stolen Words
+
+The afterglow of battle still clung to Raven’s skin, a charged hum beneath her pulse as she stepped out of the dungeon portal. The weight of the run was settling in—not exhaustion, but something deeper. She flexed her fingers, shaking out the last remnants of tension as the staging area’s familiar surroundings took shape around them.
+
+Luke materialized beside her, rolling one shoulder before lifting his hand to summon the spoils of their victory. Light shimmered in his palm, swirling in a delicate spiral before solidifying into fabric—a cloak woven from the same wind-infused magic that had filled the dungeon, its edges flickering like mist caught in a current.
+
+Interesting.
+
+Before he could so much as blink, Raven plucked it neatly from his grasp.
+
+Luke’s hand froze mid-air. He blinked at the empty space where the cloak had been. Then at her.
+
+“Really?”
+
+Raven held it up, inspecting the weave with obvious amusement. “It suits me.”
+
+Luke exhaled, irritation flickering across his face as he dragged a hand down it. “Raven—”
+
+“You’re a healer,” she mused, turning it over in her hands. “I’m the one who actually dodges things.”
+
+She tossed the cloak over her shoulders, rolling them slightly to let the fabric settle. Light, flexible, perfect.
+
+Luke stared at her. Then pinched the bridge of his nose. “I love you, but that’s not how loot works.”
+
+The words had barely left his mouth before he froze.
+
+Raven went utterly still. A beat passed, just long enough for the weight of what he had said to crash down between them. His expression shifted—a rare, genuine flicker of panic. Then he made a noise in his throat, somewhere between a cough and an aborted attempt to fix the situation. “I llllllike you but—”
+
+Raven arched a slow, dangerous eyebrow. “Say that first part again.”
+
+Luke looked stricken, his frustration over the cloak momentarily forgotten as real panic set in. “I—” He exhaled sharply, shoulders dropping in defeat. “That’s not how I meant to tell you—”
+
+She smiled, tilting her head as she adjusted the cloak. “Mm-hmm.”
+
+Silence stretched between them, but it wasn’t like the dungeon’s—it wasn’t void, or stolen, or uncertain. It was something else entirely, something hanging between them, waiting to be acknowledged.
+
+Then Raven, ever so casually, said, “Love you too.”
+
+She pressed a quick kiss to his cheek before stepping back, adjusting the cloak with a satisfied flick. “Keeping this, though.”
+
+Luke let out a breath, relief flickering across his features. Then he shook his head, and the joy was quickly replaced by renewed annoyance. He ran a hand through his hair, muttering, “Yeah. Figured.”
