@@ -226,23 +226,31 @@ act-2:
       chapters:
         - name: No More Running
           layers: emotional
+          pov: Luke
         - name: Back in the Field
           layers: combat
+          pov: Raven
         - name: Crossing the Line
           layers: emotional
+          status: TODO_OUTLINE
+          pov: Luke
 
     - sequence: "Pushing Their Limits"
       description: "Now that they have re-established their partnership, Luke and Raven begin testing their limits, both in structured combat and personal vulnerability."
       chapters:
         - name: Dungeon Challenge
           layers: combat
+          pov: Luke
+          status: TODO_POV_CHANGE
         - name: Dinner with the Blackwoods
           layers: emotional
+          pov: Luke
         - name: Resources
           layers: combat
           pov: Luke
         - name: The Morning After
           layers: emotional
+          pov: Raven
 
     - sequence: "Refining Instinct"
       description: "Having resolved foundational trust issues, they now focus on refining their ability to work seamlessly together. This stage challenges them to let go of control and rely on each other more completely."
@@ -250,15 +258,19 @@ act-2:
         - name: Okay, You Heal It
           layers: combat
           status: TODO
+          pov: Raven
         - name: Going Solo
           layers: combat
           status: TODO
+          pov: Luke
         - name: What We Fight For
           layers: emotional
-          status: TODO
+          status: TODO_DRAFT
+          pov: Raven
         - name: Through Fire and Frustration
           layers: combat
           placement: midpoint
+          pov: Luke
 
     - sequence: "Final Proof"
       description: "Their training culminates in one last, undeniable test—fighting in perfect silence. Without words, only trust remains. In the final scene, after they resume talking, they confess their love."
@@ -266,6 +278,7 @@ act-2:
         - name: Fighting in Silence
           layers: [combat, emotional]
           placement: second-plot-point
+          pov: Raven
 
 act-3:
   title: "The Leap of Faith"
