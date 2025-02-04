@@ -201,6 +201,7 @@ act-2:
   purpose: >
     Develop Raven and Luke’s partnership as they face external challenges and internal conflicts, leading to mutual growth.
     Their training is not just about improving skill, but about proving they can trust each other fully in combat and in their relationship.
+
   relationship-arc:
     start: >
       Having established a commitment to running the Spire, Raven and Luke’s partnership is tested as they face greater challenges and begin to rely on each other more deeply.
@@ -209,32 +210,52 @@ act-2:
       By the Midpoint, they consciously acknowledge that they are an emotionally entangled, committed couple, setting the stage for refining their combat and emotional synergy.
     end: >
       Their partnership solidifies as they move beyond functional teamwork into emotional intimacy, setting the stage for the eventual resolution of their feelings in Act 3.
-    key-beats:
-      - "Luke and Raven’s bond deepens as they support each other through challenges, both in and out of the dungeon."
-      - "Luke begins to recognize his growing feelings for Raven, spurred by moments of jealousy and admiration."
-      - "Raven becomes increasingly drawn to Luke’s steadfastness and quiet strength, but hesitates to admit her feelings out of fear of vulnerability."
-      - "Their shared struggles and triumphs push them toward emotional honesty."
-  chapters:
-    - chapter: "Through Fire and Frustration"
-      purpose: "They struggle with coordination, leading to a heated spar that resets their dynamic."
-      layer: combat
-      key-misalignment:
-        - "They aren’t fully syncing in early fights, leading to minor inefficiencies."
-      breakthrough:
-        - "A mid-dungeon sparring match forces them to reset and trust pure instinct."
-      result: "First seamless fight—proof they’re improving."
-      midpoint: true
 
-    - chapter: "The Silent Fight"
-      purpose: "They prove they can fight instinctively without words, affirming their final stage of combat trust."
-      layer: ["combat", "emotional"]
-      key-misalignment:
-        - "No verbal coordination available."
-      breakthrough:
-        - "They rely entirely on instinct and rhythm—no second-guessing, just flow."
-      result: "They prove they can fight as a single unit."
-      emotional-ending: "They confess that they love each other."
-      second-plot-point: true
+  layers:
+    - name: combat
+      description: >
+        Tracks Luke and Raven’s evolution from misalignment to seamless synergy, refining how their fighting styles complement each other. 
+        This layer reinforces trust, sharpening their partnership for the Radiant Spire challenge.
+      core-combat-philosophy:
+        balance-of-styles:
+          - "Raven leads dynamically, relying on instinct and reflexes."
+          - "Luke provides structure, ensuring adaptability while supporting her tempo."
+          - "Raven must maintain the right pacing—too slow and she loses Flow, too fast and Luke can't keep up."
+          - "True synergy isn’t about adapting to each other individually, but both adjusting within their strengths."
+
+    - name: emotional
+      description: >
+        Follows Luke and Raven’s shift from trusted partners preparing for an impossible challenge to romantic partners with a deep, unshakable bond.
+
+  progression:
+    - sequence: "Rebuilding Trust and Functionality"
+      description: "After their emotional fallout, Luke and Raven begin working together again, but the tension lingers. They must learn to function as a unit before they can refine deeper trust."
+      chapters:
+        - No More Running (emotional)
+        - Back in the Field (combat)
+        - Crossing the Line (emotional)
+
+    - sequence: "Pushing Their Limits"
+      description: "Now that they have re-established their partnership, Luke and Raven begin testing their limits, both in structured combat and personal vulnerability."
+      chapters:
+        - Dungeon Challenge (combat)
+        - Dinner with the Blackwoods (emotional)
+        - Overhealing Lesson (combat)
+        - The Morning After (emotional)
+
+    - sequence: "Refining Instinct"
+      description: "Having resolved foundational trust issues, they now focus on refining their ability to work seamlessly together. This stage challenges them to let go of control and rely on each other more completely."
+      chapters:
+        - Healing Efficiency (combat)
+        - Raven Teaches Luke to Solo (combat)
+        - What We Fight For (emotional)
+        - Through Fire and Frustration (combat, midpoint)
+
+    - sequence: "Final Proof"
+      description: "Their training culminates in one last, undeniable test—fighting in perfect silence. Without words, only trust remains."
+      chapters:
+        - Fighting in Silence (combat, second-plot-point)
+        - Cloak Theft Confession (emotional)
 
 act-3:
   title: "The Leap of Faith"
