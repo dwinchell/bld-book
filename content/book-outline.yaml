@@ -216,13 +216,6 @@ act-2:
       description: >
         Tracks Luke and Raven’s evolution from misalignment to seamless synergy, refining how their fighting styles complement each other. 
         This layer reinforces trust, sharpening their partnership for the Radiant Spire challenge.
-      core-combat-philosophy:
-        balance-of-styles:
-          - "Raven leads dynamically, relying on instinct and reflexes."
-          - "Luke provides structure, ensuring adaptability while supporting her tempo."
-          - "Raven must maintain the right pacing—too slow and she loses Flow, too fast and Luke can't keep up."
-          - "True synergy isn’t about adapting to each other individually, but both adjusting within their strengths."
-
     - name: emotional
       description: >
         Follows Luke and Raven’s shift from trusted partners preparing for an impossible challenge to romantic partners with a deep, unshakable bond.
@@ -231,31 +224,48 @@ act-2:
     - sequence: "Rebuilding Trust and Functionality"
       description: "After their emotional fallout, Luke and Raven begin working together again, but the tension lingers. They must learn to function as a unit before they can refine deeper trust."
       chapters:
-        - No More Running (emotional)
-        - Back in the Field (combat)
-        - Crossing the Line (emotional)
+        - name: No More Running
+          layers: emotional
+        - name: Back in the Field
+          layers: combat
+        - name: Crossing the Line
+          layers: emotional
 
     - sequence: "Pushing Their Limits"
       description: "Now that they have re-established their partnership, Luke and Raven begin testing their limits, both in structured combat and personal vulnerability."
       chapters:
-        - Dungeon Challenge (combat)
-        - Dinner with the Blackwoods (emotional)
-        - A Resource (combat) - TODO
-        - The Morning After (emotional)
+        - name: Dungeon Challenge
+          layers: combat
+        - name: Dinner with the Blackwoods
+          layers: emotional
+        - name: Resources
+          layers: combat
+          pov: Luke
+        - name: The Morning After
+          layers: emotional
 
     - sequence: "Refining Instinct"
       description: "Having resolved foundational trust issues, they now focus on refining their ability to work seamlessly together. This stage challenges them to let go of control and rely on each other more completely."
       chapters:
-        - Okay, You Heal It (combat) - TODO
-        - Goint Solo (combat) - TODO
-        - What We Fight For (emotional) - TODO
-        - Through Fire and Frustration (combat, midpoint)
+        - name: Okay, You Heal It
+          layers: combat
+          status: TODO
+        - name: Going Solo
+          layers: combat
+          status: TODO
+        - name: What We Fight For
+          layers: emotional
+          status: TODO
+        - name: Through Fire and Frustration
+          layers: combat
+          placement: midpoint
 
     - sequence: "Final Proof"
-      description: "Their training culminates in one last, undeniable test—fighting in perfect silence. Without words, only trust remains."
+      description: "Their training culminates in one last, undeniable test—fighting in perfect silence. Without words, only trust remains. In the final scene, after they resume talking, they confess their love."
       chapters:
-        - Fighting in Silence (combat, second-plot-point)
-        - Cloak Theft Confession (emotional)
+        - name: Fighting in Silence
+          layers: [combat, emotional]
+          placement: second-plot-point
 
 act-3:
   title: "The Leap of Faith"
