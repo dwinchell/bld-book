@@ -139,13 +139,13 @@ The words had barely left his mouth before he froze.
 
 Raven went utterly still. A beat passed, just long enough for the weight of what he had said to crash down between them. His expression shifted—a rare, genuine flicker of panic. Then he made a noise in his throat, somewhere between a cough and an aborted attempt to fix the situation. “I llllllike you but—”
 
-Raven arched a slow, dangerous eyebrow. “Say that first part again.”
+Raven arched a slow eyebrow. “Say that first part again.”
 
 Luke looked stricken, his frustration over the cloak momentarily forgotten as real panic set in. “I—” He exhaled sharply, shoulders dropping in defeat. “That’s not how I meant to tell you—”
 
-She smiled, tilting her head as she adjusted the cloak. “Mm-hmm.”
+She laughed softly as she adjusted the cloak again. “Mm-hmm.”
 
-Silence stretched between them, but it wasn’t like the dungeon’s—it wasn’t void, or stolen, or uncertain. It was something else entirely, something hanging between them, waiting to be acknowledged.
+Silence stretched between them, but it wasn’t like the dungeon’s—it wasn’t oppressive. It was something else entirely, something hanging between them, waiting to be acknowledged.
 
 Then Raven, ever so casually, said, “Love you too.”
 
