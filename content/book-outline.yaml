@@ -240,14 +240,14 @@ act-2:
       chapters:
         - Dungeon Challenge (combat)
         - Dinner with the Blackwoods (emotional)
-        - Overhealing Lesson (combat) - TODO
+        - A Resource (combat) - TODO
         - The Morning After (emotional)
 
     - sequence: "Refining Instinct"
       description: "Having resolved foundational trust issues, they now focus on refining their ability to work seamlessly together. This stage challenges them to let go of control and rely on each other more completely."
       chapters:
-        - Healing Efficiency (combat) - TODO
-        - Raven Teaches Luke to Solo (combat) - TODO
+        - Okay, You Heal It (combat) - TODO
+        - Goint Solo (combat) - TODO
         - What We Fight For (emotional) - TODO
         - Through Fire and Frustration (combat, midpoint)
 
