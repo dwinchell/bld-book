@@ -1,117 +1,45 @@
-file: act-2-arc.yaml
-title: "Act 2 Arc"
-description: >
-  This file tracks Luke and Raven's progression from the time they decide to do the spire in No More Running to the time they are prepared to run it instinct.
-  This comprises the arc of act 2.
-  The arc has two layers - combat and emotional. The combat layer occurs primarily inside the dungeon and shows how their combat synergy evolves.
-  The emotional layer occurs primarily outside the dungeon and shows how their emotional connection evolves. The two layers reinforce each other.
-  Both layers are vehicles for the themes of Trust and Vulnerability, The Power of Partnership, and Independence vs Interdependence.
-  The layers section below describes each layer in more detail. The progression section describes how both layers of evolve, chapter by chapter.
-  The chapters in the progression section are tagged to show which layer they develop the most.
+---
+type: act-structure
+act: "Act 2 - Spire Preparation: Conflict and Growth"
+file: "act-2-arc.yaml"
+file-purpose: This file tracks Luke and Raven's journey from committing to the Spire in No More Running to mastering instinctive combat. Act 2 unfolds through two layers—combat and emotional. The combat layer, set in dungeons, refines their synergy, while the emotional layer deepens their bond outside battle. Each reinforces the other, driving themes of Trust and Vulnerability, The Power of Partnership, and Independence vs Interdependence. The layers section details each path, while the progression section maps their growth chapter by chapter, tagging each by primary development focus.
 
+narrative-purpose: Act 2 tests Luke and Raven’s growing trust through combat and emotional trials, culminating in instinctive synergy and an effortless confession of love.
 
 layers:
-  - name: combat
-    description: >
-      This layer explores Luke and Raven’s progression from early misalignment to seamless combat synergy. 
-      It focuses on how their fighting styles evolve to complement each other, reinforcing both their 
-      partnership and individual growth. This arc is critical for building trust and preparing for the 
-      Radiant Spire challenge.
-
-    core-combat-philosophy:
-      balance-of-styles:
-        - "Raven leads dynamically, trusting her instincts and reflexes."
-        - "Luke provides structure, ensuring flexibility while supporting her tempo."
-        - "Raven must maintain the right pacing—too slow and she loses Flow, too fast and Luke can't keep up."
-        - "True synergy isn’t about adapting to each other individually, but both adjusting within their strengths."
-  
-  - name: emotional
-    description: >
-      This layer explores Luke and Raven’s progression from newly acknowledge trusted partners who have committed to
-      a challenge that requires perfect trust, to romantic partners with a deep emotional connection.
+  description: Act 2 follows two intertwined layers—combat and emotional—both essential to Luke and Raven’s journey toward absolute trust.
+  combat: >
+      Tracks Luke and Raven’s evolution from misalignment to seamless synergy, refining how their fighting styles complement each other. 
+      This layer reinforces trust, sharpening their partnership for the Radiant Spire challenge.
+  emotional: >
+      Follows Luke and Raven’s shift from trusted partners preparing for an impossible challenge to romantic partners with a deep, unshakable bond.
 
 progression:
-  - chapter: "All In"
-    purpose: "Raven asks Luke to run the Radiant Spire. After initial rejection, they reconcile and commit to training together."
-    layer: emotional
-    first-plot-point: true
-  - chapter: "No More Running"
-    purpose: "Luke apologizes and re-establishes their emotional trust."
-    layer: emotional
-  - chapter: "Back in the Field"
-    purpose: "Their first dungeon together post-fallout. They function but aren’t fully in sync, revealing lingering emotional tension."
-    layer: combat
-    key-misalignment:
-      - "First real dungeon dive together since their fallout."
-      - "They operate efficiently but without true synergy—familiar but not instinctive."
-      - "Luke is cautious, analyzing Raven’s movements instead of fully committing."
-      - "Raven tests boundaries but doesn’t push too hard, subconsciously waiting for Luke to set the rhythm."
-    breakthrough:
-      - "They recognize they can still function as a duo, but the deeper trust isn’t there yet."
-      - "This dive **proves they can work together** again, but it also highlights that they have work to do."
-    result: "A baseline for their partnership—functional but not seamless."
-  - chapter: "Crossing the Line"
-    purpose: "A personal turning point in their relationship outside of combat."
-    layer: emotional
-  - chapter: "Dungeon Challenge"
-    purpose: "They take on a challenge to test their current level of teamwork."
-    layer: combat
-    key-misalignment:
-      - "Raven hesitates, trying too hard to match Luke’s tactical rhythm."
-      - "Luke second-guesses his defensive calls."
-    breakthrough:
-      - "Luke realizes he needs to trust Raven’s instincts instead of over-planning."
-      - "Raven recognizes she has to stop second-guessing and just move naturally."
-      - "They consciously refine their callouts, improving their real-time coordination."
-    result: "First glimpse of true synergy, but with structured communication still acting as a crutch."
-  - chapter: "Dinner with the Blackwoods"
-    purpose: "Raven invites Luke to dinner with her parents, reinforcing her commitment."
-    layer: emotional
-  - chapter: "Overhealing Lesson"
-    purpose: "Raven forces Luke to recognize his overprotectiveness, making him adjust his healing."
-    layer: combat
-    key-misalignment:
-      - "Luke overheals, disrupting Raven’s natural tempo."
-    breakthrough:
-      - "Raven teaches Luke to see health as a resource, not just a safety buffer."
-    result: "They begin defining clear boundaries of intervention."
-  - chapter: "The Morning After"
-    purpose: "Raven wakes up in Luke’s apartment, surprising Anna and gaining insight into Luke’s life outside of diving."
-    layer: emotional
-  - chapter: "Healing Efficiency"
-    purpose: "Luke forces Raven to manage healing efficiency by making her control his spells and adjust her own combat style accordingly."
-    layer: combat
-  - chapter: "Raven Teaches Luke to Solo"
-    purpose: "Luke asks Raven to teach him to solo dive, pushing her to accept his independence."
-    layer: combat
-    key-misalignment:
-      - "Luke hesitates too much when diving alone, making him inefficient."
-    breakthrough:
-      - "Luke learns to trust his own survival instincts, mirroring how Raven trusts him in a duo."
-    result: "Luke gains confidence in taking risks."
-  - chapter: "What We Fight For"
-    purpose: "Luke and Raven take a night off, reflecting on why they push themselves so hard, reinforcing their emotional bond."
-    layer: emotional
-  - chapter: "Through Fire and Frustration"
-    purpose: "They struggle with coordination, leading to a heated spar that resets their dynamic."
-    layer: combat
-    key-misalignment:
-      - "They aren’t fully syncing in early fights, leading to minor inefficiencies."
-    breakthrough:
-      - "A mid-dungeon sparring match forces them to reset and trust pure instinct."
-    result: "First seamless fight—proof they’re improving."
-    midpoint: true
-  - chapter: "The Silent Fight"
-    purpose: "They prove they can fight instinctively without words, affirming their final stage of combat trust."
-    layer: combat
-    key-misalignment:
-      - "No verbal coordination available."
-    breakthrough:
-      - "They rely entirely on instinct and rhythm—no second-guessing, just flow."
-    result: "They prove they can fight as a single unit."
-    second-plot-point: true
-  - chapter: "All In"
-    purpose: "Raven asks Luke to run the Radiant Spire. After initial rejection, they reconcile and commit to training together."
-    layer: emotional
-    first-plot-point: true
-
+  - sequence: "Rebuilding Trust and Functionality"
+    description: "After their emotional fallout, Luke and Raven begin working together again, but the tension lingers. They must learn to function as a unit before they can refine deeper trust."
+    chapters:
+      - No More Running (emotional)
+      - Back in the Field (combat)
+      - Crossing the Line (emotional)
+  
+  - sequence: "Pushing Their Limits"
+    description: "Now that they have re-established their partnership, Luke and Raven begin testing their limits, both in structured combat and personal vulnerability."
+    chapters:
+      - Dungeon Challenge (combat)
+      - Dinner with the Blackwoods (emotional)
+      - Overhealing Lesson (combat)
+      - The Morning After (emotional)
+  
+  - sequence: "Refining Instinct"
+    description: "Having resolved foundational trust issues, they now focus on refining their ability to work seamlessly together. This stage challenges them to let go of control and rely on each other more completely."
+    chapters:
+      - Healing Efficiency (combat)
+      - Raven Teaches Luke to Solo (combat)
+      - What We Fight For (emotional)
+      - Through Fire and Frustration (combat, midpoint)
+  
+  - sequence: "Final Proof"
+    description: "Their training culminates in one last, undeniable test—fighting in perfect silence. Without words, only trust remains."
+    chapters:
+      - Fighting in Silence (combat, second-plot-point)
+      - Cloak Theft Confession (emotional)

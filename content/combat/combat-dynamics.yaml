@@ -287,3 +287,10 @@ recurring-motifs-in-combat:
       Night Dancer (shadow-based, agile tank) and Dawnbringer (light-based, healing protector). 
       The motif is central to the aesthetic and emotional tone of their dungeon dives.
     reference: light-and-darkness.yaml
+
+core-combat-philosophy:
+  balance-of-styles:
+    - "Raven leads dynamically, trusting her instincts and reflexes."
+    - "Luke provides structure, ensuring flexibility while supporting her tempo."
+    - "Raven must maintain the right pacing—too slow and she loses Flow, too fast and Luke can't keep up."
+    - "True synergy isn’t about adapting to each other individually, but both adjusting within their strengths."
