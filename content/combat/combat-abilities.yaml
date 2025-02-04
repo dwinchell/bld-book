@@ -5,9 +5,9 @@ abilities:
   luke:
     radiant-strike:
       type: "offense"
-      description: "A slow, deliberate melee attack that deals light damage."
+      description: "A melee or ranged attack that deals variable damage depending on how much mana is spent."
       cooldown: "None"
-      resource-cost: "Low mana"
+      resource-cost: "Variable mana (can be chosen)"
       narrative-use: "Reflects Luke’s tactical and methodical nature, balancing offense and resource-building in combat."
 
     blazing-circle:
