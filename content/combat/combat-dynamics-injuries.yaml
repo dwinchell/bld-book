@@ -5,8 +5,8 @@ worldbuilding:
   injuries_and_healing:
     description: >
       Injuries and healing in *Bound in Light and Darkness* are represented
-      through a combination of immersive prose and redacted tags that convey
-      severity and location. This system ensures clear stakes and emotional weight
+      through a combination of immersive prose and HUD visuals and notifications.
+      This system ensures clear stakes and emotional weight
       without relying on explicit descriptions of physical harm.
 
     injury_categories:
@@ -38,10 +38,9 @@ drafting-guidance:
   ways-to-describe-injuries:
     - perspective: "Description of Character Actions"
       method: >
-        In prose, injuries are usually described through emotional and sensory reactions, with graphic details replaced by tags. 
-        Tags are embedded naturally within sentences to enhance immersion and narrative flow.
+        In prose, injuries are usually described through emotional and sensory reactions.
       example: |
-        The predator’s claws grazed her side, sharp pain blossoming instantly as her HUD flickered: [Injury: Moderate, Torso]. Each step pulled at the wound, her movements losing some of their usual grace.
+        The predator’s claws grazed her side, sharp pain blossoming instantly. Each step pulled at the wound, her movements losing some of their usual grace.
 
     - perspective: "HUD-Based Ragdoll Interface"
       method: >
