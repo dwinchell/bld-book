@@ -1,0 +1,85 @@
+metadata:
+  type: chapter-outline
+  title: Resources
+  file: chapter-resources.yaml
+
+plot-summary: >
+  Luke and Raven navigate a water-themed dungeon, facing a series of battles that test their trust and teamwork. Luke’s overprotectiveness, heightened by his growing emotional connection to Raven, causes inefficiencies in his healing. As the dungeon progresses, Raven forces him to recognize that health is a resource, and he learns to adjust his approach. By the end, he is able to heal strategically rather than reactively, reducing his anxiety but acknowledging that overcoming his protective instincts will take time.
+
+narrative-purpose: >
+  This chapter deepens Luke’s character development, illustrating his struggle with overprotectiveness and his gradual adjustment to a more balanced healing approach. It also reinforces the evolving trust between him and Raven, emphasizing how their teamwork strengthens through experience and understanding.
+
+relationship-progression:
+  start: >
+    Luke is struggling with increased anxiety over Raven’s well-being due to their growing emotional closeness. His instinct to keep her at full health, regardless of the situation, is causing inefficiencies in battle.
+  key-moments:
+    - Luke runs out of mana twice due to excessive healing.
+    - Raven stops him and demonstrates how her Flow-based combat style benefits from taking calculated hits.
+    - Luke watches her dodge and redirect attacks with intention, realizing she knows her limits better than he does.
+    - During the final battle, Luke successfully heals only when necessary, avoiding overcorrection and managing his mana more effectively.
+    - Raven acknowledges his progress, reinforcing the shift in their dynamic.
+  end: >
+    Luke is still working through his anxiety, but he demonstrates meaningful progress in trusting Raven’s abilities. Their partnership is stronger, with both of them adjusting to each other’s combat styles more fluidly.
+
+key-emotional-beats:
+  - Luke’s frustration and exhaustion from running out of mana.
+  - Raven’s firm but patient confrontation when she stops Luke mid-dungeon.
+  - Luke’s growing discomfort as he forces himself to hold back instead of healing immediately.
+  - The relief and satisfaction when he heals correctly in the final battle.
+  - The final exchange where Raven reassures him, marking his first real step toward trusting her combat decisions.
+
+scenes:
+  - scene: The Cost of Overprotection
+    perspective: Luke
+    plot-summary: >
+      Luke and Raven enter the dungeon, and he quickly begins burning through mana due to his overprotective instincts. He is too focused on keeping her health full, leading to inefficiencies.
+    narrative-purpose: >
+      Establish Luke’s problem of over-healing and how it impacts their effectiveness in battle.
+    events:
+      - Luke heals Raven reflexively, even when unnecessary.
+      - He runs out of mana early, forcing them to pause.
+      - Raven notices the pattern and begins pushing back.
+    sensory-details:
+      - The damp air thickens with mist as they navigate the dungeon.
+      - The sound of rushing water echoes through the tunnels.
+    scene-hook: >
+      Luke checks his HUD and realizes he’s already dangerously low on mana.
+    ending: >
+      Raven confronts Luke about his healing habits, telling him outright that he’s wasting resources.
+
+  - scene: The Lesson
+    perspective: Luke
+    plot-summary: >
+      After Luke burns out his mana a second time, Raven stops mid-fight to demonstrate how her class works, forcing him to watch as she deliberately takes hits to build Flow and manage combat momentum.
+    narrative-purpose: >
+      Reinforce how Raven’s combat style requires balance, and force Luke to reframe his understanding of health as a resource.
+    events:
+      - Luke tries to heal Raven mid-fight, but she refuses.
+      - She takes a calculated hit and shows him how it fuels her Flow.
+      - Luke struggles to hold back, but begins to see the logic.
+    sensory-details:
+      - The glow of Raven’s Flow intensifying around her as she fights.
+      - Water rippling violently with each clash of battle.
+    scene-hook: >
+      Raven steps into a hit deliberately, making Luke flinch.
+    ending: >
+      Luke hesitates but doesn’t heal immediately, finally starting to trust her approach.
+
+  - scene: The Final Test
+    perspective: Luke
+    plot-summary: >
+      In the final battle, Luke puts the lesson into practice, healing only when necessary and managing his mana properly. His anxiety decreases, but he knows this will be a process.
+    narrative-purpose: >
+      Show that Luke is making progress, reinforcing his development and their evolving partnership.
+    events:
+      - Raven takes intentional minor hits but avoids unnecessary damage.
+      - Luke holds back at first, waiting for the right moment.
+      - A dangerous strike forces him to intervene, but he does so efficiently.
+      - The fight ends, and Raven acknowledges his improvement.
+    sensory-details:
+      - The dungeon pools reflect shifting light from their combat movements.
+      - Luke’s breath steadies as his HUD no longer flashes constant mana warnings.
+    scene-hook: >
+      The final wave of water constructs rises from the pools, taller and more dangerous than before.
+    ending: >
+      As they move further into the dungeon, Luke feels the weight of his anxiety lessen, though he knows he still has work to do.
