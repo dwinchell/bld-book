@@ -1,0 +1,46 @@
+scenes:
+  - scene: The Decision
+    perspective: Raven Blackwood
+    plot-summary: >
+      In the staging area, Raven questions whether they’re really starting the mentoring guild. Luke reassures her that they are, and when he agrees to handle the paperwork, she cheekily names him guildmaster. He protests, but she casually locks them in as co-leads before sealing the deal with a kiss and walking away, leaving Luke bewildered.
+    narrative-purpose: >
+      This scene provides closure for Raven and Luke’s subplot about their future beyond the Spire. It reinforces their playful, balanced dynamic and shows Raven embracing leadership on her own terms. The moment also subtly sets up Raven’s mentorship role while keeping the focus on her and Luke’s relationship.
+    events:
+      - Raven leans on the railing, watching the dungeon portal, and asks Luke if they’re really doing this.
+      - Luke confirms that the guild is a good idea and that they’re both doing it.
+      - Raven dodges full commitment by pointing out that she hates paperwork.
+      - Luke offhandedly agrees to handle the paperwork.
+      - Raven, smirking, declares him the guildmaster.
+      - Luke protests, trying to deflect the title onto her.
+      - Raven finalizes it as “co-leads” and kisses him before he can argue further.
+      - She walks away toward the dungeon queue, leaving Luke standing there, realizing too late that she won.
+    sensory-details:
+      - The swirling blue light of the dungeon portal casts a faint glow on the steel floor.
+      - The background hum of divers preparing for their runs, clanking gear and muffled conversations, fills the air.
+    scene-hook: >
+      Raven leans on the railing, staring at the active dungeon portal, and asks Luke, “Are we really doing this?”
+    ending: >
+      Raven kisses Luke, then turns and walks away. Luke is left standing there, processing, before finally saying, "...Wait."
+
+  - scene: The First Lesson
+    perspective: Raven Blackwood
+    plot-summary: >
+      Raven approaches Garrett, the young Night Dancer she previously helped, who nervously asks if they’re running a dungeon together. She tells him no—he’s running solo, and she’ll just be there. When he hesitates, she gives him a blunt but meaningful lesson about self-sufficiency, reinforcing that soloing makes a diver good, but duoing makes them great. With his resolve steeled, they step into the portal together.
+    narrative-purpose: >
+      This scene provides a quiet but definitive resolution to Raven’s arc. It shows that she has embraced the role of a mentor, whether she admits it or not, and that her philosophy balances independence with connection. By guiding Garrett instead of holding his hand, she embodies the very lesson she learned throughout the book.
+    events:
+      - Garrett nervously asks if they’re actually running a dungeon together.
+      - Raven tells him no—he’s running solo, and she’ll just be there.
+      - Garrett hesitates, visibly intimidated by the idea.
+      - Raven delivers her lesson about self-sufficiency: soloing makes you good, duoing makes you great, but you have to be strong on your own or you bring nothing to the team.
+      - Garrett absorbs the lesson, his initial fear shifting into determination.
+      - Raven gives him a final, assessing look before saying, “Let’s go.”
+      - She steps into the portal, and after a moment, Garrett follows.
+    sensory-details:
+      - The portal’s glow flickers across Garrett’s anxious expression.
+      - The weight of silence between them, punctuated only by the distant murmur of other divers preparing their own runs.
+    scene-hook: >
+      Garrett hesitates at the dungeon portal before glancing at Raven. “Are we actually going to run a dungeon together?”
+    ending: >
+      Raven smirks, says, “Let’s go,” and steps into the portal. Garrett swallows hard, then follows.
+
